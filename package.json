@@ -1,0 +1,10 @@
+{
+  "name": "hf-trending",
+  "type": "module",
+  "scripts": {
+    "start": "bun run hugging_face_collector.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
