@@ -83,7 +83,7 @@ const PIPELINE_TAGS = [
 ];
 
 const SORTS: Sort[] = ["trending", "likes", "downloads"];
-const MAX_PAGES = 5;
+const MAX_PAGES = 1;
 const REQUEST_DELAY_MS = 300;
 const REQUEST_TIMEOUT_MS = 60000;
 
@@ -220,7 +220,7 @@ Usage: bun run hugging_face_collector.ts [options]
 Options:
   --tags <tag1,tag2,...>   Only fetch specific pipeline tags (default: all)
   --sorts <s1,s2,...>      Only fetch specific sorts (default: trending,likes,downloads)
-  --pages <n>              Max pages per category (default: 5, each page=30 models)
+  --pages <n>              Max pages per category (default: 1, each page=30 models)
 
 Environment Variables:
   HF_BASE     Base URL for Hugging Face (default: https://huggingface.co)
