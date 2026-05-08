@@ -26,7 +26,7 @@ jobs:
         env:
           HF_BASE: https://hf-mirror.com
           OUTPUT_DIR: ./hugging_face
-        run: bun run hugging_face_collector.ts
+        run: bun run hugging_face_collector.ts --tags text-generation --pages 1
 
       - name: Configure git
         run: |
@@ -35,6 +35,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add hugging_face/
+          git add -f hugging_face/
           git commit -m "data: update HuggingFace trending models $(date -u +%Y-%m-%d)" || echo "No changes to commit"
           git push
