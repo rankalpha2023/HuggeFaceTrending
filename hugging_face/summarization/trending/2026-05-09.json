@@ -1,0 +1,309 @@
+{
+  "category": "summarization",
+  "sort": "trending",
+  "totalItems": 2746,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "facebook",
+      "id": "facebook/bart-large-cnn",
+      "downloads": 1973152,
+      "likes": 1576,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-02-13T18:02:05.000Z",
+      "numParameters": 406290432,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-large",
+      "downloads": 3622,
+      "likes": 106,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-xsum",
+      "downloads": 243584,
+      "likes": 220,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sshleifer",
+      "id": "sshleifer/distilbart-cnn-12-6",
+      "downloads": 1181531,
+      "likes": 318,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-14T07:51:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "csebuetnlp",
+      "id": "csebuetnlp/mT5_m2o_chinese_simplified_crossSum",
+      "downloads": 29,
+      "likes": 21,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-04-25T16:48:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SGaleshchuk",
+      "id": "SGaleshchuk/t5-large-ua-news",
+      "downloads": 102,
+      "likes": 4,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-12-12T12:55:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SGaleshchuk",
+      "id": "SGaleshchuk/mT5-sum-news-ua",
+      "downloads": 9,
+      "likes": 7,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-04-13T11:46:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/medical_summarization",
+      "downloads": 3538,
+      "likes": 152,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-01-20T12:48:04.000Z",
+      "numParameters": 60506624,
+      "repoType": "model"
+    },
+    {
+      "author": "SGaleshchuk",
+      "id": "SGaleshchuk/Llama-2-13b-summarization_uk_dpo",
+      "downloads": 6,
+      "likes": 1,
+      "pipeline_tag": "summarization",
+      "lastModified": "2025-03-09T22:07:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-fanpage-64",
+      "downloads": 60,
+      "likes": 1,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-10-25T12:47:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-fanpage",
+      "downloads": 113,
+      "likes": 2,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:22.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-ilpost",
+      "downloads": 75,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:14.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-mlsum",
+      "downloads": 86,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:07.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-fanpage",
+      "downloads": 40898,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:38.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-ilpost",
+      "downloads": 38,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:42:56.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-mlsum",
+      "downloads": 40,
+      "likes": 2,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:29.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "Callidior",
+      "id": "Callidior/bert2bert-base-arxiv-titlegen",
+      "downloads": 158,
+      "likes": 13,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-04-26T19:42:59.000Z",
+      "numParameters": 247364410,
+      "repoType": "model"
+    },
+    {
+      "author": "CalvinHuang",
+      "id": "CalvinHuang/mt5-small-finetuned-amazon-en-es",
+      "downloads": 39,
+      "likes": 1,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-02-02T03:50:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ELiRF",
+      "id": "ELiRF/NASCA",
+      "downloads": 115,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-03-31T11:16:17.000Z",
+      "numParameters": 415271520,
+      "repoType": "model"
+    },
+    {
+      "author": "ELiRF",
+      "id": "ELiRF/NASES",
+      "downloads": 146,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-07-18T11:28:43.000Z",
+      "numParameters": 415271520,
+      "repoType": "model"
+    },
+    {
+      "author": "Einmalumdiewelt",
+      "id": "Einmalumdiewelt/PegasusXSUM_GNAD",
+      "downloads": 31,
+      "likes": 1,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-08-26T15:53:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Einmalumdiewelt",
+      "id": "Einmalumdiewelt/T5-Base_GNAD",
+      "downloads": 233,
+      "likes": 22,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-08-26T15:55:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IlyaGusev",
+      "id": "IlyaGusev/mbart_ru_sum_gazeta",
+      "downloads": 1036,
+      "likes": 66,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-03-16T22:41:26.000Z",
+      "numParameters": 867129515,
+      "repoType": "model"
+    },
+    {
+      "author": "IlyaGusev",
+      "id": "IlyaGusev/rubert_telegram_headlines",
+      "downloads": 179,
+      "likes": 18,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-07-13T15:36:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IlyaGusev",
+      "id": "IlyaGusev/rugpt3medium_sum_gazeta",
+      "downloads": 199,
+      "likes": 4,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-07-13T15:36:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IlyaGusev",
+      "id": "IlyaGusev/rut5_base_headline_gen_telegram",
+      "downloads": 630238,
+      "likes": 9,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-12-18T19:27:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IlyaGusev",
+      "id": "IlyaGusev/rut5_base_sum_gazeta",
+      "downloads": 3284,
+      "likes": 18,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-07-13T15:36:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LeoCordoba",
+      "id": "LeoCordoba/beto2beto-cc-news-es-titles",
+      "downloads": 31,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-07-26T18:22:20.000Z",
+      "numParameters": 248102170,
+      "repoType": "model"
+    },
+    {
+      "author": "LeoCordoba",
+      "id": "LeoCordoba/beto2beto-mlsum",
+      "downloads": 35,
+      "likes": 2,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-07-26T18:22:24.000Z",
+      "numParameters": 248102170,
+      "repoType": "model"
+    },
+    {
+      "author": "LeoCordoba",
+      "id": "LeoCordoba/mt5-small-cc-news-es-titles",
+      "downloads": 18,
+      "likes": 0,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-09-08T17:03:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-09T05:42:41.940Z"
+}
