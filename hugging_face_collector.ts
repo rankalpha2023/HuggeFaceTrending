@@ -188,9 +188,9 @@ function save(
   sort: Sort,
   result: CategoryResult
 ) {
-  const dir = join(baseDir, sanitize(category), getToday());
+  const dir = join(baseDir, sanitize(category), sort);
   mkdirSync(dir, { recursive: true });
-  const fp = join(dir, `${sort}.json`);
+  const fp = join(dir, `${getToday()}.json`);
   writeFileSync(fp, JSON.stringify(result, null, 2), "utf-8");
   console.log(`  -> ${fp} (${result.fetchedItems} models)`);
 }
