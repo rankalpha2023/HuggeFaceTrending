@@ -1,13 +1,13 @@
 {
   "category": "question-answering",
   "sort": "downloads",
-  "totalItems": 13818,
+  "totalItems": 13819,
   "fetchedItems": 30,
   "models": [
     {
       "author": "ahotrod",
       "id": "ahotrod/electra_large_discriminator_squad2_512",
-      "downloads": 904360,
+      "downloads": 904511,
       "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2020-12-11T21:31:42.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "deepset",
       "id": "deepset/roberta-base-squad2",
-      "downloads": 775120,
+      "downloads": 797731,
       "likes": 942,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-24T15:48:47.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "deepset",
       "id": "deepset/roberta-large-squad2",
-      "downloads": 287172,
+      "downloads": 271420,
       "likes": 29,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-26T08:05:59.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-cased-distilled-squad",
-      "downloads": 234960,
+      "downloads": 236742,
       "likes": 267,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:31.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
-      "downloads": 224540,
+      "downloads": 212518,
       "likes": 188,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:08:45.000Z",
@@ -55,19 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "deepset",
-      "id": "deepset/bert-large-uncased-whole-word-masking-squad2",
-      "downloads": 194234,
-      "likes": 31,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2024-09-24T15:54:10.000Z",
-      "numParameters": 335143938,
-      "repoType": "model"
-    },
-    {
       "author": "timpal0l",
       "id": "timpal0l/mdeberta-v3-base-squad2",
-      "downloads": 193957,
+      "downloads": 200766,
       "likes": 258,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-11-26T17:14:50.000Z",
@@ -75,9 +65,19 @@
       "repoType": "model"
     },
     {
+      "author": "deepset",
+      "id": "deepset/bert-large-uncased-whole-word-masking-squad2",
+      "downloads": 194257,
+      "likes": 31,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-09-24T15:54:10.000Z",
+      "numParameters": 335143938,
+      "repoType": "model"
+    },
+    {
       "author": "monologg",
       "id": "monologg/koelectra-small-v2-distilled-korquad-384",
-      "downloads": 161955,
+      "downloads": 161910,
       "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-06-12T12:30:35.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "deepset",
       "id": "deepset/tinyroberta-squad2",
-      "downloads": 143191,
+      "downloads": 142390,
       "likes": 113,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-26T09:12:41.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "deepset",
       "id": "deepset/xlm-roberta-large-squad2",
-      "downloads": 133978,
+      "downloads": 136192,
       "likes": 57,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-26T10:53:55.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-uncased-distilled-squad",
-      "downloads": 117137,
+      "downloads": 117313,
       "likes": 119,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:39.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "tau",
       "id": "tau/splinter-base",
-      "downloads": 89254,
+      "downloads": 85239,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-08-17T14:09:19.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "deepset",
       "id": "deepset/bert-base-cased-squad2",
-      "downloads": 76380,
+      "downloads": 77040,
       "likes": 21,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-24T15:42:28.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "monologg",
       "id": "monologg/koelectra-base-v3-finetuned-korquad",
-      "downloads": 75904,
+      "downloads": 75926,
       "likes": 6,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-06-12T12:29:43.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "deepset",
       "id": "deepset/minilm-uncased-squad2",
-      "downloads": 55625,
+      "downloads": 56112,
       "likes": 47,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-26T07:59:54.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "philschmid",
       "id": "philschmid/distilbert-onnx",
-      "downloads": 50029,
+      "downloads": 48659,
       "likes": 3,
       "pipeline_tag": "question-answering",
       "lastModified": "2022-02-16T14:51:05.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
-      "downloads": 45006,
+      "downloads": 45669,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:06:38.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "nguyenvulebinh",
       "id": "nguyenvulebinh/vi-mrc-large",
-      "downloads": 40811,
+      "downloads": 25243,
       "likes": 6,
       "pipeline_tag": "question-answering",
       "lastModified": "2022-03-13T20:53:44.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "csarron",
       "id": "csarron/mobilebert-uncased-squad-v2",
-      "downloads": 25543,
+      "downloads": 24593,
       "likes": 8,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-07-18T16:52:20.000Z",
@@ -196,18 +196,8 @@
     },
     {
       "author": "deepset",
-      "id": "deepset/gelectra-large-germanquad",
-      "downloads": 25524,
-      "likes": 27,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2024-09-26T07:57:25.000Z",
-      "numParameters": 334688770,
-      "repoType": "model"
-    },
-    {
-      "author": "deepset",
       "id": "deepset/deberta-v3-large-squad2",
-      "downloads": 20799,
+      "downloads": 20958,
       "likes": 52,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-24T16:02:07.000Z",
@@ -215,9 +205,19 @@
       "repoType": "model"
     },
     {
+      "author": "deepset",
+      "id": "deepset/gelectra-large-germanquad",
+      "downloads": 19637,
+      "likes": 27,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-09-26T07:57:25.000Z",
+      "numParameters": 334688770,
+      "repoType": "model"
+    },
+    {
       "author": "sshleifer",
       "id": "sshleifer/tiny-distilbert-base-cased-distilled-squad",
-      "downloads": 18408,
+      "downloads": 17832,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2020-05-14T16:54:23.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "deepset",
       "id": "deepset/bert-medium-squad2-distilled",
-      "downloads": 16866,
+      "downloads": 16579,
       "likes": 4,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-24T15:56:50.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "dmis-lab",
       "id": "dmis-lab/biobert-large-cased-v1.1-squad",
-      "downloads": 12094,
+      "downloads": 12116,
       "likes": 21,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-01-04T12:14:48.000Z",
@@ -247,8 +247,8 @@
     {
       "author": "jackxinning",
       "id": "jackxinning/Leanly_AI",
-      "downloads": 10329,
-      "likes": 36,
+      "downloads": 10330,
+      "likes": 37,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-05-04T07:50:46.000Z",
       "numParameters": 14768307200,
@@ -257,7 +257,7 @@
     {
       "author": "sjrhuschlee",
       "id": "sjrhuschlee/flan-t5-base-squad2",
-      "downloads": 9166,
+      "downloads": 9284,
       "likes": 5,
       "pipeline_tag": "question-answering",
       "lastModified": "2025-10-15T07:15:31.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "deepset",
       "id": "deepset/xlm-roberta-base-squad2",
-      "downloads": 8915,
+      "downloads": 8760,
       "likes": 25,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-26T09:33:03.000Z",
@@ -275,19 +275,9 @@
       "repoType": "model"
     },
     {
-      "author": "deepset",
-      "id": "deepset/deberta-v3-base-squad2",
-      "downloads": 8773,
-      "likes": 21,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2024-09-24T15:58:07.000Z",
-      "numParameters": 183833602,
-      "repoType": "model"
-    },
-    {
       "author": "akdeniz27",
       "id": "akdeniz27/roberta-base-cuad",
-      "downloads": 8664,
+      "downloads": 8660,
       "likes": 0,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-03-21T10:36:04.000Z",
@@ -297,13 +287,23 @@
     {
       "author": "deepset",
       "id": "deepset/bert-base-uncased-squad2",
-      "downloads": 8308,
+      "downloads": 8462,
       "likes": 10,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-09-24T15:52:14.000Z",
       "numParameters": 108893698,
       "repoType": "model"
+    },
+    {
+      "author": "Rakib",
+      "id": "Rakib/roberta-base-on-cuad",
+      "downloads": 7381,
+      "likes": 8,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2023-01-18T12:18:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:36.413Z"
+  "fetchedAt": "2026-05-09T20:33:52.942Z"
 }

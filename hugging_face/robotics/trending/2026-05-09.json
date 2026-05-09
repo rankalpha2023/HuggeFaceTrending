@@ -1,13 +1,53 @@
 {
   "category": "robotics",
   "sort": "trending",
-  "totalItems": 18994,
+  "totalItems": 19063,
   "fetchedItems": 30,
   "models": [
     {
+      "author": "allenai",
+      "id": "allenai/MolmoAct2-SO100_101",
+      "downloads": 132,
+      "likes": 7,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-09T17:43:16.000Z",
+      "numParameters": 5485309424,
+      "repoType": "model"
+    },
+    {
+      "author": "allenai",
+      "id": "allenai/MolmoAct2",
+      "downloads": 38,
+      "likes": 5,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-09T17:43:08.000Z",
+      "numParameters": 5485309424,
+      "repoType": "model"
+    },
+    {
+      "author": "allenai",
+      "id": "allenai/MolmoAct2-DROID",
+      "downloads": 44,
+      "likes": 4,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-09T17:43:18.000Z",
+      "numParameters": 5485309424,
+      "repoType": "model"
+    },
+    {
+      "author": "lerobot",
+      "id": "lerobot/smolvla_base",
+      "downloads": 31812,
+      "likes": 377,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-01-22T09:32:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.7-3B",
-      "downloads": 17367,
+      "downloads": 18183,
       "likes": 27,
       "pipeline_tag": "robotics",
       "lastModified": "2026-04-23T19:09:30.000Z",
@@ -15,39 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "allenai",
-      "id": "allenai/MolmoAct2",
-      "downloads": 33,
-      "likes": 4,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:34:09.000Z",
-      "numParameters": 5485309424,
-      "repoType": "model"
-    },
-    {
-      "author": "allenai",
-      "id": "allenai/MolmoAct2-SO100_101",
-      "downloads": 48,
-      "likes": 4,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:36:25.000Z",
-      "numParameters": 5485309424,
-      "repoType": "model"
-    },
-    {
-      "author": "openvla",
-      "id": "openvla/openvla-7b",
-      "downloads": 1994742,
-      "likes": 215,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-02-17T03:43:23.000Z",
-      "numParameters": 7541237184,
-      "repoType": "model"
-    },
-    {
       "author": "nvidia",
       "id": "nvidia/Alpamayo-1.5-10B",
-      "downloads": 79497,
+      "downloads": 79131,
       "likes": 65,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-27T14:22:13.000Z",
@@ -57,7 +67,7 @@
     {
       "author": "RLWRLD",
       "id": "RLWRLD/RLDX-1-PT",
-      "downloads": 52,
+      "downloads": 54,
       "likes": 3,
       "pipeline_tag": "robotics",
       "lastModified": "2026-05-06T03:48:20.000Z",
@@ -67,71 +77,51 @@
     {
       "author": "allenai",
       "id": "allenai/MolmoAct2-Pretrain",
-      "downloads": 20,
+      "downloads": 45,
       "likes": 3,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:34:13.000Z",
+      "lastModified": "2026-05-09T17:43:13.000Z",
       "numParameters": 4864631760,
-      "repoType": "model"
-    },
-    {
-      "author": "lerobot",
-      "id": "lerobot/smolvla_base",
-      "downloads": 31473,
-      "likes": 376,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-01-22T09:32:49.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/GR00T-N1.7-LIBERO",
-      "downloads": 0,
-      "likes": 5,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T23:16:41.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "allenai",
-      "id": "allenai/MolmoAct2-Think",
-      "downloads": 28,
-      "likes": 2,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:34:11.000Z",
-      "numParameters": 5490552304,
-      "repoType": "model"
-    },
-    {
-      "author": "allenai",
-      "id": "allenai/MolmoAct2-DROID",
-      "downloads": 28,
-      "likes": 2,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:36:22.000Z",
-      "numParameters": 5485309424,
       "repoType": "model"
     },
     {
       "author": "allenai",
       "id": "allenai/MolmoAct2-BimanualYAM",
-      "downloads": 336,
-      "likes": 2,
+      "downloads": 509,
+      "likes": 3,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:36:24.000Z",
+      "lastModified": "2026-05-09T17:43:14.000Z",
       "numParameters": 5485309424,
       "repoType": "model"
     },
     {
       "author": "allenai",
       "id": "allenai/MolmoAct2-Think-LIBERO",
-      "downloads": 18,
+      "downloads": 19,
+      "likes": 3,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-09T17:43:21.000Z",
+      "numParameters": 5490589204,
+      "repoType": "model"
+    },
+    {
+      "author": "allenai",
+      "id": "allenai/MolmoAct2-Think",
+      "downloads": 29,
       "likes": 2,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-05-05T14:36:31.000Z",
-      "numParameters": 5490589204,
+      "lastModified": "2026-05-09T17:43:10.000Z",
+      "numParameters": 5490552304,
+      "repoType": "model"
+    },
+    {
+      "author": "allenai",
+      "id": "allenai/MolmoAct2-LIBERO",
+      "downloads": 32,
+      "likes": 2,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-09T17:43:19.000Z",
+      "numParameters": 5485309424,
       "repoType": "model"
     },
     {
@@ -147,11 +137,21 @@
     {
       "author": "lerobot",
       "id": "lerobot/diffusion_pusht",
-      "downloads": 2620,
+      "downloads": 2642,
       "likes": 56,
       "pipeline_tag": "robotics",
       "lastModified": "2025-03-06T09:02:17.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openvla",
+      "id": "openvla/openvla-7b",
+      "downloads": 1967312,
+      "likes": 215,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-02-17T03:43:23.000Z",
+      "numParameters": 7541237184,
       "repoType": "model"
     },
     {
@@ -167,7 +167,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi05_base",
-      "downloads": 12456,
+      "downloads": 12671,
       "likes": 67,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T08:49:18.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi05_libero_finetuned_quantiles_v044",
-      "downloads": 1696,
+      "downloads": 1784,
       "likes": 5,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T08:48:25.000Z",
@@ -186,28 +186,8 @@
     },
     {
       "author": "nvidia",
-      "id": "nvidia/GN1x-Tuned-Arena-G1-Loco-Manipulation",
-      "downloads": 107,
-      "likes": 4,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T16:41:38.000Z",
-      "numParameters": 2724163520,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/GN1x-Tuned-Arena-GR1-Manipulation",
-      "downloads": 81,
-      "likes": 4,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-14T21:09:41.000Z",
-      "numParameters": 2724163520,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
       "id": "nvidia/Alpamayo-R1-10B",
-      "downloads": 44250,
+      "downloads": 43141,
       "likes": 394,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-27T14:21:20.000Z",
@@ -217,7 +197,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.6-3B",
-      "downloads": 28103,
+      "downloads": 27172,
       "likes": 88,
       "pipeline_tag": "robotics",
       "lastModified": "2025-12-15T23:34:21.000Z",
@@ -235,9 +215,19 @@
       "repoType": "model"
     },
     {
+      "author": "InternRobotics",
+      "id": "InternRobotics/InternVLA-A1-3B",
+      "downloads": 110,
+      "likes": 40,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-02-27T16:30:17.000Z",
+      "numParameters": 3222760216,
+      "repoType": "model"
+    },
+    {
       "author": "exla-ai",
       "id": "exla-ai/openpie-0.6",
-      "downloads": 156,
+      "downloads": 154,
       "likes": 21,
       "pipeline_tag": "robotics",
       "lastModified": "2026-02-04T05:55:33.000Z",
@@ -247,21 +237,11 @@
     {
       "author": "GEAR-Dreams",
       "id": "GEAR-Dreams/DreamZero-DROID",
-      "downloads": 867,
+      "downloads": 868,
       "likes": 19,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-15T12:18:43.000Z",
       "numParameters": 22924172115,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/GN1.6-Tuned-Arena-GR1-PlaceItemCloseDoor-Task",
-      "downloads": 0,
-      "likes": 3,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-14T21:09:02.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -277,7 +257,7 @@
     {
       "author": "lerobot-data-collection",
       "id": "lerobot-data-collection/folding_final",
-      "downloads": 482,
+      "downloads": 421,
       "likes": 5,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-31T16:52:22.000Z",
@@ -286,24 +266,44 @@
     },
     {
       "author": "nvidia",
-      "id": "nvidia/GR00T-N1.7-DROID",
-      "downloads": 1391,
-      "likes": 3,
+      "id": "nvidia/GR00T-N1.7-LIBERO",
+      "downloads": 0,
+      "likes": 5,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T23:16:09.000Z",
-      "numParameters": 3144016000,
+      "lastModified": "2026-04-20T23:16:41.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/GR00T-N1.7-SimplerEnv-Bridge",
-      "downloads": 1700,
-      "likes": 2,
+      "author": "luckyrobots",
+      "id": "luckyrobots/ContentVault",
+      "downloads": 0,
+      "likes": 1,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T23:07:55.000Z",
-      "numParameters": 3144016000,
+      "lastModified": "2026-05-08T07:11:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RLWRLD",
+      "id": "RLWRLD/RLDX-1-FT-ROBOCASA",
+      "downloads": 53,
+      "likes": 1,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-06T03:48:26.000Z",
+      "numParameters": 6912894784,
+      "repoType": "model"
+    },
+    {
+      "author": "RLWRLD",
+      "id": "RLWRLD/RLDX-1-MT-ALLEX",
+      "downloads": 57,
+      "likes": 1,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-05-06T03:48:32.000Z",
+      "numParameters": 8065810416,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:37.193Z"
+  "fetchedAt": "2026-05-09T20:33:54.123Z"
 }

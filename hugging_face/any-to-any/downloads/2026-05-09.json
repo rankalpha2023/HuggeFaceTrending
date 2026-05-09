@@ -1,14 +1,14 @@
 {
   "category": "any-to-any",
   "sort": "downloads",
-  "totalItems": 10963,
+  "totalItems": 10968,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 5568887,
-      "likes": 952,
+      "downloads": 5581069,
+      "likes": 959,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-07T07:39:39.000Z",
       "numParameters": 7996156490,
@@ -17,8 +17,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it",
-      "downloads": 3427031,
-      "likes": 582,
+      "downloads": 3411314,
+      "likes": 587,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-07T07:39:49.000Z",
       "numParameters": 5123178051,
@@ -27,8 +27,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B",
-      "downloads": 1139433,
-      "likes": 230,
+      "downloads": 1146739,
+      "likes": 231,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-02T16:14:15.000Z",
       "numParameters": 7996156490,
@@ -37,7 +37,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 936110,
+      "downloads": 971542,
       "likes": 920,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:52.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-3B",
-      "downloads": 874861,
+      "downloads": 908733,
       "likes": 334,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T04:01:19.000Z",
@@ -55,9 +55,19 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+      "downloads": 603129,
+      "likes": 95,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-05T14:35:03.000Z",
+      "numParameters": 18326275008,
+      "repoType": "model"
+    },
+    {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-7B",
-      "downloads": 591529,
+      "downloads": 591802,
       "likes": 1893,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T13:48:45.000Z",
@@ -65,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
-      "downloads": 532322,
-      "likes": 94,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-05-05T14:35:03.000Z",
-      "numParameters": 18326275008,
-      "repoType": "model"
-    },
-    {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-4bit",
-      "downloads": 358741,
+      "downloads": 360528,
       "likes": 7,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:38:43.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-8bit",
-      "downloads": 332017,
+      "downloads": 332946,
       "likes": 2,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:41:44.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-6bit",
-      "downloads": 314616,
+      "downloads": 314933,
       "likes": 2,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:40:44.000Z",
@@ -107,8 +107,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B",
-      "downloads": 291562,
-      "likes": 252,
+      "downloads": 301205,
+      "likes": 253,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-02T16:14:53.000Z",
       "numParameters": 5123178051,
@@ -117,7 +117,7 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-2_6",
-      "downloads": 274194,
+      "downloads": 283249,
       "likes": 1291,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-10-05T08:19:06.000Z",
@@ -127,18 +127,28 @@
     {
       "author": "mlx-community",
       "id": "mlx-community/gemma-4-e2b-it-4bit",
-      "downloads": 238645,
-      "likes": 13,
+      "downloads": 232505,
+      "likes": 14,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-13T13:07:28.000Z",
       "numParameters": 1210764867,
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "downloads": 116933,
+      "likes": 267,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-08T16:38:08.000Z",
+      "numParameters": 33015632214,
+      "repoType": "model"
+    },
+    {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5",
-      "downloads": 111125,
-      "likes": 1358,
+      "downloads": 112711,
+      "likes": 1360,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-03-07T13:33:20.000Z",
       "numParameters": 9371787666,
@@ -147,7 +157,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8",
-      "downloads": 108618,
+      "downloads": 110414,
       "likes": 45,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-05T14:35:05.000Z",
@@ -155,19 +165,9 @@
       "repoType": "model"
     },
     {
-      "author": "deepseek-community",
-      "id": "deepseek-community/Janus-Pro-1B",
-      "downloads": 98789,
-      "likes": 11,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-03-18T11:51:52.000Z",
-      "numParameters": 2076636811,
-      "repoType": "model"
-    },
-    {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-4bit",
-      "downloads": 95130,
+      "downloads": 95526,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:40:35.000Z",
@@ -175,19 +175,19 @@
       "repoType": "model"
     },
     {
-      "author": "llmfan46",
-      "id": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
-      "downloads": 91306,
-      "likes": 48,
+      "author": "deepseek-community",
+      "id": "deepseek-community/Janus-Pro-1B",
+      "downloads": 94864,
+      "likes": 11,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-04-10T23:39:26.000Z",
-      "numParameters": 7518069290,
+      "lastModified": "2026-03-18T11:51:52.000Z",
+      "numParameters": 2076636811,
       "repoType": "model"
     },
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-7B-AWQ",
-      "downloads": 90566,
+      "downloads": 93001,
       "likes": 18,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-05-15T10:09:17.000Z",
@@ -195,19 +195,19 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "downloads": 89837,
-      "likes": 263,
+      "author": "llmfan46",
+      "id": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
+      "downloads": 91635,
+      "likes": 51,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-05-08T16:38:08.000Z",
-      "numParameters": 33015632214,
+      "lastModified": "2026-04-10T23:39:26.000Z",
+      "numParameters": 7518069290,
       "repoType": "model"
     },
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-8bit",
-      "downloads": 88098,
+      "downloads": 88309,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:42:58.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-6bit",
-      "downloads": 85205,
+      "downloads": 85294,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-10T14:42:15.000Z",
@@ -225,10 +225,20 @@
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
+      "downloads": 82155,
+      "likes": 302,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-09-22T14:17:44.000Z",
+      "numParameters": 31719205488,
+      "repoType": "model"
+    },
+    {
       "author": "XiaomiMiMo",
       "id": "XiaomiMiMo/MiMo-Audio-7B-Instruct",
-      "downloads": 78009,
-      "likes": 155,
+      "downloads": 78182,
+      "likes": 156,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-23T11:28:06.000Z",
       "numParameters": 8018587648,
@@ -237,27 +247,17 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/gemma-4-E2B-it-ONNX",
-      "downloads": 66794,
-      "likes": 27,
+      "downloads": 60868,
+      "likes": 28,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-24T13:47:12.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
-      "downloads": 60615,
-      "likes": 301,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2025-09-22T14:17:44.000Z",
-      "numParameters": 31719205488,
-      "repoType": "model"
-    },
-    {
       "author": "cyankiwi",
       "id": "cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit",
-      "downloads": 53196,
+      "downloads": 52173,
       "likes": 48,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-28T20:23:11.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "mlx-community",
       "id": "mlx-community/gemma-4-e4b-it-4bit",
-      "downloads": 52503,
+      "downloads": 50821,
       "likes": 18,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-13T13:08:22.000Z",
@@ -275,9 +275,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/gemma-4-31B-it-assistant",
+      "downloads": 47793,
+      "likes": 174,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-05T15:39:43.000Z",
+      "numParameters": 469518596,
+      "repoType": "model"
+    },
+    {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5-gguf",
-      "downloads": 44221,
+      "downloads": 44795,
       "likes": 131,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-02-12T05:05:50.000Z",
@@ -286,24 +296,14 @@
     },
     {
       "author": "google",
-      "id": "google/gemma-4-31B-it-assistant",
-      "downloads": 33314,
-      "likes": 158,
+      "id": "google/gemma-4-E4B-it-assistant",
+      "downloads": 36870,
+      "likes": 50,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-05-05T15:39:43.000Z",
-      "numParameters": 469518596,
-      "repoType": "model"
-    },
-    {
-      "author": "deepseek-ai",
-      "id": "deepseek-ai/Janus-Pro-7B",
-      "downloads": 32147,
-      "likes": 3595,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2025-02-01T08:00:16.000Z",
-      "numParameters": null,
+      "lastModified": "2026-05-05T14:08:07.000Z",
+      "numParameters": 78779908,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:41:53.666Z"
+  "fetchedAt": "2026-05-09T20:32:41.839Z"
 }

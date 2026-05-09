@@ -1,14 +1,14 @@
 {
   "category": "text-generation",
   "sort": "downloads",
-  "totalItems": 361648,
+  "totalItems": 361986,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-0.6B",
-      "downloads": 18773327,
-      "likes": 1231,
+      "downloads": 18554097,
+      "likes": 1233,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:46:27.000Z",
       "numParameters": 751632384,
@@ -17,7 +17,7 @@
     {
       "author": "openai-community",
       "id": "openai-community/gpt2",
-      "downloads": 15964184,
+      "downloads": 16093449,
       "likes": 3230,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-02-19T10:57:45.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-7B-Instruct",
-      "downloads": 14360168,
-      "likes": 1266,
+      "downloads": 14410456,
+      "likes": 1267,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-01-12T02:10:10.000Z",
       "numParameters": 7615616512,
@@ -37,7 +37,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V3.2",
-      "downloads": 11870910,
+      "downloads": 11943356,
       "likes": 1429,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-12-01T11:04:59.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
-      "downloads": 11324388,
+      "downloads": 11794344,
       "likes": 688,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-25T12:32:50.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-8B",
-      "downloads": 11068578,
-      "likes": 1080,
+      "downloads": 11147764,
+      "likes": 1082,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:49:13.000Z",
       "numParameters": 8190735360,
@@ -67,8 +67,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-4B-Instruct-2507",
-      "downloads": 10837392,
-      "likes": 837,
+      "downloads": 10759210,
+      "likes": 838,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-09-17T06:56:53.000Z",
       "numParameters": 4022468096,
@@ -77,8 +77,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "downloads": 9581733,
-      "likes": 5799,
+      "downloads": 9393633,
+      "likes": 5804,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-25T17:00:57.000Z",
       "numParameters": 8030261248,
@@ -87,7 +87,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-3B-Instruct",
-      "downloads": 9461858,
+      "downloads": 8847153,
       "likes": 452,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-25T12:33:00.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "facebook",
       "id": "facebook/opt-125m",
-      "downloads": 8537439,
+      "downloads": 8613283,
       "likes": 250,
       "pipeline_tag": "text-generation",
       "lastModified": "2023-09-15T13:10:03.000Z",
@@ -107,17 +107,27 @@
     {
       "author": "openai",
       "id": "openai/gpt-oss-20b",
-      "downloads": 7301029,
-      "likes": 4593,
+      "downloads": 7262597,
+      "likes": 4595,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-08-26T17:25:47.000Z",
       "numParameters": 21511953984,
       "repoType": "model"
     },
     {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "downloads": 6881274,
+      "likes": 1399,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-24T15:07:51.000Z",
+      "numParameters": 1235814400,
+      "repoType": "model"
+    },
+    {
       "author": "trl-internal-testing",
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
-      "downloads": 7245851,
+      "downloads": 6876599,
       "likes": 6,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-12-19T19:10:57.000Z",
@@ -125,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "meta-llama",
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "downloads": 6797303,
-      "likes": 1398,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2024-10-24T15:07:51.000Z",
-      "numParameters": 1235814400,
-      "repoType": "model"
-    },
-    {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
-      "downloads": 6051960,
+      "downloads": 6021176,
       "likes": 509,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-25T12:32:56.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-32B",
-      "downloads": 5780306,
+      "downloads": 5817113,
       "likes": 692,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:45:22.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "dphn",
       "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
-      "downloads": 4722750,
+      "downloads": 4721430,
       "likes": 62,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-09-08T05:56:56.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2-1.5B-Instruct",
-      "downloads": 4411422,
+      "downloads": 4481221,
       "likes": 162,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-06-06T14:36:57.000Z",
@@ -177,8 +177,8 @@
     {
       "author": "openai",
       "id": "openai/gpt-oss-120b",
-      "downloads": 4384103,
-      "likes": 4763,
+      "downloads": 4384464,
+      "likes": 4765,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-08-26T17:25:03.000Z",
       "numParameters": 120412337472,
@@ -187,8 +187,8 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-R1",
-      "downloads": 3822648,
-      "likes": 13323,
+      "downloads": 3774773,
+      "likes": 13324,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-03-27T04:01:59.000Z",
       "numParameters": 684531386000,
@@ -196,18 +196,8 @@
     },
     {
       "author": "Qwen",
-      "id": "Qwen/Qwen3-1.7B",
-      "downloads": 3675452,
-      "likes": 459,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2025-07-26T03:46:32.000Z",
-      "numParameters": 2031739904,
-      "repoType": "model"
-    },
-    {
-      "author": "Qwen",
       "id": "Qwen/Qwen3-4B",
-      "downloads": 3651438,
+      "downloads": 3536110,
       "likes": 609,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:46:39.000Z",
@@ -215,9 +205,19 @@
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-1.7B",
+      "downloads": 3480231,
+      "likes": 459,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:32.000Z",
+      "numParameters": 2031739904,
+      "repoType": "model"
+    },
+    {
       "author": "meta-llama",
       "id": "meta-llama/Meta-Llama-3-8B",
-      "downloads": 3392582,
+      "downloads": 3348773,
       "likes": 6530,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-27T15:52:33.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "EleutherAI",
       "id": "EleutherAI/pythia-160m",
-      "downloads": 3224079,
+      "downloads": 3219588,
       "likes": 42,
       "pipeline_tag": "text-generation",
       "lastModified": "2023-07-09T15:52:09.000Z",
@@ -235,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "TinyLlama",
-      "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
-      "downloads": 3004235,
-      "likes": 1579,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2024-03-17T05:07:08.000Z",
-      "numParameters": 1100048384,
-      "repoType": "model"
-    },
-    {
       "author": "Andycurrent",
       "id": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
-      "downloads": 2911939,
+      "downloads": 3036839,
       "likes": 22,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-02-18T10:06:23.000Z",
@@ -255,19 +245,19 @@
       "repoType": "model"
     },
     {
-      "author": "hmellor",
-      "id": "hmellor/tiny-random-LlamaForCausalLM",
-      "downloads": 2892043,
-      "likes": 0,
+      "author": "TinyLlama",
+      "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+      "downloads": 2989572,
+      "likes": 1579,
       "pipeline_tag": "text-generation",
-      "lastModified": "2025-04-29T22:01:04.000Z",
-      "numParameters": 1062992,
+      "lastModified": "2024-03-17T05:07:08.000Z",
+      "numParameters": 1100048384,
       "repoType": "model"
     },
     {
       "author": "distilbert",
       "id": "distilbert/distilgpt2",
-      "downloads": 2882860,
+      "downloads": 2962810,
       "likes": 628,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-02-19T11:09:53.000Z",
@@ -277,18 +267,28 @@
     {
       "author": "mistralai",
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
-      "downloads": 2864332,
-      "likes": 3132,
+      "downloads": 2955455,
+      "likes": 3133,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-24T16:57:21.000Z",
       "numParameters": 7241732096,
       "repoType": "model"
     },
     {
+      "author": "hmellor",
+      "id": "hmellor/tiny-random-LlamaForCausalLM",
+      "downloads": 2946795,
+      "likes": 0,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-04-29T22:01:04.000Z",
+      "numParameters": 1062992,
+      "repoType": "model"
+    },
+    {
       "author": "Qwen",
       "id": "Qwen/Qwen3-14B",
-      "downloads": 2788774,
-      "likes": 393,
+      "downloads": 2725835,
+      "likes": 394,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:49:23.000Z",
       "numParameters": null,
@@ -297,13 +297,13 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-      "downloads": 2736854,
-      "likes": 1049,
+      "downloads": 2705086,
+      "likes": 1051,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-12-03T08:05:17.000Z",
       "numParameters": 30532122624,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:50.562Z"
+  "fetchedAt": "2026-05-09T20:34:16.029Z"
 }

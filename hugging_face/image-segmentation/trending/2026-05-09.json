@@ -5,9 +5,19 @@
   "fetchedItems": 30,
   "models": [
     {
+      "author": "briaai",
+      "id": "briaai/VRMBG-3.0",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-07T14:07:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet",
-      "downloads": 959592,
+      "downloads": 950026,
       "likes": 569,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:55.000Z",
@@ -16,18 +26,8 @@
     },
     {
       "author": "briaai",
-      "id": "briaai/VRMBG-3.0",
-      "downloads": 0,
-      "likes": 5,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-05-07T14:07:25.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "briaai",
       "id": "briaai/RMBG-1.4",
-      "downloads": 897769,
+      "downloads": 874872,
       "likes": 1974,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-06T08:27:49.000Z",
@@ -37,8 +37,8 @@
     {
       "author": "briaai",
       "id": "briaai/RMBG-2.0",
-      "downloads": 625676,
-      "likes": 1174,
+      "downloads": 635113,
+      "likes": 1175,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-06T15:27:43.000Z",
       "numParameters": 220700242,
@@ -47,8 +47,8 @@
     {
       "author": "PramaLLC",
       "id": "PramaLLC/BEN2",
-      "downloads": 225038,
-      "likes": 231,
+      "downloads": 227188,
+      "likes": 232,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-12-31T17:17:52.000Z",
       "numParameters": null,
@@ -57,7 +57,7 @@
     {
       "author": "joelseytre",
       "id": "joelseytre/toonout",
-      "downloads": 1100,
+      "downloads": 1094,
       "likes": 15,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-09-10T08:17:17.000Z",
@@ -65,9 +65,19 @@
       "repoType": "model"
     },
     {
+      "author": "studioludens",
+      "id": "studioludens/birefnet-lite-512",
+      "downloads": 119,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-17T18:32:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "jonathandinu",
       "id": "jonathandinu/face-parsing",
-      "downloads": 313200,
+      "downloads": 349638,
       "likes": 218,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-18T22:38:54.000Z",
@@ -75,19 +85,9 @@
       "repoType": "model"
     },
     {
-      "author": "mattmdjaga",
-      "id": "mattmdjaga/segformer_b2_clothes",
-      "downloads": 225450,
-      "likes": 499,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-09-19T07:21:11.000Z",
-      "numParameters": 27362002,
-      "repoType": "model"
-    },
-    {
       "author": "keremberke",
       "id": "keremberke/yolov8n-pothole-segmentation",
-      "downloads": 2083,
+      "downloads": 2104,
       "likes": 17,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-02-22T13:00:57.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "PramaLLC",
       "id": "PramaLLC/BEN",
-      "downloads": 68,
+      "downloads": 66,
       "likes": 93,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-01-26T01:27:49.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "smp-hub",
       "id": "smp-hub/segformer-b5-640x640-ade-160k",
-      "downloads": 42,
+      "downloads": 43,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-01-11T14:00:43.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "wefttechnologies",
       "id": "wefttechnologies/BiRefNet2",
-      "downloads": 692,
+      "downloads": 802,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-05-27T10:11:09.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "Ricky06662",
       "id": "Ricky06662/VisionReasoner-7B",
-      "downloads": 128,
+      "downloads": 118,
       "likes": 9,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-02T04:19:31.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "Acly",
       "id": "Acly/BiRefNet-GGUF",
-      "downloads": 1412,
+      "downloads": 1358,
       "likes": 12,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-08-12T16:27:02.000Z",
@@ -195,19 +195,9 @@
       "repoType": "model"
     },
     {
-      "author": "fashn-ai",
-      "id": "fashn-ai/fashn-human-parser",
-      "downloads": 43502,
-      "likes": 24,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-01-10T20:50:06.000Z",
-      "numParameters": 64008402,
-      "repoType": "model"
-    },
-    {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 29954,
+      "downloads": 28064,
       "likes": 73,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-01-30T19:28:11.000Z",
@@ -225,39 +215,9 @@
       "repoType": "model"
     },
     {
-      "author": "pirocheto",
-      "id": "pirocheto/schp-lip-20",
-      "downloads": 99,
-      "likes": 2,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-04-06T23:43:00.000Z",
-      "numParameters": 66838456,
-      "repoType": "model"
-    },
-    {
-      "author": "pirocheto",
-      "id": "pirocheto/schp-pascal-7",
-      "downloads": 52,
-      "likes": 2,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-04-06T23:43:49.000Z",
-      "numParameters": 66831774,
-      "repoType": "model"
-    },
-    {
-      "author": "studioludens",
-      "id": "studioludens/birefnet-lite-512",
-      "downloads": 118,
-      "likes": 2,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-04-17T18:32:32.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "PAIR",
       "id": "PAIR/FlowDIS",
-      "downloads": 19,
+      "downloads": 22,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-21T16:13:30.000Z",
@@ -265,9 +225,19 @@
       "repoType": "model"
     },
     {
+      "author": "wanglab",
+      "id": "wanglab/MedSAM2",
+      "downloads": 137,
+      "likes": 40,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-10T23:00:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Narsil",
       "id": "Narsil/pet-segmentation",
-      "downloads": 15,
+      "downloads": 17,
       "likes": 10,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2021-11-29T16:23:29.000Z",
@@ -297,13 +267,43 @@
     {
       "author": "facebook",
       "id": "facebook/detr-resnet-50-panoptic",
-      "downloads": 18834,
+      "downloads": 18026,
       "likes": 138,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-04-10T14:14:21.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-base-ade",
+      "downloads": 1581,
+      "likes": 13,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-11-10T10:22:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-base-coco",
+      "downloads": 1005,
+      "likes": 26,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-05-03T07:29:13.000Z",
+      "numParameters": 102324868,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-large-ade",
+      "downloads": 493,
+      "likes": 58,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-02-27T15:08:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:15.914Z"
+  "fetchedAt": "2026-05-09T20:33:18.642Z"
 }

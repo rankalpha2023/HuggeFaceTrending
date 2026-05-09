@@ -1,14 +1,14 @@
 {
   "category": "image-to-text",
   "sort": "trending",
-  "totalItems": 1595,
+  "totalItems": 1598,
   "fetchedItems": 30,
   "models": [
     {
       "author": "ADSKAILab",
       "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
-      "downloads": 493,
-      "likes": 21,
+      "downloads": 632,
+      "likes": 23,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-05-05T21:50:47.000Z",
       "numParameters": 2127532032,
@@ -17,8 +17,8 @@
     {
       "author": "zai-org",
       "id": "zai-org/GLM-OCR",
-      "downloads": 8160550,
-      "likes": 1706,
+      "downloads": 8075703,
+      "likes": 1708,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-04-14T14:46:47.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/nemotron-ocr-v2",
-      "downloads": 2485,
+      "downloads": 2524,
       "likes": 176,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-04-28T02:04:16.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "tiiuae",
       "id": "tiiuae/Falcon-OCR",
-      "downloads": 20948,
+      "downloads": 20621,
       "likes": 93,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-04-01T19:25:14.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "nlpconnect",
       "id": "nlpconnect/vit-gpt2-image-captioning",
-      "downloads": 264251,
+      "downloads": 261169,
       "likes": 929,
       "pipeline_tag": "image-to-text",
       "lastModified": "2023-02-27T15:00:09.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-base",
-      "downloads": 2363604,
+      "downloads": 2393810,
       "likes": 852,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:45:16.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-OCRv5_server_det",
-      "downloads": 568469,
+      "downloads": 561340,
       "likes": 62,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:03:07.000Z",
@@ -75,9 +75,19 @@
       "repoType": "model"
     },
     {
+      "author": "PinkPixel",
+      "id": "PinkPixel/Pixel-2B-GGUF",
+      "downloads": 234,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-09T01:00:04.000Z",
+      "numParameters": 1881825088,
+      "repoType": "model"
+    },
+    {
       "author": "microsoft",
       "id": "microsoft/trocr-base-handwritten",
-      "downloads": 165962,
+      "downloads": 165786,
       "likes": 494,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-11T04:26:58.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "xtuner",
       "id": "xtuner/llava-phi-3-mini-gguf",
-      "downloads": 2627,
+      "downloads": 2654,
       "likes": 138,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-04-29T09:04:44.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "medieval-data",
       "id": "medieval-data/trocr-medieval-base",
-      "downloads": 222,
+      "downloads": 216,
       "likes": 5,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-07-08T14:23:48.000Z",
@@ -107,7 +117,7 @@
     {
       "author": "Riksarkivet",
       "id": "Riksarkivet/trocr-base-handwritten-hist-swe-2",
-      "downloads": 13134,
+      "downloads": 12631,
       "likes": 13,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-25T18:07:37.000Z",
@@ -117,7 +127,7 @@
     {
       "author": "MohamedRashad",
       "id": "MohamedRashad/arabic-large-nougat",
-      "downloads": 358,
+      "downloads": 363,
       "likes": 17,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-11-28T18:50:05.000Z",
@@ -127,7 +137,7 @@
     {
       "author": "calcuis",
       "id": "calcuis/sd3.5-large-turbo",
-      "downloads": 244,
+      "downloads": 227,
       "likes": 6,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-10-29T18:44:38.000Z",
@@ -157,7 +167,7 @@
     {
       "author": "sbintuitions",
       "id": "sbintuitions/sarashina2-vision-14b",
-      "downloads": 116,
+      "downloads": 101,
       "likes": 13,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-03-27T02:37:03.000Z",
@@ -167,7 +177,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-OCRv5_mobile_det",
-      "downloads": 53398,
+      "downloads": 55281,
       "likes": 25,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:03:05.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-OCRv5_mobile_rec",
-      "downloads": 21909,
+      "downloads": 21872,
       "likes": 12,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:04:13.000Z",
@@ -187,7 +197,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-LCNet_x1_0_doc_ori",
-      "downloads": 370360,
+      "downloads": 369436,
       "likes": 12,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T09:58:38.000Z",
@@ -197,7 +207,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/en_PP-OCRv5_mobile_rec",
-      "downloads": 324530,
+      "downloads": 318047,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-08-29T06:39:03.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF",
-      "downloads": 1304,
+      "downloads": 1335,
       "likes": 3,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-09-16T08:11:28.000Z",
@@ -227,7 +237,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/nemotron-ocr-v1",
-      "downloads": 381,
+      "downloads": 380,
       "likes": 119,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-04-01T22:09:55.000Z",
@@ -247,7 +257,7 @@
     {
       "author": "rtr46",
       "id": "rtr46/meiki.txt.recognition.v0",
-      "downloads": 37327,
+      "downloads": 40457,
       "likes": 6,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-02-24T19:49:02.000Z",
@@ -255,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "noctrex",
+      "id": "noctrex/LightOnOCR-2-1B-ocr-soup-GGUF",
+      "downloads": 5203,
+      "likes": 9,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-01-24T19:24:37.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
       "author": "mlx-community",
       "id": "mlx-community/GLM-OCR-bf16",
-      "downloads": 3485,
+      "downloads": 3390,
       "likes": 27,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-02-04T11:40:58.000Z",
@@ -267,7 +287,7 @@
     {
       "author": "JEILDLWLRMA",
       "id": "JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4-FP8-Dynamic",
-      "downloads": 65,
+      "downloads": 87,
       "likes": 1,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-02-06T06:57:55.000Z",
@@ -277,33 +297,13 @@
     {
       "author": "noctrex",
       "id": "noctrex/PaddleOCR-VL-1.5-GGUF",
-      "downloads": 2839,
+      "downloads": 2855,
       "likes": 8,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-02-20T12:43:33.000Z",
       "numParameters": 466654208,
       "repoType": "model"
-    },
-    {
-      "author": "xingxm",
-      "id": "xingxm/HiVG-3B-Base",
-      "downloads": 355,
-      "likes": 6,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-04-17T05:37:56.000Z",
-      "numParameters": 3756720128,
-      "repoType": "model"
-    },
-    {
-      "author": "leadingtorch",
-      "id": "leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabled",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-04-23T15:56:00.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:22.964Z"
+  "fetchedAt": "2026-05-09T20:33:30.546Z"
 }

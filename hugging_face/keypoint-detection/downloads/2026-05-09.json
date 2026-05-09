@@ -1,13 +1,13 @@
 {
   "category": "keypoint-detection",
   "sort": "downloads",
-  "totalItems": 270,
+  "totalItems": 271,
   "fetchedItems": 30,
   "models": [
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-base",
-      "downloads": 2170043,
+      "downloads": 2038016,
       "likes": 31,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-08T12:42:35.000Z",
@@ -15,19 +15,9 @@
       "repoType": "model"
     },
     {
-      "author": "usyd-community",
-      "id": "usyd-community/vitpose-base-simple",
-      "downloads": 59972,
-      "likes": 31,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2025-01-08T12:25:32.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "ETH-CVG",
       "id": "ETH-CVG/lightglue_superpoint",
-      "downloads": 58789,
+      "downloads": 59815,
       "likes": 63,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-07-17T09:34:38.000Z",
@@ -36,18 +26,18 @@
     },
     {
       "author": "usyd-community",
-      "id": "usyd-community/vitpose-plus-small",
-      "downloads": 21460,
-      "likes": 6,
+      "id": "usyd-community/vitpose-base-simple",
+      "downloads": 58702,
+      "likes": 31,
       "pipeline_tag": "keypoint-detection",
-      "lastModified": "2025-01-12T20:50:10.000Z",
-      "numParameters": 33144721,
+      "lastModified": "2025-01-08T12:25:32.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-huge",
-      "downloads": 20568,
+      "downloads": 22226,
       "likes": 16,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-12T20:49:19.000Z",
@@ -55,9 +45,19 @@
       "repoType": "model"
     },
     {
+      "author": "usyd-community",
+      "id": "usyd-community/vitpose-plus-small",
+      "downloads": 22049,
+      "likes": 6,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2025-01-12T20:50:10.000Z",
+      "numParameters": 33144721,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/sapiens-pose-bbox-detector",
-      "downloads": 19378,
+      "downloads": 21449,
       "likes": 5,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-10-06T21:20:43.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "magic-leap-community",
       "id": "magic-leap-community/superpoint",
-      "downloads": 11916,
+      "downloads": 12252,
       "likes": 24,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-01T19:30:19.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-large",
-      "downloads": 11106,
+      "downloads": 10702,
       "likes": 3,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-12T20:49:41.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "stanfordmimi",
       "id": "stanfordmimi/synthpose-vitpose-huge-hf",
-      "downloads": 1570,
+      "downloads": 1505,
       "likes": 4,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-03-23T00:36:55.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "stanfordmimi",
       "id": "stanfordmimi/synthpose-vitpose-base-hf",
-      "downloads": 1423,
+      "downloads": 1376,
       "likes": 10,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-03-23T00:38:18.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "vrg-prague",
       "id": "vrg-prague/BBoxMaskPose",
-      "downloads": 1084,
+      "downloads": 1098,
       "likes": 4,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-19T13:16:13.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/xfeat",
-      "downloads": 1060,
+      "downloads": 1055,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:30:25.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/MediaPipe-Pose-Estimation",
-      "downloads": 778,
+      "downloads": 790,
       "likes": 105,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-05-05T05:00:13.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/roma",
-      "downloads": 701,
+      "downloads": 698,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:29:57.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "facebook",
       "id": "facebook/sapiens-pose-1b-torchscript",
-      "downloads": 695,
+      "downloads": 694,
       "likes": 16,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-10-07T19:30:42.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/xfeat-star",
-      "downloads": 650,
+      "downloads": 655,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:30:29.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "ETH-CVG",
       "id": "ETH-CVG/lightglue_disk",
-      "downloads": 615,
+      "downloads": 637,
       "likes": 16,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-04-22T14:56:06.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/HRNetPose",
-      "downloads": 607,
+      "downloads": 624,
       "likes": 9,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-05-05T04:50:38.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/aliked-lightglue",
-      "downloads": 564,
+      "downloads": 596,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:28:48.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/rdd",
-      "downloads": 550,
+      "downloads": 582,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:29:47.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/rdd-lightglue",
-      "downloads": 543,
+      "downloads": 575,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:29:53.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-base",
-      "downloads": 530,
+      "downloads": 519,
       "likes": 11,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-08T12:28:56.000Z",
@@ -235,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/sapiens-pose-0.3b-torchscript",
-      "downloads": 474,
-      "likes": 1,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2024-10-07T19:14:49.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "qualcomm",
       "id": "qualcomm/Facial-Landmark-Detection",
-      "downloads": 460,
+      "downloads": 483,
       "likes": 10,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-05-05T04:58:20.000Z",
@@ -255,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/sapiens-pose-0.3b-torchscript",
+      "downloads": 475,
+      "likes": 1,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2024-10-07T19:14:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "vismatch",
       "id": "vismatch/lisrd",
-      "downloads": 326,
+      "downloads": 320,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:29:14.000Z",
@@ -266,18 +266,8 @@
     },
     {
       "author": "vismatch",
-      "id": "vismatch/superpoint-lightglue",
-      "downloads": 222,
-      "likes": 0,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2026-02-10T16:30:13.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "vismatch",
       "id": "vismatch/xoftr",
-      "downloads": 220,
+      "downloads": 240,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:30:38.000Z",
@@ -286,8 +276,18 @@
     },
     {
       "author": "vismatch",
+      "id": "vismatch/superpoint-lightglue",
+      "downloads": 223,
+      "likes": 0,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2026-02-10T16:30:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vismatch",
       "id": "vismatch/orb-nn",
-      "downloads": 203,
+      "downloads": 207,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:29:42.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "nielsr",
       "id": "nielsr/vitpose-base-simple",
-      "downloads": 162,
+      "downloads": 172,
       "likes": 1,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-08-28T15:49:17.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:29.285Z"
+  "fetchedAt": "2026-05-09T20:33:40.923Z"
 }

@@ -1,7 +1,7 @@
 {
   "category": "text-to-audio",
   "sort": "trending",
-  "totalItems": 2938,
+  "totalItems": 2940,
   "fetchedItems": 30,
   "models": [
     {
@@ -17,7 +17,7 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/Ace-Step1.5",
-      "downloads": 51401,
+      "downloads": 51260,
       "likes": 743,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-03T11:37:37.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-v15-xl-turbo",
-      "downloads": 9618,
-      "likes": 148,
+      "downloads": 9424,
+      "likes": 150,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-04-07T12:39:26.000Z",
       "numParameters": 4987310726,
@@ -47,7 +47,7 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-open-1.0",
-      "downloads": 22333,
+      "downloads": 21998,
       "likes": 1456,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2025-06-19T21:53:23.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-stereo-small",
-      "downloads": 1578,
+      "downloads": 1595,
       "likes": 44,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2024-03-06T14:41:16.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "2Noise",
       "id": "2Noise/ChatTTS",
-      "downloads": 2044,
+      "downloads": 2042,
       "likes": 1649,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2024-10-22T08:26:20.000Z",
@@ -85,19 +85,9 @@
       "repoType": "model"
     },
     {
-      "author": "Marvis-AI",
-      "id": "Marvis-AI/marvis-tts-250m-v0.1",
-      "downloads": 3376,
-      "likes": 75,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2025-08-26T19:10:01.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-captioner",
-      "downloads": 5840,
+      "downloads": 6041,
       "likes": 49,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-03T06:33:55.000Z",
@@ -105,19 +95,9 @@
       "repoType": "model"
     },
     {
-      "author": "HeartMuLa",
-      "id": "HeartMuLa/HeartMuLa-oss-3B-happy-new-year",
-      "downloads": 3203,
-      "likes": 33,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-02-13T08:22:49.000Z",
-      "numParameters": 3938113536,
-      "repoType": "model"
-    },
-    {
       "author": "scragnog",
       "id": "scragnog/ace-step-1.5-gguf-merge-models",
-      "downloads": 853,
+      "downloads": 884,
       "likes": 4,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-05-03T08:25:35.000Z",
@@ -127,7 +107,7 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-v15-xl-turbo-diffusers",
-      "downloads": 486,
+      "downloads": 513,
       "likes": 14,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-05-01T09:36:31.000Z",
@@ -137,7 +117,7 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-stereo-large",
-      "downloads": 2249,
+      "downloads": 2284,
       "likes": 94,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2024-03-06T14:53:14.000Z",
@@ -147,7 +127,7 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-stereo-melody-large",
-      "downloads": 348,
+      "downloads": 347,
       "likes": 70,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2024-04-24T12:28:06.000Z",
@@ -157,7 +137,7 @@
     {
       "author": "declare-lab",
       "id": "declare-lab/tango2",
-      "downloads": 45,
+      "downloads": 44,
       "likes": 20,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-01-17T18:09:33.000Z",
@@ -187,7 +167,7 @@
     {
       "author": "tencent",
       "id": "tencent/HunyuanVideo-Foley",
-      "downloads": 300,
+      "downloads": 292,
       "likes": 164,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2025-09-29T06:09:52.000Z",
@@ -195,9 +175,29 @@
       "repoType": "model"
     },
     {
+      "author": "Marvis-AI",
+      "id": "Marvis-AI/marvis-tts-250m-v0.1",
+      "downloads": 3369,
+      "likes": 75,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-08-26T19:10:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Marvis-AI",
+      "id": "Marvis-AI/marvis-tts-100m-v0.2-MLX-6bit",
+      "downloads": 94,
+      "likes": 5,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-11-06T21:57:39.000Z",
+      "numParameters": 131445408,
+      "repoType": "model"
+    },
+    {
       "author": "zenlm",
       "id": "zenlm/zen-musician",
-      "downloads": 8,
+      "downloads": 14,
       "likes": 7,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-28T19:03:41.000Z",
@@ -205,9 +205,19 @@
       "repoType": "model"
     },
     {
+      "author": "JayLL13",
+      "id": "JayLL13/VoxCPM-1.5-VN",
+      "downloads": 326,
+      "likes": 20,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-03-21T15:31:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-SoundEffect",
-      "downloads": 3416,
+      "downloads": 3196,
       "likes": 50,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-03-13T09:19:24.000Z",
@@ -217,7 +227,7 @@
     {
       "author": "HKUSTAudio",
       "id": "HKUSTAudio/AudioX-MAF",
-      "downloads": 402,
+      "downloads": 291,
       "likes": 9,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-18T04:49:55.000Z",
@@ -227,7 +237,7 @@
     {
       "author": "HKUSTAudio",
       "id": "HKUSTAudio/AudioX-MAF-MMDiT",
-      "downloads": 310,
+      "downloads": 299,
       "likes": 10,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-18T04:50:37.000Z",
@@ -235,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "HeartMuLa",
+      "id": "HeartMuLa/HeartMuLa-oss-3B-happy-new-year",
+      "downloads": 3189,
+      "likes": 33,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-13T08:22:49.000Z",
+      "numParameters": 3938113536,
+      "repoType": "model"
+    },
+    {
       "author": "AEmotionStudio",
       "id": "AEmotionStudio/audiox-models",
-      "downloads": 124,
+      "downloads": 125,
       "likes": 1,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-03-13T00:49:42.000Z",
@@ -257,7 +277,7 @@
     {
       "author": "marcorez8",
       "id": "marcorez8/acestep-v15-xl-turbo-bf16",
-      "downloads": 2447,
+      "downloads": 2514,
       "likes": 8,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-04-09T07:17:20.000Z",
@@ -283,27 +303,7 @@
       "lastModified": "2026-04-12T17:26:21.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "AEmotionStudio",
-      "id": "AEmotionStudio/stable-audio-open-models",
-      "downloads": 349,
-      "likes": 1,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-04-12T01:08:24.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "AEmotionStudio",
-      "id": "AEmotionStudio/prismaudio-models",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-04-19T01:25:40.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:53.693Z"
+  "fetchedAt": "2026-05-09T20:34:21.049Z"
 }

@@ -1,13 +1,13 @@
 {
   "category": "any-to-any",
   "sort": "likes",
-  "totalItems": 10964,
+  "totalItems": 10968,
   "fetchedItems": 30,
   "models": [
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-Pro-7B",
-      "downloads": 32147,
+      "downloads": 32480,
       "likes": 3595,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-02-01T08:00:16.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-7B",
-      "downloads": 591529,
+      "downloads": 591802,
       "likes": 1893,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T13:48:45.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5",
-      "downloads": 111125,
-      "likes": 1358,
+      "downloads": 112711,
+      "likes": 1360,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-03-07T13:33:20.000Z",
       "numParameters": 9371787666,
@@ -37,7 +37,7 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-2_6",
-      "downloads": 274194,
+      "downloads": 283249,
       "likes": 1291,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-10-05T08:19:06.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "ByteDance-Seed",
       "id": "ByteDance-Seed/BAGEL-7B-MoT",
-      "downloads": 4462,
+      "downloads": 3953,
       "likes": 1198,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-01-09T09:27:26.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 5568887,
-      "likes": 953,
+      "downloads": 5581069,
+      "likes": 959,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-07T07:39:39.000Z",
       "numParameters": 7996156490,
@@ -67,7 +67,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 936110,
+      "downloads": 971542,
       "likes": 920,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:52.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-1.3B",
-      "downloads": 4202,
+      "downloads": 4147,
       "likes": 595,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-01-27T13:31:24.000Z",
@@ -87,8 +87,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it",
-      "downloads": 3427031,
-      "likes": 584,
+      "downloads": 3411314,
+      "likes": 587,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-07T07:39:49.000Z",
       "numParameters": 5123178051,
@@ -97,7 +97,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-Pro-1B",
-      "downloads": 13462,
+      "downloads": 13351,
       "likes": 476,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-02-01T08:00:32.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "OmniGen2",
       "id": "OmniGen2/OmniGen2",
-      "downloads": 4310,
+      "downloads": 4297,
       "likes": 436,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-27T07:19:21.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "FlashLabs",
       "id": "FlashLabs/Chroma-4B",
-      "downloads": 2298,
+      "downloads": 2268,
       "likes": 382,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-01-28T03:21:07.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-3B",
-      "downloads": 874861,
+      "downloads": 908733,
       "likes": 334,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T04:01:19.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
-      "downloads": 60615,
+      "downloads": 82155,
       "likes": 302,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:44.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "gpt-omni",
       "id": "gpt-omni/mini-omni2",
-      "downloads": 87,
+      "downloads": 84,
       "likes": 283,
       "pipeline_tag": "any-to-any",
       "lastModified": "2024-10-24T14:30:31.000Z",
@@ -155,9 +155,19 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "downloads": 116933,
+      "likes": 267,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-08T16:38:08.000Z",
+      "numParameters": 33015632214,
+      "repoType": "model"
+    },
+    {
       "author": "inclusionAI",
       "id": "inclusionAI/Ming-flash-omni-2.0",
-      "downloads": 6377,
+      "downloads": 6130,
       "likes": 265,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-02-12T07:33:11.000Z",
@@ -165,19 +175,9 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "downloads": 89837,
-      "likes": 265,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-05-08T16:38:08.000Z",
-      "numParameters": 33015632214,
-      "repoType": "model"
-    },
-    {
       "author": "stepfun-ai",
       "id": "stepfun-ai/Step-Audio-2-mini",
-      "downloads": 3154,
+      "downloads": 3163,
       "likes": 254,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-02-14T09:32:03.000Z",
@@ -187,8 +187,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B",
-      "downloads": 291562,
-      "likes": 252,
+      "downloads": 301205,
+      "likes": 253,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-02T16:14:53.000Z",
       "numParameters": 5123178051,
@@ -197,7 +197,7 @@
     {
       "author": "inclusionAI",
       "id": "inclusionAI/LLaDA2.0-Uni",
-      "downloads": 1727,
+      "downloads": 1776,
       "likes": 243,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-06T10:27:45.000Z",
@@ -217,8 +217,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B",
-      "downloads": 1139433,
-      "likes": 230,
+      "downloads": 1146739,
+      "likes": 231,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-02T16:14:15.000Z",
       "numParameters": 7996156490,
@@ -227,7 +227,7 @@
     {
       "author": "BAAI",
       "id": "BAAI/Emu3-Gen",
-      "downloads": 4437,
+      "downloads": 4240,
       "likes": 227,
       "pipeline_tag": "any-to-any",
       "lastModified": "2024-10-23T10:12:41.000Z",
@@ -237,8 +237,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Captioner",
-      "downloads": 16738,
-      "likes": 224,
+      "downloads": 16795,
+      "likes": 225,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T13:46:56.000Z",
       "numParameters": 31719205488,
@@ -247,7 +247,7 @@
     {
       "author": "AIDC-AI",
       "id": "AIDC-AI/Ovis-U1-3B",
-      "downloads": 761,
+      "downloads": 753,
       "likes": 214,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-07-03T13:06:53.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "HiDream-ai",
       "id": "HiDream-ai/HiDream-E1-Full",
-      "downloads": 171,
+      "downloads": 176,
       "likes": 211,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-07-17T06:11:08.000Z",
@@ -267,8 +267,8 @@
     {
       "author": "HiDream-ai",
       "id": "HiDream-ai/HiDream-E1-1",
-      "downloads": 718,
-      "likes": 210,
+      "downloads": 669,
+      "likes": 211,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-07-17T06:10:06.000Z",
       "numParameters": null,
@@ -277,8 +277,8 @@
     {
       "author": "sensenova",
       "id": "sensenova/SenseNova-U1-8B-MoT",
-      "downloads": 2947,
-      "likes": 203,
+      "downloads": 3196,
+      "likes": 206,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-08T11:02:03.000Z",
       "numParameters": 17552340992,
@@ -287,7 +287,7 @@
     {
       "author": "inclusionAI",
       "id": "inclusionAI/Ming-Lite-Omni",
-      "downloads": 55,
+      "downloads": 52,
       "likes": 199,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-10-27T16:04:58.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "FunAudioLLM",
       "id": "FunAudioLLM/Fun-Audio-Chat-8B",
-      "downloads": 1597,
+      "downloads": 2704,
       "likes": 183,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-12-24T10:31:29.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:41:52.895Z"
+  "fetchedAt": "2026-05-09T20:32:40.391Z"
 }

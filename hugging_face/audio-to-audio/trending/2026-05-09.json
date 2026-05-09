@@ -1,14 +1,14 @@
 {
   "category": "audio-to-audio",
   "sort": "trending",
-  "totalItems": 1068,
+  "totalItems": 1070,
   "fetchedItems": 30,
   "models": [
     {
       "author": "LocalAI-io",
       "id": "LocalAI-io/LocalVQE",
-      "downloads": 1173,
-      "likes": 23,
+      "downloads": 1305,
+      "likes": 25,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-05-05T05:46:29.000Z",
       "numParameters": 1289019,
@@ -17,27 +17,17 @@
     {
       "author": "nvidia",
       "id": "nvidia/personaplex-7b-v1",
-      "downloads": 474081,
-      "likes": 2482,
+      "downloads": 473099,
+      "likes": 2481,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-02T18:03:29.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM2.5-Audio-1.5B",
-      "downloads": 731,
-      "likes": 396,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-03-30T14:43:52.000Z",
-      "numParameters": 1470308496,
-      "repoType": "model"
-    },
-    {
       "author": "Qwen",
       "id": "Qwen/Qwen3-TTS-Tokenizer-12Hz",
-      "downloads": 64968,
+      "downloads": 65231,
       "likes": 63,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-01-29T08:01:28.000Z",
@@ -45,39 +35,29 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/RE-USE",
-      "downloads": 5805,
-      "likes": 69,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-03-26T18:18:44.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "ResembleAI",
-      "id": "ResembleAI/resemble-enhance",
-      "downloads": 0,
-      "likes": 185,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2023-12-21T00:22:48.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "neuphonic",
       "id": "neuphonic/neucodec",
-      "downloads": 199634,
-      "likes": 106,
+      "downloads": 216195,
+      "likes": 107,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2025-10-08T15:22:59.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 745,
+      "likes": 396,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
       "author": "JusperLee",
       "id": "JusperLee/Dolphin",
-      "downloads": 9997,
+      "downloads": 9982,
       "likes": 13,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-04-13T14:53:25.000Z",
@@ -85,29 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "ASLP-lab",
-      "id": "ASLP-lab/MeanVC",
-      "downloads": 67,
-      "likes": 24,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2025-12-09T06:54:09.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "YatharthS",
-      "id": "YatharthS/FlashSR",
-      "downloads": 0,
-      "likes": 63,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2025-12-26T20:24:13.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Aratako",
       "id": "Aratako/MioCodec-25Hz-24kHz",
-      "downloads": 8246,
+      "downloads": 7412,
       "likes": 12,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-02-03T10:00:30.000Z",
@@ -115,42 +75,32 @@
       "repoType": "model"
     },
     {
-      "author": "YatharthS",
-      "id": "YatharthS/LavaSR",
-      "downloads": 801,
-      "likes": 79,
+      "author": "kyutai",
+      "id": "kyutai/hibiki-zero-3b-pytorch-bf16",
+      "downloads": 3082,
+      "likes": 53,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-02-27T16:08:44.000Z",
+      "lastModified": "2026-02-12T15:35:39.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "AEmotionStudio",
-      "id": "AEmotionStudio/audiosr-models",
-      "downloads": 0,
-      "likes": 3,
+      "author": "nvidia",
+      "id": "nvidia/RE-USE",
+      "downloads": 5901,
+      "likes": 69,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-04-12T04:20:25.000Z",
+      "lastModified": "2026-03-26T18:18:44.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "mlx-community",
       "id": "mlx-community/mel-roformer-kim-vocal-2-mlx",
-      "downloads": 168,
+      "downloads": 173,
       "likes": 5,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-05-01T15:37:43.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "AMAImedia",
-      "id": "AMAImedia/UniverSR-Darwin-NOESIS-BF16",
-      "downloads": 7,
-      "likes": 3,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-04-26T07:34:48.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -167,7 +117,7 @@
     {
       "author": "facebook",
       "id": "facebook/xm_transformer_s2ut_hk-en",
-      "downloads": 6,
+      "downloads": 5,
       "likes": 10,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2022-12-20T23:57:17.000Z",
@@ -187,20 +137,10 @@
     {
       "author": "IAHispano",
       "id": "IAHispano/Applio",
-      "downloads": 99,
+      "downloads": 103,
       "likes": 170,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-02-25T23:33:36.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "JusperLee",
-      "id": "JusperLee/TDANetBest-4ms-LRS2",
-      "downloads": 0,
-      "likes": 3,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2023-10-12T10:36:06.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -211,6 +151,16 @@
       "likes": 8,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2023-10-12T20:05:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ResembleAI",
+      "id": "ResembleAI/resemble-enhance",
+      "downloads": 0,
+      "likes": 185,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2023-12-21T00:22:48.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -297,13 +247,63 @@
     {
       "author": "nvidia",
       "id": "nvidia/bigvgan_v2_44khz_128band_512x",
-      "downloads": 1014007,
+      "downloads": 992191,
       "likes": 70,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-09-05T03:35:39.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "AnhP",
+      "id": "AnhP/Vietnamese-RVC-Project",
+      "downloads": 0,
+      "likes": 12,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-09T13:29:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "alefiury",
+      "id": "alefiury/free-svc",
+      "downloads": 41,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-04-16T11:08:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "amphion",
+      "id": "amphion/dualcodec",
+      "downloads": 0,
+      "likes": 9,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-10-13T16:18:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IssacMosesD",
+      "id": "IssacMosesD/Lunar-RVC-Model",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-08-16T11:06:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "amphion",
+      "id": "amphion/TaDiCodec",
+      "downloads": 42,
+      "likes": 28,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-09-02T07:25:21.000Z",
+      "numParameters": 499964061,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:41:59.248Z"
+  "fetchedAt": "2026-05-09T20:32:51.175Z"
 }

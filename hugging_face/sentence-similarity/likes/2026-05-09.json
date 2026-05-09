@@ -1,14 +1,14 @@
 {
   "category": "sentence-similarity",
   "sort": "likes",
-  "totalItems": 15382,
+  "totalItems": 15379,
   "fetchedItems": 30,
   "models": [
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 249496644,
-      "likes": 4767,
+      "downloads": 251377374,
+      "likes": 4769,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:37:44.000Z",
       "numParameters": 22713728,
@@ -17,8 +17,8 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-m3",
-      "downloads": 22148924,
-      "likes": 2984,
+      "downloads": 22540041,
+      "likes": 2985,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-07-03T14:50:10.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "google",
       "id": "google/embeddinggemma-300m",
-      "downloads": 1489422,
+      "downloads": 1504453,
       "likes": 1633,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-09-25T15:11:17.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 36763120,
+      "downloads": 36616363,
       "likes": 1289,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:14:25.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 46449867,
+      "downloads": 46669915,
       "likes": 1221,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-01-28T10:02:26.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v1.5",
-      "downloads": 15943196,
-      "likes": 817,
+      "downloads": 16054510,
+      "likes": 818,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-07T14:17:02.000Z",
       "numParameters": 136731648,
@@ -67,7 +67,7 @@
     {
       "author": "shibing624",
       "id": "shibing624/text2vec-base-chinese",
-      "downloads": 876678,
+      "downloads": 892463,
       "likes": 791,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-11-14T06:26:28.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "GanymedeNil",
       "id": "GanymedeNil/text2vec-large-chinese",
-      "downloads": 3557,
+      "downloads": 3473,
       "likes": 761,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-06-25T09:51:38.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "hkunlp",
       "id": "hkunlp/instructor-xl",
-      "downloads": 116300,
+      "downloads": 104648,
       "likes": 584,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2023-01-21T06:33:27.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v1",
-      "downloads": 7413198,
+      "downloads": 7434844,
       "likes": 566,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-07T14:16:41.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "hkunlp",
       "id": "hkunlp/instructor-large",
-      "downloads": 284952,
+      "downloads": 283430,
       "likes": 524,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2023-04-21T06:04:33.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "Alibaba-NLP",
       "id": "Alibaba-NLP/gte-Qwen2-7B-instruct",
-      "downloads": 485080,
+      "downloads": 467869,
       "likes": 482,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-24T09:43:55.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v2-moe",
-      "downloads": 1910666,
+      "downloads": 1891741,
       "likes": 475,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-04-01T13:38:53.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
-      "downloads": 5806669,
+      "downloads": 5941922,
       "likes": 460,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:29:38.000Z",
@@ -147,8 +147,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-Embedding-8B",
-      "downloads": 1542250,
-      "likes": 399,
+      "downloads": 1547301,
+      "likes": 402,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-16T08:55:18.000Z",
       "numParameters": 8144793840,
@@ -157,7 +157,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-Embedding-2B",
-      "downloads": 2356586,
+      "downloads": 2323961,
       "likes": 397,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-16T08:54:25.000Z",
@@ -165,9 +165,19 @@
       "repoType": "model"
     },
     {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-base",
+      "downloads": 4264641,
+      "likes": 357,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:13:31.000Z",
+      "numParameters": 278044162,
+      "repoType": "model"
+    },
+    {
       "author": "Alibaba-NLP",
       "id": "Alibaba-NLP/gte-multilingual-base",
-      "downloads": 2445924,
+      "downloads": 2353326,
       "likes": 357,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-07-05T01:38:16.000Z",
@@ -175,19 +185,9 @@
       "repoType": "model"
     },
     {
-      "author": "intfloat",
-      "id": "intfloat/multilingual-e5-base",
-      "downloads": 4170734,
-      "likes": 356,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2026-04-02T02:13:31.000Z",
-      "numParameters": 278044162,
-      "repoType": "model"
-    },
-    {
       "author": "sentence-transformers",
       "id": "sentence-transformers/LaBSE",
-      "downloads": 705253,
+      "downloads": 658205,
       "likes": 336,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:40:25.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "intfloat",
       "id": "intfloat/multilingual-e5-small",
-      "downloads": 7592103,
+      "downloads": 7694367,
       "likes": 313,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-02T02:16:05.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-MiniLM-L12-v2",
-      "downloads": 2959982,
+      "downloads": 2974589,
       "likes": 308,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-03-31T16:05:12.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "thenlper",
       "id": "thenlper/gte-large",
-      "downloads": 1373125,
+      "downloads": 1364214,
       "likes": 302,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-11-15T14:10:31.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "intfloat",
       "id": "intfloat/e5-large-v2",
-      "downloads": 1282608,
+      "downloads": 1264868,
       "likes": 279,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-02-17T03:26:51.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "NovaSearch",
       "id": "NovaSearch/stella_en_1.5B_v5",
-      "downloads": 54886,
+      "downloads": 53503,
       "likes": 261,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-07-28T11:41:52.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Snowflake",
       "id": "Snowflake/snowflake-arctic-embed-l-v2.0",
-      "downloads": 806636,
+      "downloads": 815727,
       "likes": 242,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-07-28T14:00:58.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "lightonai",
       "id": "lightonai/Reason-ModernColBERT",
-      "downloads": 6214,
+      "downloads": 5999,
       "likes": 241,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-14T08:27:27.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Alibaba-NLP",
       "id": "Alibaba-NLP/gte-large-en-v1.5",
-      "downloads": 1037330,
+      "downloads": 1043587,
       "likes": 234,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-08-09T03:32:05.000Z",
@@ -277,8 +277,8 @@
     {
       "author": "NovaSearch",
       "id": "NovaSearch/stella_en_400M_v5",
-      "downloads": 1260617,
-      "likes": 232,
+      "downloads": 1225182,
+      "likes": 233,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-07-28T11:42:23.000Z",
       "numParameters": 435188736,
@@ -287,7 +287,7 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/modernbert-embed-base",
-      "downloads": 207769,
+      "downloads": 203202,
       "likes": 231,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-01-24T15:31:46.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "Alibaba-NLP",
       "id": "Alibaba-NLP/gte-Qwen2-1.5B-instruct",
-      "downloads": 362617,
+      "downloads": 359535,
       "likes": 230,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-05-28T13:11:05.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:40.352Z"
+  "fetchedAt": "2026-05-09T20:33:59.544Z"
 }

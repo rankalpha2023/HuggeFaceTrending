@@ -1,13 +1,13 @@
 {
   "category": "robotics",
   "sort": "downloads",
-  "totalItems": 19023,
+  "totalItems": 19063,
   "fetchedItems": 30,
   "models": [
     {
       "author": "openvla",
       "id": "openvla/openvla-7b",
-      "downloads": 1994742,
+      "downloads": 1967312,
       "likes": 215,
       "pipeline_tag": "robotics",
       "lastModified": "2026-02-17T03:43:23.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Alpamayo-1.5-10B",
-      "downloads": 79497,
+      "downloads": 79131,
       "likes": 65,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-27T14:22:13.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Alpamayo-R1-10B",
-      "downloads": 44250,
+      "downloads": 43141,
       "likes": 394,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-27T14:21:20.000Z",
@@ -37,8 +37,8 @@
     {
       "author": "lerobot",
       "id": "lerobot/smolvla_base",
-      "downloads": 31473,
-      "likes": 376,
+      "downloads": 31812,
+      "likes": 377,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T09:32:49.000Z",
       "numParameters": null,
@@ -47,7 +47,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.6-3B",
-      "downloads": 28103,
+      "downloads": 27172,
       "likes": 88,
       "pipeline_tag": "robotics",
       "lastModified": "2025-12-15T23:34:21.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "2toINF",
       "id": "2toINF/X-VLA-Pt",
-      "downloads": 23047,
+      "downloads": 22984,
       "likes": 12,
       "pipeline_tag": "robotics",
       "lastModified": "2025-11-16T16:16:25.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "HuggingFaceVLA",
       "id": "HuggingFaceVLA/smolvla_libero",
-      "downloads": 22285,
+      "downloads": 22078,
       "likes": 13,
       "pipeline_tag": "robotics",
       "lastModified": "2025-09-17T07:58:34.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "lerobot",
-      "id": "lerobot/pi05_libero_finetuned_v044",
-      "downloads": 17797,
-      "likes": 15,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-01-22T08:48:43.000Z",
-      "numParameters": 3616757520,
-      "repoType": "model"
-    },
-    {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.7-3B",
-      "downloads": 17367,
+      "downloads": 18183,
       "likes": 27,
       "pipeline_tag": "robotics",
       "lastModified": "2026-04-23T19:09:30.000Z",
@@ -95,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "lerobot",
+      "id": "lerobot/pi05_libero_finetuned_v044",
+      "downloads": 17808,
+      "likes": 15,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-01-22T08:48:43.000Z",
+      "numParameters": 3616757520,
+      "repoType": "model"
+    },
+    {
       "author": "moojink",
       "id": "moojink/openvla-7b-oft-finetuned-libero-spatial",
-      "downloads": 13351,
+      "downloads": 14130,
       "likes": 14,
       "pipeline_tag": "robotics",
       "lastModified": "2025-06-17T22:28:54.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi05_base",
-      "downloads": 12456,
+      "downloads": 12671,
       "likes": 67,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T08:49:18.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi0_libero_finetuned_v044",
-      "downloads": 7493,
+      "downloads": 7183,
       "likes": 6,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T08:57:47.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi0_base",
-      "downloads": 5427,
+      "downloads": 5486,
       "likes": 19,
       "pipeline_tag": "robotics",
       "lastModified": "2026-01-22T08:52:19.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/xvla-base",
-      "downloads": 4714,
+      "downloads": 4737,
       "likes": 20,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-02T09:30:03.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "CogACT",
       "id": "CogACT/CogACT-Base",
-      "downloads": 4598,
+      "downloads": 4582,
       "likes": 18,
       "pipeline_tag": "robotics",
       "lastModified": "2024-12-04T16:02:40.000Z",
@@ -165,9 +165,19 @@
       "repoType": "model"
     },
     {
+      "author": "moojink",
+      "id": "moojink/openvla-7b-oft-finetuned-libero-goal",
+      "downloads": 4306,
+      "likes": 2,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-06-17T22:32:09.000Z",
+      "numParameters": 7541237184,
+      "repoType": "model"
+    },
+    {
       "author": "YuankaiLuo",
       "id": "YuankaiLuo/SimVLA-LIBERO",
-      "downloads": 4440,
+      "downloads": 4168,
       "likes": 2,
       "pipeline_tag": "robotics",
       "lastModified": "2026-02-26T03:37:28.000Z",
@@ -176,18 +186,8 @@
     },
     {
       "author": "moojink",
-      "id": "moojink/openvla-7b-oft-finetuned-libero-10",
-      "downloads": 4044,
-      "likes": 3,
-      "pipeline_tag": "robotics",
-      "lastModified": "2025-06-17T22:33:04.000Z",
-      "numParameters": 7541237184,
-      "repoType": "model"
-    },
-    {
-      "author": "moojink",
       "id": "moojink/openvla-7b-oft-finetuned-libero-object",
-      "downloads": 3836,
+      "downloads": 3945,
       "likes": 2,
       "pipeline_tag": "robotics",
       "lastModified": "2025-06-17T22:31:22.000Z",
@@ -196,8 +196,18 @@
     },
     {
       "author": "moojink",
+      "id": "moojink/openvla-7b-oft-finetuned-libero-10",
+      "downloads": 3913,
+      "likes": 3,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-06-17T22:33:04.000Z",
+      "numParameters": 7541237184,
+      "repoType": "model"
+    },
+    {
+      "author": "moojink",
       "id": "moojink/openvla-7b-oft-finetuned-libero-spatial-object-goal-10",
-      "downloads": 3697,
+      "downloads": 3711,
       "likes": 10,
       "pipeline_tag": "robotics",
       "lastModified": "2025-06-17T22:34:22.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/HomeGuard-8B-i1-GGUF",
-      "downloads": 3670,
+      "downloads": 3707,
       "likes": 1,
       "pipeline_tag": "robotics",
       "lastModified": "2026-04-21T14:33:32.000Z",
@@ -215,19 +225,9 @@
       "repoType": "model"
     },
     {
-      "author": "moojink",
-      "id": "moojink/openvla-7b-oft-finetuned-libero-goal",
-      "downloads": 3617,
-      "likes": 2,
-      "pipeline_tag": "robotics",
-      "lastModified": "2025-06-17T22:32:09.000Z",
-      "numParameters": 7541237184,
-      "repoType": "model"
-    },
-    {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.5-3B",
-      "downloads": 3510,
+      "downloads": 3401,
       "likes": 188,
       "pipeline_tag": "robotics",
       "lastModified": "2025-09-17T20:50:05.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/pi0fast-base",
-      "downloads": 2973,
+      "downloads": 2977,
       "likes": 24,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-04T20:10:32.000Z",
@@ -246,18 +246,8 @@
     },
     {
       "author": "lerobot",
-      "id": "lerobot/xvla-libero",
-      "downloads": 2753,
-      "likes": 4,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-01-22T09:15:34.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "lerobot",
       "id": "lerobot/smolvla_libero",
-      "downloads": 2635,
+      "downloads": 2866,
       "likes": 2,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-24T04:51:22.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "lerobot",
       "id": "lerobot/diffusion_pusht",
-      "downloads": 2620,
+      "downloads": 2642,
       "likes": 56,
       "pipeline_tag": "robotics",
       "lastModified": "2025-03-06T09:02:17.000Z",
@@ -275,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "lerobot",
+      "id": "lerobot/xvla-libero",
+      "downloads": 2633,
+      "likes": 4,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-01-22T09:15:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "ar0s",
       "id": "ar0s/groot_libero",
-      "downloads": 2192,
+      "downloads": 2137,
       "likes": 0,
       "pipeline_tag": "robotics",
       "lastModified": "2026-03-26T00:19:36.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "juexzz",
       "id": "juexzz/INTACT-pi0-finetune-bridge",
-      "downloads": 2117,
+      "downloads": 2080,
       "likes": 1,
       "pipeline_tag": "robotics",
       "lastModified": "2025-06-27T17:20:02.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "allenai",
       "id": "allenai/MolmoAct-7B-D-LIBERO-Goal-0812",
-      "downloads": 2101,
+      "downloads": 2080,
       "likes": 0,
       "pipeline_tag": "robotics",
       "lastModified": "2025-09-02T06:28:38.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-05-09T05:42:38.779Z"
+  "fetchedAt": "2026-05-09T20:33:56.795Z"
 }
