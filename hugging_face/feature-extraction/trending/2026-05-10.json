@@ -1,0 +1,309 @@
+{
+  "category": "feature-extraction",
+  "sort": "trending",
+  "totalItems": 17598,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-97m-multilingual-r2",
+      "downloads": 5680,
+      "likes": 88,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-29T01:27:50.000Z",
+      "numParameters": 97441152,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-311m-multilingual-r2",
+      "downloads": 13677,
+      "likes": 76,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-29T01:19:42.000Z",
+      "numParameters": 311664384,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-text-small",
+      "downloads": 250856,
+      "likes": 163,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-15T09:14:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/harrier-oss-v1-0.6b",
+      "downloads": 199822,
+      "likes": 219,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-30T08:00:59.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-4.1-2b-nar",
+      "downloads": 1892,
+      "likes": 40,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-30T18:06:15.000Z",
+      "numParameters": 2254636381,
+      "repoType": "model"
+    },
+    {
+      "author": "mixedbread-ai",
+      "id": "mixedbread-ai/mxbai-embed-large-v1",
+      "downloads": 4428090,
+      "likes": 793,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-23T11:59:58.000Z",
+      "numParameters": 335141888,
+      "repoType": "model"
+    },
+    {
+      "author": "F16",
+      "id": "F16/z-image-turbo-flow-dpo",
+      "downloads": 0,
+      "likes": 179,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-09T18:43:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Sikaworld1990",
+      "id": "Sikaworld1990/gemma-3-12b-qat-abliterated-sikaworld-fp4-ltx2",
+      "downloads": 0,
+      "likes": 27,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-11T17:20:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large",
+      "downloads": 7220932,
+      "likes": 1188,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-02T02:16:59.000Z",
+      "numParameters": 559890946,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-en-v1.5",
+      "downloads": 15307823,
+      "likes": 660,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T02:51:44.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "downloads": 5778172,
+      "likes": 1008,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-20T02:45:58.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Audio-Tokenizer",
+      "downloads": 169217,
+      "likes": 42,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-02-13T04:15:23.000Z",
+      "numParameters": 1774566400,
+      "repoType": "model"
+    },
+    {
+      "author": "U4RASD",
+      "id": "U4RASD/NeoAraBERT",
+      "downloads": 371,
+      "likes": 10,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-03T13:26:14.000Z",
+      "numParameters": 298129640,
+      "repoType": "model"
+    },
+    {
+      "author": "amaai-lab",
+      "id": "amaai-lab/apex",
+      "downloads": 288,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-07T01:38:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shyngys879",
+      "id": "shyngys879/kazakh-e5-rag-embedding",
+      "downloads": 141,
+      "likes": 5,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-10T10:55:45.000Z",
+      "numParameters": 278043648,
+      "repoType": "model"
+    },
+    {
+      "author": "T-Systems-onsite",
+      "id": "T-Systems-onsite/cross-en-de-roberta-sentence-transformer",
+      "downloads": 12923,
+      "likes": 70,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-09-17T08:22:45.000Z",
+      "numParameters": 278044162,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-base-en-v1.5",
+      "downloads": 8610755,
+      "likes": 417,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T03:00:19.000Z",
+      "numParameters": 109482752,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-large",
+      "downloads": 1274852,
+      "likes": 458,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-05-11T13:39:02.000Z",
+      "numParameters": 559891971,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v3",
+      "downloads": 3037924,
+      "likes": 1140,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-08T14:04:08.000Z",
+      "numParameters": 572310396,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-english-r2",
+      "downloads": 33553,
+      "likes": 83,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-06T17:45:03.000Z",
+      "numParameters": 149014272,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-small-english-r2",
+      "downloads": 1111971,
+      "likes": 68,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-21T18:38:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v1-0.6b",
+      "downloads": 147517,
+      "likes": 208,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-03T08:17:37.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/C-RADIOv4-H",
+      "downloads": 7788,
+      "likes": 69,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-30T12:40:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/harrier-oss-v1-270m",
+      "downloads": 137840,
+      "likes": 157,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-30T07:34:02.000Z",
+      "numParameters": 268098176,
+      "repoType": "model"
+    },
+    {
+      "author": "DataScience-UIBK",
+      "id": "DataScience-UIBK/Argus-Colqwen3.5-4b-v0",
+      "downloads": 35,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-03T01:44:43.000Z",
+      "numParameters": 4708446724,
+      "repoType": "model"
+    },
+    {
+      "author": "VoiceNet",
+      "id": "VoiceNet/voiceclap-large",
+      "downloads": 39,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-06T14:05:23.000Z",
+      "numParameters": 8999313920,
+      "repoType": "model"
+    },
+    {
+      "author": "adalbertojunior",
+      "id": "adalbertojunior/distilbert-portuguese-cased",
+      "downloads": 721,
+      "likes": 21,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-09-10T19:43:48.000Z",
+      "numParameters": 66396416,
+      "repoType": "model"
+    },
+    {
+      "author": "allenai",
+      "id": "allenai/specter",
+      "downloads": 13735,
+      "likes": 66,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2023-10-18T04:19:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-unfused",
+      "downloads": 914976,
+      "likes": 72,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2023-04-24T14:39:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-zh-v1.5",
+      "downloads": 912550,
+      "likes": 623,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-04-02T14:00:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-10T20:36:16.412Z"
+}
