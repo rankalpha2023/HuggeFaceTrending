@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 115416,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 6689803,
+      "likes": 1152,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 10678420,
+      "likes": 985,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "PleIAs",
+      "id": "PleIAs/CommonLingua",
+      "downloads": 313,
+      "likes": 26,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-28T10:01:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "downloads": 3311388,
+      "likes": 796,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-04T07:58:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/multilingual-emotion-classification",
+      "downloads": 2364,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-15T12:14:58.000Z",
+      "numParameters": 278052107,
+      "repoType": "model"
+    },
+    {
+      "author": "cis-lmu",
+      "id": "cis-lmu/glotlid",
+      "downloads": 117284,
+      "likes": 100,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-04-18T11:18:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "patronus-studio",
+      "id": "patronus-studio/wolf-defender-prompt-injection-small",
+      "downloads": 1893,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T09:49:19.000Z",
+      "numParameters": 140642306,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-ultra",
+      "downloads": 444,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:51:37.000Z",
+      "numParameters": 1708243969,
+      "repoType": "model"
+    },
+    {
+      "author": "yanou16",
+      "id": "yanou16/cefr-english-classifier",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-04T17:00:26.000Z",
+      "numParameters": 1543723520,
+      "repoType": "model"
+    },
+    {
+      "author": "hq-bench",
+      "id": "hq-bench/coreb-code-reranker",
+      "downloads": 64,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-07T07:58:54.000Z",
+      "numParameters": 4021784576,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+      "downloads": 341856,
+      "likes": 456,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-21T15:17:58.000Z",
+      "numParameters": 82121221,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-Math-PRM-7B",
+      "downloads": 162692,
+      "likes": 88,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-01-17T09:14:55.000Z",
+      "numParameters": 7628472322,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 130780,
+      "likes": 116,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "Houdna-khilouf",
+      "id": "Houdna-khilouf/Dz-EmoBERT",
+      "downloads": 262,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-17T12:04:23.000Z",
+      "numParameters": 124445958,
+      "repoType": "model"
+    },
+    {
+      "author": "patronus-studio",
+      "id": "patronus-studio/wolf-defender-prompt-injection",
+      "downloads": 4930,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T09:45:10.000Z",
+      "numParameters": 307531778,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-mini",
+      "downloads": 506,
+      "likes": 7,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:52:36.000Z",
+      "numParameters": 283736833,
+      "repoType": "model"
+    },
+    {
+      "author": "stargainc",
+      "id": "stargainc/clinicalmem-bitnet-b158",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-11T12:14:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3487449,
+      "likes": 894,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "amberoad",
+      "id": "amberoad/bert-multilingual-passage-reranking-msmarco",
+      "downloads": 6078,
+      "likes": 88,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-26T13:14:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "citizenlab",
+      "id": "citizenlab/distilbert-base-multilingual-cased-toxicity",
+      "downloads": 20930,
+      "likes": 23,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-12-02T13:50:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "citizenlab",
+      "id": "citizenlab/twitter-xlm-roberta-base-sentiment-finetunned",
+      "downloads": 3520,
+      "likes": 42,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-12-02T13:49:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bhadresh-savani",
+      "id": "bhadresh-savani/distilbert-base-uncased-emotion",
+      "downloads": 571024,
+      "likes": 164,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-08-14T14:11:10.000Z",
+      "numParameters": 66958086,
+      "repoType": "model"
+    },
+    {
+      "author": "cointegrated",
+      "id": "cointegrated/rubert-tiny-toxicity",
+      "downloads": 53769,
+      "likes": 46,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-05-16T15:05:52.000Z",
+      "numParameters": 11786245,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/bias-detection-model",
+      "downloads": 50171,
+      "likes": 52,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-09T02:40:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dennlinger",
+      "id": "dennlinger/bert-wiki-paragraphs",
+      "downloads": 52,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-03-21T12:24:52.000Z",
+      "numParameters": 109484290,
+      "repoType": "model"
+    },
+    {
+      "author": "j-hartmann",
+      "id": "j-hartmann/sentiment-roberta-large-english-3-classes",
+      "downloads": 149050,
+      "likes": 26,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-02T13:02:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shahrukhx01",
+      "id": "shahrukhx01/bert-multitask-query-classifiers",
+      "downloads": 72,
+      "likes": 10,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-11-09T09:00:11.000Z",
+      "numParameters": 11172100,
+      "repoType": "model"
+    },
+    {
+      "author": "w11wo",
+      "id": "w11wo/indonesian-roberta-base-sentiment-classifier",
+      "downloads": 123687,
+      "likes": 55,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-13T04:10:11.000Z",
+      "numParameters": 124648453,
+      "repoType": "model"
+    },
+    {
+      "author": "yiyanghkust",
+      "id": "yiyanghkust/finbert-tone",
+      "downloads": 765104,
+      "likes": 218,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-10-17T00:35:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/roberta-hate-speech-dynabench-r4-target",
+      "downloads": 101476,
+      "likes": 99,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-03-16T20:03:57.000Z",
+      "numParameters": 124647684,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-11T21:09:57.333Z"
+}
