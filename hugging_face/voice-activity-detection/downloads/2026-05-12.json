@@ -1,0 +1,309 @@
+{
+  "category": "voice-activity-detection",
+  "sort": "downloads",
+  "totalItems": 162,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "pyannote",
+      "id": "pyannote/segmentation-3.0",
+      "downloads": 10199701,
+      "likes": 974,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-05-10T19:35:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/segmentation",
+      "downloads": 4811192,
+      "likes": 677,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-05-10T19:38:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FluidInference",
+      "id": "FluidInference/silero-vad-coreml",
+      "downloads": 33979,
+      "likes": 21,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-09-17T00:57:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FluidInference",
+      "id": "FluidInference/speaker-diarization-coreml",
+      "downloads": 17172,
+      "likes": 37,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-03-14T21:38:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fatymatariq",
+      "id": "fatymatariq/segmentation-3.0",
+      "downloads": 7805,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-11-21T13:02:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/brouhaha",
+      "downloads": 7404,
+      "likes": 27,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-15T09:10:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/Pyannote-Segmentation-MLX",
+      "downloads": 6528,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-12T08:10:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/Silero-VAD-v5-MLX",
+      "downloads": 6154,
+      "likes": 3,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-12T08:10:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/smart-turn-v2",
+      "downloads": 4298,
+      "likes": 76,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-09-03T15:29:47.000Z",
+      "numParameters": 94782722,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/Silero-VAD-v5-CoreML",
+      "downloads": 2945,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-12T08:10:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BUT-FIT",
+      "id": "BUT-FIT/diarizen-wavlm-large-s80-md-v2",
+      "downloads": 2468,
+      "likes": 11,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-12-09T09:48:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-precision-2",
+      "downloads": 1611,
+      "likes": 14,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-09-16T09:30:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "istupakov",
+      "id": "istupakov/silero-vad-onnx",
+      "downloads": 1352,
+      "likes": 2,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-03-22T18:35:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0",
+      "downloads": 1242,
+      "likes": 41,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-05-14T14:35:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "videosdk-live",
+      "id": "videosdk-live/Namo-Turn-Detector-v1-Multilingual",
+      "downloads": 1016,
+      "likes": 20,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-10-15T07:40:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BUT-FIT",
+      "id": "BUT-FIT/diarizen-wavlm-large-s80-md",
+      "downloads": 807,
+      "likes": 51,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-12-09T09:45:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedVAD",
+      "downloads": 788,
+      "likes": 53,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-03-13T03:40:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "drewThomasson",
+      "id": "drewThomasson/segmentation",
+      "downloads": 730,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-12-17T21:16:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ubitec",
+      "id": "ubitec/pyannote-segmentation-3.0",
+      "downloads": 698,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-05-10T19:35:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "funasr",
+      "id": "funasr/fsmn-vad",
+      "downloads": 668,
+      "likes": 22,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-02-01T15:52:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "videosdk-live",
+      "id": "videosdk-live/Namo-Turn-Detector-v1-Arabic",
+      "downloads": 450,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-10-15T07:40:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/smart-turn-v3",
+      "downloads": 388,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-02-20T23:41:37.000Z",
+      "numParameters": 8000386,
+      "repoType": "model"
+    },
+    {
+      "author": "CuriousMonkey7",
+      "id": "CuriousMonkey7/HumAware-VAD",
+      "downloads": 380,
+      "likes": 17,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-03-19T20:18:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/smart-turn-v3-ONNX",
+      "downloads": 283,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-12-12T00:49:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cstr",
+      "id": "cstr/firered-vad-GGUF",
+      "downloads": 254,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-20T06:24:16.000Z",
+      "numParameters": 589091,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/diar_streaming_sortformer_4spk-v2.1-fp16",
+      "downloads": 237,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-02-10T15:49:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "videosdk-live",
+      "id": "videosdk-live/Namo-Turn-Detector-v1-Hindi",
+      "downloads": 185,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-10-15T07:40:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cstr",
+      "id": "cstr/pyannote-v3-segmentation-GGUF",
+      "downloads": 184,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-12T14:07:28.000Z",
+      "numParameters": 1493279,
+      "repoType": "model"
+    },
+    {
+      "author": "cstr",
+      "id": "cstr/whisper-vad-encdec-asmr-GGUF",
+      "downloads": 170,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-27T16:23:18.000Z",
+      "numParameters": 29781089,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/FireRedVAD-CoreML",
+      "downloads": 125,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-04-12T08:12:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-12T21:10:04.660Z"
+}

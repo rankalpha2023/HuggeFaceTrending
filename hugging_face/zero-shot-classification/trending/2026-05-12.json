@@ -1,0 +1,309 @@
+{
+  "category": "zero-shot-classification",
+  "sort": "trending",
+  "totalItems": 477,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/nli-deberta-v3-large",
+      "downloads": 78809,
+      "likes": 41,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-04-15T07:48:35.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+      "downloads": 302204,
+      "likes": 364,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:49:19.000Z",
+      "numParameters": 278812163,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+      "downloads": 202800,
+      "likes": 308,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-01-08T12:37:16.000Z",
+      "numParameters": 278812163,
+      "repoType": "model"
+    },
+    {
+      "author": "cointegrated",
+      "id": "cointegrated/rubert-base-cased-nli-threeway",
+      "downloads": 5960,
+      "likes": 38,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-05T09:31:57.000Z",
+      "numParameters": 177856259,
+      "repoType": "model"
+    },
+    {
+      "author": "joeddav",
+      "id": "joeddav/xlm-roberta-large-xnli",
+      "downloads": 118539,
+      "likes": 290,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-10-16T21:59:20.000Z",
+      "numParameters": 560943621,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+      "downloads": 177395,
+      "likes": 125,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:49:10.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "peng-lab",
+      "id": "peng-lab/phoenix",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-05-12T09:57:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hivetrace",
+      "id": "hivetrace/gliner-guard-uniencoder",
+      "downloads": 2755,
+      "likes": 6,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-05-08T09:37:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/bart-large-mnli",
+      "downloads": 2919537,
+      "likes": 1567,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-09-05T14:49:34.000Z",
+      "numParameters": 407344133,
+      "repoType": "model"
+    },
+    {
+      "author": "ClaudeYang",
+      "id": "ClaudeYang/awesome_fb_model",
+      "downloads": 62,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2021-11-15T10:29:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jiva",
+      "id": "Jiva/xlm-roberta-large-it-mnli",
+      "downloads": 245,
+      "likes": 8,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-05-22T09:22:29.000Z",
+      "numParameters": 559894021,
+      "repoType": "model"
+    },
+    {
+      "author": "KheireddineDaouadi",
+      "id": "KheireddineDaouadi/ZeroAraElectra",
+      "downloads": 20,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2022-02-26T18:40:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+      "downloads": 80356,
+      "likes": 223,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:47:27.000Z",
+      "numParameters": 184424963,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-base-mnli",
+      "downloads": 1906,
+      "likes": 8,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-03-20T08:33:23.000Z",
+      "numParameters": 184424963,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary",
+      "downloads": 19655,
+      "likes": 7,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:48:16.000Z",
+      "numParameters": 70831234,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/xtremedistil-l6-h256-mnli-fever-anli-ling-binary",
+      "downloads": 56,
+      "likes": 3,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-01-16T10:32:48.000Z",
+      "numParameters": 12751106,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/1epochv3",
+      "downloads": 40,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2021-11-30T20:05:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/2epochv3mlni",
+      "downloads": 43,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-02-19T12:54:50.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/3epoch-3large",
+      "downloads": 43,
+      "likes": 2,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2021-11-30T17:34:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/ZSD-microsoft-v2xxlmnli",
+      "downloads": 47,
+      "likes": 3,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-11-22T12:48:05.000Z",
+      "numParameters": 1566915075,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/deberta-v2-xlarge-mnli",
+      "downloads": 45,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-02-19T12:54:39.000Z",
+      "numParameters": 886959107,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/debertav3-mnli-snli-anli",
+      "downloads": 49,
+      "likes": 3,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-05-01T16:50:08.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/v2xl-again-mnli",
+      "downloads": 49,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-02-19T12:53:47.000Z",
+      "numParameters": 886959107,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/v3-Large-mnli",
+      "downloads": 53,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-11-22T12:48:15.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/v3large-1epoch",
+      "downloads": 45,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-11-22T12:47:37.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "NDugar",
+      "id": "NDugar/v3large-2epoch",
+      "downloads": 52,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-12-06T12:14:11.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "Narsil",
+      "id": "Narsil/deberta-large-mnli-zero-cls",
+      "downloads": 1286,
+      "likes": 14,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2021-08-23T13:27:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NbAiLab",
+      "id": "NbAiLab/nb-bert-base-mnli",
+      "downloads": 144,
+      "likes": 10,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-03-24T11:32:00.000Z",
+      "numParameters": 177856259,
+      "repoType": "model"
+    },
+    {
+      "author": "Recognai",
+      "id": "Recognai/bert-base-spanish-wwm-cased-xnli",
+      "downloads": 3149,
+      "likes": 18,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-07-14T22:22:51.000Z",
+      "numParameters": 109853699,
+      "repoType": "model"
+    },
+    {
+      "author": "Recognai",
+      "id": "Recognai/zeroshot_selectra_medium",
+      "downloads": 270,
+      "likes": 12,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2023-07-14T22:21:07.000Z",
+      "numParameters": 40841219,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-12T21:10:05.478Z"
+}

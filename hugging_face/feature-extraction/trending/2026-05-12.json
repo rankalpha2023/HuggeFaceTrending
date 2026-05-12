@@ -1,0 +1,309 @@
+{
+  "category": "feature-extraction",
+  "sort": "trending",
+  "totalItems": 17714,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-311m-multilingual-r2",
+      "downloads": 14223,
+      "likes": 77,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-29T01:19:42.000Z",
+      "numParameters": 311664384,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-97m-multilingual-r2",
+      "downloads": 6062,
+      "likes": 91,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-29T01:27:50.000Z",
+      "numParameters": 97441152,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-small",
+      "downloads": 16000,
+      "likes": 10,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:40:46.000Z",
+      "numParameters": 1626268672,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/harrier-oss-v1-0.6b",
+      "downloads": 197326,
+      "likes": 223,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-30T08:00:59.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "downloads": 5767026,
+      "likes": 1013,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-20T02:45:58.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-text-small",
+      "downloads": 247923,
+      "likes": 163,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-15T09:14:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-4.1-2b-nar",
+      "downloads": 2026,
+      "likes": 42,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-30T18:06:15.000Z",
+      "numParameters": 2254636381,
+      "repoType": "model"
+    },
+    {
+      "author": "mixedbread-ai",
+      "id": "mixedbread-ai/mxbai-embed-large-v1",
+      "downloads": 4454184,
+      "likes": 796,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-23T11:59:58.000Z",
+      "numParameters": 335141888,
+      "repoType": "model"
+    },
+    {
+      "author": "F16",
+      "id": "F16/z-image-turbo-flow-dpo",
+      "downloads": 0,
+      "likes": 180,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-09T18:43:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano",
+      "downloads": 14416,
+      "likes": 5,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:40:40.000Z",
+      "numParameters": 985984512,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-base-en-v1.5",
+      "downloads": 8664653,
+      "likes": 419,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T03:00:19.000Z",
+      "numParameters": 109482752,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-en-v1.5",
+      "downloads": 15418380,
+      "likes": 661,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T02:51:44.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-small-retrieval",
+      "downloads": 47484,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:50:27.000Z",
+      "numParameters": 1559368704,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano-retrieval",
+      "downloads": 54165,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:50:24.000Z",
+      "numParameters": 947615232,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large",
+      "downloads": 7202827,
+      "likes": 1189,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-02T02:16:59.000Z",
+      "numParameters": 559890946,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-small-en-v1.5",
+      "downloads": 40607415,
+      "likes": 456,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-22T03:36:23.000Z",
+      "numParameters": 33360512,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Audio-Tokenizer",
+      "downloads": 168545,
+      "likes": 42,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-02-13T04:15:23.000Z",
+      "numParameters": 1774566400,
+      "repoType": "model"
+    },
+    {
+      "author": "zeroentropy",
+      "id": "zeroentropy/zembed-1-embedding",
+      "downloads": 220717,
+      "likes": 99,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-12T21:10:43.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "Sikaworld1990",
+      "id": "Sikaworld1990/gemma-3-12b-qat-abliterated-sikaworld-fp4-ltx2",
+      "downloads": 0,
+      "likes": 27,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-11T17:20:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano-classification",
+      "downloads": 18610,
+      "likes": 3,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:40:58.000Z",
+      "numParameters": 947615232,
+      "repoType": "model"
+    },
+    {
+      "author": "amaai-lab",
+      "id": "amaai-lab/apex",
+      "downloads": 288,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-07T01:38:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shyngys879",
+      "id": "shyngys879/kazakh-e5-rag-embedding",
+      "downloads": 153,
+      "likes": 5,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-10T10:55:45.000Z",
+      "numParameters": 278043648,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-large",
+      "downloads": 1329987,
+      "likes": 459,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-05-11T13:39:02.000Z",
+      "numParameters": 559891971,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large-instruct",
+      "downloads": 1365056,
+      "likes": 622,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-07-10T10:12:37.000Z",
+      "numParameters": 559890432,
+      "repoType": "model"
+    },
+    {
+      "author": "Trendyol",
+      "id": "Trendyol/trendyol-dino-v2-ecommerce-256d",
+      "downloads": 455,
+      "likes": 16,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-08-27T08:18:16.000Z",
+      "numParameters": 136916480,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v1-0.6b",
+      "downloads": 147273,
+      "likes": 209,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-03T08:17:37.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano-clustering",
+      "downloads": 10967,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:41:04.000Z",
+      "numParameters": 947615232,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano-text-matching",
+      "downloads": 11456,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-12T20:41:10.000Z",
+      "numParameters": 947615232,
+      "repoType": "model"
+    },
+    {
+      "author": "U4RASD",
+      "id": "U4RASD/NeoAraBERT",
+      "downloads": 373,
+      "likes": 10,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-03T13:26:14.000Z",
+      "numParameters": 298129640,
+      "repoType": "model"
+    },
+    {
+      "author": "VoiceNet",
+      "id": "VoiceNet/voiceclap-large",
+      "downloads": 39,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-06T14:05:23.000Z",
+      "numParameters": 8999313920,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-12T21:08:56.398Z"
+}
