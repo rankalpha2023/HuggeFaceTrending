@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 27388,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 206981,
+      "likes": 1430,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron",
+      "downloads": 5792,
+      "likes": 38,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T08:01:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lianghsun",
+      "id": "lianghsun/privacy-filter-tw",
+      "downloads": 7,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-04T03:53:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/xlm-roberta-large-ner-hrl",
+      "downloads": 467961,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-14T19:35:59.000Z",
+      "numParameters": 558850571,
+      "repoType": "model"
+    },
+    {
+      "author": "apararti",
+      "id": "apararti/privacy-filter-ru",
+      "downloads": 137,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-26T13:35:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bbeglerov",
+      "id": "bbeglerov/opf-russian-pii-66k",
+      "downloads": 32,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-01T23:40:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ehd0309",
+      "id": "ehd0309/ko-pii-public-v1",
+      "downloads": 116,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-09T03:14:36.000Z",
+      "numParameters": 1399495839,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 774172,
+      "likes": 161,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1771211,
+      "likes": 715,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "oliverguhr",
+      "id": "oliverguhr/fullstop-punctuation-multilang-large",
+      "downloads": 781208,
+      "likes": 177,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-16T09:35:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/en_core_web_lg",
+      "downloads": 536,
+      "likes": 36,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-21T08:13:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kredor",
+      "id": "kredor/punctuate-all",
+      "downloads": 614413,
+      "likes": 27,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-26T05:37:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dominguesm",
+      "id": "dominguesm/legal-bert-ner-base-cased-ptbr",
+      "downloads": 365,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-16T22:29:37.000Z",
+      "numParameters": 108343053,
+      "repoType": "model"
+    },
+    {
+      "author": "turkish-nlp-suite",
+      "id": "turkish-nlp-suite/tr_core_news_md",
+      "downloads": 463,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-19T14:18:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/bert-base-NER",
+      "downloads": 73628,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-07-11T16:01:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hantian",
+      "id": "hantian/layoutreader",
+      "downloads": 94870,
+      "likes": 43,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-06-08T06:54:50.000Z",
+      "numParameters": 356583422,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER_Zero",
+      "downloads": 14632,
+      "likes": 107,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-26T13:28:29.000Z",
+      "numParameters": 448872192,
+      "repoType": "model"
+    },
+    {
+      "author": "portugueseNLP",
+      "id": "portugueseNLP/medialbertina_pt-pt_1.5b_NER",
+      "downloads": 13,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-07T18:28:07.000Z",
+      "numParameters": 1564575761,
+      "repoType": "model"
+    },
+    {
+      "author": "segment-any-text",
+      "id": "segment-any-text/sat-3l-sm",
+      "downloads": 328860,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-09-24T11:54:56.000Z",
+      "numParameters": 213662977,
+      "repoType": "model"
+    },
+    {
+      "author": "yonigo",
+      "id": "yonigo/distilbert-base-cased-pii-en",
+      "downloads": 61,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-25T09:40:36.000Z",
+      "numParameters": 65234745,
+      "repoType": "model"
+    },
+    {
+      "author": "Gherman",
+      "id": "Gherman/bert-base-NER-Russian",
+      "downloads": 355202,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-16T14:24:12.000Z",
+      "numParameters": 177288994,
+      "repoType": "model"
+    },
+    {
+      "author": "gretelai",
+      "id": "gretelai/gretel-gliner-bi-large-v1.0",
+      "downloads": 49,
+      "likes": 32,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-30T18:20:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PHENOMA",
+      "id": "PHENOMA/PlantDeBERTa",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-06-24T08:47:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fortvivlan",
+      "id": "fortvivlan/xlm-roberta-base-cobald-parser-swe",
+      "downloads": 18,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-06-02T11:14:28.000Z",
+      "numParameters": 291061590,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+      "downloads": 232815,
+      "likes": 26,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:31:25.000Z",
+      "numParameters": 434015235,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OncologyDetect-MultiMed-568M",
+      "downloads": 184115,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:35:55.000Z",
+      "numParameters": 566738977,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-DiseaseDetect-BioMed-335M",
+      "downloads": 147167,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:41:31.000Z",
+      "numParameters": 334095363,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-BigMed-278M",
+      "downloads": 117156,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:41:53.000Z",
+      "numParameters": 277455363,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-ChemicalDetect-ElectraMed-33M",
+      "downloads": 76,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:45:51.000Z",
+      "numParameters": 33213315,
+      "repoType": "model"
+    },
+    {
+      "author": "gneeraj",
+      "id": "gneeraj/deeppass2-bert",
+      "downloads": 242,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-10-16T00:32:06.000Z",
+      "numParameters": 277454594,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-13T21:16:17.122Z"
+}

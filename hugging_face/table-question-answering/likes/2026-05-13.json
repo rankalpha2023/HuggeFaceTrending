@@ -1,0 +1,309 @@
+{
+  "category": "table-question-answering",
+  "sort": "likes",
+  "totalItems": 183,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "google",
+      "id": "google/tapas-base-finetuned-wtq",
+      "downloads": 6419,
+      "likes": 234,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-14T10:12:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-large-finetuned-wtq",
+      "downloads": 29050,
+      "likes": 148,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-09-05T14:48:42.000Z",
+      "numParameters": 336734212,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large-finetuned-wtq",
+      "downloads": 930,
+      "likes": 78,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2024-01-12T11:26:01.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-base",
+      "downloads": 483,
+      "likes": 50,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-05-03T03:48:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-base-finetuned-wikisql",
+      "downloads": 944665,
+      "likes": 24,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-01-24T16:57:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large-finetuned-wikisql",
+      "downloads": 112,
+      "likes": 18,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-06-26T19:50:22.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large-sql-execution",
+      "downloads": 108,
+      "likes": 18,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-09-15T19:52:28.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-base-finetuned-wtq",
+      "downloads": 218,
+      "likes": 13,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-06-26T19:49:37.000Z",
+      "numParameters": 139470681,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large",
+      "downloads": 618,
+      "likes": 11,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-05-03T03:48:31.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-base-finetuned-wikisql-supervised",
+      "downloads": 342,
+      "likes": 9,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T13:05:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large-finetuned-tabfact",
+      "downloads": 145,
+      "likes": 9,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-14T10:10:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Meena",
+      "id": "Meena/table-question-answering-tapas",
+      "downloads": 18,
+      "likes": 8,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-04-26T12:01:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-base-finetuned-sqa",
+      "downloads": 1603,
+      "likes": 7,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T11:41:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-large-finetuned-sqa",
+      "downloads": 56429,
+      "likes": 7,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T13:03:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-small-finetuned-wikisql-supervised",
+      "downloads": 24,
+      "likes": 7,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T13:07:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "neulab",
+      "id": "neulab/omnitab-large-finetuned-wtq",
+      "downloads": 46,
+      "likes": 7,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-11-29T02:11:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-large-finetuned-wikisql-supervised",
+      "downloads": 78,
+      "likes": 6,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T13:05:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-small-finetuned-wtq",
+      "downloads": 897,
+      "likes": 6,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-14T10:13:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vaishali",
+      "id": "vaishali/multitabqa-base",
+      "downloads": 18,
+      "likes": 6,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2024-02-20T20:38:26.000Z",
+      "numParameters": 139470681,
+      "repoType": "model"
+    },
+    {
+      "author": "QuantFactory",
+      "id": "QuantFactory/TableLLM-13b-GGUF",
+      "downloads": 135,
+      "likes": 5,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2025-03-06T14:34:58.000Z",
+      "numParameters": 13016028160,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-mini-finetuned-sqa",
+      "downloads": 33,
+      "likes": 4,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2021-11-29T13:10:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vaishali",
+      "id": "vaishali/multitabqa-base-sql",
+      "downloads": 17,
+      "likes": 4,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2024-02-20T20:42:09.000Z",
+      "numParameters": 139470681,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-mini-finetuned-wtq",
+      "downloads": 53,
+      "likes": 3,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-14T10:14:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PrimeQA",
+      "id": "PrimeQA/tapas-based-tableqa-wikisql-lookup",
+      "downloads": 22,
+      "likes": 3,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-09T18:28:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Yale-LILY",
+      "id": "Yale-LILY/reastap-large-finetuned-wtq",
+      "downloads": 35,
+      "likes": 3,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-06-03T00:53:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SVECTOR-CORPORATION",
+      "id": "SVECTOR-CORPORATION/Tessar-largest",
+      "downloads": 6,
+      "likes": 3,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2025-04-14T00:11:39.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tapas-medium-finetuned-wtq",
+      "downloads": 28,
+      "likes": 2,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-07-14T10:14:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nielsr",
+      "id": "nielsr/tapex-large-finetuned-wtq",
+      "downloads": 35,
+      "likes": 2,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-01-17T09:56:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "neulab",
+      "id": "neulab/omnitab-large",
+      "downloads": 62,
+      "likes": 2,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-11-27T16:24:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "neulab",
+      "id": "neulab/omnitab-large-16shot",
+      "downloads": 15,
+      "likes": 2,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2022-11-29T02:07:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-13T21:15:54.928Z"
+}
