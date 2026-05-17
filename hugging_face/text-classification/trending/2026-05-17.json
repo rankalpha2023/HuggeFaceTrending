@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 115879,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "fastino",
+      "id": "fastino/gliguard-LLMGuardrails-300M",
+      "downloads": 1970,
+      "likes": 55,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-14T16:04:55.000Z",
+      "numParameters": 208476821,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 6672418,
+      "likes": 1157,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 137653,
+      "likes": 120,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "Itau-Unibanco",
+      "id": "Itau-Unibanco/NorBERTo",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-14T13:52:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 11639047,
+      "likes": 987,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/multilingual-emotion-classification",
+      "downloads": 2760,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-14T10:54:59.000Z",
+      "numParameters": 278052107,
+      "repoType": "model"
+    },
+    {
+      "author": "arpanghoshal",
+      "id": "arpanghoshal/EmoRoBERTa",
+      "downloads": 500,
+      "likes": 132,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-05-20T01:15:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+      "downloads": 1665035,
+      "likes": 262,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-19T20:41:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SamLowe",
+      "id": "SamLowe/roberta-base-go_emotions",
+      "downloads": 440775,
+      "likes": 671,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T18:23:34.000Z",
+      "numParameters": 124667678,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-base",
+      "downloads": 4280796,
+      "likes": 235,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:10:03.000Z",
+      "numParameters": 278044931,
+      "repoType": "model"
+    },
+    {
+      "author": "pirocheto",
+      "id": "pirocheto/phishing-url-detection",
+      "downloads": 0,
+      "likes": 16,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-01T09:59:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceFW",
+      "id": "HuggingFaceFW/fineweb-edu-classifier",
+      "downloads": 71638,
+      "likes": 214,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-11-17T15:00:11.000Z",
+      "numParameters": 109483009,
+      "repoType": "model"
+    },
+    {
+      "author": "Skywork",
+      "id": "Skywork/Skywork-Reward-V2-Llama-3.1-8B",
+      "downloads": 43441,
+      "likes": 44,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-07-06T18:12:50.000Z",
+      "numParameters": 7504928768,
+      "repoType": "model"
+    },
+    {
+      "author": "IAAR-Shanghai",
+      "id": "IAAR-Shanghai/MemReranker-4B",
+      "downloads": 99,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-12T03:44:14.000Z",
+      "numParameters": 4410057216,
+      "repoType": "model"
+    },
+    {
+      "author": "armorer-labs",
+      "id": "armorer-labs/armorer-guard-semantic-classifier",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T00:36:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stargainc",
+      "id": "stargainc/clinicalmem-bitnet-b158",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-11T12:14:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai-community",
+      "id": "openai-community/roberta-base-openai-detector",
+      "downloads": 274493,
+      "likes": 133,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-02-19T12:46:55.000Z",
+      "numParameters": 125237762,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment",
+      "downloads": 760178,
+      "likes": 336,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-20T09:52:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cointegrated",
+      "id": "cointegrated/rubert-tiny-toxicity",
+      "downloads": 16130,
+      "likes": 46,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-05-16T15:05:52.000Z",
+      "numParameters": 11786245,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/MiniLM-L12-H384-uncased",
+      "downloads": 34462,
+      "likes": 110,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-19T23:29:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Multilingual-MiniLM-L12-H384",
+      "downloads": 39257,
+      "likes": 102,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-10T07:27:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/codebert-base-finetuned-detect-insecure-code",
+      "downloads": 767,
+      "likes": 35,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-20T18:19:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+      "downloads": 334136,
+      "likes": 457,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-21T15:17:58.000Z",
+      "numParameters": 82121221,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "downloads": 3361518,
+      "likes": 800,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-04T07:58:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "yangheng",
+      "id": "yangheng/deberta-v3-base-absa-v1.1",
+      "downloads": 62142,
+      "likes": 73,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-12T18:11:54.000Z",
+      "numParameters": 184424963,
+      "repoType": "model"
+    },
+    {
+      "author": "t-bank-ai",
+      "id": "t-bank-ai/response-quality-classifier-tiny",
+      "downloads": 19,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-06-01T06:34:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "azizp128",
+      "id": "azizp128/prediksi-emosi-indobert",
+      "downloads": 683,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-12-05T13:35:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fspacheco",
+      "id": "fspacheco/clima-BERTimbau-portugues",
+      "downloads": 8,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-02-19T22:19:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-emotion-multilabel-latest",
+      "downloads": 12339,
+      "likes": 29,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-28T05:08:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TrustSafeAI",
+      "id": "TrustSafeAI/RADAR-Vicuna-7B",
+      "downloads": 1513729,
+      "likes": 10,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-11-07T17:18:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-17T20:39:06.734Z"
+}
