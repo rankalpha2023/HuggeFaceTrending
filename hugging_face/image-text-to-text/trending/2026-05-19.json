@@ -1,0 +1,309 @@
+{
+  "category": "image-text-to-text",
+  "sort": "trending",
+  "totalItems": 27427,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.6",
+      "downloads": 144826,
+      "likes": 802,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T14:01:40.000Z",
+      "numParameters": 1300428016,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "downloads": 337076,
+      "likes": 326,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-18T05:58:01.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "downloads": 296380,
+      "likes": 269,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-18T03:25:15.000Z",
+      "numParameters": 35505251456,
+      "repoType": "model"
+    },
+    {
+      "author": "Jackrong",
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "downloads": 12117,
+      "likes": 117,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T08:46:19.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Fara-7B",
+      "downloads": 14464,
+      "likes": 580,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T15:37:05.000Z",
+      "numParameters": 8292166656,
+      "repoType": "model"
+    },
+    {
+      "author": "internlm",
+      "id": "internlm/Intern-S2-Preview",
+      "downloads": 1842,
+      "likes": 80,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T08:01:07.000Z",
+      "numParameters": 35964405616,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "downloads": 5711500,
+      "likes": 1825,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:53:42.000Z",
+      "numParameters": 35951822704,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-27B",
+      "downloads": 3681887,
+      "likes": 1342,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:39:16.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-31B-it",
+      "downloads": 10045599,
+      "likes": 2691,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-18T16:25:18.000Z",
+      "numParameters": 32682372656,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "downloads": 53662,
+      "likes": 57,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-14T17:07:52.000Z",
+      "numParameters": 25233142046,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 1239792,
+      "likes": 673,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-17T02:59:21.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "downloads": 279287,
+      "likes": 122,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-15T08:39:20.000Z",
+      "numParameters": 39072596736,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "downloads": 380327,
+      "likes": 190,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-14T00:27:54.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "downloads": 2505534,
+      "likes": 1059,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-20T12:42:25.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 780133,
+      "likes": 617,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-06T03:50:35.000Z",
+      "numParameters": 7518069290,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "downloads": 1898800,
+      "likes": 700,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-22T16:01:39.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.5-9B-MTP-GGUF",
+      "downloads": 41558,
+      "likes": 38,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-16T12:39:00.000Z",
+      "numParameters": 9197093888,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-26B-A4B-it",
+      "downloads": 8973951,
+      "likes": 970,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-18T16:25:07.000Z",
+      "numParameters": 26544131376,
+      "repoType": "model"
+    },
+    {
+      "author": "llmfan46",
+      "id": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+      "downloads": 43048,
+      "likes": 60,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-07T19:24:05.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "moonshotai",
+      "id": "moonshotai/Kimi-K2.6",
+      "downloads": 2478667,
+      "likes": 1305,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T09:01:54.000Z",
+      "numParameters": 1058589420528,
+      "repoType": "model"
+    },
+    {
+      "author": "AIDC-AI",
+      "id": "AIDC-AI/Ovis2.6-80B-A3B",
+      "downloads": 87,
+      "likes": 59,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-14T08:44:07.000Z",
+      "numParameters": 80524245992,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "downloads": 3238485,
+      "likes": 750,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-04T09:45:46.000Z",
+      "numParameters": 25233142046,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.5-9B",
+      "downloads": 8032869,
+      "likes": 1453,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-03-02T00:51:43.000Z",
+      "numParameters": 9653104368,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 1163,
+      "likes": 26,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T19:30:00.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "Jackrong",
+      "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+      "downloads": 210681,
+      "likes": 141,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T08:44:41.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "zai-org",
+      "id": "zai-org/GLM-OCR",
+      "downloads": 7049600,
+      "likes": 1753,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T12:28:43.000Z",
+      "numParameters": 1325258240,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "downloads": 1107944,
+      "likes": 432,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-04T09:17:05.000Z",
+      "numParameters": 30697345596,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "downloads": 1211045,
+      "likes": 423,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-04T09:02:45.000Z",
+      "numParameters": 7518069290,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.5-4B",
+      "downloads": 7935232,
+      "likes": 549,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-03-02T00:52:52.000Z",
+      "numParameters": 4659865088,
+      "repoType": "model"
+    },
+    {
+      "author": "dealignai",
+      "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+      "downloads": 75848,
+      "likes": 1523,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-25T21:33:07.000Z",
+      "numParameters": 6433044332,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-19T21:10:15.977Z"
+}
