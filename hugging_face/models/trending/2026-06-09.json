@@ -1,0 +1,309 @@
+{
+  "category": "models",
+  "sort": "trending",
+  "totalItems": 2955147,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "google",
+      "id": "google/gemma-4-12B-it",
+      "downloads": 581354,
+      "likes": 801,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-06-04T11:58:10.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/LocateAnything-3B",
+      "downloads": 123922,
+      "likes": 1720,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-06-08T19:55:10.000Z",
+      "numParameters": 3830665968,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "downloads": 660140,
+      "likes": 527,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-06-09T15:32:24.000Z",
+      "numParameters": 11907350576,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-12B",
+      "downloads": 122464,
+      "likes": 476,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-06-04T11:58:12.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "ideogram-ai",
+      "id": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 5915,
+      "likes": 436,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-06-03T18:34:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sapientinc",
+      "id": "sapientinc/HRM-Text-1B",
+      "downloads": 133351,
+      "likes": 733,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-21T05:57:38.000Z",
+      "numParameters": 1182795264,
+      "repoType": "model"
+    },
+    {
+      "author": "ideogram-ai",
+      "id": "ideogram-ai/ideogram-4-nf4",
+      "downloads": 5250,
+      "likes": 285,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-06-04T18:59:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bosonai",
+      "id": "bosonai/higgs-audio-v3-tts-4b",
+      "downloads": 16207,
+      "likes": 276,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-06-05T01:12:34.000Z",
+      "numParameters": 4654850537,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "downloads": 4181,
+      "likes": 317,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-05T21:59:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2983909,
+      "likes": 1586,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-17T02:59:21.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+      "downloads": 56864,
+      "likes": 172,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-06T19:08:52.000Z",
+      "numParameters": 560524578816,
+      "repoType": "model"
+    },
+    {
+      "author": "MisoLabs",
+      "id": "MisoLabs/MisoTTS",
+      "downloads": 0,
+      "likes": 170,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-06-02T11:35:19.000Z",
+      "numParameters": 8188122112,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "downloads": 127332,
+      "likes": 170,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-06-09T15:12:51.000Z",
+      "numParameters": 11907350576,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/magenta-realtime-2",
+      "downloads": 18216,
+      "likes": 163,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-06-04T22:29:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nex-agi",
+      "id": "nex-agi/Nex-N2-Pro",
+      "downloads": 783,
+      "likes": 160,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-08T19:03:50.000Z",
+      "numParameters": 396802360816,
+      "repoType": "model"
+    },
+    {
+      "author": "JetBrains",
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "downloads": 17571,
+      "likes": 269,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-01T15:40:37.000Z",
+      "numParameters": 12149923072,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+      "downloads": 71818,
+      "likes": 150,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-06T19:08:33.000Z",
+      "numParameters": 335038821080,
+      "repoType": "model"
+    },
+    {
+      "author": "stepfun-ai",
+      "id": "stepfun-ai/Step-3.7-Flash",
+      "downloads": 46729,
+      "likes": 358,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-06-03T04:11:57.000Z",
+      "numParameters": 201365316160,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/North-Mini-Code-1.0",
+      "downloads": 1784,
+      "likes": 138,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-09T16:43:11.000Z",
+      "numParameters": 30484303872,
+      "repoType": "model"
+    },
+    {
+      "author": "ByteDance",
+      "id": "ByteDance/Bernini-R",
+      "downloads": 281,
+      "likes": 193,
+      "pipeline_tag": "image-text-to-video",
+      "lastModified": "2026-06-02T09:04:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-8B-A1B",
+      "downloads": 137138,
+      "likes": 567,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-05T23:10:36.000Z",
+      "numParameters": 8467856832,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 4302553,
+      "likes": 4740,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-08T06:02:44.000Z",
+      "numParameters": 861608274846,
+      "repoType": "model"
+    },
+    {
+      "author": "OBLITERATUS",
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "downloads": 8106,
+      "likes": 121,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-09T10:55:06.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "jdopensource",
+      "id": "jdopensource/JoyAI-Echo",
+      "downloads": 4502,
+      "likes": 113,
+      "pipeline_tag": "text-to-video",
+      "lastModified": "2026-06-07T14:42:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "downloads": 96059,
+      "likes": 113,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-06-09T15:13:07.000Z",
+      "numParameters": 25233142046,
+      "repoType": "model"
+    },
+    {
+      "author": "Comfy-Org",
+      "id": "Comfy-Org/Ideogram-4",
+      "downloads": 0,
+      "likes": 109,
+      "pipeline_tag": "",
+      "lastModified": "2026-06-05T09:32:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nex-agi",
+      "id": "nex-agi/Nex-N2-mini",
+      "downloads": 748,
+      "likes": 106,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-08T19:04:52.000Z",
+      "numParameters": 35107181936,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Cosmos3-Nano",
+      "downloads": 36739,
+      "likes": 214,
+      "pipeline_tag": "",
+      "lastModified": "2026-06-01T04:43:55.000Z",
+      "numParameters": 15750057456,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "downloads": 63049,
+      "likes": 111,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-06-05T15:48:49.000Z",
+      "numParameters": 11907350576,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PaddleOCR-VL-1.6",
+      "downloads": 10139,
+      "likes": 280,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-06-05T09:26:03.000Z",
+      "numParameters": 958588736,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-09T21:27:42.577Z"
+}
