@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 27789,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 299302,
+      "likes": 1631,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "VAGOsolutions",
+      "id": "VAGOsolutions/SauerkrautLM-LFM2.5-GLiNER",
+      "downloads": 0,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-09T17:25:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-base",
+      "downloads": 1975,
+      "likes": 23,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-31T05:34:57.000Z",
+      "numParameters": 149999875,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 20871,
+      "likes": 38,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-03T14:53:19.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 6546,
+      "likes": 137,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-v2-base",
+      "downloads": 152,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-10T05:35:23.000Z",
+      "numParameters": 153379075,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/biomedical-ner-all",
+      "downloads": 115379,
+      "likes": 193,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-02T07:28:28.000Z",
+      "numParameters": 66427476,
+      "repoType": "model"
+    },
+    {
+      "author": "KRLabsOrg",
+      "id": "KRLabsOrg/verbatim-rag-modern-bert-v2",
+      "downloads": 939,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-02T13:23:11.000Z",
+      "numParameters": 149606402,
+      "repoType": "model"
+    },
+    {
+      "author": "Jean-Baptiste",
+      "id": "Jean-Baptiste/camembert-ner-with-dates",
+      "downloads": 133404,
+      "likes": 47,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-06-16T01:31:43.000Z",
+      "numParameters": 110036488,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-large-NER",
+      "downloads": 127409,
+      "likes": 163,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:52:08.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-english-ontonotes-large",
+      "downloads": 107134,
+      "likes": 101,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-05-08T15:35:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/en_core_web_trf",
+      "downloads": 122,
+      "likes": 60,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-13T12:37:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/xx_ent_wiki_sm",
+      "downloads": 178,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-10T06:35:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vblagoje",
+      "id": "vblagoje/bert-english-uncased-finetuned-pos",
+      "downloads": 40164,
+      "likes": 42,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-11-27T08:29:23.000Z",
+      "numParameters": 109495825,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_base",
+      "downloads": 3068,
+      "likes": 86,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:10:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 240312,
+      "likes": 51,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_large-v2.1",
+      "downloads": 27981,
+      "likes": 53,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:09:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "almanach",
+      "id": "almanach/camembert-bio-gliner-v0.1",
+      "downloads": 48,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-07T13:56:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "iiiorg",
+      "id": "iiiorg/piiranha-v1-detect-personal-information",
+      "downloads": 66096,
+      "likes": 244,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-01T04:01:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Nucha",
+      "id": "Nucha/Nucha_ITSkillNER_BERT",
+      "downloads": 208,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-20T16:53:36.000Z",
+      "numParameters": 108895493,
+      "repoType": "model"
+    },
+    {
+      "author": "mirth",
+      "id": "mirth/chonky_modernbert_base_1",
+      "downloads": 58356,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-17T18:17:15.000Z",
+      "numParameters": 149606402,
+      "repoType": "model"
+    },
+    {
+      "author": "yashpwr",
+      "id": "yashpwr/resume-ner-bert-v2",
+      "downloads": 1371,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-07T08:14:07.000Z",
+      "numParameters": 107738905,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/eu-pii-safeguard",
+      "downloads": 1925,
+      "likes": 24,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-27T20:07:56.000Z",
+      "numParameters": 558916682,
+      "repoType": "model"
+    },
+    {
+      "author": "gravitee-io",
+      "id": "gravitee-io/bert-small-pii-detection",
+      "downloads": 23527,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-21T09:54:18.000Z",
+      "numParameters": 28527155,
+      "repoType": "model"
+    },
+    {
+      "author": "mirth",
+      "id": "mirth/chonky_mmbert_small_multilingual_1",
+      "downloads": 27,
+      "likes": 24,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-17T18:16:37.000Z",
+      "numParameters": 140642306,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-relex-large-v0.5",
+      "downloads": 290,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T10:11:10.000Z",
+      "numParameters": 467758080,
+      "repoType": "model"
+    },
+    {
+      "author": "scanpatch",
+      "id": "scanpatch/pii-ner-nemotron",
+      "downloads": 116,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-29T12:11:36.000Z",
+      "numParameters": 558897207,
+      "repoType": "model"
+    },
+    {
+      "author": "lion-ai",
+      "id": "lion-ai/gliner2-base-v1-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-13T09:32:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lion-ai",
+      "id": "lion-ai/gliner2-multi-v1-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-13T09:32:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/eu-pii-anonimization-multilang",
+      "downloads": 1437,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-13T13:03:09.000Z",
+      "numParameters": 277506117,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-11T21:54:17.542Z"
+}
