@@ -1,0 +1,309 @@
+{
+  "category": "automatic-speech-recognition",
+  "sort": "downloads",
+  "totalItems": 31400,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "argmaxinc",
+      "id": "argmaxinc/whisperkit-coreml",
+      "downloads": 8258355,
+      "likes": 190,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-04-24T20:29:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-3.1",
+      "downloads": 7894518,
+      "likes": 2290,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-05-10T19:43:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3-turbo",
+      "downloads": 7662104,
+      "likes": 3081,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-04T14:51:11.000Z",
+      "numParameters": 808878080,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3",
+      "downloads": 5090097,
+      "likes": 5807,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-08-12T10:20:10.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-base",
+      "downloads": 4592097,
+      "likes": 271,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-02-29T10:26:57.000Z",
+      "numParameters": 72593920,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+      "downloads": 3237332,
+      "likes": 75,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:58:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+      "downloads": 2819136,
+      "likes": 54,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:59:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-community-1",
+      "downloads": 2725660,
+      "likes": 539,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-09-29T08:43:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoudAshraf",
+      "id": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+      "downloads": 2626820,
+      "likes": 91,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-04-15T14:57:12.000Z",
+      "numParameters": 315469471,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/voice-activity-detection",
+      "downloads": 2604939,
+      "likes": 235,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-05-10T19:39:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-small",
+      "downloads": 2405221,
+      "likes": 566,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-02-29T10:57:38.000Z",
+      "numParameters": 241734912,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+      "downloads": 2272746,
+      "likes": 12,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:57:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+      "downloads": 2052846,
+      "likes": 57,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:58:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "indonesian-nlp",
+      "id": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+      "downloads": 1676120,
+      "likes": 15,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-08-19T07:44:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-tiny",
+      "downloads": 1513320,
+      "likes": 432,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-02-29T10:57:33.000Z",
+      "numParameters": 37760640,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-1.7B",
+      "downloads": 1476040,
+      "likes": 874,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-30T03:00:12.000Z",
+      "numParameters": 2349217408,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
+      "downloads": 1372087,
+      "likes": 15,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:58:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Systran",
+      "id": "Systran/faster-whisper-base",
+      "downloads": 1346091,
+      "likes": 28,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-11-23T11:02:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
+      "downloads": 1171358,
+      "likes": 3,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:56:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn",
+      "downloads": 1138318,
+      "likes": 134,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:58:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+      "downloads": 1106733,
+      "likes": 875,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-03-11T15:04:02.000Z",
+      "numParameters": 4429679360,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/parakeet-tdt-0.6b-v3",
+      "downloads": 1091817,
+      "likes": 46,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-08-16T05:00:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/wav2vec2-base-960h",
+      "downloads": 1086300,
+      "likes": 398,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-11-14T21:37:23.000Z",
+      "numParameters": 94395552,
+      "repoType": "model"
+    },
+    {
+      "author": "Systran",
+      "id": "Systran/faster-whisper-tiny.en",
+      "downloads": 983967,
+      "likes": 10,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-11-23T10:47:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Systran",
+      "id": "Systran/faster-whisper-large-v3",
+      "downloads": 978530,
+      "likes": 593,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-11-23T09:41:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "airesearch",
+      "id": "airesearch/wav2vec2-large-xlsr-53-th",
+      "downloads": 977563,
+      "likes": 28,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-03-23T18:24:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-arabic",
+      "downloads": 958473,
+      "likes": 54,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:57:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonatasgrosman",
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-hungarian",
+      "downloads": 945385,
+      "likes": 10,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-12-14T01:57:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "gigant",
+      "id": "gigant/romanian-wav2vec2",
+      "downloads": 874802,
+      "likes": 7,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-09-13T11:45:00.000Z",
+      "numParameters": 315475620,
+      "repoType": "model"
+    },
+    {
+      "author": "distil-whisper",
+      "id": "distil-whisper/distil-large-v3",
+      "downloads": 869760,
+      "likes": 375,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-04-21T08:00:18.000Z",
+      "numParameters": 756405760,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-12T21:22:31.890Z"
+}
