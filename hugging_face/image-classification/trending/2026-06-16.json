@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 27289,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 6396682,
+      "likes": 1099,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 3732245,
+      "likes": 975,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 40741,
+      "likes": 75,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/derm-foundation",
+      "downloads": 181,
+      "likes": 89,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-01T00:52:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/efficientnet-b0",
+      "downloads": 7060,
+      "likes": 38,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-17T10:05:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shadowlilac",
+      "id": "shadowlilac/aesthetic-shadow",
+      "downloads": 197,
+      "likes": 36,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-18T17:18:09.000Z",
+      "numParameters": 1091263490,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/cxr-foundation",
+      "downloads": 8814,
+      "likes": 102,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:26:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/pixai-tagger-v0.9-onnx",
+      "downloads": 0,
+      "likes": 44,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T12:09:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lodestones",
+      "id": "lodestones/taggerine",
+      "downloads": 0,
+      "likes": 47,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-04-28T12:25:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-base-patch4-window12-384",
+      "downloads": 4236,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-05-16T18:32:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 231312,
+      "likes": 494,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "torchgeo",
+      "id": "torchgeo/resnet50_sentinel2_all_dino",
+      "downloads": 238,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-20T19:30:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet50.a1_in1k",
+      "downloads": 2408856,
+      "likes": 42,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-07-11T18:17:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jazzmacedo",
+      "id": "jazzmacedo/fruits-and-vegetables-detector-36",
+      "downloads": 1956,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-11T12:59:23.000Z",
+      "numParameters": 23634916,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_large_patch14_clip_336.laion2b_ft_augreg_inat21",
+      "downloads": 283,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:11:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "crangana",
+      "id": "crangana/trained-gender",
+      "downloads": 1780,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-10-04T19:59:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "imfarzanansari",
+      "id": "imfarzanansari/skintelligent-acne",
+      "downloads": 1015,
+      "likes": 18,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-12-24T04:46:50.000Z",
+      "numParameters": 85802501,
+      "repoType": "model"
+    },
+    {
+      "author": "Organika",
+      "id": "Organika/sdxl-detector",
+      "downloads": 57647,
+      "likes": 57,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-09-06T12:17:24.000Z",
+      "numParameters": 86802898,
+      "repoType": "model"
+    },
+    {
+      "author": "Diginsa",
+      "id": "Diginsa/Plant-Disease-Detection-Project",
+      "downloads": 415,
+      "likes": 9,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-09-05T14:12:26.000Z",
+      "numParameters": 2306662,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/MobileNet-v3-Small",
+      "downloads": 106,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-16T17:04:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "naver-ai",
+      "id": "naver-ai/swin_rope_mixed_base_patch4_window7_224",
+      "downloads": 5,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-18T08:23:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "adi9-48",
+      "id": "adi9-48/ecg_classification_model",
+      "downloads": 4,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-24T01:44:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Mature-Content-Detection",
+      "downloads": 6421,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-05T15:51:21.000Z",
+      "numParameters": 92888069,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Weather-Image-Classification",
+      "downloads": 2495,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-07T04:54:23.000Z",
+      "numParameters": 92888069,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/vit-mini-explicit-content",
+      "downloads": 61,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-19T17:15:26.000Z",
+      "numParameters": 85802501,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 171,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T09:38:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AIOmarRehan",
+      "id": "AIOmarRehan/CNN-DenoiseU-Net",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-03-19T11:59:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ahczhg",
+      "id": "ahczhg/ecg-mamba",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-11-24T14:02:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hakim78",
+      "id": "hakim78/Cancer_pathos",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-15T20:15:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/MobileNet-v2",
+      "downloads": 83,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-14T17:02:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-16T22:04:48.440Z"
+}
