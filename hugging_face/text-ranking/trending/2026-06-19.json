@@ -1,0 +1,309 @@
+{
+  "category": "text-ranking",
+  "sort": "trending",
+  "totalItems": 1091,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 78789614,
+      "likes": 266,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:10.000Z",
+      "numParameters": 22714113,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/llama-nemotron-rerank-vl-1b-v2",
+      "downloads": 122081,
+      "likes": 52,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-20T18:23:43.000Z",
+      "numParameters": 1678256576,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Reranker-8B",
+      "downloads": 1204076,
+      "likes": 239,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:56:16.000Z",
+      "numParameters": 8188548096,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/Qwen3-Reranker-8B-seq-cls",
+      "downloads": 749,
+      "likes": 11,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-06-16T09:30:38.000Z",
+      "numParameters": 7567315968,
+      "repoType": "model"
+    },
+    {
+      "author": "madebyaris",
+      "id": "madebyaris/rerank-indonesia",
+      "downloads": 2,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-18T05:50:14.000Z",
+      "numParameters": 117641089,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L4-v2",
+      "downloads": 3378081,
+      "likes": 16,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:22.000Z",
+      "numParameters": 19165185,
+      "repoType": "model"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "id": "Alibaba-NLP/gte-multilingual-reranker-base",
+      "downloads": 257148,
+      "likes": 181,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-07-05T01:38:02.000Z",
+      "numParameters": 305959681,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/provence-reranker-debertav3-v1",
+      "downloads": 3124,
+      "likes": 71,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-09-26T12:13:44.000Z",
+      "numParameters": 435064835,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/xprovence-reranker-bgem3-v1",
+      "downloads": 136,
+      "likes": 17,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T08:45:29.000Z",
+      "numParameters": 567757827,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-reranker-v3",
+      "downloads": 1020592,
+      "likes": 137,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-27T13:54:20.000Z",
+      "numParameters": 596836352,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/llama-nemotron-rerank-1b-v2",
+      "downloads": 95747,
+      "likes": 56,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-20T18:24:14.000Z",
+      "numParameters": 1235816448,
+      "repoType": "model"
+    },
+    {
+      "author": "hotchpotch",
+      "id": "hotchpotch/open-provence-reranker-v1-gte-modernbert-base",
+      "downloads": 140,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-11-22T01:12:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/xprovence-reranker-bgem3-v2",
+      "downloads": 493,
+      "likes": 14,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T08:44:18.000Z",
+      "numParameters": 567757827,
+      "repoType": "model"
+    },
+    {
+      "author": "Voodisss",
+      "id": "Voodisss/Qwen3-Reranker-4B-GGUF-llama_cpp",
+      "downloads": 2698,
+      "likes": 9,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-10T20:10:46.000Z",
+      "numParameters": 4021789696,
+      "repoType": "model"
+    },
+    {
+      "author": "Voodisss",
+      "id": "Voodisss/Qwen3-Reranker-8B-GGUF-llama_cpp",
+      "downloads": 785,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-10T19:59:33.000Z",
+      "numParameters": 7567320064,
+      "repoType": "model"
+    },
+    {
+      "author": "Voodisss",
+      "id": "Voodisss/Qwen3-Reranker-0.6B-GGUF-llama_cpp",
+      "downloads": 1400,
+      "likes": 7,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-10T20:52:41.000Z",
+      "numParameters": 595778560,
+      "repoType": "model"
+    },
+    {
+      "author": "soichisumi",
+      "id": "soichisumi/bge-reranker-v2-m3-mlx-affine8",
+      "downloads": 20,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-27T11:32:51.000Z",
+      "numParameters": 159913153,
+      "repoType": "model"
+    },
+    {
+      "author": "infgrad",
+      "id": "infgrad/Prism-Qwen3.5-Reranker-0.8B",
+      "downloads": 493,
+      "likes": 12,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-29T01:18:23.000Z",
+      "numParameters": 752393024,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ettin-reranker-68m-v1",
+      "downloads": 8156,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-19T13:59:10.000Z",
+      "numParameters": 68144640,
+      "repoType": "model"
+    },
+    {
+      "author": "chichitutu",
+      "id": "chichitutu/CuRLRank-4B",
+      "downloads": 20,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-27T07:40:53.000Z",
+      "numParameters": 4411424256,
+      "repoType": "model"
+    },
+    {
+      "author": "Hanno-Labs",
+      "id": "Hanno-Labs/bosun-xs",
+      "downloads": 351,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-18T13:37:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Hanno-Labs",
+      "id": "Hanno-Labs/bosun-4b",
+      "downloads": 59,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-18T13:37:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vincolle",
+      "id": "vincolle/reranker-Italian-ModernBERT-base-gooaq-mnrl",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-19T09:54:26.000Z",
+      "numParameters": 135499009,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L12-v2",
+      "downloads": 2664519,
+      "likes": 106,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:37:04.000Z",
+      "numParameters": 33360897,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L2-v2",
+      "downloads": 1251172,
+      "likes": 14,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:35.000Z",
+      "numParameters": 15616257,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-TinyBERT-L2-v2",
+      "downloads": 319804,
+      "likes": 44,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:37:18.000Z",
+      "numParameters": 4386561,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-TinyBERT-L2",
+      "downloads": 27615,
+      "likes": 21,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:35:54.000Z",
+      "numParameters": 4386561,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-TinyBERT-L4",
+      "downloads": 149,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:35:39.000Z",
+      "numParameters": 14351073,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-TinyBERT-L6",
+      "downloads": 13406,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:35:22.000Z",
+      "numParameters": 66956289,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-electra-base",
+      "downloads": 21284,
+      "likes": 7,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:35:07.000Z",
+      "numParameters": 109483521,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-19T21:00:06.933Z"
+}
