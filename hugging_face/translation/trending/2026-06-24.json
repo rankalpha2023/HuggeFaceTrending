@@ -1,0 +1,309 @@
+{
+  "category": "translation",
+  "sort": "trending",
+  "totalItems": 14872,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-1.8B",
+      "downloads": 28848,
+      "likes": 1124,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-26T09:05:58.000Z",
+      "numParameters": 2038515712,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-30B-A3B",
+      "downloads": 8051,
+      "likes": 466,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-26T09:05:48.000Z",
+      "numParameters": 30064725888,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/nllb-200-3.3B",
+      "downloads": 58349,
+      "likes": 464,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-02-11T20:19:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/nllb-200-distilled-600M",
+      "downloads": 1471409,
+      "likes": 926,
+      "pipeline_tag": "translation",
+      "lastModified": "2024-02-14T17:18:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-7B",
+      "downloads": 24766,
+      "likes": 186,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-26T09:05:54.000Z",
+      "numParameters": 8029540352,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/wmt22-comet-da",
+      "downloads": 5730,
+      "likes": 59,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-02-26T17:13:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/indictrans2-en-indic-1B",
+      "downloads": 15591,
+      "likes": 56,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-05-02T04:11:50.000Z",
+      "numParameters": 1115543552,
+      "repoType": "model"
+    },
+    {
+      "author": "google-t5",
+      "id": "google-t5/t5-small",
+      "downloads": 11562236,
+      "likes": 556,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-06-30T02:31:26.000Z",
+      "numParameters": 60506880,
+      "repoType": "model"
+    },
+    {
+      "author": "Helsinki-NLP",
+      "id": "Helsinki-NLP/opus-mt-en-de",
+      "downloads": 956387,
+      "likes": 46,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-08-16T11:29:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/nllb-200-distilled-1.3B",
+      "downloads": 190113,
+      "likes": 183,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-02-11T20:19:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/XCOMET-XXL",
+      "downloads": 0,
+      "likes": 44,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-04-07T09:29:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/XCOMET-XL",
+      "downloads": 0,
+      "likes": 52,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-04-07T09:28:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/madlad400-3b-mt",
+      "downloads": 197166,
+      "likes": 208,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-11-27T15:58:35.000Z",
+      "numParameters": 2940374016,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/hibiki-2b-pytorch-bf16",
+      "downloads": 587,
+      "likes": 63,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-05-28T18:02:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HPLT",
+      "id": "HPLT/translate-az-en-v2.0-hplt",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-04-06T22:39:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Duyu",
+      "id": "Duyu/Pinyin2Hanzi-Transformer",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-09-27T06:16:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pfnet",
+      "id": "pfnet/plamo-2-translate",
+      "downloads": 7158,
+      "likes": 122,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-11-05T06:13:53.000Z",
+      "numParameters": 9528235008,
+      "repoType": "model"
+    },
+    {
+      "author": "sarvamai",
+      "id": "sarvamai/sarvam-translate",
+      "downloads": 17809,
+      "likes": 138,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-09-01T10:10:04.000Z",
+      "numParameters": 4300079472,
+      "repoType": "model"
+    },
+    {
+      "author": "ByteDance-Seed",
+      "id": "ByteDance-Seed/Seed-X-PPO-7B-GPTQ-Int8",
+      "downloads": 241,
+      "likes": 11,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-07-28T11:25:40.000Z",
+      "numParameters": 7517024256,
+      "repoType": "model"
+    },
+    {
+      "author": "diabolic6045",
+      "id": "diabolic6045/Sanskrit-qwen-7B-Translate-v2",
+      "downloads": 42,
+      "likes": 4,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-09-16T11:05:35.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "yanolja",
+      "id": "yanolja/YanoljaNEXT-Rosetta-27B-2511-GGUF",
+      "downloads": 490,
+      "likes": 6,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-11-02T19:36:28.000Z",
+      "numParameters": 28418976512,
+      "repoType": "model"
+    },
+    {
+      "author": "NiuTrans",
+      "id": "NiuTrans/LMT-60-8B-Base",
+      "downloads": 7,
+      "likes": 6,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-07T03:33:56.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "ankitklakra",
+      "id": "ankitklakra/kurukh-to-hindi",
+      "downloads": 9,
+      "likes": 1,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-12-13T14:51:44.000Z",
+      "numParameters": 300176768,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/HY-MT1.5-1.8B",
+      "downloads": 11317,
+      "likes": 1183,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-01-01T02:35:18.000Z",
+      "numParameters": 2038515712,
+      "repoType": "model"
+    },
+    {
+      "author": "baicai1145",
+      "id": "baicai1145/HY-MT1.5-1.8B-NVFP4",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-12-30T17:42:48.000Z",
+      "numParameters": 1363233216,
+      "repoType": "model"
+    },
+    {
+      "author": "cyberagent",
+      "id": "cyberagent/CAT-Translate-3.3b",
+      "downloads": 143,
+      "likes": 4,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-06-23T04:15:17.000Z",
+      "numParameters": 3355609600,
+      "repoType": "model"
+    },
+    {
+      "author": "cyberagent",
+      "id": "cyberagent/CAT-Translate-7b",
+      "downloads": 142,
+      "likes": 11,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-06-23T04:15:26.000Z",
+      "numParameters": 7485566976,
+      "repoType": "model"
+    },
+    {
+      "author": "mutaician",
+      "id": "mutaician/nllb-swahili-kalenjin-v3",
+      "downloads": 102,
+      "likes": 2,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-03-24T08:11:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Helsinki-NLP",
+      "id": "Helsinki-NLP/opus-mt_tiny_deu-eng",
+      "downloads": 292,
+      "likes": 1,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-06T07:12:28.000Z",
+      "numParameters": 25363201,
+      "repoType": "model"
+    },
+    {
+      "author": "SpongeBOB9684",
+      "id": "SpongeBOB9684/GemmaTranslate-v3-12B",
+      "downloads": 4,
+      "likes": 2,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-03-13T20:27:01.000Z",
+      "numParameters": 12187325040,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-24T21:16:51.876Z"
+}
