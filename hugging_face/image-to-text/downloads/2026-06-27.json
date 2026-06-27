@@ -1,0 +1,309 @@
+{
+  "category": "image-to-text",
+  "sort": "downloads",
+  "totalItems": 1782,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-base",
+      "downloads": 2006690,
+      "likes": 861,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:45:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-large",
+      "downloads": 709492,
+      "likes": 1476,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:42:42.000Z",
+      "numParameters": 469733436,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_det",
+      "downloads": 616258,
+      "likes": 71,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/UVDoc",
+      "downloads": 527102,
+      "likes": 11,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-LCNet_x1_0_doc_ori",
+      "downloads": 452011,
+      "likes": 16,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T09:58:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-small-handwritten",
+      "downloads": 438323,
+      "likes": 63,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:11:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-base-printed",
+      "downloads": 421235,
+      "likes": 209,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:11:53.000Z",
+      "numParameters": 333331200,
+      "repoType": "model"
+    },
+    {
+      "author": "kha-white",
+      "id": "kha-white/manga-ocr-base",
+      "downloads": 379339,
+      "likes": 176,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2022-06-22T15:34:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/en_PP-OCRv5_mobile_rec",
+      "downloads": 307889,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-08-29T06:39:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-LCNet_x1_0_textline_ori",
+      "downloads": 284065,
+      "likes": 6,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-08-29T02:42:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-large-handwritten",
+      "downloads": 263529,
+      "likes": 162,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:10:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lightonai",
+      "id": "lightonai/LightOnOCR-1B-1025",
+      "downloads": 214135,
+      "likes": 254,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-02-20T17:10:17.000Z",
+      "numParameters": 1161230336,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_rec",
+      "downloads": 201064,
+      "likes": 28,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:04:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "naver-clova-ix",
+      "id": "naver-clova-ix/donut-base",
+      "downloads": 182248,
+      "likes": 253,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2022-08-13T08:27:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-vision-3.3-2b",
+      "downloads": 172201,
+      "likes": 85,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-04-02T02:42:33.000Z",
+      "numParameters": 2975396928,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/nougat-base",
+      "downloads": 164412,
+      "likes": 188,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-11-20T09:26:49.000Z",
+      "numParameters": 348736012,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/kosmos-2-patch14-224",
+      "downloads": 161233,
+      "likes": 185,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-11-28T09:31:26.000Z",
+      "numParameters": 1664485376,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-base-stage1",
+      "downloads": 157356,
+      "likes": 18,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:13:12.000Z",
+      "numParameters": 384274177,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-large-printed",
+      "downloads": 131613,
+      "likes": 180,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:09:18.000Z",
+      "numParameters": 608119809,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-base-handwritten",
+      "downloads": 131557,
+      "likes": 496,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-11T04:26:58.000Z",
+      "numParameters": 333331200,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_mobile_det",
+      "downloads": 129137,
+      "likes": 28,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "alibaba-damo",
+      "id": "alibaba-damo/mgp-str-base",
+      "downloads": 127097,
+      "likes": 65,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-12-11T14:31:20.000Z",
+      "numParameters": 147952305,
+      "repoType": "model"
+    },
+    {
+      "author": "optimum-intel-internal-testing",
+      "id": "optimum-intel-internal-testing/pix2struct-tiny-random",
+      "downloads": 111613,
+      "likes": 0,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-10-21T10:03:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "rtr46",
+      "id": "rtr46/meiki.txt.recognition.v0",
+      "downloads": 94946,
+      "likes": 6,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-02-24T19:49:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 88327,
+      "likes": 261,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-03T12:26:37.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_mobile_rec",
+      "downloads": 80955,
+      "likes": 16,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:04:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "rtr46",
+      "id": "rtr46/meiki.text.detect.v0",
+      "downloads": 77153,
+      "likes": 3,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-11-06T12:38:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpconnect",
+      "id": "nlpconnect/vit-gpt2-image-captioning",
+      "downloads": 65045,
+      "likes": 931,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-02-27T15:00:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det",
+      "downloads": 64901,
+      "likes": 20,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T03:10:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_rec",
+      "downloads": 60162,
+      "likes": 20,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T10:07:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-27T20:47:09.794Z"
+}

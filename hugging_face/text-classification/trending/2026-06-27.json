@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 118529,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 16278800,
+      "likes": 1056,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "SupraLabs",
+      "id": "SupraLabs/SupraSafety-18M",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-06-27T12:32:52.000Z",
+      "numParameters": 18264578,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "downloads": 3912317,
+      "likes": 815,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-04T07:58:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 7479376,
+      "likes": 1184,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sakmkmk2",
+      "id": "sakmkmk2/Vibe-Coding-Claude-Fable-5",
+      "downloads": 493,
+      "likes": 13,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-06-13T03:35:00.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "j-hartmann",
+      "id": "j-hartmann/emotion-english-distilroberta-base",
+      "downloads": 798466,
+      "likes": 500,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-02T13:03:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/multilingual-emotion-classification",
+      "downloads": 3377,
+      "likes": 21,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-18T08:13:22.000Z",
+      "numParameters": 278052107,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3636844,
+      "likes": 912,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Multilingual-MiniLM-L12-H384",
+      "downloads": 42032,
+      "likes": 106,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-10T07:27:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "unitary",
+      "id": "unitary/multilingual-toxic-xlm-roberta",
+      "downloads": 13086,
+      "likes": 31,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-08-18T10:43:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenAssistant",
+      "id": "OpenAssistant/reward-model-deberta-v3-large-v2",
+      "downloads": 10102,
+      "likes": 247,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-02-01T00:55:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-base-prompt-injection-v2",
+      "downloads": 255152,
+      "likes": 112,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-05-28T07:07:49.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
+    },
+    {
+      "author": "livekit",
+      "id": "livekit/turn-detector",
+      "downloads": 682274,
+      "likes": 113,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-11T15:04:40.000Z",
+      "numParameters": 134516160,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 93436,
+      "likes": 148,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "Sana9",
+      "id": "Sana9/bert-vuln2cwe-flat",
+      "downloads": 52,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-06-24T14:00:40.000Z",
+      "numParameters": 110030537,
+      "repoType": "model"
+    },
+    {
+      "author": "XSY",
+      "id": "XSY/albert-base-v2-fakenews-discriminator",
+      "downloads": 2020,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-11-16T13:11:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+      "downloads": 1328187,
+      "likes": 269,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-19T20:41:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "madhurjindal",
+      "id": "madhurjindal/autonlp-Gibberish-Detector-492513457",
+      "downloads": 82484,
+      "likes": 69,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-05-14T12:42:57.000Z",
+      "numParameters": 66956548,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+      "downloads": 212646,
+      "likes": 459,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-21T15:17:58.000Z",
+      "numParameters": 82121221,
+      "repoType": "model"
+    },
+    {
+      "author": "papluca",
+      "id": "papluca/xlm-roberta-base-language-detection",
+      "downloads": 527179,
+      "likes": 375,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-28T13:54:18.000Z",
+      "numParameters": 278059542,
+      "repoType": "model"
+    },
+    {
+      "author": "siebert",
+      "id": "siebert/sentiment-roberta-large-english",
+      "downloads": 207730,
+      "likes": 157,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-11T16:40:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "techthiyanes",
+      "id": "techthiyanes/chinese_sentiment",
+      "downloads": 680,
+      "likes": 19,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-20T07:28:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/xlm-twitter-politics-sentiment",
+      "downloads": 59,
+      "likes": 11,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-10T09:42:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SamLowe",
+      "id": "SamLowe/roberta-base-go_emotions",
+      "downloads": 1253504,
+      "likes": 680,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T18:23:34.000Z",
+      "numParameters": 124667678,
+      "repoType": "model"
+    },
+    {
+      "author": "Voicelab",
+      "id": "Voicelab/herbert-base-cased-sentiment",
+      "downloads": 26799,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-03-20T11:40:07.000Z",
+      "numParameters": 124445701,
+      "repoType": "model"
+    },
+    {
+      "author": "nickmuchi",
+      "id": "nickmuchi/finbert-tone-finetuned-finance-topic-classification",
+      "downloads": 65889,
+      "likes": 69,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-12T16:41:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cis-lmu",
+      "id": "cis-lmu/glotlid",
+      "downloads": 90891,
+      "likes": 101,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-04-18T11:18:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vectara",
+      "id": "vectara/hallucination_evaluation_model",
+      "downloads": 124739,
+      "likes": 356,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-10-20T19:34:40.000Z",
+      "numParameters": 109630082,
+      "repoType": "model"
+    },
+    {
+      "author": "lazyghost",
+      "id": "lazyghost/bert-large-uncased-Adult-Text-Classifier",
+      "downloads": 3630,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-04-08T06:47:20.000Z",
+      "numParameters": 109483778,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-small-prompt-injection-v2",
+      "downloads": 19844,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-05-02T13:26:04.000Z",
+      "numParameters": 141896450,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-27T20:47:36.084Z"
+}
