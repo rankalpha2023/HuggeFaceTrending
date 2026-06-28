@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 4432,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/lang-id-voxlingua107-ecapa",
+      "downloads": 98286,
+      "likes": 151,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-27T20:12:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JaesungHuh",
+      "id": "JaesungHuh/voice-gender-classifier",
+      "downloads": 26400,
+      "likes": 38,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-04T11:09:00.000Z",
+      "numParameters": 15471682,
+      "repoType": "model"
+    },
+    {
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
+      "downloads": 628486,
+      "likes": 170,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-09-19T08:07:19.000Z",
+      "numParameters": 165336707,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 515768,
+      "likes": 360,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "sanchit-gandhi",
+      "id": "sanchit-gandhi/whisper-medium-fleurs-lang-id",
+      "downloads": 137,
+      "likes": 17,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-11T13:25:16.000Z",
+      "numParameters": 307504998,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-126",
+      "downloads": 20637,
+      "likes": 35,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:15:48.000Z",
+      "numParameters": 966089470,
+      "repoType": "model"
+    },
+    {
+      "author": "ALM",
+      "id": "ALM/wav2vec2-base-audioset",
+      "downloads": 165,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-02T19:47:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mispeech",
+      "id": "mispeech/ced-base",
+      "downloads": 13925,
+      "likes": 14,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-30T12:33:12.000Z",
+      "numParameters": 85711887,
+      "repoType": "model"
+    },
+    {
+      "author": "funasr",
+      "id": "funasr/campplus",
+      "downloads": 1341,
+      "likes": 20,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-19T09:39:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "wsntxxn",
+      "id": "wsntxxn/cnn8rnn-audioset-sed",
+      "downloads": 1184,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-12-30T07:06:23.000Z",
+      "numParameters": 6398783,
+      "repoType": "model"
+    },
+    {
+      "author": "Pablex",
+      "id": "Pablex/whisper_tiny_fleurs",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-10-22T08:30:12.000Z",
+      "numParameters": 8308486,
+      "repoType": "model"
+    },
+    {
+      "author": "forwarder1121",
+      "id": "forwarder1121/ast-finetuned-model",
+      "downloads": 9,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-17T08:29:18.000Z",
+      "numParameters": 86193414,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Common-Voice-Gender-Detection",
+      "downloads": 150389,
+      "likes": 30,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-12T02:21:55.000Z",
+      "numParameters": 94569090,
+      "repoType": "model"
+    },
+    {
+      "author": "Ugiat",
+      "id": "Ugiat/IberLang",
+      "downloads": 124,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-10-29T09:38:31.000Z",
+      "numParameters": 307480326,
+      "repoType": "model"
+    },
+    {
+      "author": "AlphaAvatar",
+      "id": "AlphaAvatar/plugins-persona",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-11T05:52:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "thecodeworm",
+      "id": "thecodeworm/clearspeech-unet",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-07T19:22:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hilarl",
+      "id": "hilarl/siren-transcribe",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-29T23:01:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedLID",
+      "downloads": 379,
+      "likes": 21,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-13T03:44:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/Sortformer-Diarization-CoreML",
+      "downloads": 1152,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-20T17:56:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "istomin9192",
+      "id": "istomin9192/mHuBERT-147-ipa-head",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-03T12:54:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mudler",
+      "id": "mudler/ced-gguf",
+      "downloads": 1594,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-21T17:01:30.000Z",
+      "numParameters": 85728847,
+      "repoType": "model"
+    },
+    {
+      "author": "moorlee",
+      "id": "moorlee/gender-voice-classifier-ecapa",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-24T14:50:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OBITO03",
+      "id": "OBITO03/Deepfakewav2vec2",
+      "downloads": 37,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-26T08:43:34.000Z",
+      "numParameters": 315701634,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/wav2vec2-keyword-spotting",
+      "downloads": 10,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-26T20:23:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AkshaySg",
+      "id": "AkshaySg/langid",
+      "downloads": 13,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T12:38:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-greek-speech-emotion-recognition",
+      "downloads": 23,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-20T05:38:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition",
+      "downloads": 163,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-10-19T01:31:17.000Z",
+      "numParameters": 316492420,
+      "repoType": "model"
+    },
+    {
+      "author": "NhatPham",
+      "id": "NhatPham/wav2vec2-base-finetuned-ks",
+      "downloads": 8,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-01T04:32:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Rajaram1996",
+      "id": "Rajaram1996/Hubert_emotion",
+      "downloads": 95,
+      "likes": 33,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-11-19T20:10:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TalTechNLP",
+      "id": "TalTechNLP/voxlingua107-epaca-tdnn-ce",
+      "downloads": 11,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T13:37:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-28T20:49:22.517Z"
+}
