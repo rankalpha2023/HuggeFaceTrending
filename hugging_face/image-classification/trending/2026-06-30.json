@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 27470,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 9339049,
+      "likes": 1114,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "Grio43",
+      "id": "Grio43/OppaiOracle",
+      "downloads": 15,
+      "likes": 43,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-10T01:13:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "afx-team",
+      "id": "afx-team/UI-UX",
+      "downloads": 102,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-16T12:14:35.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 5663684,
+      "likes": 981,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/dit-base-finetuned-rvlcdip",
+      "downloads": 20768,
+      "likes": 39,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-27T17:57:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 520971,
+      "likes": 498,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/house-plant-image-detection",
+      "downloads": 127,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T11:06:38.000Z",
+      "numParameters": 85834799,
+      "repoType": "model"
+    },
+    {
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger_v2",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-21T07:08:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WinKawaks",
+      "id": "WinKawaks/vit-tiny-patch16-224",
+      "downloads": 20017,
+      "likes": 40,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-03-30T14:56:06.000Z",
+      "numParameters": 5717416,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-base-patch16-224-pt22k-ft22k",
+      "downloads": 7348,
+      "likes": 83,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-27T15:08:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/dit-large-finetuned-rvlcdip",
+      "downloads": 624,
+      "likes": 9,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-27T17:57:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nickmuchi",
+      "id": "nickmuchi/vit-finetuned-chest-xray-pneumonia",
+      "downloads": 962,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-03-09T12:50:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swinv2-base-patch4-window12to24-192to384-22kto1k-ft",
+      "downloads": 759,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-12-10T10:11:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "trpakov",
+      "id": "trpakov/vit-face-expression",
+      "downloads": 9145,
+      "likes": 90,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T13:24:56.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/mobilenet_v2_1.0_224",
+      "downloads": 48967,
+      "likes": 45,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-10-31T13:40:16.000Z",
+      "numParameters": 3540265,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 23246193,
+      "likes": 80,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_small_patch16_224.augreg_in21k",
+      "downloads": 6246,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T19:16:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_tiny_patch16_224.augreg_in21k_ft_in1k",
+      "downloads": 135219,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T19:16:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/efficientnet-b0",
+      "downloads": 10233,
+      "likes": 41,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-17T10:05:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "linkanjarad",
+      "id": "linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification",
+      "downloads": 2474,
+      "likes": 49,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-04-26T04:25:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet50.a1_in1k",
+      "downloads": 2597190,
+      "likes": 43,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-07-11T18:17:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/chest_xray_pneumonia_detection",
+      "downloads": 229,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:42:57.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "DaMsTaR",
+      "id": "DaMsTaR/Detecto-DeepFake_Image_Detector",
+      "downloads": 53,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-22T12:46:17.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/vit-base-nsfw-detector",
+      "downloads": 652801,
+      "likes": 80,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-03T14:14:31.000Z",
+      "numParameters": 86092034,
+      "repoType": "model"
+    },
+    {
+      "author": "watersplash",
+      "id": "watersplash/waste-classification",
+      "downloads": 308,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-11T18:56:21.000Z",
+      "numParameters": 85807884,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/ConvNext-Tiny",
+      "downloads": 96,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-16T17:04:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Anwarkh1",
+      "id": "Anwarkh1/Skin_Cancer-Image_Classification",
+      "downloads": 2107,
+      "likes": 43,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-19T10:58:56.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "pawlo2013",
+      "id": "pawlo2013/kimchi-classification",
+      "downloads": 7,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-24T16:37:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mo-thecreator",
+      "id": "mo-thecreator/vit-Facial-Expression-Recognition",
+      "downloads": 2166,
+      "likes": 32,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-05-31T02:16:15.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "HardlyHumans",
+      "id": "HardlyHumans/Facial-expression-detection",
+      "downloads": 310,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-07-02T10:09:53.000Z",
+      "numParameters": 85804808,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-30T21:21:37.365Z"
+}
