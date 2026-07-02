@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "likes",
+  "totalItems": 27488,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 9071609,
+      "likes": 1119,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 5710924,
+      "likes": 981,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 568776,
+      "likes": 498,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 174,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T09:38:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nateraw",
+      "id": "nateraw/vit-age-classifier",
+      "downloads": 62722,
+      "likes": 147,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-07-28T23:24:56.000Z",
+      "numParameters": 85805577,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/facial_emotions_image_detection",
+      "downloads": 23128,
+      "likes": 124,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:09:54.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "fancyfeast",
+      "id": "fancyfeast/joytag",
+      "downloads": 623,
+      "likes": 118,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-09T04:09:40.000Z",
+      "numParameters": 91498430,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/cxr-foundation",
+      "downloads": 15991,
+      "likes": 102,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:26:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "umm-maybe",
+      "id": "umm-maybe/AI-image-detector",
+      "downloads": 19447,
+      "likes": 96,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-01-03T02:51:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "apple",
+      "id": "apple/mobilevit-small",
+      "downloads": 2042279,
+      "likes": 91,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-24T21:25:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "apple",
+      "id": "apple/AIM",
+      "downloads": 0,
+      "likes": 91,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-28T18:31:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "trpakov",
+      "id": "trpakov/vit-face-expression",
+      "downloads": 9471,
+      "likes": 90,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T13:24:56.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/derm-foundation",
+      "downloads": 478,
+      "likes": 90,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-01T00:52:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-base-patch16-224-pt22k-ft22k",
+      "downloads": 7486,
+      "likes": 83,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-27T15:08:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "porntech",
+      "id": "porntech/sex-position",
+      "downloads": 251,
+      "likes": 82,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-15T08:30:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nateraw",
+      "id": "nateraw/food",
+      "downloads": 6582,
+      "likes": 80,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-05-17T17:44:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 24901386,
+      "likes": 80,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/vit-base-nsfw-detector",
+      "downloads": 641270,
+      "likes": 80,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-03T14:14:31.000Z",
+      "numParameters": 86092034,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 70487,
+      "likes": 78,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "Camais03",
+      "id": "Camais03/camie-tagger-v2",
+      "downloads": 101,
+      "likes": 77,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-01T16:37:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/fairface_age_image_detection",
+      "downloads": 6174295,
+      "likes": 75,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-15T19:54:53.000Z",
+      "numParameters": 85805577,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/path-foundation",
+      "downloads": 46,
+      "likes": 69,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:25:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Camais03",
+      "id": "Camais03/camie-tagger",
+      "downloads": 33,
+      "likes": 66,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-08-31T19:24:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "rizvandwiki",
+      "id": "rizvandwiki/gender-classification",
+      "downloads": 1441082,
+      "likes": 60,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-05-18T11:16:33.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "Ateeqq",
+      "id": "Ateeqq/ai-vs-human-image-detector",
+      "downloads": 13190,
+      "likes": 60,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-24T16:55:44.000Z",
+      "numParameters": 92885762,
+      "repoType": "model"
+    },
+    {
+      "author": "Freepik",
+      "id": "Freepik/nsfw_image_detector",
+      "downloads": 456230,
+      "likes": 58,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-09T09:04:50.000Z",
+      "numParameters": 86351620,
+      "repoType": "model"
+    },
+    {
+      "author": "Organika",
+      "id": "Organika/sdxl-detector",
+      "downloads": 149464,
+      "likes": 57,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-09-06T12:17:24.000Z",
+      "numParameters": 86802898,
+      "repoType": "model"
+    },
+    {
+      "author": "cafeai",
+      "id": "cafeai/cafe_aesthetic",
+      "downloads": 3293,
+      "likes": 56,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-11-23T12:08:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Marqo",
+      "id": "Marqo/nsfw-image-detection-384",
+      "downloads": 215825,
+      "likes": 56,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-11-27T23:13:33.000Z",
+      "numParameters": 5597762,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/MambaVision-L3-512-21K",
+      "downloads": 253,
+      "likes": 56,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-29T18:14:30.000Z",
+      "numParameters": 739584424,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-02T20:50:17.798Z"
+}
