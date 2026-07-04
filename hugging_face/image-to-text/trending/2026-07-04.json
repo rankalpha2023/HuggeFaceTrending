@@ -1,0 +1,309 @@
+{
+  "category": "image-to-text",
+  "sort": "trending",
+  "totalItems": 1800,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 520207,
+      "likes": 272,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-29T14:01:41.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-ocr-v2",
+      "downloads": 13238,
+      "likes": 222,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-22T04:58:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det_safetensors",
+      "downloads": 3367,
+      "likes": 102,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T03:10:52.000Z",
+      "numParameters": 21993025,
+      "repoType": "model"
+    },
+    {
+      "author": "LoJexLLM",
+      "id": "LoJexLLM/Unlimited-OCR-MLX",
+      "downloads": 1957,
+      "likes": 11,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-24T05:44:58.000Z",
+      "numParameters": 3336106240,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det",
+      "downloads": 94173,
+      "likes": 24,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T03:10:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-base-handwritten",
+      "downloads": 123247,
+      "likes": 498,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-11T04:26:58.000Z",
+      "numParameters": 333331200,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-base",
+      "downloads": 1826334,
+      "likes": 864,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:45:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "InternScience",
+      "id": "InternScience/StructTable-base",
+      "downloads": 36,
+      "likes": 12,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-06T06:27:42.000Z",
+      "numParameters": 323502720,
+      "repoType": "model"
+    },
+    {
+      "author": "InternScience",
+      "id": "InternScience/StructTable-InternVL2-1B",
+      "downloads": 438,
+      "likes": 47,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-06T06:28:42.000Z",
+      "numParameters": 938158976,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_det",
+      "downloads": 569922,
+      "likes": 73,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuMarkdown-8B-Thinking",
+      "downloads": 31808,
+      "likes": 477,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-05T12:59:54.000Z",
+      "numParameters": 8292166656,
+      "repoType": "model"
+    },
+    {
+      "author": "marsena",
+      "id": "marsena/paddleocr-onnx-models",
+      "downloads": 0,
+      "likes": 12,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-09-01T06:15:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mradermacher",
+      "id": "mradermacher/Nanonets-OCR2-3B-GGUF",
+      "downloads": 900,
+      "likes": 19,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-10-14T00:38:58.000Z",
+      "numParameters": 3085938688,
+      "repoType": "model"
+    },
+    {
+      "author": "ADSKAILab",
+      "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
+      "downloads": 1199,
+      "likes": 56,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-05T21:50:47.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "PatSnap",
+      "id": "PatSnap/Hiro-MOSS-OCR-0.3B",
+      "downloads": 495,
+      "likes": 4,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-02T02:31:39.000Z",
+      "numParameters": 336404480,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_rec",
+      "downloads": 83832,
+      "likes": 21,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T10:07:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Quazim0t0",
+      "id": "Quazim0t0/Byrne-Docling-131M",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-04T16:38:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/git-base",
+      "downloads": 11849,
+      "likes": 111,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-04-24T09:52:15.000Z",
+      "numParameters": 176620287,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-large",
+      "downloads": 743803,
+      "likes": 1477,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:42:42.000Z",
+      "numParameters": 469733436,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/git-large",
+      "downloads": 880,
+      "likes": 19,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-02-08T10:49:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/git-large-textcaps",
+      "downloads": 432,
+      "likes": 31,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-02-08T10:49:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Riksarkivet",
+      "id": "Riksarkivet/satrn_htr",
+      "downloads": 4,
+      "likes": 8,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-11-09T18:04:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Riksarkivet",
+      "id": "Riksarkivet/trocr-base-handwritten-hist-swe-2",
+      "downloads": 8958,
+      "likes": 15,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-04T11:47:54.000Z",
+      "numParameters": 384864769,
+      "repoType": "model"
+    },
+    {
+      "author": "openthaigpt",
+      "id": "openthaigpt/thai-trocr",
+      "downloads": 789,
+      "likes": 27,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-11-04T03:39:34.000Z",
+      "numParameters": 102849453,
+      "repoType": "model"
+    },
+    {
+      "author": "xiangjx",
+      "id": "xiangjx/musk",
+      "downloads": 0,
+      "likes": 57,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-01-19T06:32:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_rec",
+      "downloads": 185003,
+      "likes": 29,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:04:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "logasanjeev",
+      "id": "logasanjeev/indian-id-validator",
+      "downloads": 1727,
+      "likes": 7,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-06-13T07:43:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WeightedAI",
+      "id": "WeightedAI/Persian_OCR",
+      "downloads": 44,
+      "likes": 10,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-09-29T19:05:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "monkt",
+      "id": "monkt/paddleocr-onnx",
+      "downloads": 0,
+      "likes": 62,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-10-07T05:37:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mayocream",
+      "id": "mayocream/manga-ocr",
+      "downloads": 2113,
+      "likes": 4,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-11-29T13:42:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-04T20:41:57.897Z"
+}

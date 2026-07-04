@@ -1,0 +1,309 @@
+{
+  "category": "image-segmentation",
+  "sort": "trending",
+  "totalItems": 2852,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 591261,
+      "likes": 1298,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 307443,
+      "likes": 1997,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 752119,
+      "likes": 603,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:55.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "PramaLLC",
+      "id": "PramaLLC/BEN2",
+      "downloads": 26516,
+      "likes": 238,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-12-31T17:17:52.000Z",
+      "numParameters": 94632322,
+      "repoType": "model"
+    },
+    {
+      "author": "Riksarkivet",
+      "id": "Riksarkivet/rtmdet_regions",
+      "downloads": 9,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-11-04T11:23:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Riksarkivet",
+      "id": "Riksarkivet/rtmdet_lines",
+      "downloads": 7,
+      "likes": 5,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-11-04T11:23:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/modnet",
+      "downloads": 53697,
+      "likes": 84,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-10-26T21:25:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/BiRefNet-ONNX",
+      "downloads": 558,
+      "likes": 17,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-03-07T11:29:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "wanglab",
+      "id": "wanglab/MedSAM2",
+      "downloads": 994,
+      "likes": 43,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-10T23:00:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Simon7108528",
+      "id": "Simon7108528/EfficientSAM3",
+      "downloads": 0,
+      "likes": 23,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-07-01T20:17:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ly17",
+      "id": "ly17/TC-SemiSAM-checkpoints",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-03-03T15:22:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TahaKoleilat",
+      "id": "TahaKoleilat/MedCLIPSeg",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-03-24T02:57:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Frimpong1",
+      "id": "Frimpong1/pid-line-segmentation-unet-resnet34",
+      "downloads": 9,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-08T05:32:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mayocream",
+      "id": "mayocream/speech-bubble-segmentation",
+      "downloads": 17484,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-04T09:35:43.000Z",
+      "numParameters": 27274755,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-seg-5b",
+      "downloads": 4450,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-15T14:49:39.000Z",
+      "numParameters": 5089588656,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-seg-0.4b",
+      "downloads": 4291,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-15T14:49:24.000Z",
+      "numParameters": 406601709,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-large",
+      "downloads": 70,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:11.000Z",
+      "numParameters": 36211971,
+      "repoType": "model"
+    },
+    {
+      "author": "LaMOP",
+      "id": "LaMOP/Yolo-Seg-TextRegion-TextLine-Typed",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-01T09:28:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LaMOP",
+      "id": "LaMOP/Yolo-Seg-TextRegion-TextLine-Manuscript",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-01T09:27:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eadx",
+      "id": "eadx/yolov8s-seg-solar-panels",
+      "downloads": 50,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-19T17:00:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "withoutbg",
+      "id": "withoutbg/withoutbg-openweights-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-29T16:29:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "degenfabian",
+      "id": "degenfabian/GeoPlanAgent",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-07-02T07:31:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Narsil",
+      "id": "Narsil/pet-segmentation",
+      "downloads": 8,
+      "likes": 10,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2021-11-29T16:23:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-101-panoptic",
+      "downloads": 36,
+      "likes": 17,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-03-30T14:16:45.000Z",
+      "numParameters": 62049880,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-dc5-panoptic",
+      "downloads": 22,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:44.000Z",
+      "numParameters": 43005528,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-panoptic",
+      "downloads": 26385,
+      "likes": 138,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-04-10T14:14:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-base-ade",
+      "downloads": 766,
+      "likes": 13,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-11-10T10:22:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-base-coco",
+      "downloads": 1252,
+      "likes": 26,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-05-03T07:29:13.000Z",
+      "numParameters": 102324868,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-large-ade",
+      "downloads": 680,
+      "likes": 58,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-02-27T15:08:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-large-coco",
+      "downloads": 1265,
+      "likes": 28,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:46:05.000Z",
+      "numParameters": 212072128,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-04T20:41:48.839Z"
+}
