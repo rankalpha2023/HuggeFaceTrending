@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 4457,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-fused",
+      "downloads": 12515322,
+      "likes": 114,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-12T00:41:49.000Z",
+      "numParameters": 153558316,
+      "repoType": "model"
+    },
+    {
+      "author": "firdhokk",
+      "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+      "downloads": 21370,
+      "likes": 116,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-01T03:19:07.000Z",
+      "numParameters": 637298695,
+      "repoType": "model"
+    },
+    {
+      "author": "spellbrush",
+      "id": "spellbrush/animescore",
+      "downloads": 68,
+      "likes": 7,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-12T06:51:53.000Z",
+      "numParameters": 2233861,
+      "repoType": "model"
+    },
+    {
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
+      "downloads": 577733,
+      "likes": 172,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-09-19T08:07:19.000Z",
+      "numParameters": 165336707,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-4017",
+      "downloads": 30155,
+      "likes": 16,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:56.000Z",
+      "numParameters": 970077745,
+      "repoType": "model"
+    },
+    {
+      "author": "telnyx",
+      "id": "telnyx/wav2vec2-end-of-speech-detection",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-09-13T07:39:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tiantiaf",
+      "id": "tiantiaf/wavlm-large-age-sex",
+      "downloads": 3178,
+      "likes": 11,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-08-10T21:38:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lugan",
+      "id": "lugan/SynTTS-Commands-Media-Benchmarks",
+      "downloads": 115,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-02-06T03:03:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anyreach-ai",
+      "id": "anyreach-ai/dualturn-qwen2.5-mimi-0.5B",
+      "downloads": 998,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-04-06T18:09:49.000Z",
+      "numParameters": 658612144,
+      "repoType": "model"
+    },
+    {
+      "author": "csc-unipd",
+      "id": "csc-unipd/wav2taste",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-07T06:17:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "VoxRT",
+      "id": "VoxRT/wake-word-hey-assistant-vxrt",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-08T17:04:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AkshaySg",
+      "id": "AkshaySg/langid",
+      "downloads": 7,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T12:38:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-greek-speech-emotion-recognition",
+      "downloads": 24,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-20T05:38:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition",
+      "downloads": 164,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-10-19T01:31:17.000Z",
+      "numParameters": 316492420,
+      "repoType": "model"
+    },
+    {
+      "author": "NhatPham",
+      "id": "NhatPham/wav2vec2-base-finetuned-ks",
+      "downloads": 9,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-01T04:32:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Rajaram1996",
+      "id": "Rajaram1996/Hubert_emotion",
+      "downloads": 84,
+      "likes": 33,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-11-19T20:10:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TalTechNLP",
+      "id": "TalTechNLP/voxlingua107-epaca-tdnn-ce",
+      "downloads": 9,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T13:37:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TalTechNLP",
+      "id": "TalTechNLP/voxlingua107-epaca-tdnn",
+      "downloads": 1795,
+      "likes": 33,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-27T20:06:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "abdelhalim",
+      "id": "abdelhalim/Shower_Sound_Recognition",
+      "downloads": 7,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-03-03T22:09:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "addy88",
+      "id": "addy88/wav2vec2-base-finetuned-ks",
+      "downloads": 10,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-12-12T03:41:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anantoj",
+      "id": "anantoj/wav2vec2-adult-child-cls",
+      "downloads": 5,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-02-23T14:29:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anantoj",
+      "id": "anantoj/wav2vec2-large-xlsr-53-adult-child-cls",
+      "downloads": 7,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-02-24T15:59:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anantoj",
+      "id": "anantoj/wav2vec2-xls-r-300m-adult-child-cls",
+      "downloads": 189,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-02-25T07:47:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/distilhubert-ft-common-language",
+      "downloads": 7,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-27T21:29:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/distilhubert-ft-keyword-spotting",
+      "downloads": 24,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-27T19:00:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/hubert-base-ft-keyword-spotting",
+      "downloads": 19,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-27T22:34:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/sew-d-mid-400k-ft-keyword-spotting",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-01-26T14:47:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/sew-mid-100k-ft-common-language",
+      "downloads": 6,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-28T10:52:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/sew-mid-100k-ft-keyword-spotting",
+      "downloads": 23,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-01-26T14:43:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/wav2vec2-base-finetuned-ks",
+      "downloads": 11,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-21T11:04:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-10T20:57:37.811Z"
+}

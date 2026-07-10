@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 119168,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 17429678,
+      "likes": 1078,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/multilingual-sentiment-analysis",
+      "downloads": 423426,
+      "likes": 384,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-18T08:13:42.000Z",
+      "numParameters": 135328517,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 8101772,
+      "likes": 1194,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "downloads": 3261390,
+      "likes": 819,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-04T07:58:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/opir-multitask-multilang-v1.0",
+      "downloads": 1599,
+      "likes": 14,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-29T06:29:21.000Z",
+      "numParameters": 279892992,
+      "repoType": "model"
+    },
+    {
+      "author": "TheSon2202",
+      "id": "TheSon2202/bamibert-moe-sentiment",
+      "downloads": 292,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-08T05:41:45.000Z",
+      "numParameters": 102960396,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3774050,
+      "likes": 920,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+      "downloads": 246931,
+      "likes": 462,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-21T15:17:58.000Z",
+      "numParameters": 82121221,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-small-prompt-injection-v2",
+      "downloads": 23946,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T16:00:07.000Z",
+      "numParameters": 141896450,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Prompt-Guard-86M",
+      "downloads": 4486665,
+      "likes": 351,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-11-12T21:27:00.000Z",
+      "numParameters": 278811651,
+      "repoType": "model"
+    },
+    {
+      "author": "livekit",
+      "id": "livekit/turn-detector",
+      "downloads": 632246,
+      "likes": 116,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-11T15:04:40.000Z",
+      "numParameters": 134516160,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-ultra",
+      "downloads": 603,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:51:37.000Z",
+      "numParameters": 1708243969,
+      "repoType": "model"
+    },
+    {
+      "author": "Tanusri129",
+      "id": "Tanusri129/sms-spam-detector-distilbert-Thanuuu",
+      "downloads": 41,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-03T11:50:03.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "ToobaTatheer",
+      "id": "ToobaTatheer/sms-spam-classifier",
+      "downloads": 34,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-03T13:48:30.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "chartreuse-verte",
+      "id": "chartreuse-verte/ettin-emotion-28-multilabel-68m",
+      "downloads": 97,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T18:45:39.000Z",
+      "numParameters": 68421660,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/roberta-large-mnli",
+      "downloads": 288760,
+      "likes": 211,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-02-19T12:47:11.000Z",
+      "numParameters": 356412419,
+      "repoType": "model"
+    },
+    {
+      "author": "apanc",
+      "id": "apanc/russian-inappropriate-messages",
+      "downloads": 502,
+      "likes": 26,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-18T22:39:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon-sagemaker-community",
+      "id": "amazon-sagemaker-community/xlm-roberta-en-ru-emoji-v2",
+      "downloads": 15,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-09-25T16:00:08.000Z",
+      "numParameters": 339816994,
+      "repoType": "model"
+    },
+    {
+      "author": "finiteautomata",
+      "id": "finiteautomata/bertweet-base-sentiment-analysis",
+      "downloads": 684741,
+      "likes": 194,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-02-17T02:17:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "inovex",
+      "id": "inovex/multi2convai-logistics-de-bert",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-08-15T08:23:49.000Z",
+      "numParameters": 109944598,
+      "repoType": "model"
+    },
+    {
+      "author": "keras-io",
+      "id": "keras-io/bidirectional-lstm-imdb",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-02-22T00:28:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Multilingual-MiniLM-L12-H384",
+      "downloads": 25390,
+      "likes": 107,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-10T07:27:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tals",
+      "id": "tals/albert-xlarge-vitaminc-mnli",
+      "downloads": 41303,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-03-17T05:27:53.000Z",
+      "numParameters": 58731523,
+      "repoType": "model"
+    },
+    {
+      "author": "unitary",
+      "id": "unitary/toxic-bert",
+      "downloads": 155161,
+      "likes": 224,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-03-13T17:41:49.000Z",
+      "numParameters": 109487366,
+      "repoType": "model"
+    },
+    {
+      "author": "lingwave-admin",
+      "id": "lingwave-admin/state-op-detector",
+      "downloads": 5,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-06-13T17:49:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sadickam",
+      "id": "sadickam/sdgBERT",
+      "downloads": 604,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-05T07:28:10.000Z",
+      "numParameters": 109494544,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-emotion-multilabel-latest",
+      "downloads": 35429,
+      "likes": 31,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-28T05:08:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/fasttext-language-identification",
+      "downloads": 2218197,
+      "likes": 271,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-06-09T12:39:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Mizuiro-sakura",
+      "id": "Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime",
+      "downloads": 586,
+      "likes": 44,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-15T12:58:08.000Z",
+      "numParameters": 413818888,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-base",
+      "downloads": 4671277,
+      "likes": 241,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:10:03.000Z",
+      "numParameters": 278044931,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-10T20:58:39.765Z"
+}

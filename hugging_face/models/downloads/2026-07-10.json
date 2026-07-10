@@ -1,0 +1,309 @@
+{
+  "category": "models",
+  "sort": "downloads",
+  "totalItems": 2897943,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "downloads": 255138800,
+      "likes": 5050,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-01T06:29:13.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 85091967,
+      "likes": 277,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:10.000Z",
+      "numParameters": 22714113,
+      "repoType": "model"
+    },
+    {
+      "author": "google-bert",
+      "id": "google-bert/bert-base-uncased",
+      "downloads": 70056549,
+      "likes": 2701,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T11:06:12.000Z",
+      "numParameters": 110106428,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-small-en-v1.5",
+      "downloads": 66120897,
+      "likes": 508,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-22T03:36:23.000Z",
+      "numParameters": 33360512,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 50245841,
+      "likes": 1310,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-01-28T10:02:26.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/electra-base-discriminator",
+      "downloads": 45261060,
+      "likes": 136,
+      "pipeline_tag": "",
+      "lastModified": "2024-02-29T10:20:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-m3",
+      "downloads": 34586436,
+      "likes": 3215,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-07-03T14:50:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-mpnet-base-v2",
+      "downloads": 33669910,
+      "likes": 1322,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-08-19T10:14:25.000Z",
+      "numParameters": 109486978,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 29180132,
+      "likes": 87,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-0.6B",
+      "downloads": 28970803,
+      "likes": 1404,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:27.000Z",
+      "numParameters": 751632384,
+      "repoType": "model"
+    },
+    {
+      "author": "google-t5",
+      "id": "google-t5/t5-small",
+      "downloads": 25567987,
+      "likes": 566,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-06-30T02:31:26.000Z",
+      "numParameters": 60506880,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/clip-vit-base-patch32",
+      "downloads": 23912634,
+      "likes": 975,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2024-02-29T09:45:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/xlm-roberta-base",
+      "downloads": 22782183,
+      "likes": 863,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T12:48:21.000Z",
+      "numParameters": 278885778,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-8B",
+      "downloads": 18345744,
+      "likes": 1192,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:49:13.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 17429678,
+      "likes": 1078,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-2",
+      "downloads": 15890760,
+      "likes": 354,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-06-05T11:55:42.000Z",
+      "numParameters": 119477664,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/opt-125m",
+      "downloads": 15423078,
+      "likes": 274,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2023-09-15T13:10:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nomic-ai",
+      "id": "nomic-ai/nomic-embed-text-v1.5",
+      "downloads": 15379879,
+      "likes": 863,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-07T14:17:02.000Z",
+      "numParameters": 136731648,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-en-v1.5",
+      "downloads": 14922126,
+      "likes": 697,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T02:51:44.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-small",
+      "downloads": 14459989,
+      "likes": 48,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:15.000Z",
+      "numParameters": 47718016,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-26B-A4B-it",
+      "downloads": 14443799,
+      "likes": 1251,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-10T08:30:28.000Z",
+      "numParameters": 26544131376,
+      "repoType": "model"
+    },
+    {
+      "author": "openai-community",
+      "id": "openai-community/gpt2",
+      "downloads": 13957192,
+      "likes": 3340,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-02-19T10:57:45.000Z",
+      "numParameters": 137022720,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/roberta-large",
+      "downloads": 13579454,
+      "likes": 307,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T12:47:04.000Z",
+      "numParameters": 355412571,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/clip-vit-large-patch14",
+      "downloads": 13141322,
+      "likes": 2052,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2023-09-15T15:49:35.000Z",
+      "numParameters": 427616846,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large",
+      "downloads": 12857950,
+      "likes": 1220,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-02T02:16:59.000Z",
+      "numParameters": 559890946,
+      "repoType": "model"
+    },
+    {
+      "author": "trl-internal-testing",
+      "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+      "downloads": 12820543,
+      "likes": 12,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-12-19T19:10:57.000Z",
+      "numParameters": 2428632,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "downloads": 12737053,
+      "likes": 1415,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-01-12T02:10:10.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-fused",
+      "downloads": 12515322,
+      "likes": 114,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-12T00:41:49.000Z",
+      "numParameters": 153558316,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-31B-it",
+      "downloads": 12001879,
+      "likes": 3166,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-10T08:28:33.000Z",
+      "numParameters": 32682372656,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "downloads": 11980246,
+      "likes": 766,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:32:50.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-10T20:57:34.069Z"
+}
