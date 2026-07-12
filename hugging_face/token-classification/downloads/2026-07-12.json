@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "downloads",
+  "totalItems": 28164,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "w11wo",
+      "id": "w11wo/indonesian-roberta-base-posp-tagger",
+      "downloads": 2305728,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-19T11:03:26.000Z",
+      "numParameters": 124075034,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1883621,
+      "likes": 721,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 1326321,
+      "likes": 81,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 866105,
+      "likes": 166,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "oliverguhr",
+      "id": "oliverguhr/fullstop-punctuation-multilang-large",
+      "downloads": 719228,
+      "likes": 179,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-16T09:35:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hantian",
+      "id": "hantian/layoutreader",
+      "downloads": 715923,
+      "likes": 44,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-06-08T06:54:50.000Z",
+      "numParameters": 356583422,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/xlm-roberta-large-ner-hrl",
+      "downloads": 674784,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-14T19:35:59.000Z",
+      "numParameters": 558850571,
+      "repoType": "model"
+    },
+    {
+      "author": "dbmdz",
+      "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "downloads": 674026,
+      "likes": 96,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-06T22:17:56.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "kredor",
+      "id": "kredor/punctuate-all",
+      "downloads": 560602,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-26T05:37:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "segment-any-text",
+      "id": "segment-any-text/sat-3l-sm",
+      "downloads": 511872,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-09-24T11:54:56.000Z",
+      "numParameters": 213662977,
+      "repoType": "model"
+    },
+    {
+      "author": "obi",
+      "id": "obi/deid_roberta_i2b2",
+      "downloads": 498435,
+      "likes": 39,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-23T03:36:26.000Z",
+      "numParameters": 354356783,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 370212,
+      "likes": 1695,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-english-fast",
+      "downloads": 367163,
+      "likes": 27,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-07-21T19:24:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 279202,
+      "likes": 54,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/distilbert-NER",
+      "downloads": 268813,
+      "likes": 52,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:52:51.000Z",
+      "numParameters": 65197833,
+      "repoType": "model"
+    },
+    {
+      "author": "gilf",
+      "id": "gilf/french-camembert-postag-model",
+      "downloads": 250525,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-04-05T15:31:56.000Z",
+      "numParameters": 110645022,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/bert-base-multilingual-cased-ner-hrl",
+      "downloads": 246827,
+      "likes": 83,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-11-11T12:32:14.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/span-marker-bert-base-uncased-acronyms",
+      "downloads": 242427,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-27T12:33:22.000Z",
+      "numParameters": 109488899,
+      "repoType": "model"
+    },
+    {
+      "author": "gravitee-io",
+      "id": "gravitee-io/bert-small-pii-detection",
+      "downloads": 240105,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-21T09:54:18.000Z",
+      "numParameters": 28527155,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-english",
+      "downloads": 238070,
+      "likes": 36,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-07-21T19:25:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/biomedical-ner-all",
+      "downloads": 233517,
+      "likes": 194,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-02T07:28:28.000Z",
+      "numParameters": 66427476,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/xlm-roberta-base-ner-hrl",
+      "downloads": 207309,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-14T19:35:17.000Z",
+      "numParameters": 277460491,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-german-large",
+      "downloads": 199388,
+      "likes": 45,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-08-28T09:08:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OncologyDetect-MultiMed-568M",
+      "downloads": 183657,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:35:55.000Z",
+      "numParameters": 566738977,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-english-ontonotes-large",
+      "downloads": 178141,
+      "likes": 101,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-05-08T15:35:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-ChemicalDetect-MultiMed-568M",
+      "downloads": 172287,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:44:49.000Z",
+      "numParameters": 566708227,
+      "repoType": "model"
+    },
+    {
+      "author": "tner",
+      "id": "tner/roberta-large-tweetner7-all",
+      "downloads": 161445,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-09-27T15:29:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/distilbert-base-multilingual-cased-ner-hrl",
+      "downloads": 155773,
+      "likes": 83,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-14T19:34:34.000Z",
+      "numParameters": 134741001,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-ChemicalDetect-BigMed-560M",
+      "downloads": 151378,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:37:38.000Z",
+      "numParameters": 558843907,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-large-NER",
+      "downloads": 151202,
+      "likes": 163,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:52:08.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-12T20:34:46.998Z"
+}
