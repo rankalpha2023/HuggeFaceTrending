@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 29122,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "fastino",
+      "id": "fastino/GLiNER2-Guardrails-PII-Multi",
+      "downloads": 694,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-08T16:00:39.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 10513,
+      "likes": 156,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 388049,
+      "likes": 1697,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "feyninc",
+      "id": "feyninc/pulpie-orange-small",
+      "downloads": 1552,
+      "likes": 20,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-01T19:06:31.000Z",
+      "numParameters": 211768322,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-multilingual-v2",
+      "downloads": 3629,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-03T07:56:25.000Z",
+      "numParameters": 1399604809,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 56564,
+      "likes": 60,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-22T15:50:03.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron-v2",
+      "downloads": 15693,
+      "likes": 40,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-03T07:57:03.000Z",
+      "numParameters": 1399607373,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/pos-english",
+      "downloads": 30697,
+      "likes": 36,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-04-10T15:54:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 288657,
+      "likes": 54,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-v2-base",
+      "downloads": 1934,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-10T05:35:23.000Z",
+      "numParameters": 153379075,
+      "repoType": "model"
+    },
+    {
+      "author": "LocalAI-io",
+      "id": "LocalAI-io/privacy-filter-GGUF",
+      "downloads": 794,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-18T09:51:09.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "alvaroalon2",
+      "id": "alvaroalon2/biobert_genetic_ner",
+      "downloads": 1306,
+      "likes": 26,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-17T12:11:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/pos-english-fast",
+      "downloads": 1699,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-03-02T22:19:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "oliverguhr",
+      "id": "oliverguhr/fullstop-punctuation-multilang-large",
+      "downloads": 725145,
+      "likes": 179,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-16T09:35:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "opennyaiorg",
+      "id": "opennyaiorg/en_legal_ner_trf",
+      "downloads": 770,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-05-08T06:32:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Emanuel",
+      "id": "Emanuel/porttagger-oilgas-base",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-12-08T22:23:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Emanuel",
+      "id": "Emanuel/porttagger-base",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-12-08T22:26:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 20794,
+      "likes": 163,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 56336,
+      "likes": 171,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER_Zero",
+      "downloads": 13439,
+      "likes": 109,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-26T13:28:29.000Z",
+      "numParameters": 448872192,
+      "repoType": "model"
+    },
+    {
+      "author": "latofat",
+      "id": "latofat/uzpostagger-latin-3",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-10T13:53:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "latofat",
+      "id": "latofat/uzpostagger-cyrillic-3",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-10T13:53:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "gliner-community",
+      "id": "gliner-community/gliner_medium-v2.5",
+      "downloads": 2876,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T10:36:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "celiudos",
+      "id": "celiudos/legal-bert-lgpd",
+      "downloads": 7879,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-31T11:10:14.000Z",
+      "numParameters": 333364241,
+      "repoType": "model"
+    },
+    {
+      "author": "AAU-NLP",
+      "id": "AAU-NLP/Cal-BERT-SL1000",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-24T11:08:27.000Z",
+      "numParameters": 109661417,
+      "repoType": "model"
+    },
+    {
+      "author": "Ihor",
+      "id": "Ihor/gliner-biomed-large-v1.0",
+      "downloads": 429,
+      "likes": 18,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-07-16T08:08:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-x-large",
+      "downloads": 488,
+      "likes": 48,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-29T10:21:19.000Z",
+      "numParameters": 864609792,
+      "repoType": "model"
+    },
+    {
+      "author": "amjad-awad",
+      "id": "amjad-awad/skill-extractor",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-07-09T12:18:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-DiseaseDetect-SnowMed-568M",
+      "downloads": 86632,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:40:26.000Z",
+      "numParameters": 566708227,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-decoder-base-v1.0",
+      "downloads": 10,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-16T09:31:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-14T20:48:59.876Z"
+}

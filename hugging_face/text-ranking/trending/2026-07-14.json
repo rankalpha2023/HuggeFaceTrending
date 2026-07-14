@@ -1,0 +1,309 @@
+{
+  "category": "text-ranking",
+  "sort": "trending",
+  "totalItems": 1161,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "tencent",
+      "id": "tencent/R3-rerank-0.6b",
+      "downloads": 221,
+      "likes": 20,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-07-08T08:49:20.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Reranker-0.6B",
+      "downloads": 2622530,
+      "likes": 375,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:55:59.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/xprovence-reranker-bgem3-v2",
+      "downloads": 503,
+      "likes": 17,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T08:44:18.000Z",
+      "numParameters": 567757827,
+      "repoType": "model"
+    },
+    {
+      "author": "QuantFactory",
+      "id": "QuantFactory/Qwen3-Reranker-4B-GGUF",
+      "downloads": 877,
+      "likes": 6,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-06-11T19:29:51.000Z",
+      "numParameters": 4410057216,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 85208183,
+      "likes": 279,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:10.000Z",
+      "numParameters": 22714113,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+      "downloads": 2366079,
+      "likes": 76,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-04-15T08:03:02.000Z",
+      "numParameters": 117641603,
+      "repoType": "model"
+    },
+    {
+      "author": "radlab",
+      "id": "radlab/polish-cross-encoder",
+      "downloads": 21172,
+      "likes": 5,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-04-05T19:11:07.000Z",
+      "numParameters": 434962433,
+      "repoType": "model"
+    },
+    {
+      "author": "sdadas",
+      "id": "sdadas/polish-reranker-large-ranknet",
+      "downloads": 31762,
+      "likes": 4,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-01-27T17:31:38.000Z",
+      "numParameters": 434962433,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-reranker-v2-base-multilingual",
+      "downloads": 1614867,
+      "likes": 353,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-10-21T05:59:46.000Z",
+      "numParameters": 278437633,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/provence-reranker-debertav3-v1",
+      "downloads": 4989,
+      "likes": 72,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-09-26T12:13:44.000Z",
+      "numParameters": 435064835,
+      "repoType": "model"
+    },
+    {
+      "author": "mixedbread-ai",
+      "id": "mixedbread-ai/mxbai-rerank-large-v2",
+      "downloads": 50996,
+      "likes": 142,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-08T08:36:49.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Reranker-4B",
+      "downloads": 2217600,
+      "likes": 147,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:56:07.000Z",
+      "numParameters": 4021784576,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/Qwen3-Reranker-0.6B-seq-cls",
+      "downloads": 278674,
+      "likes": 35,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-07-10T10:53:12.000Z",
+      "numParameters": 595777536,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/Qwen3-Reranker-4B-seq-cls",
+      "downloads": 4909,
+      "likes": 11,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-06-16T08:32:06.000Z",
+      "numParameters": 4021787136,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/xprovence-reranker-bgem3-v1",
+      "downloads": 48,
+      "likes": 18,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T08:45:29.000Z",
+      "numParameters": 567757827,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-reranker-v3",
+      "downloads": 1077809,
+      "likes": 143,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-27T13:54:20.000Z",
+      "numParameters": 596836352,
+      "repoType": "model"
+    },
+    {
+      "author": "ggml-org",
+      "id": "ggml-org/Qwen3-Reranker-0.6B-Q8_0-GGUF",
+      "downloads": 35303,
+      "likes": 25,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-10-03T10:19:38.000Z",
+      "numParameters": 595778560,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-reranker-v3-mlx",
+      "downloads": 551,
+      "likes": 6,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-10-04T17:48:58.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/llama-nemotron-rerank-1b-v2",
+      "downloads": 699054,
+      "likes": 58,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-20T18:24:14.000Z",
+      "numParameters": 1235816448,
+      "repoType": "model"
+    },
+    {
+      "author": "zeroentropy",
+      "id": "zeroentropy/zerank-2-reranker",
+      "downloads": 9381,
+      "likes": 96,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-05T17:47:28.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/llama-nemotron-rerank-vl-1b-v2",
+      "downloads": 109543,
+      "likes": 54,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-20T18:23:43.000Z",
+      "numParameters": 1678256576,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Reranker-8B",
+      "downloads": 219241,
+      "likes": 155,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:55:43.000Z",
+      "numParameters": 8767123696,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/jina-reranker-v3-4bit-mxfp4",
+      "downloads": 98,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-02-09T17:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/Qwen3-Reranker-0.6B-mxfp8",
+      "downloads": 477,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-02-11T21:37:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "soichisumi",
+      "id": "soichisumi/bge-reranker-v2-m3-mlx-affine8",
+      "downloads": 27,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-27T11:32:51.000Z",
+      "numParameters": 159913153,
+      "repoType": "model"
+    },
+    {
+      "author": "KaLM-Embedding",
+      "id": "KaLM-Embedding/KaLM-Reranker-V1-Small",
+      "downloads": 656,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-07-01T13:29:08.000Z",
+      "numParameters": 2115977456,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/Qwen3-Reranker-0.6B-4bit",
+      "downloads": 1097,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-06T10:22:25.000Z",
+      "numParameters": 93145376,
+      "repoType": "model"
+    },
+    {
+      "author": "2013khansohail",
+      "id": "2013khansohail/cartographer-ecommerce-reranker-MiniLM-L6-v2",
+      "downloads": 3490,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-07T07:24:36.000Z",
+      "numParameters": 22713601,
+      "repoType": "model"
+    },
+    {
+      "author": "lexrivera",
+      "id": "lexrivera/zerank-2-reranker-mlx-6Bit",
+      "downloads": 50,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-15T11:39:57.000Z",
+      "numParameters": 880068096,
+      "repoType": "model"
+    },
+    {
+      "author": "jak-pan",
+      "id": "jak-pan/kalm-reranker-v1-small-mlx",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-06-29T23:39:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-14T20:48:45.508Z"
+}
