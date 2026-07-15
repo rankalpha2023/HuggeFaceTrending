@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 119429,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 17531532,
+      "likes": 1085,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3793029,
+      "likes": 927,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 7830648,
+      "likes": 1197,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "livekit",
+      "id": "livekit/turn-detector",
+      "downloads": 643257,
+      "likes": 119,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-11T15:04:40.000Z",
+      "numParameters": 134516160,
+      "repoType": "model"
+    },
+    {
+      "author": "tabularisai",
+      "id": "tabularisai/multilingual-sentiment-analysis",
+      "downloads": 474763,
+      "likes": 386,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-18T08:13:42.000Z",
+      "numParameters": 135328517,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-en",
+      "downloads": 22,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:39.000Z",
+      "numParameters": 395833346,
+      "repoType": "model"
+    },
+    {
+      "author": "vectara",
+      "id": "vectara/hallucination_evaluation_model",
+      "downloads": 229335,
+      "likes": 359,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-10-20T19:34:40.000Z",
+      "numParameters": 109630082,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-small-prompt-injection-v2",
+      "downloads": 16476,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T16:00:07.000Z",
+      "numParameters": 141896450,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 94636,
+      "likes": 156,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "apriandito",
+      "id": "apriandito/indobert-sentiment-classifier",
+      "downloads": 487,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-03-27T10:58:59.000Z",
+      "numParameters": 335144963,
+      "repoType": "model"
+    },
+    {
+      "author": "Edu-p",
+      "id": "Edu-p/secbert-pt",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-02T13:12:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-ultra",
+      "downloads": 417,
+      "likes": 13,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:51:37.000Z",
+      "numParameters": 1708243969,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-mini",
+      "downloads": 933,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:52:36.000Z",
+      "numParameters": 283736833,
+      "repoType": "model"
+    },
+    {
+      "author": "IAAR-Shanghai",
+      "id": "IAAR-Shanghai/MemReranker-4B",
+      "downloads": 617,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-12T03:44:14.000Z",
+      "numParameters": 4410057216,
+      "repoType": "model"
+    },
+    {
+      "author": "chartreuse-verte",
+      "id": "chartreuse-verte/ettin-emotion-28-multilabel-68m",
+      "downloads": 196,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T18:45:39.000Z",
+      "numParameters": 68421660,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-multilingual",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/roberta-large-mnli",
+      "downloads": 288826,
+      "likes": 211,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-02-19T12:47:11.000Z",
+      "numParameters": 356412419,
+      "repoType": "model"
+    },
+    {
+      "author": "apanc",
+      "id": "apanc/russian-inappropriate-messages",
+      "downloads": 598,
+      "likes": 27,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-18T22:39:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon-sagemaker-community",
+      "id": "amazon-sagemaker-community/xlm-roberta-en-ru-emoji-v2",
+      "downloads": 16,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-09-25T16:00:08.000Z",
+      "numParameters": 339816994,
+      "repoType": "model"
+    },
+    {
+      "author": "blanchefort",
+      "id": "blanchefort/rubert-base-cased-sentiment",
+      "downloads": 248472,
+      "likes": 21,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-04-06T04:06:36.000Z",
+      "numParameters": 177856259,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/deberta-base-mnli",
+      "downloads": 80309,
+      "likes": 9,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-12-09T13:36:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tals",
+      "id": "tals/albert-xlarge-vitaminc-mnli",
+      "downloads": 56486,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-03-17T05:27:53.000Z",
+      "numParameters": 58731523,
+      "repoType": "model"
+    },
+    {
+      "author": "tblard",
+      "id": "tblard/tf-allocine",
+      "downloads": 631,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2020-12-11T22:02:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lxyuan",
+      "id": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+      "downloads": 802805,
+      "likes": 315,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-03-03T02:06:53.000Z",
+      "numParameters": 135326979,
+      "repoType": "model"
+    },
+    {
+      "author": "SchuylerH",
+      "id": "SchuylerH/bert-multilingual-go-emtions",
+      "downloads": 257,
+      "likes": 32,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-26T07:13:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PriyankaHundalekar",
+      "id": "PriyankaHundalekar/Hindi-Offensive-Analyzer-MuRIL",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-10-11T16:32:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/ms-marco-TinyBERT-L-2-v2",
+      "downloads": 2798,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-06-30T05:15:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dstefa",
+      "id": "dstefa/roberta-base_topic_classification_nyt_news",
+      "downloads": 2980,
+      "likes": 11,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-25T09:31:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lytang",
+      "id": "lytang/MiniCheck-DeBERTa-v3-Large",
+      "downloads": 22012,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-22T16:14:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SAdeosun",
+      "id": "SAdeosun/Pharmacy-Practice-Research-Domain-Classifier_PPRDC_Abstract",
+      "downloads": 1,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-19T05:04:51.000Z",
+      "numParameters": 41518468,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-15T20:48:29.359Z"
+}
