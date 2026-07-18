@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 119766,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 17792610,
+      "likes": 1092,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "livekit",
+      "id": "livekit/turn-detector",
+      "downloads": 651280,
+      "likes": 120,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-11T15:04:40.000Z",
+      "numParameters": 134516160,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3917432,
+      "likes": 927,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 94384,
+      "likes": 157,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-en",
+      "downloads": 121,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:39.000Z",
+      "numParameters": 395833346,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 7550632,
+      "likes": 1199,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vectara",
+      "id": "vectara/hallucination_evaluation_model",
+      "downloads": 233811,
+      "likes": 359,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-10-20T19:34:40.000Z",
+      "numParameters": 109630082,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Prompt-Guard-86M",
+      "downloads": 4450614,
+      "likes": 353,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-11-12T21:27:00.000Z",
+      "numParameters": 278811651,
+      "repoType": "model"
+    },
+    {
+      "author": "SuperAnnotate",
+      "id": "SuperAnnotate/ai-detector",
+      "downloads": 433,
+      "likes": 22,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-12-17T13:19:27.000Z",
+      "numParameters": 354311169,
+      "repoType": "model"
+    },
+    {
+      "author": "Edu-p",
+      "id": "Edu-p/secbert-pt",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-02T13:12:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliclass-multilang-mini",
+      "downloads": 1030,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-30T15:52:36.000Z",
+      "numParameters": 283736833,
+      "repoType": "model"
+    },
+    {
+      "author": "PleIAs",
+      "id": "PleIAs/CommonLingua",
+      "downloads": 99,
+      "likes": 29,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-04-28T10:01:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-multilingual",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "moganai",
+      "id": "moganai/fasttext-tr-quality-classifier",
+      "downloads": 9,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-16T07:42:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "blanchefort",
+      "id": "blanchefort/rubert-base-cased-sentiment",
+      "downloads": 248312,
+      "likes": 21,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-04-06T04:06:36.000Z",
+      "numParameters": 177856259,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+      "downloads": 1105943,
+      "likes": 271,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-19T20:41:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "j-hartmann",
+      "id": "j-hartmann/emotion-english-distilroberta-base",
+      "downloads": 648501,
+      "likes": 502,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-02T13:03:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/deberta-base-mnli",
+      "downloads": 74818,
+      "likes": 9,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-12-09T13:36:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tblard",
+      "id": "tblard/tf-allocine",
+      "downloads": 603,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2020-12-11T22:02:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SamLowe",
+      "id": "SamLowe/roberta-base-go_emotions",
+      "downloads": 1055222,
+      "likes": 681,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T18:23:34.000Z",
+      "numParameters": 124667678,
+      "repoType": "model"
+    },
+    {
+      "author": "lxyuan",
+      "id": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+      "downloads": 825607,
+      "likes": 315,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-03-03T02:06:53.000Z",
+      "numParameters": 135326979,
+      "repoType": "model"
+    },
+    {
+      "author": "andreas122001",
+      "id": "andreas122001/roberta-academic-detector",
+      "downloads": 426,
+      "likes": 9,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-03T23:27:28.000Z",
+      "numParameters": 124647684,
+      "repoType": "model"
+    },
+    {
+      "author": "SchuylerH",
+      "id": "SchuylerH/bert-multilingual-go-emtions",
+      "downloads": 267,
+      "likes": 32,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-26T07:13:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/distilroberta-nsfw-prompt-stable-diffusion",
+      "downloads": 62,
+      "likes": 24,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-16T18:17:43.000Z",
+      "numParameters": 82119938,
+      "repoType": "model"
+    },
+    {
+      "author": "BlueOrangeDigital",
+      "id": "BlueOrangeDigital/distilbert-cross-segment-document-chunking",
+      "downloads": 27,
+      "likes": 7,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-02-27T19:20:02.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "lytang",
+      "id": "lytang/MiniCheck-DeBERTa-v3-Large",
+      "downloads": 23118,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-22T16:14:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lytang",
+      "id": "lytang/MiniCheck-RoBERTa-Large",
+      "downloads": 7104,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-22T16:14:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-base-prompt-injection-v2",
+      "downloads": 254592,
+      "likes": 112,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T16:01:38.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceFW",
+      "id": "HuggingFaceFW/fineweb-edu-classifier",
+      "downloads": 18865,
+      "likes": 223,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-11-17T15:00:11.000Z",
+      "numParameters": 109483009,
+      "repoType": "model"
+    },
+    {
+      "author": "bespokelabs",
+      "id": "bespokelabs/Bespoke-MiniCheck-7B",
+      "downloads": 56394,
+      "likes": 84,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-12-20T13:58:21.000Z",
+      "numParameters": 7737757696,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-18T20:36:17.778Z"
+}
