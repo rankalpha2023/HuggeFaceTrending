@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 29608,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "fastino",
+      "id": "fastino/GLiNER2-Guardrails-PII-Multi",
+      "downloads": 1874,
+      "likes": 25,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-08T16:00:39.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 419312,
+      "likes": 1705,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "feyninc",
+      "id": "feyninc/pulpie-orange-small",
+      "downloads": 1910,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-01T19:06:31.000Z",
+      "numParameters": 211768322,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 9172,
+      "likes": 142,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron-v2",
+      "downloads": 16295,
+      "likes": 43,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-03T07:57:03.000Z",
+      "numParameters": 1399607373,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-v2-base",
+      "downloads": 1953,
+      "likes": 25,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-10T05:35:23.000Z",
+      "numParameters": 153379075,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-ner",
+      "downloads": 3,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-03T19:46:52.000Z",
+      "numParameters": 107751209,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-clinical-findings-ner",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-18T08:14:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 55226,
+      "likes": 165,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-pii-base-v1.0",
+      "downloads": 3053,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-09-27T07:12:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "feyninc",
+      "id": "feyninc/pulpie-orange-large",
+      "downloads": 183,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-01T20:10:36.000Z",
+      "numParameters": 2107597826,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-multilingual",
+      "downloads": 12876,
+      "likes": 21,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-03T21:36:31.000Z",
+      "numParameters": 1399604809,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-vitals-ner",
+      "downloads": 7,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-03T19:47:44.000Z",
+      "numParameters": 107743519,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 11516,
+      "likes": 156,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cbc-528a",
+      "id": "cbc-528a/BamiBERT-ViMedNER",
+      "downloads": 402,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-08T11:41:20.000Z",
+      "numParameters": 102369035,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-PII-Turkish-SuperMedical-Large-355M-v1-onnx-android",
+      "downloads": 14,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-13T07:44:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-medication-ner",
+      "downloads": 17,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-18T09:41:12.000Z",
+      "numParameters": 107738905,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-diagnosis-icd-ner",
+      "downloads": 17,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-18T10:33:49.000Z",
+      "numParameters": 108906259,
+      "repoType": "model"
+    },
+    {
+      "author": "genzeonplatform",
+      "id": "genzeonplatform/cliniguard-laboratory-ner",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-19T07:31:51.000Z",
+      "numParameters": 107735829,
+      "repoType": "model"
+    },
+    {
+      "author": "KBLab",
+      "id": "KBLab/bert-base-swedish-cased-ner",
+      "downloads": 2078,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-20T08:02:37.000Z",
+      "numParameters": 124701710,
+      "repoType": "model"
+    },
+    {
+      "author": "dbmdz",
+      "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "downloads": 701229,
+      "likes": 97,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-06T22:17:56.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1618082,
+      "likes": 722,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "sagorsarker",
+      "id": "sagorsarker/codeswitch-hineng-ner-lince",
+      "downloads": 59,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-27T15:21:21.000Z",
+      "numParameters": 177859335,
+      "repoType": "model"
+    },
+    {
+      "author": "QCRI",
+      "id": "QCRI/bert-base-multilingual-cased-pos-english",
+      "downloads": 1434,
+      "likes": 41,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-01-25T06:00:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "clarin-pl",
+      "id": "clarin-pl/FastPDN",
+      "downloads": 6776,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-26T08:40:16.000Z",
+      "numParameters": 123979687,
+      "repoType": "model"
+    },
+    {
+      "author": "AmelieSchreiber",
+      "id": "AmelieSchreiber/esm2_t12_35M_lora_binding_sites_v2_cp3",
+      "downloads": 31,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-22T04:36:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "latofat",
+      "id": "latofat/uzpostagger-latin-3",
+      "downloads": 11,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-10T13:53:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "latofat",
+      "id": "latofat/uzpostagger-cyrillic-3",
+      "downloads": 10,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-10T13:53:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DeepMount00",
+      "id": "DeepMount00/GLiNER_PII_ITA",
+      "downloads": 39,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-08-13T09:43:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Ihor",
+      "id": "Ihor/gliner-biomed-large-v1.0",
+      "downloads": 449,
+      "likes": 18,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-07-16T08:08:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-19T20:37:18.928Z"
+}
