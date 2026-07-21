@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 119848,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 17222980,
+      "likes": 1097,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-en",
+      "downloads": 167,
+      "likes": 7,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:39.000Z",
+      "numParameters": 395833346,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 7077421,
+      "likes": 1203,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Prompt-Guard-86M",
+      "downloads": 4239359,
+      "likes": 357,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-11-12T21:27:00.000Z",
+      "numParameters": 278811651,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/grounding-multilingual",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-15T02:22:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "j-hartmann",
+      "id": "j-hartmann/emotion-english-distilroberta-base",
+      "downloads": 602936,
+      "likes": 504,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-02T13:03:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SuperAnnotate",
+      "id": "SuperAnnotate/ai-detector",
+      "downloads": 448,
+      "likes": 23,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-12-17T13:19:27.000Z",
+      "numParameters": 354311169,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 89888,
+      "likes": 160,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+      "downloads": 981003,
+      "likes": 273,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-19T20:41:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SamLowe",
+      "id": "SamLowe/roberta-base-go_emotions",
+      "downloads": 963391,
+      "likes": 682,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T18:23:34.000Z",
+      "numParameters": 124667678,
+      "repoType": "model"
+    },
+    {
+      "author": "livekit",
+      "id": "livekit/turn-detector",
+      "downloads": 642602,
+      "likes": 120,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-11T15:04:40.000Z",
+      "numParameters": 134516160,
+      "repoType": "model"
+    },
+    {
+      "author": "moganai",
+      "id": "moganai/fasttext-tr-quality-classifier",
+      "downloads": 9,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-16T07:42:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "patronus-studio",
+      "id": "patronus-studio/lion-warden-ai-security-classifier-edge",
+      "downloads": 1,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-20T05:17:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3694080,
+      "likes": 930,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "lvwerra",
+      "id": "lvwerra/distilbert-imdb",
+      "downloads": 87438,
+      "likes": 25,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-25T09:25:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/deberta-base-mnli",
+      "downloads": 72589,
+      "likes": 9,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-12-09T13:36:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cardiffnlp",
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "downloads": 2736080,
+      "likes": 820,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-04T07:58:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "soleimanian",
+      "id": "soleimanian/financial-roberta-large-sentiment",
+      "downloads": 3860,
+      "likes": 56,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-10T00:38:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "andreas122001",
+      "id": "andreas122001/roberta-academic-detector",
+      "downloads": 421,
+      "likes": 9,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-03T23:27:28.000Z",
+      "numParameters": 124647684,
+      "repoType": "model"
+    },
+    {
+      "author": "SchuylerH",
+      "id": "SchuylerH/bert-multilingual-go-emtions",
+      "downloads": 1124,
+      "likes": 32,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-07-26T07:13:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sentinet",
+      "id": "sentinet/suicidality",
+      "downloads": 15856,
+      "likes": 34,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-07T08:40:48.000Z",
+      "numParameters": 109483778,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/finance-sentiment-de-base",
+      "downloads": 5,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-25T15:12:06.000Z",
+      "numParameters": 109083651,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/distilroberta-nsfw-prompt-stable-diffusion",
+      "downloads": 62,
+      "likes": 24,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-16T18:17:43.000Z",
+      "numParameters": 82119938,
+      "repoType": "model"
+    },
+    {
+      "author": "BlueOrangeDigital",
+      "id": "BlueOrangeDigital/distilbert-cross-segment-document-chunking",
+      "downloads": 28,
+      "likes": 7,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-02-27T19:20:02.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "lytang",
+      "id": "lytang/MiniCheck-RoBERTa-Large",
+      "downloads": 6679,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-09-22T16:14:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-base-prompt-injection-v2",
+      "downloads": 243340,
+      "likes": 112,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T16:01:38.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceFW",
+      "id": "HuggingFaceFW/fineweb-edu-classifier",
+      "downloads": 19232,
+      "likes": 223,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-11-17T15:00:11.000Z",
+      "numParameters": 109483009,
+      "repoType": "model"
+    },
+    {
+      "author": "byviz",
+      "id": "byviz/bylastic_classification_logs",
+      "downloads": 6,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-27T08:29:23.000Z",
+      "numParameters": 66955779,
+      "repoType": "model"
+    },
+    {
+      "author": "bespokelabs",
+      "id": "bespokelabs/Bespoke-MiniCheck-7B",
+      "downloads": 64718,
+      "likes": 84,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-12-20T13:58:21.000Z",
+      "numParameters": 7737757696,
+      "repoType": "model"
+    },
+    {
+      "author": "phoner45",
+      "id": "phoner45/wangchan-sentiment-thai-text-model",
+      "downloads": 189,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-10-21T09:22:40.000Z",
+      "numParameters": 105246723,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-21T20:57:18.041Z"
+}
