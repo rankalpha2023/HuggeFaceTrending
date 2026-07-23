@@ -1,0 +1,309 @@
+{
+  "category": "text-generation",
+  "sort": "downloads",
+  "totalItems": 389892,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-0.6B",
+      "downloads": 28270190,
+      "likes": 1439,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:27.000Z",
+      "numParameters": 751632384,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-8B",
+      "downloads": 17001212,
+      "likes": 1229,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:49:13.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/opt-125m",
+      "downloads": 16728530,
+      "likes": 283,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2023-09-15T13:10:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "trl-internal-testing",
+      "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+      "downloads": 15068891,
+      "likes": 16,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-12-19T19:10:57.000Z",
+      "numParameters": 2428632,
+      "repoType": "model"
+    },
+    {
+      "author": "openai-community",
+      "id": "openai-community/gpt2",
+      "downloads": 14146196,
+      "likes": 3364,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-02-19T10:57:45.000Z",
+      "numParameters": 137022720,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "downloads": 13278800,
+      "likes": 781,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:32:50.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "downloads": 11734031,
+      "likes": 1435,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-01-12T02:10:10.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "downloads": 10516785,
+      "likes": 1542,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-24T15:07:51.000Z",
+      "numParameters": 1235814400,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-32B",
+      "downloads": 10252416,
+      "likes": 719,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:45:22.000Z",
+      "numParameters": 32762123264,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-R1",
+      "downloads": 9368615,
+      "likes": 13498,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-03-27T04:01:59.000Z",
+      "numParameters": 684531386000,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+      "downloads": 9281185,
+      "likes": 490,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-12T21:32:12.000Z",
+      "numParameters": 18683860336,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "downloads": 8435024,
+      "likes": 6382,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T17:00:57.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-20b",
+      "downloads": 7739567,
+      "likes": 4830,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:47.000Z",
+      "numParameters": 21511953984,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-1.7B",
+      "downloads": 6454343,
+      "likes": 503,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:32.000Z",
+      "numParameters": 2031739904,
+      "repoType": "model"
+    },
+    {
+      "author": "farbodtavakkoli",
+      "id": "farbodtavakkoli/OTel-LLM-E4B-IT",
+      "downloads": 6382271,
+      "likes": 0,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-23T11:58:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-3B-Instruct",
+      "downloads": 5897484,
+      "likes": 543,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:33:00.000Z",
+      "numParameters": 3085938688,
+      "repoType": "model"
+    },
+    {
+      "author": "hmellor",
+      "id": "hmellor/tiny-random-LlamaForCausalLM",
+      "downloads": 5708528,
+      "likes": 0,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-04-29T22:01:04.000Z",
+      "numParameters": 1062992,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-0.5B-Instruct",
+      "downloads": 5289997,
+      "likes": 562,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:32:56.000Z",
+      "numParameters": 494032768,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-4B",
+      "downloads": 4995505,
+      "likes": 662,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:39.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "dphn",
+      "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
+      "downloads": 4767230,
+      "likes": 65,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-09-08T05:56:56.000Z",
+      "numParameters": 34388917248,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-120b",
+      "downloads": 4547171,
+      "likes": 5020,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:03.000Z",
+      "numParameters": 120412337472,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+      "downloads": 4139246,
+      "likes": 48,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-09T12:26:45.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-14B",
+      "downloads": 3725767,
+      "likes": 431,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:49:23.000Z",
+      "numParameters": 14768307200,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2-1.5B-Instruct",
+      "downloads": 3698891,
+      "likes": 164,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-06-06T14:36:57.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-3-1b-it",
+      "downloads": 3693806,
+      "likes": 1062,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-04-04T13:12:40.000Z",
+      "numParameters": 999885952,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-4B-Instruct-2507",
+      "downloads": 3519223,
+      "likes": 903,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-09-17T06:56:53.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "deepreinforce-ai",
+      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "downloads": 3391182,
+      "likes": 552,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-25T14:12:12.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-14B-Instruct",
+      "downloads": 3271560,
+      "likes": 354,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:33:04.000Z",
+      "numParameters": 14770033664,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-30B-A3B",
+      "downloads": 3230624,
+      "likes": 911,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:45:17.000Z",
+      "numParameters": 30532122624,
+      "repoType": "model"
+    },
+    {
+      "author": "zai-org",
+      "id": "zai-org/GLM-5.2-FP8",
+      "downloads": 3223612,
+      "likes": 229,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-07-02T08:09:27.000Z",
+      "numParameters": 753375793584,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-23T20:49:43.977Z"
+}

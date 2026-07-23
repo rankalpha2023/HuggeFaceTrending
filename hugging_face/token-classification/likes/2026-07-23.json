@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "likes",
+  "totalItems": 29685,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 448033,
+      "likes": 1709,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1525674,
+      "likes": 726,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "iiiorg",
+      "id": "iiiorg/piiranha-v1-detect-personal-information",
+      "downloads": 63840,
+      "likes": 245,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-01T04:01:28.000Z",
+      "numParameters": 278232594,
+      "repoType": "model"
+    },
+    {
+      "author": "blaze999",
+      "id": "blaze999/Medical-NER",
+      "downloads": 64557,
+      "likes": 231,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-08T06:15:22.000Z",
+      "numParameters": 183895379,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/biomedical-ner-all",
+      "downloads": 149320,
+      "likes": 194,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-02T07:28:28.000Z",
+      "numParameters": 66427476,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/xlm-roberta-large-finetuned-conll03-english",
+      "downloads": 85600,
+      "likes": 185,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-19T12:48:53.000Z",
+      "numParameters": 559898632,
+      "repoType": "model"
+    },
+    {
+      "author": "oliverguhr",
+      "id": "oliverguhr/fullstop-punctuation-multilang-large",
+      "downloads": 717041,
+      "likes": 179,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-16T09:35:35.000Z",
+      "numParameters": 558847496,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 60825,
+      "likes": 171,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 575149,
+      "likes": 166,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 146716,
+      "likes": 165,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-large-NER",
+      "downloads": 151129,
+      "likes": 163,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:52:08.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 12411,
+      "likes": 156,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 11567,
+      "likes": 145,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-multitask-large-v0.5",
+      "downloads": 1555,
+      "likes": 141,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-29T09:03:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ckiplab",
+      "id": "ckiplab/bert-base-chinese-ner",
+      "downloads": 64157,
+      "likes": 133,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-05-10T03:28:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ml6team",
+      "id": "ml6team/keyphrase-extraction-kbir-inspec",
+      "downloads": 9375,
+      "likes": 133,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-06T08:46:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi",
+      "downloads": 256,
+      "likes": 131,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:13:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tanaos",
+      "id": "tanaos/tanaos-text-anonymizer-v1",
+      "downloads": 461,
+      "likes": 127,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-27T07:41:38.000Z",
+      "numParameters": 124063499,
+      "repoType": "model"
+    },
+    {
+      "author": "bigcode",
+      "id": "bigcode/starpii",
+      "downloads": 386,
+      "likes": 123,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-24T09:43:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jean-Baptiste",
+      "id": "Jean-Baptiste/camembert-ner",
+      "downloads": 120694,
+      "likes": 121,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-06-01T01:32:51.000Z",
+      "numParameters": 110035719,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER_Zero",
+      "downloads": 13300,
+      "likes": 110,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-26T13:28:29.000Z",
+      "numParameters": 448872192,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-english-ontonotes-large",
+      "downloads": 191271,
+      "likes": 101,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-05-08T15:35:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "zilliz",
+      "id": "zilliz/semantic-highlight-bilingual-v1",
+      "downloads": 1397,
+      "likes": 99,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-15T06:32:52.000Z",
+      "numParameters": 566707202,
+      "repoType": "model"
+    },
+    {
+      "author": "dbmdz",
+      "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "downloads": 736263,
+      "likes": 97,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-06T22:17:56.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_base",
+      "downloads": 6157,
+      "likes": 86,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:10:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/bert-base-multilingual-cased-ner-hrl",
+      "downloads": 237013,
+      "likes": 83,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-11-11T12:32:14.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "Davlan",
+      "id": "Davlan/distilbert-base-multilingual-cased-ner-hrl",
+      "downloads": 162314,
+      "likes": 83,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-14T19:34:34.000Z",
+      "numParameters": 134741001,
+      "repoType": "model"
+    },
+    {
+      "author": "EmergentMethods",
+      "id": "EmergentMethods/gliner_medium_news-v2.1",
+      "downloads": 3931,
+      "likes": 82,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-12T12:39:10.000Z",
+      "numParameters": 195175936,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 1637520,
+      "likes": 81,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jean-Baptiste",
+      "id": "Jean-Baptiste/roberta-large-ner-english",
+      "downloads": 36057,
+      "likes": 79,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-22T02:19:36.000Z",
+      "numParameters": 354315783,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-23T20:50:00.886Z"
+}
