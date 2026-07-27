@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 27697,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger_v2",
+      "downloads": 0,
+      "likes": 12,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-21T07:08:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 4612835,
+      "likes": 988,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 6685607,
+      "likes": 1148,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 186,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-07-07T05:47:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "embedl",
+      "id": "embedl/dinov3-quantized-tensorrt",
+      "downloads": 5,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-07-27T10:47:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-base-224",
+      "downloads": 3896,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-13T19:40:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-large-384",
+      "downloads": 249,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-04T21:22:21.000Z",
+      "numParameters": 197767336,
+      "repoType": "model"
+    },
+    {
+      "author": "nateraw",
+      "id": "nateraw/food",
+      "downloads": 9117,
+      "likes": 81,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-05-17T17:44:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/mit-b0",
+      "downloads": 79020,
+      "likes": 41,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-15T07:49:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/tf_efficientnetv2_s.in21k_ft_in1k",
+      "downloads": 1338203,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:20:45.000Z",
+      "numParameters": 21612360,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_xlarge.fb_in22k_ft_in1k_384",
+      "downloads": 2337,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:15:03.000Z",
+      "numParameters": 350196968,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva_large_patch14_336.in22k_ft_in22k_in1k",
+      "downloads": 1105,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:15:12.000Z",
+      "numParameters": 304531432,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_large_patch14_448.mim_m38m_ft_in22k_in1k",
+      "downloads": 23996,
+      "likes": 25,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:37:25.000Z",
+      "numParameters": 305080232,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_large_mlp.clip_laion2b_soup_ft_in12k_in1k_384",
+      "downloads": 3632,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:38:04.000Z",
+      "numParameters": 200128168,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_large_patch14_clip_336.merged2b_ft_inat21",
+      "downloads": 1029,
+      "likes": 14,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:12:01.000Z",
+      "numParameters": 313895632,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/tiny_vit_11m_224.in1k",
+      "downloads": 14997,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:11:23.000Z",
+      "numParameters": 11009836,
+      "repoType": "model"
+    },
+    {
+      "author": "galaxygummybear",
+      "id": "galaxygummybear/hrnet_pytorch",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-07-05T02:32:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chriamue",
+      "id": "chriamue/bird-species-classifier",
+      "downloads": 1634,
+      "likes": 26,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-12T10:37:45.000Z",
+      "numParameters": 8508287,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/cxr-foundation",
+      "downloads": 200,
+      "likes": 103,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:26:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/fairface_age_image_detection",
+      "downloads": 4527971,
+      "likes": 76,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-15T19:54:53.000Z",
+      "numParameters": 85805577,
+      "repoType": "model"
+    },
+    {
+      "author": "Syizuril",
+      "id": "Syizuril/bisindo-sign-language",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-10T03:43:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Facial-Emotion-Detection-SigLIP2",
+      "downloads": 608,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-11T05:50:38.000Z",
+      "numParameters": 92888838,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/eva02_large_patch14_448.dbv4-full",
+      "downloads": 1160,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-05T02:02:59.000Z",
+      "numParameters": 316843132,
+      "repoType": "model"
+    },
+    {
+      "author": "valentinocc",
+      "id": "valentinocc/dog-breed-classifier",
+      "downloads": 45,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-08-06T22:45:41.000Z",
+      "numParameters": 2411704,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/pixai-tagger-v0.9-onnx",
+      "downloads": 0,
+      "likes": 47,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T12:09:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "capcheck",
+      "id": "capcheck/ai-image-detection",
+      "downloads": 1678,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-06T03:52:02.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "Jordo23",
+      "id": "Jordo23/vehicle-classifier",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-14T04:52:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "huzaifanasirrr",
+      "id": "huzaifanasirrr/realtime-sign-language-translator",
+      "downloads": 19,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-02T07:23:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "xRayon",
+      "id": "xRayon/convnext-ai-images-detector",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-02-23T12:16:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FraunhoferIOSB",
+      "id": "FraunhoferIOSB/convnextv2-atto-1k-224-finetuned-ssg",
+      "downloads": 25,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-03-13T12:33:11.000Z",
+      "numParameters": 3401203,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-27T20:59:45.659Z"
+}
