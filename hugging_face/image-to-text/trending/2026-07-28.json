@@ -1,0 +1,309 @@
+{
+  "category": "image-to-text",
+  "sort": "trending",
+  "totalItems": 1905,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 933872,
+      "likes": 315,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-29T14:01:41.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "nutrientdocs",
+      "id": "nutrientdocs/form-field-vlm",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-25T01:59:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PatSnap",
+      "id": "PatSnap/Hiro-MOSS-OCR-0.3B",
+      "downloads": 410,
+      "likes": 10,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-15T08:09:50.000Z",
+      "numParameters": 336404480,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-ocr-v2",
+      "downloads": 7081,
+      "likes": 238,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-22T04:58:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det_safetensors",
+      "downloads": 2243,
+      "likes": 117,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T03:10:52.000Z",
+      "numParameters": 21993025,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det_onnx",
+      "downloads": 6203,
+      "likes": 24,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-18T10:55:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_rec_onnx",
+      "downloads": 6320,
+      "likes": 24,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-18T11:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_rec",
+      "downloads": 70449,
+      "likes": 24,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T10:07:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LoJexLLM",
+      "id": "LoJexLLM/Unlimited-OCR-MLX",
+      "downloads": 4142,
+      "likes": 22,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-24T05:44:58.000Z",
+      "numParameters": 3336106240,
+      "repoType": "model"
+    },
+    {
+      "author": "keras-io",
+      "id": "keras-io/ocr-for-captcha",
+      "downloads": 50,
+      "likes": 84,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2022-05-29T15:39:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-base",
+      "downloads": 1826952,
+      "likes": 869,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:45:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-large",
+      "downloads": 653678,
+      "likes": 1480,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:42:42.000Z",
+      "numParameters": 469733436,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_mobile_det",
+      "downloads": 83162,
+      "likes": 30,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-LCNet_x1_0_doc_ori",
+      "downloads": 350834,
+      "likes": 18,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T09:58:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/korean_PP-OCRv5_mobile_rec",
+      "downloads": 7090,
+      "likes": 17,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-22T11:40:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/arabic_PP-OCRv5_mobile_rec",
+      "downloads": 1956,
+      "likes": 7,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-10-16T05:19:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ADSKAILab",
+      "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
+      "downloads": 2526,
+      "likes": 63,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-05T21:50:47.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_tiny_rec_onnx",
+      "downloads": 2246,
+      "likes": 19,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-18T11:09:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "arkhabbazan",
+      "id": "arkhabbazan/ocr-math-captcha",
+      "downloads": 159,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-26T14:30:52.000Z",
+      "numParameters": 333921792,
+      "repoType": "model"
+    },
+    {
+      "author": "arkhabbazan",
+      "id": "arkhabbazan/ocr-captcha-router",
+      "downloads": 108,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-25T17:26:52.000Z",
+      "numParameters": 2260546,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-small-printed",
+      "downloads": 31564,
+      "likes": 52,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-27T20:13:39.000Z",
+      "numParameters": 61448832,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpconnect",
+      "id": "nlpconnect/vit-gpt2-image-captioning",
+      "downloads": 88143,
+      "likes": 932,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2023-02-27T15:00:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k",
+      "downloads": 13512,
+      "likes": 22,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-01-16T22:56:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "GnanaPrasath",
+      "id": "GnanaPrasath/ocr_tamil",
+      "downloads": 0,
+      "likes": 21,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-02-14T12:49:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SakanaAI",
+      "id": "SakanaAI/EvoVLM-JP-v1-7B",
+      "downloads": 30,
+      "likes": 38,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-03-21T00:47:53.000Z",
+      "numParameters": 7566743552,
+      "repoType": "model"
+    },
+    {
+      "author": "cxfajar197",
+      "id": "cxfajar197/urdu-ocr",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-11-26T22:27:49.000Z",
+      "numParameters": 293023995,
+      "repoType": "model"
+    },
+    {
+      "author": "Glazkov",
+      "id": "Glazkov/qwen2.5-vl-table-extraction-FP8-Dynamic",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-09-28T14:02:30.000Z",
+      "numParameters": 4066820096,
+      "repoType": "model"
+    },
+    {
+      "author": "mapo80",
+      "id": "mapo80/DeQA-Doc-Sharpness",
+      "downloads": 21,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-18T20:47:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "naazimsnh02",
+      "id": "naazimsnh02/medocr-vision",
+      "downloads": 40,
+      "likes": 3,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-21T02:56:04.000Z",
+      "numParameters": 958588736,
+      "repoType": "model"
+    },
+    {
+      "author": "PengxiangLi",
+      "id": "PengxiangLi/dart-gui-7b",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-23T08:33:46.000Z",
+      "numParameters": 8292166656,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-28T20:56:41.072Z"
+}

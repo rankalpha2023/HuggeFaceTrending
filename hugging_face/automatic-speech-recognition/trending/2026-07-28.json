@@ -1,0 +1,309 @@
+{
+  "category": "automatic-speech-recognition",
+  "sort": "trending",
+  "totalItems": 34429,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "downloads": 1754,
+      "likes": 87,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-24T06:03:32.000Z",
+      "numParameters": 322592829,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "downloads": 960500,
+      "likes": 959,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-06T13:53:14.000Z",
+      "numParameters": 637997088,
+      "repoType": "model"
+    },
+    {
+      "author": "nyralabs",
+      "id": "nyralabs/CrisperWhisper2.0_large",
+      "downloads": 131,
+      "likes": 45,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-27T09:43:34.000Z",
+      "numParameters": 1543345921,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-3.1",
+      "downloads": 8853435,
+      "likes": 2874,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-05-10T19:43:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-community-1",
+      "downloads": 4968860,
+      "likes": 874,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-09-29T08:43:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3",
+      "downloads": 5968440,
+      "likes": 6000,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-08-12T10:20:10.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
+      "author": "Trelis",
+      "id": "Trelis/tiron",
+      "downloads": 804,
+      "likes": 27,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-23T12:16:08.000Z",
+      "numParameters": 1543539200,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-1.7B",
+      "downloads": 1872508,
+      "likes": 950,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-30T03:00:12.000Z",
+      "numParameters": 2349217408,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3-turbo",
+      "downloads": 8593566,
+      "likes": 3196,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-04T14:51:11.000Z",
+      "numParameters": 808878080,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-ASR",
+      "downloads": 695510,
+      "likes": 1239,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-27T13:12:22.000Z",
+      "numParameters": 8674021857,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/cohere-transcribe-arabic-07-2026",
+      "downloads": 42363,
+      "likes": 139,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-13T16:11:20.000Z",
+      "numParameters": 2065804048,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-0.6B-hf",
+      "downloads": 143628,
+      "likes": 42,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-22T11:58:47.000Z",
+      "numParameters": 782426112,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/parakeet-tdt-0.6b-v3",
+      "downloads": 149781,
+      "likes": 1017,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-29T19:00:30.000Z",
+      "numParameters": 627057286,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+      "downloads": 2004382,
+      "likes": 933,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-03-11T15:04:02.000Z",
+      "numParameters": 4429679360,
+      "repoType": "model"
+    },
+    {
+      "author": "ai-sage",
+      "id": "ai-sage/GigaAM-Multilingual",
+      "downloads": 6320,
+      "likes": 72,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-14T05:25:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "downloads": 1135307,
+      "likes": 1062,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-10T15:46:19.000Z",
+      "numParameters": 2065804048,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/parakeet-tdt-0.6b-v2",
+      "downloads": 754383,
+      "likes": 1528,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-29T19:00:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ggerganov",
+      "id": "ggerganov/whisper.cpp",
+      "downloads": 0,
+      "likes": 1514,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-29T18:25:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Transcribe-preview-2B",
+      "downloads": 3074,
+      "likes": 44,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-26T11:49:43.000Z",
+      "numParameters": 2418833792,
+      "repoType": "model"
+    },
+    {
+      "author": "NAMAA-Space",
+      "id": "NAMAA-Space/Cohere-Speech-Tashkeel-2B",
+      "downloads": 2384,
+      "likes": 21,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-13T11:11:49.000Z",
+      "numParameters": 2065770752,
+      "repoType": "model"
+    },
+    {
+      "author": "ai-sage",
+      "id": "ai-sage/GigaAM-v3",
+      "downloads": 351217,
+      "likes": 133,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-11-19T21:45:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-0.6B",
+      "downloads": 2386590,
+      "likes": 322,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-30T03:00:21.000Z",
+      "numParameters": 938008576,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-1.7B-hf",
+      "downloads": 76857,
+      "likes": 41,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-22T11:58:31.000Z",
+      "numParameters": 2038052480,
+      "repoType": "model"
+    },
+    {
+      "author": "UsefulSensors",
+      "id": "UsefulSensors/moonshine-tiny",
+      "downloads": 200086,
+      "likes": 48,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-01-30T16:07:38.000Z",
+      "numParameters": 27092736,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/medasr",
+      "downloads": 248771,
+      "likes": 352,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-05-26T16:48:04.000Z",
+      "numParameters": 105282816,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-4.1-2b",
+      "downloads": 544156,
+      "likes": 153,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-12T17:45:27.000Z",
+      "numParameters": 2313207132,
+      "repoType": "model"
+    },
+    {
+      "author": "Sunbird",
+      "id": "Sunbird/asr-whisper-51-african-languages",
+      "downloads": 641,
+      "likes": 6,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-20T07:37:45.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
+      "author": "mihuai",
+      "id": "mihuai/turkish-stt",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-22T17:03:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kotoba-tech",
+      "id": "kotoba-tech/kotoba-whisper-v2.2",
+      "downloads": 233212,
+      "likes": 123,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-23T00:49:36.000Z",
+      "numParameters": 756405760,
+      "repoType": "model"
+    },
+    {
+      "author": "C1Tech",
+      "id": "C1Tech/whisper_base_persian",
+      "downloads": 736,
+      "likes": 14,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-07-23T09:09:24.000Z",
+      "numParameters": 72593920,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-28T20:56:14.195Z"
+}
