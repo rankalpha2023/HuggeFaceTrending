@@ -1,0 +1,309 @@
+{
+  "category": "text-to-image",
+  "sort": "trending",
+  "totalItems": 108227,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "nvidia",
+      "id": "nvidia/Qwen-Image-Flash",
+      "downloads": 509,
+      "likes": 67,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-23T04:54:45.000Z",
+      "numParameters": 20430401088,
+      "repoType": "model"
+    },
+    {
+      "author": "krea",
+      "id": "krea/Krea-2-Turbo",
+      "downloads": 167156,
+      "likes": 761,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-24T15:50:26.000Z",
+      "numParameters": 12820073036,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "downloads": 553315,
+      "likes": 13861,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-06-27T16:22:19.000Z",
+      "numParameters": 11901408320,
+      "repoType": "model"
+    },
+    {
+      "author": "krea",
+      "id": "krea/Krea-2-Raw",
+      "downloads": 153500,
+      "likes": 408,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-24T15:50:25.000Z",
+      "numParameters": 12820073036,
+      "repoType": "model"
+    },
+    {
+      "author": "AliveAi",
+      "id": "AliveAi/Krea-2-Edit-Outfit-Transfer",
+      "downloads": 5349,
+      "likes": 53,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-20T14:09:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RudySen",
+      "id": "RudySen/Krea2-realism-V2",
+      "downloads": 25308,
+      "likes": 115,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-02T19:00:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "downloads": 221821,
+      "likes": 5449,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-08-16T14:37:56.000Z",
+      "numParameters": 11891178560,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "downloads": 1138299,
+      "likes": 5054,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-30T16:58:07.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
+      "author": "ponpoke",
+      "id": "ponpoke/flux2-klein-9b-uncensored-text-encoder",
+      "downloads": 26806,
+      "likes": 343,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-02T11:34:41.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "ideogram-ai",
+      "id": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 45264,
+      "likes": 723,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-06-03T18:34:44.000Z",
+      "numParameters": 9281557760,
+      "repoType": "model"
+    },
+    {
+      "author": "bench-labs",
+      "id": "bench-labs/PixelModel-v5",
+      "downloads": 2307,
+      "likes": 14,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-29T15:30:59.000Z",
+      "numParameters": 186833795,
+      "repoType": "model"
+    },
+    {
+      "author": "mgwr",
+      "id": "mgwr/M87",
+      "downloads": 6693,
+      "likes": 204,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-07T16:20:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "downloads": 1649924,
+      "likes": 1217,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-09-07T16:20:30.000Z",
+      "numParameters": 859520964,
+      "repoType": "model"
+    },
+    {
+      "author": "wikeeyang",
+      "id": "wikeeyang/Flux2-Klein-9B-True-V3",
+      "downloads": 39470,
+      "likes": 118,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-13T11:29:36.000Z",
+      "numParameters": 9078581248,
+      "repoType": "model"
+    },
+    {
+      "author": "pmczip",
+      "id": "pmczip/Krea2Raw_Loras",
+      "downloads": 11909,
+      "likes": 38,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-23T23:07:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AlperKTS",
+      "id": "AlperKTS/Krea-2-SVDQuant-ComfyUI",
+      "downloads": 658,
+      "likes": 10,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-29T12:38:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "inlineresearch",
+      "id": "inlineresearch/skin-lora-krea-2-raw",
+      "downloads": 0,
+      "likes": 10,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-27T14:56:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "downloads": 1499340,
+      "likes": 7993,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-10-30T16:03:47.000Z",
+      "numParameters": 2567463684,
+      "repoType": "model"
+    },
+    {
+      "author": "ostris",
+      "id": "ostris/krea2_turbo_style_reference",
+      "downloads": 6031,
+      "likes": 97,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-08T22:54:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bench-labs",
+      "id": "bench-labs/PixelModel-v3",
+      "downloads": 1396,
+      "likes": 8,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-29T15:29:53.000Z",
+      "numParameters": 919427,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-3.5-large",
+      "downloads": 63456,
+      "likes": 3610,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-10-22T14:36:33.000Z",
+      "numParameters": 8146280768,
+      "repoType": "model"
+    },
+    {
+      "author": "realrebelai",
+      "id": "realrebelai/LOW_VRAM_Workflows",
+      "downloads": 0,
+      "likes": 28,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-30T14:16:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "gokaygokay",
+      "id": "gokaygokay/Krea-2-Realism-LoRA",
+      "downloads": 17680,
+      "likes": 68,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-06-25T10:14:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DeverStyle",
+      "id": "DeverStyle/Krea-2-Premium-Loras",
+      "downloads": 1988,
+      "likes": 37,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-18T12:13:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bench-labs",
+      "id": "bench-labs/PixelModel-v4",
+      "downloads": 1336,
+      "likes": 7,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-29T15:30:16.000Z",
+      "numParameters": 40112284,
+      "repoType": "model"
+    },
+    {
+      "author": "FINAL-Bench",
+      "id": "FINAL-Bench/POCKET-Image-Zimage",
+      "downloads": 64,
+      "likes": 27,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-28T00:59:51.000Z",
+      "numParameters": 3174629239,
+      "repoType": "model"
+    },
+    {
+      "author": "RunDiffusion",
+      "id": "RunDiffusion/Juggernaut-XL-v9",
+      "downloads": 162458,
+      "likes": 398,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-08T17:14:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen-Image",
+      "downloads": 202103,
+      "likes": 2558,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-08-18T02:42:19.000Z",
+      "numParameters": 20430401088,
+      "repoType": "model"
+    },
+    {
+      "author": "kpsss34",
+      "id": "kpsss34/FHDR_Uncensored",
+      "downloads": 3687,
+      "likes": 597,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-02-27T02:17:36.000Z",
+      "numParameters": 11901408320,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image",
+      "downloads": 22306,
+      "likes": 1194,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-28T14:26:13.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-07-30T20:54:19.611Z"
+}
