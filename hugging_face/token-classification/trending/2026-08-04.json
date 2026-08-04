@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 29912,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
+      "downloads": 671,
+      "likes": 26,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-28T14:00:37.000Z",
+      "numParameters": 354649154,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Encoder-350M-Spellchecker",
+      "downloads": 323,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-28T13:58:46.000Z",
+      "numParameters": 356716068,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 536118,
+      "likes": 1717,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "rizzoaiacademy",
+      "id": "rizzoaiacademy/rizzo-pii-0.3B",
+      "downloads": 1593,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-28T22:29:21.000Z",
+      "numParameters": 307564076,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Encoder-350M-Policy-Linter",
+      "downloads": 179,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-28T13:43:44.000Z",
+      "numParameters": 355008768,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-stream-pii-v1.0",
+      "downloads": 110,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-04T17:05:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 122565,
+      "likes": 72,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-20T15:36:49.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/GLiNER2-Guardrails-PII-Multi",
+      "downloads": 4730,
+      "likes": 31,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-20T15:37:15.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "lebe1",
+      "id": "lebe1/lettuceprevent-ettin-decoder-68m-en",
+      "downloads": 160,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-24T15:34:43.000Z",
+      "numParameters": 68145668,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ForcedAligner-0.6B-hf",
+      "downloads": 31399,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-26T08:42:38.000Z",
+      "numParameters": 917728896,
+      "repoType": "model"
+    },
+    {
+      "author": "akdeniz27",
+      "id": "akdeniz27/bert-base-turkish-cased-ner",
+      "downloads": 74605,
+      "likes": 27,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-18T09:42:03.000Z",
+      "numParameters": 110032647,
+      "repoType": "model"
+    },
+    {
+      "author": "pierreguillou",
+      "id": "pierreguillou/ner-bert-base-cased-pt-lenerbr",
+      "downloads": 26640,
+      "likes": 21,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-29T19:32:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stanfordnlp",
+      "id": "stanfordnlp/stanza-ug",
+      "downloads": 70,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-30T22:05:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "uer",
+      "id": "uer/roberta-base-finetuned-cluener2020-chinese",
+      "downloads": 2980,
+      "likes": 48,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-17T15:17:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ml6team",
+      "id": "ml6team/keyphrase-extraction-distilbert-inspec",
+      "downloads": 20056,
+      "likes": 31,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-06T08:45:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/IndicNER",
+      "downloads": 19340,
+      "likes": 32,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-12-21T02:45:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "iioSnail",
+      "id": "iioSnail/bert-base-chinese-medical-ner",
+      "downloads": 109,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-06-27T12:09:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "denis-gordeev",
+      "id": "denis-gordeev/rured2-ner-microsoft-mdeberta-v3-base",
+      "downloads": 216,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-24T15:39:44.000Z",
+      "numParameters": 278290269,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi",
+      "downloads": 199,
+      "likes": 132,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:13:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 234826,
+      "likes": 168,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-multitask-large-v0.5",
+      "downloads": 1498,
+      "likes": 142,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-29T09:03:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ytu-ce-cosmos",
+      "id": "ytu-ce-cosmos/turkish-base-bert-punctuation-correction",
+      "downloads": 21,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-03T18:00:09.000Z",
+      "numParameters": 110033673,
+      "repoType": "model"
+    },
+    {
+      "author": "ytu-ce-cosmos",
+      "id": "ytu-ce-cosmos/turkish-base-bert-capitalization-correction",
+      "downloads": 21,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-03T17:59:49.000Z",
+      "numParameters": 110029059,
+      "repoType": "model"
+    },
+    {
+      "author": "iiiorg",
+      "id": "iiiorg/piiranha-v1-detect-personal-information",
+      "downloads": 103884,
+      "likes": 246,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-01T04:01:28.000Z",
+      "numParameters": 278232594,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4privacy",
+      "id": "ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii",
+      "downloads": 2054,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-03-24T09:04:56.000Z",
+      "numParameters": 149635624,
+      "repoType": "model"
+    },
+    {
+      "author": "NAMAA-Space",
+      "id": "NAMAA-Space/gliner_arabic-v2.1",
+      "downloads": 135,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-04-13T08:12:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/Cadence",
+      "downloads": 737,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-19T03:44:49.000Z",
+      "numParameters": 999923999,
+      "repoType": "model"
+    },
+    {
+      "author": "yashpwr",
+      "id": "yashpwr/resume-ner-bert-v2",
+      "downloads": 1001,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-07T08:14:07.000Z",
+      "numParameters": 107738905,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-decoder-large-v1.0",
+      "downloads": 10,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-16T09:30:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KoichiYasuoka",
+      "id": "KoichiYasuoka/roberta-base-basque-ud-goeswith",
+      "downloads": 93,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-23T10:44:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-04T21:01:21.986Z"
+}
