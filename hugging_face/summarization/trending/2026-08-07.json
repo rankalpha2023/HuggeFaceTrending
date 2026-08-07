@@ -1,36 +1,36 @@
 {
   "category": "summarization",
   "sort": "trending",
-  "totalItems": 2888,
+  "totalItems": 2890,
   "fetchedItems": 30,
   "models": [
     {
       "author": "human-centered-summarization",
       "id": "human-centered-summarization/financial-summarization-pegasus",
-      "downloads": 148206,
-      "likes": 146,
+      "downloads": 143107,
+      "likes": 147,
       "pipeline_tag": "summarization",
       "lastModified": "2024-04-26T18:26:40.000Z",
       "numParameters": 568796007,
       "repoType": "model"
     },
     {
-      "author": "Falconsai",
-      "id": "Falconsai/text_summarization",
-      "downloads": 41343,
-      "likes": 302,
+      "author": "google",
+      "id": "google/pegasus-cnn_dailymail",
+      "downloads": 5034,
+      "likes": 112,
       "pipeline_tag": "summarization",
-      "lastModified": "2024-02-17T07:55:14.000Z",
-      "numParameters": 60506624,
+      "lastModified": "2023-01-24T16:42:26.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "Ruthwik",
-      "id": "Ruthwik/LExiMinD_legal_t5_summarizer",
-      "downloads": 0,
-      "likes": 1,
+      "author": "Falconsai",
+      "id": "Falconsai/text_summarization",
+      "downloads": 42209,
+      "likes": 302,
       "pipeline_tag": "summarization",
-      "lastModified": "2025-05-27T04:00:47.000Z",
+      "lastModified": "2024-02-17T07:55:14.000Z",
       "numParameters": 60506624,
       "repoType": "model"
     },
@@ -57,7 +57,7 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/it5-summarization-fanpage",
-      "downloads": 44,
+      "downloads": 45,
       "likes": 2,
       "pipeline_tag": "summarization",
       "lastModified": "2023-09-12T13:43:22.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/it5-summarization-ilpost",
-      "downloads": 31,
+      "downloads": 33,
       "likes": 0,
       "pipeline_tag": "summarization",
       "lastModified": "2023-09-12T13:43:14.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/it5-summarization-mlsum",
-      "downloads": 36,
+      "downloads": 34,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2023-09-12T13:43:07.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/mbart-summarization-ilpost",
-      "downloads": 34,
+      "downloads": 35,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2023-09-12T13:42:56.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "Callidior",
       "id": "Callidior/bert2bert-base-arxiv-titlegen",
-      "downloads": 214,
+      "downloads": 218,
       "likes": 13,
       "pipeline_tag": "summarization",
       "lastModified": "2023-04-26T19:42:59.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "ELiRF",
       "id": "ELiRF/NASCA",
-      "downloads": 104,
+      "downloads": 101,
       "likes": 0,
       "pipeline_tag": "summarization",
       "lastModified": "2023-03-31T11:16:17.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "Einmalumdiewelt",
       "id": "Einmalumdiewelt/PegasusXSUM_GNAD",
-      "downloads": 46,
+      "downloads": 44,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2022-08-26T15:53:31.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Einmalumdiewelt",
       "id": "Einmalumdiewelt/T5-Base_GNAD",
-      "downloads": 63,
+      "downloads": 62,
       "likes": 22,
       "pipeline_tag": "summarization",
       "lastModified": "2022-08-26T15:55:55.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/mbart_ru_sum_gazeta",
-      "downloads": 374,
+      "downloads": 351,
       "likes": 66,
       "pipeline_tag": "summarization",
       "lastModified": "2023-03-16T22:41:26.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rubert_telegram_headlines",
-      "downloads": 37,
+      "downloads": 36,
       "likes": 18,
       "pipeline_tag": "summarization",
       "lastModified": "2022-07-13T15:36:18.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rugpt3medium_sum_gazeta",
-      "downloads": 73,
+      "downloads": 74,
       "likes": 4,
       "pipeline_tag": "summarization",
       "lastModified": "2022-07-13T15:36:49.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rut5_base_headline_gen_telegram",
-      "downloads": 852,
+      "downloads": 837,
       "likes": 9,
       "pipeline_tag": "summarization",
       "lastModified": "2021-12-18T19:27:52.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rut5_base_sum_gazeta",
-      "downloads": 3219,
+      "downloads": 3162,
       "likes": 19,
       "pipeline_tag": "summarization",
       "lastModified": "2022-07-13T15:36:04.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "LeoCordoba",
       "id": "LeoCordoba/beto2beto-mlsum",
-      "downloads": 18,
+      "downloads": 17,
       "likes": 2,
       "pipeline_tag": "summarization",
       "lastModified": "2023-07-26T18:22:24.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "LeoCordoba",
       "id": "LeoCordoba/mt5-small-cc-news-es-titles",
-      "downloads": 570,
+      "downloads": 563,
       "likes": 0,
       "pipeline_tag": "summarization",
       "lastModified": "2021-09-08T17:03:30.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "LukasStankevicius",
       "id": "LukasStankevicius/t5-base-lithuanian-news-summaries-175",
-      "downloads": 22,
+      "downloads": 21,
       "likes": 3,
       "pipeline_tag": "summarization",
       "lastModified": "2022-07-28T06:00:09.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "MohamedZaitoon",
       "id": "MohamedZaitoon/T5-CNN",
-      "downloads": 17,
+      "downloads": 16,
       "likes": 0,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-12T14:56:25.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:42.510Z"
+  "fetchedAt": "2026-08-07T20:27:23.728Z"
 }

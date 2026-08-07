@@ -1,13 +1,13 @@
 {
   "category": "question-answering",
   "sort": "trending",
-  "totalItems": 14043,
+  "totalItems": 14044,
   "fetchedItems": 30,
   "models": [
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-cased-distilled-squad",
-      "downloads": 250567,
+      "downloads": 247244,
       "likes": 270,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:31.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/Gecko-110m-en",
-      "downloads": 1284,
+      "downloads": 1320,
       "likes": 16,
       "pipeline_tag": "question-answering",
       "lastModified": "2025-03-12T00:47:31.000Z",
@@ -35,9 +35,29 @@
       "repoType": "model"
     },
     {
+      "author": "Jackrong",
+      "id": "Jackrong/gpt-oss-120b-Distill-Phi-4-14B",
+      "downloads": 3,
+      "likes": 3,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2025-10-02T04:47:38.000Z",
+      "numParameters": 14659507200,
+      "repoType": "model"
+    },
+    {
+      "author": "mradermacher",
+      "id": "mradermacher/LlamaForecaster-8B-i1-GGUF",
+      "downloads": 159,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2026-01-10T18:21:02.000Z",
+      "numParameters": 8030261312,
+      "repoType": "model"
+    },
+    {
       "author": "michaeld03",
       "id": "michaeld03/Llama-Open-Finance-8B-Q4_K_M-GGUF",
-      "downloads": 119,
+      "downloads": 108,
       "likes": 3,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-03-23T14:30:57.000Z",
@@ -55,16 +75,6 @@
       "repoType": "model"
     },
     {
-      "author": "codelion",
-      "id": "codelion/sprog-9m",
-      "downloads": 53,
-      "likes": 5,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2026-07-22T00:50:57.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Arlizaethnunez",
       "id": "Arlizaethnunez/modelo-qa",
       "downloads": 73,
@@ -77,7 +87,7 @@
     {
       "author": "scarletabreu",
       "id": "scarletabreu/pdqa-roberta-bne-em-tuned",
-      "downloads": 109,
+      "downloads": 110,
       "likes": 3,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-07-27T22:17:16.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "joomhadi",
       "id": "joomhadi/joomha-qwen2.5-coder-3b-repo01",
-      "downloads": 0,
+      "downloads": 8,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-08-05T08:26:39.000Z",
@@ -187,7 +197,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
-      "downloads": 27601,
+      "downloads": 27285,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:06:38.000Z",
@@ -197,7 +207,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
-      "downloads": 49873,
+      "downloads": 49067,
       "likes": 188,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:08:45.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-uncased-distilled-squad",
-      "downloads": 46126,
+      "downloads": 46276,
       "likes": 119,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:39.000Z",
@@ -293,17 +303,7 @@
       "lastModified": "2021-11-15T10:34:05.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "AdapterHub",
-      "id": "AdapterHub/bert-base-uncased-pf-squad",
-      "downloads": 2,
-      "likes": 2,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2021-11-15T10:35:16.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:33.597Z"
+  "fetchedAt": "2026-08-07T20:27:14.860Z"
 }

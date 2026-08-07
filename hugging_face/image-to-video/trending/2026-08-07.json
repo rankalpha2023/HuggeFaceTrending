@@ -1,14 +1,24 @@
 {
   "category": "image-to-video",
   "sort": "trending",
-  "totalItems": 1388,
+  "totalItems": 1391,
   "fetchedItems": 30,
   "models": [
     {
+      "author": "lightx2v",
+      "id": "lightx2v/Minimax-h3-Turbo",
+      "downloads": 0,
+      "likes": 111,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-08-07T14:45:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Abiray",
       "id": "Abiray/MiniMax-H3-GGUF",
-      "downloads": 155605,
-      "likes": 69,
+      "downloads": 196363,
+      "likes": 74,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-06T15:54:45.000Z",
       "numParameters": 25753095920,
@@ -17,8 +27,8 @@
     {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2.3",
-      "downloads": 1884441,
-      "likes": 1766,
+      "downloads": 1785826,
+      "likes": 1770,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-02T09:45:28.000Z",
       "numParameters": null,
@@ -27,8 +37,8 @@
     {
       "author": "molbal",
       "id": "molbal/MiniMax-H3-GGUF",
-      "downloads": 27236,
-      "likes": 25,
+      "downloads": 31801,
+      "likes": 31,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-04T21:51:24.000Z",
       "numParameters": 20111438744,
@@ -37,10 +47,10 @@
     {
       "author": "rzgar",
       "id": "rzgar/minimax_h3_fl2va_fp8_e4m3fn",
-      "downloads": 9974,
+      "downloads": 15015,
       "likes": 14,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2026-08-06T10:27:53.000Z",
+      "lastModified": "2026-08-07T06:18:57.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -48,26 +58,16 @@
       "author": "RuneXX",
       "id": "RuneXX/LTX-2.3-Workflows",
       "downloads": 0,
-      "likes": 833,
+      "likes": 832,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-02T14:59:49.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "CornLogic",
-      "id": "CornLogic/10EROS-INT8",
-      "downloads": 21399,
-      "likes": 14,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-08-06T09:25:46.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "leejet",
       "id": "leejet/MiniMax-H3-GGUF",
-      "downloads": 1729,
+      "downloads": 4697,
       "likes": 11,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-04T15:06:08.000Z",
@@ -75,30 +75,30 @@
       "repoType": "model"
     },
     {
+      "author": "CornLogic",
+      "id": "CornLogic/10EROS-INT8",
+      "downloads": 21627,
+      "likes": 13,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-08-06T09:25:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Lightricks",
       "id": "Lightricks/LTX-Video",
-      "downloads": 547210,
-      "likes": 2253,
+      "downloads": 543452,
+      "likes": 2255,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-07-16T14:32:35.000Z",
       "numParameters": 1923385472,
       "repoType": "model"
     },
     {
-      "author": "Alissonerdx",
-      "id": "Alissonerdx/BFS-Best-Face-Swap-Video",
-      "downloads": 248,
-      "likes": 382,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-06-20T23:25:27.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "QuantStack",
       "id": "QuantStack/Wan2.2-I2V-A14B-GGUF",
-      "downloads": 335550,
-      "likes": 384,
+      "downloads": 330891,
+      "likes": 386,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-07-29T13:04:00.000Z",
       "numParameters": 14288901184,
@@ -107,8 +107,8 @@
     {
       "author": "unsloth",
       "id": "unsloth/LTX-2.3-GGUF",
-      "downloads": 266476,
-      "likes": 543,
+      "downloads": 262382,
+      "likes": 544,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-04-20T01:59:13.000Z",
       "numParameters": 21005004544,
@@ -117,27 +117,27 @@
     {
       "author": "acvlab",
       "id": "acvlab/ABot-World-0-5B-LF",
-      "downloads": 1355,
-      "likes": 72,
+      "downloads": 1368,
+      "likes": 73,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-06T12:18:34.000Z",
       "numParameters": 5270329536,
       "repoType": "model"
     },
     {
-      "author": "Wan-AI",
-      "id": "Wan-AI/Wan-Dancer-14B",
-      "downloads": 4517,
-      "likes": 182,
+      "author": "Alissonerdx",
+      "id": "Alissonerdx/BFS-Best-Face-Swap-Video",
+      "downloads": 255,
+      "likes": 382,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2026-07-17T09:01:53.000Z",
+      "lastModified": "2026-06-20T23:25:27.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.2-I2V-A14B",
-      "downloads": 23444,
+      "downloads": 23572,
       "likes": 766,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-08-07T09:42:48.000Z",
@@ -145,99 +145,39 @@
       "repoType": "model"
     },
     {
-      "author": "Phr00t",
-      "id": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
-      "downloads": 0,
-      "likes": 1641,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-04-06T05:31:09.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2.3-nvfp4",
-      "downloads": 12926,
-      "likes": 98,
+      "downloads": 13769,
+      "likes": 97,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-03-17T22:31:23.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/Cosmos3-Super-Image2Video-4Step",
-      "downloads": 2193,
-      "likes": 29,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-07-30T02:59:19.000Z",
-      "numParameters": 63997928640,
-      "repoType": "model"
-    },
-    {
-      "author": "stabilityai",
-      "id": "stabilityai/stable-video-diffusion-img2vid-xt",
-      "downloads": 172794,
-      "likes": 3374,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2024-07-10T11:43:18.000Z",
-      "numParameters": 1524623082,
-      "repoType": "model"
-    },
-    {
-      "author": "tencent",
-      "id": "tencent/HunyuanVideo-Avatar",
-      "downloads": 0,
-      "likes": 333,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2025-05-28T15:02:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Wan-AI",
-      "id": "Wan-AI/Wan2.2-S2V-14B",
-      "downloads": 45018,
-      "likes": 457,
+      "id": "Wan-AI/Wan-Dancer-14B",
+      "downloads": 4527,
+      "likes": 182,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2025-09-17T03:02:38.000Z",
-      "numParameters": 16295755609,
-      "repoType": "model"
-    },
-    {
-      "author": "hum-ma",
-      "id": "hum-ma/Wan2.2-TI2V-5B-Turbo-GGUF",
-      "downloads": 4412,
-      "likes": 54,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2025-12-19T10:07:39.000Z",
-      "numParameters": 4999787712,
+      "lastModified": "2026-07-17T09:01:53.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "Skywork",
       "id": "Skywork/SkyReels-V3-A2V-19B",
-      "downloads": 1214,
-      "likes": 94,
+      "downloads": 1207,
+      "likes": 95,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-01-28T03:51:39.000Z",
       "numParameters": 18882046784,
       "repoType": "model"
     },
     {
-      "author": "Soul-AILab",
-      "id": "Soul-AILab/SoulX-FlashHead-1_3B",
-      "downloads": 1756,
-      "likes": 56,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-04-02T03:24:15.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "vantagewithai",
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
-      "downloads": 64280,
+      "downloads": 62464,
       "likes": 189,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-07-13T07:12:25.000Z",
@@ -247,7 +187,7 @@
     {
       "author": "aidealab",
       "id": "aidealab/AnimeGen-I2V",
-      "downloads": 16471,
+      "downloads": 16488,
       "likes": 35,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-07-13T13:03:26.000Z",
@@ -255,23 +195,43 @@
       "repoType": "model"
     },
     {
-      "author": "fal",
-      "id": "fal/LTX-2.3-3DREAL-LoRA",
-      "downloads": 0,
-      "likes": 249,
+      "author": "nvidia",
+      "id": "nvidia/Cosmos3-Super-Image2Video-4Step",
+      "downloads": 2230,
+      "likes": 29,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2026-07-13T23:55:36.000Z",
-      "numParameters": null,
+      "lastModified": "2026-07-30T02:59:19.000Z",
+      "numParameters": 63997928640,
       "repoType": "model"
     },
     {
       "author": "vantagewithai",
       "id": "vantagewithai/LTX2.3-10Eros-1.4-GGUF",
-      "downloads": 44996,
+      "downloads": 45697,
       "likes": 26,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-07-13T08:51:01.000Z",
       "numParameters": 21005004544,
+      "repoType": "model"
+    },
+    {
+      "author": "kandinskylab",
+      "id": "kandinskylab/Kandinsky-WM-1.0-I2V-5s-RO",
+      "downloads": 16,
+      "likes": 3,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-08-05T08:35:02.000Z",
+      "numParameters": 2007702848,
+      "repoType": "model"
+    },
+    {
+      "author": "kandinskylab",
+      "id": "kandinskylab/Kandinsky-WM-1.0-I2V-5s-PH",
+      "downloads": 23,
+      "likes": 3,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-08-05T08:35:02.000Z",
+      "numParameters": 2007702848,
       "repoType": "model"
     },
     {
@@ -285,25 +245,65 @@
       "repoType": "model"
     },
     {
-      "author": "stabilityai",
-      "id": "stabilityai/stable-video-diffusion-img2vid-xt-1-1",
-      "downloads": 4742,
-      "likes": 1071,
+      "author": "joeygambino",
+      "id": "joeygambino/MiniMax-H3-GGUF",
+      "downloads": 7334,
+      "likes": 3,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2024-07-10T11:52:10.000Z",
+      "lastModified": "2026-08-07T11:07:20.000Z",
+      "numParameters": 33122992912,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-video-diffusion-img2vid-xt",
+      "downloads": 168491,
+      "likes": 3375,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2024-07-10T11:43:18.000Z",
       "numParameters": 1524623082,
+      "repoType": "model"
+    },
+    {
+      "author": "KlingTeam",
+      "id": "KlingTeam/LivePortrait",
+      "downloads": 8169,
+      "likes": 486,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-03-03T16:17:36.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "calcuis",
       "id": "calcuis/ltxv-gguf",
-      "downloads": 11348,
+      "downloads": 11232,
       "likes": 94,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-09-26T07:40:44.000Z",
       "numParameters": 1923385472,
       "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Cosmos-Predict2-2B-Video2World",
+      "downloads": 162063,
+      "likes": 81,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-07-23T21:58:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Phr00t",
+      "id": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
+      "downloads": 0,
+      "likes": 1641,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-04-06T05:31:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:22.037Z"
+  "fetchedAt": "2026-08-07T20:27:03.447Z"
 }

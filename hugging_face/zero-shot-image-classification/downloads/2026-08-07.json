@@ -1,13 +1,13 @@
 {
   "category": "zero-shot-image-classification",
   "sort": "downloads",
-  "totalItems": 2063,
+  "totalItems": 2065,
   "fetchedItems": 30,
   "models": [
     {
       "author": "openai",
       "id": "openai/clip-vit-base-patch32",
-      "downloads": 21528988,
+      "downloads": 21080923,
       "likes": 994,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-02-29T09:45:55.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "openai",
       "id": "openai/clip-vit-large-patch14",
-      "downloads": 8029458,
+      "downloads": 7795872,
       "likes": 2066,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2023-09-15T15:49:35.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "openai",
       "id": "openai/clip-vit-large-patch14-336",
-      "downloads": 4210850,
+      "downloads": 4122212,
       "likes": 308,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2022-10-04T09:41:39.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "laion",
       "id": "laion/CLIP-ViT-B-32-laion2B-s34B-b79K",
-      "downloads": 3754089,
+      "downloads": 3682491,
       "likes": 141,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-01-22T04:41:33.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "patrickjohncyh",
       "id": "patrickjohncyh/fashion-clip",
-      "downloads": 2779281,
+      "downloads": 2718628,
       "likes": 289,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-09-17T15:19:43.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "google",
       "id": "google/siglip-so400m-patch14-384",
-      "downloads": 2267429,
+      "downloads": 2283411,
       "likes": 682,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-09-26T08:21:46.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "openai",
       "id": "openai/clip-vit-base-patch16",
-      "downloads": 1785791,
+      "downloads": 1758463,
       "likes": 165,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2022-10-04T09:42:28.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "google",
       "id": "google/siglip2-base-patch16-naflex",
-      "downloads": 1582673,
+      "downloads": 1581779,
       "likes": 38,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-02-21T04:04:09.000Z",
@@ -85,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/siglip2-giant-opt-patch16-384",
+      "downloads": 1525471,
+      "likes": 43,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:03:54.000Z",
+      "numParameters": 1871885426,
+      "repoType": "model"
+    },
+    {
       "author": "laion",
       "id": "laion/CLIP-convnext_base_w-laion2B-s13B-b82K-augreg",
-      "downloads": 1515616,
+      "downloads": 1497133,
       "likes": 9,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2023-04-18T22:05:22.000Z",
@@ -96,18 +106,8 @@
     },
     {
       "author": "google",
-      "id": "google/siglip2-giant-opt-patch16-384",
-      "downloads": 1488589,
-      "likes": 43,
-      "pipeline_tag": "zero-shot-image-classification",
-      "lastModified": "2025-02-21T04:03:54.000Z",
-      "numParameters": 1871885426,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/siglip-base-patch16-224",
-      "downloads": 1469483,
+      "downloads": 1443794,
       "likes": 87,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-09-26T08:20:18.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "google",
       "id": "google/siglip2-base-patch16-224",
-      "downloads": 868660,
+      "downloads": 895011,
       "likes": 123,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-02-21T04:03:35.000Z",
@@ -127,8 +127,8 @@
     {
       "author": "google",
       "id": "google/siglip2-so400m-patch14-384",
-      "downloads": 838160,
-      "likes": 96,
+      "downloads": 822309,
+      "likes": 97,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-02-21T04:03:58.000Z",
       "numParameters": 1136008498,
@@ -137,7 +137,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224",
-      "downloads": 790409,
+      "downloads": 768168,
       "likes": 420,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-01-14T18:29:54.000Z",
@@ -145,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/siglip2-so400m-patch16-256",
+      "downloads": 585580,
+      "likes": 5,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:04:01.000Z",
+      "numParameters": 1135670962,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/PE-Core-S16-384",
-      "downloads": 615327,
+      "downloads": 575018,
       "likes": 0,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-07-01T22:32:49.000Z",
@@ -156,18 +166,8 @@
     },
     {
       "author": "google",
-      "id": "google/siglip2-so400m-patch16-256",
-      "downloads": 595766,
-      "likes": 5,
-      "pipeline_tag": "zero-shot-image-classification",
-      "lastModified": "2025-02-21T04:04:01.000Z",
-      "numParameters": 1135670962,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/siglip2-base-patch16-256",
-      "downloads": 444425,
+      "downloads": 447531,
       "likes": 13,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-02-21T04:03:37.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "google",
       "id": "google/siglip2-so400m-patch16-naflex",
-      "downloads": 439031,
+      "downloads": 437592,
       "likes": 80,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-02-21T04:04:12.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "Marqo",
       "id": "Marqo/marqo-fashionSigLIP",
-      "downloads": 413208,
+      "downloads": 404613,
       "likes": 85,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2026-02-18T03:34:31.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "laion",
       "id": "laion/CLIP-ViT-B-16-laion2B-s34B-b88K",
-      "downloads": 402360,
+      "downloads": 396311,
       "likes": 39,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2023-04-19T18:55:10.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "laion",
       "id": "laion/CLIP-ViT-L-14-laion2B-s32B-b82K",
-      "downloads": 394595,
+      "downloads": 394105,
       "likes": 64,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-01-16T22:57:44.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "laion",
       "id": "laion/CLIP-ViT-H-14-laion2B-s32B-b79K",
-      "downloads": 393581,
+      "downloads": 386746,
       "likes": 468,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-01-22T04:38:44.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "wkcn",
       "id": "wkcn/TinyCLIP-ViT-8M-16-Text-3M-YFCC15M",
-      "downloads": 355241,
+      "downloads": 353377,
       "likes": 12,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-05-08T03:05:50.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "timm",
       "id": "timm/vit_base_patch16_plus_clip_240.laion400m_e31",
-      "downloads": 336883,
+      "downloads": 330596,
       "likes": 1,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-10-23T16:34:23.000Z",
@@ -247,8 +247,8 @@
     {
       "author": "facebook",
       "id": "facebook/PE-Core-L14-336",
-      "downloads": 331312,
-      "likes": 54,
+      "downloads": 317637,
+      "likes": 55,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2025-04-30T17:01:35.000Z",
       "numParameters": null,
@@ -257,7 +257,7 @@
     {
       "author": "google",
       "id": "google/tipsv2-so400m14",
-      "downloads": 253879,
+      "downloads": 252567,
       "likes": 18,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2026-07-28T03:38:29.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "OFA-Sys",
       "id": "OFA-Sys/chinese-clip-vit-base-patch16",
-      "downloads": 246288,
+      "downloads": 232217,
       "likes": 134,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2022-12-09T06:10:13.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "q-future",
       "id": "q-future/one-align",
-      "downloads": 218798,
+      "downloads": 215972,
       "likes": 46,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-05-14T14:51:43.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "google",
       "id": "google/tipsv2-b14",
-      "downloads": 180776,
+      "downloads": 175930,
       "likes": 117,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2026-07-28T03:38:29.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "yuvalkirstain",
       "id": "yuvalkirstain/PickScore_v1",
-      "downloads": 175781,
+      "downloads": 173315,
       "likes": 52,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2023-05-08T08:32:12.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:51:25.170Z"
+  "fetchedAt": "2026-08-07T20:28:06.290Z"
 }

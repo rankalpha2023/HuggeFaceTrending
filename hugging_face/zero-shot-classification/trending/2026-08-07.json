@@ -5,19 +5,9 @@
   "fetchedItems": 30,
   "models": [
     {
-      "author": "scx-admin",
-      "id": "scx-admin/scx-router-v0.1",
-      "downloads": 308,
-      "likes": 10,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-07-22T07:27:00.000Z",
-      "numParameters": 630941697,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/bart-large-mnli",
-      "downloads": 3142621,
+      "downloads": 3094288,
       "likes": 1595,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-09-05T14:49:34.000Z",
@@ -25,9 +15,29 @@
       "repoType": "model"
     },
     {
+      "author": "cross-encoder",
+      "id": "cross-encoder/nli-deberta-v3-large",
+      "downloads": 65471,
+      "likes": 45,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-04-15T07:48:35.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+      "downloads": 242272,
+      "likes": 130,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:49:10.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-base-zeroshot-v2.0",
-      "downloads": 97226,
+      "downloads": 95085,
       "likes": 17,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:42:07.000Z",
@@ -35,9 +45,19 @@
       "repoType": "model"
     },
     {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/bge-m3-zeroshot-v2.0",
+      "downloads": 108948,
+      "likes": 68,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-22T11:09:02.000Z",
+      "numParameters": 567756802,
+      "repoType": "model"
+    },
+    {
       "author": "deepvk",
       "id": "deepvk/GeRaCl-USER2-base",
-      "downloads": 683,
+      "downloads": 672,
       "likes": 21,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-06-10T18:54:48.000Z",
@@ -45,9 +65,29 @@
       "repoType": "model"
     },
     {
+      "author": "hivetrace",
+      "id": "hivetrace/gliner-guard-omni",
+      "downloads": 5749,
+      "likes": 20,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-05-19T13:48:50.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "scx-admin",
+      "id": "scx-admin/scx-router-v0.1",
+      "downloads": 328,
+      "likes": 10,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-07-22T07:27:00.000Z",
+      "numParameters": 630941697,
+      "repoType": "model"
+    },
+    {
       "author": "kucukkanat",
       "id": "kucukkanat/LFM2.5-Encoder-350M-Prompt-Router-ONNX",
-      "downloads": 149,
+      "downloads": 151,
       "likes": 1,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-07-29T10:13:12.000Z",
@@ -67,7 +107,7 @@
     {
       "author": "Jiva",
       "id": "Jiva/xlm-roberta-large-it-mnli",
-      "downloads": 134,
+      "downloads": 133,
       "likes": 8,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-05-22T09:22:29.000Z",
@@ -77,7 +117,7 @@
     {
       "author": "KheireddineDaouadi",
       "id": "KheireddineDaouadi/ZeroAraElectra",
-      "downloads": 24,
+      "downloads": 23,
       "likes": 0,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2022-02-26T18:40:11.000Z",
@@ -87,7 +127,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-      "downloads": 141510,
+      "downloads": 142592,
       "likes": 224,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:47:27.000Z",
@@ -97,7 +137,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-base-mnli",
-      "downloads": 3614,
+      "downloads": 3560,
       "likes": 8,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-03-20T08:33:23.000Z",
@@ -107,7 +147,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary",
-      "downloads": 31700,
+      "downloads": 30841,
       "likes": 7,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:48:16.000Z",
@@ -117,7 +157,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
-      "downloads": 440431,
+      "downloads": 443114,
       "likes": 313,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-01-08T12:37:16.000Z",
@@ -127,7 +167,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/xtremedistil-l6-h256-mnli-fever-anli-ling-binary",
-      "downloads": 48,
+      "downloads": 47,
       "likes": 3,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-01-16T10:32:48.000Z",
@@ -137,7 +177,7 @@
     {
       "author": "NDugar",
       "id": "NDugar/1epochv3",
-      "downloads": 9,
+      "downloads": 8,
       "likes": 0,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2021-11-30T20:05:36.000Z",
@@ -167,7 +207,7 @@
     {
       "author": "NDugar",
       "id": "NDugar/ZSD-microsoft-v2xxlmnli",
-      "downloads": 16,
+      "downloads": 17,
       "likes": 3,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-11-22T12:48:05.000Z",
@@ -177,7 +217,7 @@
     {
       "author": "NDugar",
       "id": "NDugar/deberta-v2-xlarge-mnli",
-      "downloads": 19,
+      "downloads": 18,
       "likes": 0,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-02-19T12:54:39.000Z",
@@ -197,7 +237,7 @@
     {
       "author": "NDugar",
       "id": "NDugar/v2xl-again-mnli",
-      "downloads": 14,
+      "downloads": 13,
       "likes": 0,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-02-19T12:53:47.000Z",
@@ -207,7 +247,7 @@
     {
       "author": "NDugar",
       "id": "NDugar/v3-Large-mnli",
-      "downloads": 24,
+      "downloads": 23,
       "likes": 1,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-11-22T12:48:15.000Z",
@@ -237,7 +277,7 @@
     {
       "author": "Narsil",
       "id": "Narsil/deberta-large-mnli-zero-cls",
-      "downloads": 1278,
+      "downloads": 1266,
       "likes": 14,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2021-08-23T13:27:24.000Z",
@@ -257,53 +297,13 @@
     {
       "author": "Recognai",
       "id": "Recognai/bert-base-spanish-wwm-cased-xnli",
-      "downloads": 2810,
+      "downloads": 2758,
       "likes": 18,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-07-14T22:22:51.000Z",
       "numParameters": 109853699,
       "repoType": "model"
-    },
-    {
-      "author": "Recognai",
-      "id": "Recognai/zeroshot_selectra_medium",
-      "downloads": 241,
-      "likes": 12,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2023-07-14T22:21:07.000Z",
-      "numParameters": 40841219,
-      "repoType": "model"
-    },
-    {
-      "author": "Recognai",
-      "id": "Recognai/zeroshot_selectra_small",
-      "downloads": 26,
-      "likes": 6,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2023-07-14T22:23:19.000Z",
-      "numParameters": 22476291,
-      "repoType": "model"
-    },
-    {
-      "author": "Sahajtomar",
-      "id": "Sahajtomar/German_Zeroshot",
-      "downloads": 261,
-      "likes": 26,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2021-05-18T22:22:18.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "cmarkea",
-      "id": "cmarkea/distilcamembert-base-nli",
-      "downloads": 585,
-      "likes": 14,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-10-26T07:15:42.000Z",
-      "numParameters": 68097541,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:51:20.282Z"
+  "fetchedAt": "2026-08-07T20:28:01.373Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "token-classification",
   "sort": "trending",
-  "totalItems": 29944,
+  "totalItems": 29936,
   "fetchedItems": 30,
   "models": [
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
-      "downloads": 699,
-      "likes": 29,
+      "downloads": 726,
+      "likes": 30,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-28T14:00:37.000Z",
       "numParameters": 354649154,
@@ -17,8 +17,8 @@
     {
       "author": "openai",
       "id": "openai/privacy-filter",
-      "downloads": 525446,
-      "likes": 1718,
+      "downloads": 516042,
+      "likes": 1719,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-04-22T16:50:17.000Z",
       "numParameters": 1399486865,
@@ -27,7 +27,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Encoder-350M-Spellchecker",
-      "downloads": 575,
+      "downloads": 577,
       "likes": 13,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-28T13:58:46.000Z",
@@ -47,27 +47,17 @@
     {
       "author": "knowledgator",
       "id": "knowledgator/gliner-stream-pii-v1.0",
-      "downloads": 119,
-      "likes": 16,
+      "downloads": 120,
+      "likes": 17,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-08-04T17:05:47.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "rizzoaiacademy",
-      "id": "rizzoaiacademy/rizzo-pii-0.3B",
-      "downloads": 1656,
-      "likes": 11,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-06-28T22:29:21.000Z",
-      "numParameters": 307564076,
-      "repoType": "model"
-    },
-    {
       "author": "ai4bharat",
       "id": "ai4bharat/IndicNER",
-      "downloads": 18523,
+      "downloads": 18211,
       "likes": 34,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-12-21T02:45:48.000Z",
@@ -75,9 +65,29 @@
       "repoType": "model"
     },
     {
+      "author": "rizzoaiacademy",
+      "id": "rizzoaiacademy/rizzo-pii-0.3B",
+      "downloads": 2387,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-28T22:29:21.000Z",
+      "numParameters": 307564076,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 11780,
+      "likes": 148,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "OpenMed",
       "id": "OpenMed/privacy-filter-nemotron-v2",
-      "downloads": 33633,
+      "downloads": 20137,
       "likes": 48,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-03T07:57:03.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "KRLabsOrg",
       "id": "KRLabsOrg/lettucedect-v2-mmbert-base",
-      "downloads": 1691,
+      "downloads": 1804,
       "likes": 3,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-08T20:39:53.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-ForcedAligner-0.6B-hf",
-      "downloads": 31035,
+      "downloads": 31891,
       "likes": 17,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-06-26T08:42:38.000Z",
@@ -107,7 +117,7 @@
     {
       "author": "ssl-jp",
       "id": "ssl-jp/pii-ja-ner-onnx",
-      "downloads": 83,
+      "downloads": 86,
       "likes": 2,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-16T04:06:43.000Z",
@@ -117,7 +127,7 @@
     {
       "author": "Babelscape",
       "id": "Babelscape/wikineural-multilingual-ner",
-      "downloads": 262676,
+      "downloads": 245649,
       "likes": 167,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-05-23T08:47:23.000Z",
@@ -137,7 +147,7 @@
     {
       "author": "uer",
       "id": "uer/roberta-base-finetuned-cluener2020-chinese",
-      "downloads": 2949,
+      "downloads": 2971,
       "likes": 48,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-10-17T15:17:38.000Z",
@@ -147,7 +157,7 @@
     {
       "author": "StanfordAIMI",
       "id": "StanfordAIMI/stanford-deidentifier-base",
-      "downloads": 1902821,
+      "downloads": 1878081,
       "likes": 83,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-10-09T17:55:36.000Z",
@@ -157,7 +167,7 @@
     {
       "author": "iioSnail",
       "id": "iioSnail/bert-base-chinese-medical-ner",
-      "downloads": 100,
+      "downloads": 103,
       "likes": 17,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-06-27T12:09:50.000Z",
@@ -167,7 +177,7 @@
     {
       "author": "segment-any-text",
       "id": "segment-any-text/sat-3l-sm",
-      "downloads": 540728,
+      "downloads": 529876,
       "likes": 13,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-09-24T11:54:56.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "iiiorg",
       "id": "iiiorg/piiranha-v1-detect-personal-information",
-      "downloads": 105290,
+      "downloads": 107759,
       "likes": 246,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-11-01T04:01:28.000Z",
@@ -187,7 +197,7 @@
     {
       "author": "ai4privacy",
       "id": "ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii",
-      "downloads": 1963,
+      "downloads": 1961,
       "likes": 22,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-03-24T09:04:56.000Z",
@@ -197,7 +207,7 @@
     {
       "author": "NAMAA-Space",
       "id": "NAMAA-Space/gliner_arabic-v2.1",
-      "downloads": 157,
+      "downloads": 174,
       "likes": 19,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-04-13T08:12:45.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/Cadence",
-      "downloads": 719,
+      "downloads": 709,
       "likes": 19,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-11-19T03:44:49.000Z",
@@ -217,7 +227,7 @@
     {
       "author": "OpenMed",
       "id": "OpenMed/OpenMed-NER-DiseaseDetect-SuperClinical-434M",
-      "downloads": 128954,
+      "downloads": 126616,
       "likes": 12,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-08-05T09:34:31.000Z",
@@ -227,7 +237,7 @@
     {
       "author": "yashpwr",
       "id": "yashpwr/resume-ner-bert-v2",
-      "downloads": 971,
+      "downloads": 988,
       "likes": 16,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-08-07T08:14:07.000Z",
@@ -237,7 +247,7 @@
     {
       "author": "knowledgator",
       "id": "knowledgator/gliner-decoder-large-v1.0",
-      "downloads": 9,
+      "downloads": 10,
       "likes": 22,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-08-16T09:30:50.000Z",
@@ -245,29 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "KoichiYasuoka",
-      "id": "KoichiYasuoka/roberta-base-basque-ud-goeswith",
-      "downloads": 94,
-      "likes": 1,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2025-08-23T10:44:07.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/gliner-PII",
-      "downloads": 11971,
-      "likes": 147,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2025-12-07T21:51:24.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "onnx-community",
       "id": "onnx-community/bert-base-multilingual-cased-ner-hrl-ONNX",
-      "downloads": 725,
+      "downloads": 709,
       "likes": 1,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-03-13T01:04:20.000Z",
@@ -287,7 +277,7 @@
     {
       "author": "lebe1",
       "id": "lebe1/lettuceprevent-ettin-decoder-68m-en",
-      "downloads": 161,
+      "downloads": 162,
       "likes": 3,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-24T15:34:43.000Z",
@@ -297,13 +287,23 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2-privacy-filter-PII-multi",
-      "downloads": 121557,
+      "downloads": 120605,
       "likes": 73,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-20T15:36:49.000Z",
       "numParameters": 307098645,
       "repoType": "model"
+    },
+    {
+      "author": "digitflow",
+      "id": "digitflow/privacy-filter-de-ft",
+      "downloads": 5,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-12T13:24:14.000Z",
+      "numParameters": 1399486832,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:51:08.508Z"
+  "fetchedAt": "2026-08-07T20:27:49.784Z"
 }

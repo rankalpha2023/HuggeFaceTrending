@@ -1,14 +1,14 @@
 {
   "category": "translation",
   "sort": "trending",
-  "totalItems": 17212,
+  "totalItems": 17215,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/nllb-200-distilled-600M",
-      "downloads": 1560827,
-      "likes": 952,
+      "downloads": 1487055,
+      "likes": 953,
       "pipeline_tag": "translation",
       "lastModified": "2024-02-14T17:18:36.000Z",
       "numParameters": null,
@@ -17,7 +17,7 @@
     {
       "author": "tencent",
       "id": "tencent/Hy-MT2-1.8B",
-      "downloads": 50120,
+      "downloads": 49645,
       "likes": 1163,
       "pipeline_tag": "translation",
       "lastModified": "2026-05-26T09:05:58.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2-350M-ENJP-MT-GGUF",
-      "downloads": 1446,
+      "downloads": 1424,
       "likes": 39,
       "pipeline_tag": "translation",
       "lastModified": "2026-08-06T01:14:47.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2-350M-ENJP-MT",
-      "downloads": 870,
+      "downloads": 872,
       "likes": 92,
       "pipeline_tag": "translation",
       "lastModified": "2026-03-30T16:12:15.000Z",
@@ -45,19 +45,19 @@
       "repoType": "model"
     },
     {
-      "author": "tencent",
-      "id": "tencent/Hy-MT2-7B",
-      "downloads": 28151,
-      "likes": 204,
+      "author": "google",
+      "id": "google/madlad400-3b-mt",
+      "downloads": 256063,
+      "likes": 213,
       "pipeline_tag": "translation",
-      "lastModified": "2026-05-26T09:05:54.000Z",
-      "numParameters": 8029540352,
+      "lastModified": "2023-11-27T15:58:35.000Z",
+      "numParameters": 2940374016,
       "repoType": "model"
     },
     {
       "author": "tencent",
       "id": "tencent/Hy-MT2-30B-A3B-GGUF",
-      "downloads": 25935,
+      "downloads": 26152,
       "likes": 9,
       "pipeline_tag": "translation",
       "lastModified": "2026-07-23T11:47:14.000Z",
@@ -65,9 +65,29 @@
       "repoType": "model"
     },
     {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-7B",
+      "downloads": 26629,
+      "likes": 204,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-26T09:05:54.000Z",
+      "numParameters": 8029540352,
+      "repoType": "model"
+    },
+    {
+      "author": "xiaomi-research",
+      "id": "xiaomi-research/MiLMMT-46-12B-v1.0",
+      "downloads": 19,
+      "likes": 2,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-08-06T09:31:28.000Z",
+      "numParameters": 12187325040,
+      "repoType": "model"
+    },
+    {
       "author": "google-t5",
       "id": "google-t5/t5-small",
-      "downloads": 23962318,
+      "downloads": 23467297,
       "likes": 589,
       "pipeline_tag": "translation",
       "lastModified": "2023-06-30T02:31:26.000Z",
@@ -75,29 +95,9 @@
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/madlad400-3b-mt",
-      "downloads": 263425,
-      "likes": 212,
-      "pipeline_tag": "translation",
-      "lastModified": "2023-11-27T15:58:35.000Z",
-      "numParameters": 2940374016,
-      "repoType": "model"
-    },
-    {
-      "author": "Prosho",
-      "id": "Prosho/sentinel-src-25",
-      "downloads": 81,
-      "likes": 10,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-07-12T18:36:31.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-zh",
-      "downloads": 99832,
+      "downloads": 100032,
       "likes": 404,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:31:42.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-ru-en",
-      "downloads": 176815,
+      "downloads": 174470,
       "likes": 101,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T12:03:22.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-tc-big-en-pt",
-      "downloads": 9838,
+      "downloads": 9858,
       "likes": 33,
       "pipeline_tag": "translation",
       "lastModified": "2023-10-10T10:20:34.000Z",
@@ -127,10 +127,20 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-3.3B",
-      "downloads": 72073,
+      "downloads": 72149,
       "likes": 470,
       "pipeline_tag": "translation",
       "lastModified": "2023-02-11T20:19:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/wmt22-cometkiwi-da",
+      "downloads": 14130,
+      "likes": 85,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-04-07T09:26:01.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -157,7 +167,7 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-en-indic-dist-200M",
-      "downloads": 12619,
+      "downloads": 12688,
       "likes": 32,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:50.000Z",
@@ -167,7 +177,7 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-indic-indic-1B",
-      "downloads": 1083,
+      "downloads": 1107,
       "likes": 14,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:51.000Z",
@@ -175,9 +185,39 @@
       "repoType": "model"
     },
     {
+      "author": "Unbabel",
+      "id": "Unbabel/TowerInstruct-7B-v0.1",
+      "downloads": 237,
+      "likes": 67,
+      "pipeline_tag": "translation",
+      "lastModified": "2024-03-04T13:18:03.000Z",
+      "numParameters": 6738472960,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/TowerInstruct-13B-v0.1",
+      "downloads": 93948,
+      "likes": 36,
+      "pipeline_tag": "translation",
+      "lastModified": "2024-05-08T15:00:54.000Z",
+      "numParameters": 13015936000,
+      "repoType": "model"
+    },
+    {
+      "author": "Unbabel",
+      "id": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+      "downloads": 1382,
+      "likes": 19,
+      "pipeline_tag": "translation",
+      "lastModified": "2024-09-04T09:42:11.000Z",
+      "numParameters": 7241748480,
+      "repoType": "model"
+    },
+    {
       "author": "entai2965",
       "id": "entai2965/m2m100-1.2B-ctranslate2",
-      "downloads": 143,
+      "downloads": 144,
       "likes": 6,
       "pipeline_tag": "translation",
       "lastModified": "2024-11-21T09:53:14.000Z",
@@ -187,7 +227,7 @@
     {
       "author": "techiaith",
       "id": "techiaith/nllb-200-1.3B-ft-cym-to-eng",
-      "downloads": 20,
+      "downloads": 26,
       "likes": 1,
       "pipeline_tag": "translation",
       "lastModified": "2026-03-02T17:12:28.000Z",
@@ -197,7 +237,7 @@
     {
       "author": "sarvamai",
       "id": "sarvamai/sarvam-translate",
-      "downloads": 59938,
+      "downloads": 60032,
       "likes": 151,
       "pipeline_tag": "translation",
       "lastModified": "2026-07-13T11:49:53.000Z",
@@ -217,7 +257,7 @@
     {
       "author": "sugoitoolkit",
       "id": "sugoitoolkit/Sugoi-14B-Ultra-GGUF",
-      "downloads": 185014,
+      "downloads": 184858,
       "likes": 14,
       "pipeline_tag": "translation",
       "lastModified": "2025-08-26T01:06:01.000Z",
@@ -227,7 +267,7 @@
     {
       "author": "tencent",
       "id": "tencent/Hunyuan-MT-7B",
-      "downloads": 1498,
+      "downloads": 1798,
       "likes": 736,
       "pipeline_tag": "translation",
       "lastModified": "2025-12-30T03:07:28.000Z",
@@ -247,7 +287,7 @@
     {
       "author": "yanolja",
       "id": "yanolja/YanoljaNEXT-Rosetta-27B-2511-GGUF",
-      "downloads": 66,
+      "downloads": 62,
       "likes": 7,
       "pipeline_tag": "translation",
       "lastModified": "2025-11-02T19:36:28.000Z",
@@ -255,55 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "mradermacher",
-      "id": "mradermacher/Huihui-HY-MT1.5-7B-abliterated-i1-GGUF",
-      "downloads": 587,
-      "likes": 4,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-01-05T12:00:13.000Z",
-      "numParameters": 7504568320,
-      "repoType": "model"
-    },
-    {
-      "author": "cyberagent",
-      "id": "cyberagent/CAT-Translate-7b",
-      "downloads": 269,
+      "author": "NiuTrans",
+      "id": "NiuTrans/LMT-60-8B",
+      "downloads": 221,
       "likes": 14,
       "pipeline_tag": "translation",
-      "lastModified": "2026-06-23T04:15:26.000Z",
-      "numParameters": 7485566976,
-      "repoType": "model"
-    },
-    {
-      "author": "makhtar7186",
-      "id": "makhtar7186/traduction_fr_wolof",
-      "downloads": 5,
-      "likes": 2,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-04-02T14:48:14.000Z",
-      "numParameters": 74669178,
-      "repoType": "model"
-    },
-    {
-      "author": "keithtwesigye",
-      "id": "keithtwesigye/lunyoro-nllb-lun2en",
-      "downloads": 96,
-      "likes": 1,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-08-04T12:45:55.000Z",
-      "numParameters": 615073792,
-      "repoType": "model"
-    },
-    {
-      "author": "tencent",
-      "id": "tencent/Hy-MT2-30B-A3B",
-      "downloads": 30748,
-      "likes": 485,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-07-21T12:22:53.000Z",
-      "numParameters": 30064725888,
+      "lastModified": "2026-05-07T03:29:21.000Z",
+      "numParameters": 8190735360,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:51:11.691Z"
+  "fetchedAt": "2026-08-07T20:27:52.831Z"
 }

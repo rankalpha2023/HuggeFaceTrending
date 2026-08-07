@@ -1,14 +1,14 @@
 {
   "category": "audio-text-to-text",
   "sort": "trending",
-  "totalItems": 283,
+  "totalItems": 285,
   "fetchedItems": 30,
   "models": [
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "downloads": 218378,
-      "likes": 364,
+      "downloads": 219772,
+      "likes": 367,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-07-31T09:12:42.000Z",
       "numParameters": 908513280,
@@ -17,17 +17,27 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_5-llama-3_2-1b",
-      "downloads": 1108128,
-      "likes": 93,
+      "downloads": 1071667,
+      "likes": 94,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-03-11T11:03:46.000Z",
       "numParameters": 683118592,
       "repoType": "model"
     },
     {
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-ASR-HF",
+      "downloads": 137263,
+      "likes": 172,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-03-09T03:11:35.000Z",
+      "numParameters": 8330325888,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/music-flamingo-2601-hf",
-      "downloads": 39835,
+      "downloads": 34633,
       "likes": 110,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-09T15:20:00.000Z",
@@ -35,19 +45,9 @@
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/VibeVoice-ASR-HF",
-      "downloads": 150416,
-      "likes": 171,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-03-09T03:11:35.000Z",
-      "numParameters": 8330325888,
-      "repoType": "model"
-    },
-    {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Audio-4B-Thinking",
-      "downloads": 36811,
+      "downloads": 35474,
       "likes": 36,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-14T03:34:24.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "zhifeixie",
       "id": "zhifeixie/AudioInteraction",
-      "downloads": 76,
+      "downloads": 72,
       "likes": 26,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-06-16T06:17:21.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "NexaAI",
       "id": "NexaAI/Qwen2-Audio-7B-GGUF",
-      "downloads": 1542,
+      "downloads": 1595,
       "likes": 171,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2024-11-25T17:58:01.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "KE-Team",
-      "id": "KE-Team/Ke-Omni-R-3B",
-      "downloads": 16,
-      "likes": 23,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2025-06-16T09:52:32.000Z",
-      "numParameters": 4703464448,
-      "repoType": "model"
-    },
-    {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_6-llama-3_1-8b",
-      "downloads": 37792,
+      "downloads": 38240,
       "likes": 8,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-07-05T17:50:37.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_6-gemma-3-27b",
-      "downloads": 2629,
+      "downloads": 2627,
       "likes": 10,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-09-12T04:38:40.000Z",
@@ -107,7 +97,7 @@
     {
       "author": "mistralai",
       "id": "mistralai/Voxtral-Small-24B-2507",
-      "downloads": 265657,
+      "downloads": 262513,
       "likes": 519,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-12-20T23:34:49.000Z",
@@ -117,7 +107,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/audio-flamingo-3-hf",
-      "downloads": 187536,
+      "downloads": 178374,
       "likes": 190,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-13T08:08:11.000Z",
@@ -127,7 +117,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/music-flamingo-hf",
-      "downloads": 8077,
+      "downloads": 7969,
       "likes": 100,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-04T22:49:49.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "henry1477",
       "id": "henry1477/music-flamingo-gguf",
-      "downloads": 271,
+      "downloads": 273,
       "likes": 5,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-01-03T15:36:44.000Z",
@@ -145,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "stepfun-ai",
-      "id": "stepfun-ai/Step-Audio-R1.1",
-      "downloads": 325,
-      "likes": 187,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-02-14T09:35:25.000Z",
-      "numParameters": 33487033600,
-      "repoType": "model"
-    },
-    {
       "author": "Atotti",
       "id": "Atotti/llm-jp-4-8b-speech-chat",
-      "downloads": 43,
+      "downloads": 42,
       "likes": 11,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-05T15:44:57.000Z",
@@ -167,7 +147,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/audio-flamingo-next-hf",
-      "downloads": 7212,
+      "downloads": 6735,
       "likes": 59,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-05-13T18:38:05.000Z",
@@ -177,7 +157,7 @@
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
-      "downloads": 37395,
+      "downloads": 36052,
       "likes": 80,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-06-11T11:21:55.000Z",
@@ -187,7 +167,7 @@
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Music-8B-Instruct",
-      "downloads": 2024,
+      "downloads": 1993,
       "likes": 29,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-05-01T15:10:37.000Z",
@@ -197,7 +177,7 @@
     {
       "author": "cstr",
       "id": "cstr/MOSS-Audio-4B-Instruct-GGUF",
-      "downloads": 1178,
+      "downloads": 1169,
       "likes": 5,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-08-02T15:15:15.000Z",
@@ -207,7 +187,7 @@
     {
       "author": "QuantumDesk-AI",
       "id": "QuantumDesk-AI/ultravox-qwen3.6-27b-base",
-      "downloads": 31,
+      "downloads": 29,
       "likes": 3,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-07-31T18:23:20.000Z",
@@ -217,7 +197,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_2",
-      "downloads": 941,
+      "downloads": 951,
       "likes": 51,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T20:37:10.000Z",
@@ -227,7 +207,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2-Audio-7B",
-      "downloads": 47472,
+      "downloads": 47946,
       "likes": 176,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2024-11-20T09:21:08.000Z",
@@ -237,7 +217,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_3",
-      "downloads": 1707,
+      "downloads": 1680,
       "likes": 17,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T23:21:33.000Z",
@@ -247,7 +227,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2-Audio-7B-Instruct",
-      "downloads": 694036,
+      "downloads": 679541,
       "likes": 551,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-01-12T02:05:48.000Z",
@@ -257,7 +237,7 @@
     {
       "author": "sarvamai",
       "id": "sarvamai/shuka-1",
-      "downloads": 611,
+      "downloads": 605,
       "likes": 92,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-03-14T15:56:31.000Z",
@@ -267,7 +247,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_4",
-      "downloads": 1285,
+      "downloads": 1293,
       "likes": 51,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T23:21:38.000Z",
@@ -297,13 +277,33 @@
     {
       "author": "Menlo",
       "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-2",
-      "downloads": 10,
+      "downloads": 12,
       "likes": 5,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2024-11-19T12:21:26.000Z",
       "numParameters": 8034480128,
       "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-3",
+      "downloads": 13,
+      "likes": 35,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:19:51.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/mini-Ichigo-llama3.2-3B-s-base",
+      "downloads": 10,
+      "likes": 1,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:19:19.000Z",
+      "numParameters": 3214331904,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:49:46.855Z"
+  "fetchedAt": "2026-08-07T20:26:28.448Z"
 }

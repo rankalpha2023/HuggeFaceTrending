@@ -7,8 +7,8 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation-3.0",
-      "downloads": 6231934,
-      "likes": 1447,
+      "downloads": 6109433,
+      "likes": 1451,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:35:46.000Z",
       "numParameters": null,
@@ -18,7 +18,7 @@
       "author": "pipecat-ai",
       "id": "pipecat-ai/smart-turn-v3",
       "downloads": 0,
-      "likes": 189,
+      "likes": 190,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-01-07T18:00:39.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "FluidInference",
       "id": "FluidInference/speaker-diarization-coreml",
-      "downloads": 12673,
+      "downloads": 12458,
       "likes": 41,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-03-14T21:38:07.000Z",
@@ -35,19 +35,9 @@
       "repoType": "model"
     },
     {
-      "author": "pyannote",
-      "id": "pyannote/brouhaha",
-      "downloads": 26347,
-      "likes": 30,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2022-11-15T09:10:27.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "funasr",
       "id": "funasr/fsmn-vad",
-      "downloads": 2905,
+      "downloads": 2863,
       "likes": 24,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-06-19T09:39:05.000Z",
@@ -67,7 +57,7 @@
     {
       "author": "videosdk-live",
       "id": "videosdk-live/Namo-Turn-Detector-v1-Japanese",
-      "downloads": 405,
+      "downloads": 382,
       "likes": 2,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2025-10-15T07:39:59.000Z",
@@ -77,7 +67,7 @@
     {
       "author": "mlx-community",
       "id": "mlx-community/diar_streaming_sortformer_4spk-v2.1-fp32",
-      "downloads": 101,
+      "downloads": 92,
       "likes": 2,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-02-10T15:43:19.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "aufklarer",
       "id": "aufklarer/Silero-VAD-v6.2.1-CoreML",
-      "downloads": 3313,
+      "downloads": 3249,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-06-27T10:06:11.000Z",
@@ -127,8 +117,8 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation",
-      "downloads": 2265258,
-      "likes": 687,
+      "downloads": 2197425,
+      "likes": 688,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:38:44.000Z",
       "numParameters": null,
@@ -137,10 +127,20 @@
     {
       "author": "philschmid",
       "id": "philschmid/pyannote-speaker-diarization-endpoint",
-      "downloads": 67,
+      "downloads": 64,
       "likes": 20,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-22T07:17:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/brouhaha",
+      "downloads": 26082,
+      "likes": 30,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-15T09:10:27.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -157,7 +157,7 @@
     {
       "author": "philschmid",
       "id": "philschmid/pyannote-segmentation",
-      "downloads": 151,
+      "downloads": 149,
       "likes": 10,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-08T17:15:47.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:51:17.527Z"
+  "fetchedAt": "2026-08-07T20:27:58.653Z"
 }

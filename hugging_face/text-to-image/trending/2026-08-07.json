@@ -1,14 +1,14 @@
 {
   "category": "text-to-image",
   "sort": "trending",
-  "totalItems": 108408,
+  "totalItems": 108401,
   "fetchedItems": 30,
   "models": [
     {
       "author": "lodestones",
       "id": "lodestones/Kroma",
       "downloads": 0,
-      "likes": 205,
+      "likes": 221,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-08-02T03:35:22.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "black-forest-labs",
       "id": "black-forest-labs/FLUX.1-dev",
-      "downloads": 523234,
-      "likes": 14009,
+      "downloads": 512841,
+      "likes": 14024,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-06-27T16:22:19.000Z",
       "numParameters": 11901408320,
@@ -27,8 +27,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-diffusion-3.5-large",
-      "downloads": 67075,
-      "likes": 3673,
+      "downloads": 65734,
+      "likes": 3677,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-10-22T14:36:33.000Z",
       "numParameters": 8146280768,
@@ -37,67 +37,57 @@
     {
       "author": "krea",
       "id": "krea/Krea-2-Turbo",
-      "downloads": 107911,
-      "likes": 815,
+      "downloads": 96571,
+      "likes": 818,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-07-24T15:50:26.000Z",
       "numParameters": 12820073036,
       "repoType": "model"
     },
     {
-      "author": "krea",
-      "id": "krea/Krea-2-Raw",
-      "downloads": 121322,
-      "likes": 445,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-24T15:50:25.000Z",
-      "numParameters": 12820073036,
-      "repoType": "model"
-    },
-    {
       "author": "Tongyi-MAI",
       "id": "Tongyi-MAI/Z-Image-Turbo",
-      "downloads": 1074536,
-      "likes": 5091,
+      "downloads": 1064884,
+      "likes": 5096,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-01-30T16:58:07.000Z",
       "numParameters": 6154908736,
       "repoType": "model"
     },
     {
+      "author": "krea",
+      "id": "krea/Krea-2-Raw",
+      "downloads": 116136,
+      "likes": 450,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-24T15:50:25.000Z",
+      "numParameters": 12820073036,
+      "repoType": "model"
+    },
+    {
       "author": "stabilityai",
       "id": "stabilityai/stable-diffusion-xl-base-1.0",
-      "downloads": 1421700,
-      "likes": 8021,
+      "downloads": 1401961,
+      "likes": 8023,
       "pipeline_tag": "text-to-image",
       "lastModified": "2023-10-30T16:03:47.000Z",
       "numParameters": 2567463684,
       "repoType": "model"
     },
     {
-      "author": "black-forest-labs",
-      "id": "black-forest-labs/FLUX.1-schnell",
-      "downloads": 215427,
-      "likes": 5497,
+      "author": "bench-labs",
+      "id": "bench-labs/PixelModel-v6",
+      "downloads": 151,
+      "likes": 15,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2024-08-16T14:37:56.000Z",
-      "numParameters": 11891178560,
-      "repoType": "model"
-    },
-    {
-      "author": "ideogram-ai",
-      "id": "ideogram-ai/ideogram-4-fp8",
-      "downloads": 37999,
-      "likes": 738,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-06-03T18:34:44.000Z",
-      "numParameters": 9281557760,
+      "lastModified": "2026-08-06T07:04:54.000Z",
+      "numParameters": 155090448,
       "repoType": "model"
     },
     {
       "author": "bench-labs",
       "id": "bench-labs/PixelModel-v5",
-      "downloads": 5929,
+      "downloads": 5935,
       "likes": 31,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-08-04T07:03:45.000Z",
@@ -105,49 +95,39 @@
       "repoType": "model"
     },
     {
-      "author": "bench-labs",
-      "id": "bench-labs/PixelModel-v6",
-      "downloads": 65,
-      "likes": 14,
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "downloads": 210846,
+      "likes": 5499,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2026-08-06T07:04:54.000Z",
-      "numParameters": 155090448,
+      "lastModified": "2024-08-16T14:37:56.000Z",
+      "numParameters": 11891178560,
       "repoType": "model"
     },
     {
       "author": "ponpoke",
       "id": "ponpoke/flux2-klein-9b-uncensored-text-encoder",
-      "downloads": 26628,
-      "likes": 366,
+      "downloads": 26457,
+      "likes": 368,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-05-02T11:34:41.000Z",
       "numParameters": 8190735360,
       "repoType": "model"
     },
     {
-      "author": "realrebelai",
-      "id": "realrebelai/Kreamagine_v1.0",
-      "downloads": 478,
-      "likes": 14,
+      "author": "ideogram-ai",
+      "id": "ideogram-ai/ideogram-4-fp8",
+      "downloads": 36506,
+      "likes": 739,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2026-08-05T03:32:41.000Z",
-      "numParameters": 12820073036,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/Qwen-Image-Flash",
-      "downloads": 877,
-      "likes": 83,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-08-04T20:34:02.000Z",
-      "numParameters": 20430401088,
+      "lastModified": "2026-06-03T18:34:44.000Z",
+      "numParameters": 9281557760,
       "repoType": "model"
     },
     {
       "author": "Qwen",
       "id": "Qwen/Qwen-Image",
-      "downloads": 196978,
+      "downloads": 191939,
       "likes": 2569,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-08-18T02:42:19.000Z",
@@ -155,29 +135,39 @@
       "repoType": "model"
     },
     {
-      "author": "AliveAi",
-      "id": "AliveAi/Krea-2-Edit-Outfit-Transfer",
-      "downloads": 6979,
-      "likes": 63,
+      "author": "nvidia",
+      "id": "nvidia/Qwen-Image-Flash",
+      "downloads": 907,
+      "likes": 84,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-20T14:09:17.000Z",
-      "numParameters": null,
+      "lastModified": "2026-08-04T20:34:02.000Z",
+      "numParameters": 20430401088,
       "repoType": "model"
     },
     {
-      "author": "stable-diffusion-v1-5",
-      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
-      "downloads": 1544868,
-      "likes": 1228,
+      "author": "realrebelai",
+      "id": "realrebelai/Kreamagine_v1.0",
+      "downloads": 513,
+      "likes": 14,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2024-09-07T16:20:30.000Z",
-      "numParameters": 859520964,
+      "lastModified": "2026-08-05T03:32:41.000Z",
+      "numParameters": 12820073036,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen-Image-2512",
+      "downloads": 72396,
+      "likes": 923,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-12-31T09:47:56.000Z",
+      "numParameters": 20430401088,
       "repoType": "model"
     },
     {
       "author": "RudySen",
       "id": "RudySen/Krea2-realism-V2",
-      "downloads": 24818,
+      "downloads": 24874,
       "likes": 128,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-07-02T19:00:16.000Z",
@@ -185,13 +175,73 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen-Image-2512",
-      "downloads": 72140,
-      "likes": 922,
+      "author": "ideogram-ai",
+      "id": "ideogram-ai/ideogram-4-nf4",
+      "downloads": 45445,
+      "likes": 454,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2025-12-31T09:47:56.000Z",
-      "numParameters": 20430401088,
+      "lastModified": "2026-06-04T18:59:26.000Z",
+      "numParameters": 4785311179,
+      "repoType": "model"
+    },
+    {
+      "author": "gokaygokay",
+      "id": "gokaygokay/Krea-2-Realism-LoRA",
+      "downloads": 16946,
+      "likes": 75,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-31T23:14:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ifmylove2011",
+      "id": "ifmylove2011/girlslike-krea2",
+      "downloads": 4556,
+      "likes": 24,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-08-06T14:14:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AliveAi",
+      "id": "AliveAi/Krea-2-Edit-Outfit-Transfer",
+      "downloads": 7019,
+      "likes": 63,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-20T14:09:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mage-flow-community",
+      "id": "mage-flow-community/Mage-Flow",
+      "downloads": 143,
+      "likes": 10,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-22T07:07:55.000Z",
+      "numParameters": 4115745408,
+      "repoType": "model"
+    },
+    {
+      "author": "FINAL-Bench",
+      "id": "FINAL-Bench/POCKET-Image-Zimage",
+      "downloads": 132,
+      "likes": 34,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-07-28T00:59:51.000Z",
+      "numParameters": 3174629239,
+      "repoType": "model"
+    },
+    {
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "downloads": 1513614,
+      "likes": 1229,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-09-07T16:20:30.000Z",
+      "numParameters": 859520964,
       "repoType": "model"
     },
     {
@@ -205,89 +255,19 @@
       "repoType": "model"
     },
     {
-      "author": "gokaygokay",
-      "id": "gokaygokay/Krea-2-Realism-LoRA",
-      "downloads": 17231,
-      "likes": 75,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-31T23:14:34.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "ifmylove2011",
-      "id": "ifmylove2011/girlslike-krea2",
-      "downloads": 4443,
-      "likes": 24,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-08-06T14:14:39.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "mage-flow-community",
-      "id": "mage-flow-community/Mage-Flow",
-      "downloads": 139,
-      "likes": 10,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-22T07:07:55.000Z",
-      "numParameters": 4115745408,
-      "repoType": "model"
-    },
-    {
-      "author": "FINAL-Bench",
-      "id": "FINAL-Bench/POCKET-Image-Zimage",
-      "downloads": 130,
-      "likes": 34,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-28T00:59:51.000Z",
-      "numParameters": 3174629239,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/Cosmos3-Super-Text2Image",
-      "downloads": 2782,
-      "likes": 180,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-31T15:17:04.000Z",
-      "numParameters": 64593861104,
-      "repoType": "model"
-    },
-    {
-      "author": "ideogram-ai",
-      "id": "ideogram-ai/ideogram-4-nf4",
-      "downloads": 45471,
-      "likes": 453,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-06-04T18:59:26.000Z",
-      "numParameters": 4785311179,
-      "repoType": "model"
-    },
-    {
       "author": "vantagewithai",
       "id": "vantagewithai/Krea-2-Turbo-GGUF",
-      "downloads": 61187,
-      "likes": 122,
+      "downloads": 51468,
+      "likes": 123,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-06-23T19:11:48.000Z",
       "numParameters": 12895570508,
       "repoType": "model"
     },
     {
-      "author": "pmczip",
-      "id": "pmczip/Krea2Raw_Loras",
-      "downloads": 12731,
-      "likes": 46,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-07-23T23:07:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "wikeeyang",
       "id": "wikeeyang/Krea2-Turbo-HD-V1",
-      "downloads": 43303,
+      "downloads": 42863,
       "likes": 85,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-07-13T11:30:19.000Z",
@@ -297,13 +277,33 @@
     {
       "author": "ostris",
       "id": "ostris/krea2_turbo_style_reference",
-      "downloads": 7180,
-      "likes": 103,
+      "downloads": 7237,
+      "likes": 104,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-07-08T22:54:16.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Krea-2-Turbo",
+      "downloads": 14,
+      "likes": 6,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-08-05T14:44:08.000Z",
+      "numParameters": 12820073036,
+      "repoType": "model"
+    },
+    {
+      "author": "nphSi",
+      "id": "nphSi/Z-Image-Lora",
+      "downloads": 194301,
+      "likes": 138,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-08-02T16:50:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:59.876Z"
+  "fetchedAt": "2026-08-07T20:27:41.187Z"
 }

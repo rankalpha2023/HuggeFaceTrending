@@ -1,14 +1,14 @@
 {
   "category": "image-feature-extraction",
   "sort": "trending",
-  "totalItems": 1396,
+  "totalItems": 1400,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-pretrain-lvd1689m",
-      "downloads": 728462,
-      "likes": 482,
+      "downloads": 712920,
+      "likes": 484,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:52.000Z",
       "numParameters": 303129600,
@@ -17,7 +17,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vits16-pretrain-lvd1689m",
-      "downloads": 355755,
+      "downloads": 350568,
       "likes": 150,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:01:01.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "AI4Industry",
       "id": "AI4Industry/MoonViT-V2",
-      "downloads": 135,
+      "downloads": 149,
       "likes": 5,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-08-01T09:36:30.000Z",
@@ -35,9 +35,19 @@
       "repoType": "model"
     },
     {
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/UNI",
+      "downloads": 128812,
+      "likes": 337,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-03-06T22:57:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "paige-ai",
       "id": "paige-ai/Virchow2",
-      "downloads": 64217,
+      "downloads": 63548,
       "likes": 148,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-10-26T17:29:19.000Z",
@@ -45,19 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "MahmoodLab",
-      "id": "MahmoodLab/UNI",
-      "downloads": 122200,
-      "likes": 336,
-      "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2025-03-06T22:57:31.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/dinov3-convnext-tiny-pretrain-lvd1689m",
-      "downloads": 50257,
+      "downloads": 49820,
       "likes": 50,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:31.000Z",
@@ -65,29 +65,29 @@
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/Mage-ViT",
-      "downloads": 7172,
-      "likes": 28,
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/KRONOS2",
+      "downloads": 572,
+      "likes": 19,
       "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2026-07-27T14:06:52.000Z",
-      "numParameters": 315694080,
+      "lastModified": "2026-07-27T12:58:26.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "MahmoodLab",
-      "id": "MahmoodLab/CONCH",
-      "downloads": 132512,
-      "likes": 188,
+      "author": "skt",
+      "id": "skt/A.X-VE",
+      "downloads": 717,
+      "likes": 6,
       "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2024-05-05T06:05:43.000Z",
-      "numParameters": null,
+      "lastModified": "2026-07-28T23:43:34.000Z",
+      "numParameters": 413018352,
       "repoType": "model"
     },
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-vision-v1.5",
-      "downloads": 238550,
+      "downloads": 194042,
       "likes": 223,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-03-31T17:40:39.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "moonshotai",
       "id": "moonshotai/MoonViT-SO-400M",
-      "downloads": 2735,
+      "downloads": 2726,
       "likes": 92,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-04-17T12:56:48.000Z",
@@ -107,21 +107,11 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitb16-pretrain-lvd1689m",
-      "downloads": 722102,
+      "downloads": 712235,
       "likes": 206,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:44.000Z",
       "numParameters": 85660416,
-      "repoType": "model"
-    },
-    {
-      "author": "mlinslab",
-      "id": "mlinslab/neurovfm-encoder",
-      "downloads": 1053,
-      "likes": 11,
-      "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2026-07-10T14:35:55.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -135,19 +125,19 @@
       "repoType": "model"
     },
     {
-      "author": "skt",
-      "id": "skt/A.X-VE",
-      "downloads": 717,
-      "likes": 4,
+      "author": "microsoft",
+      "id": "microsoft/Mage-ViT",
+      "downloads": 7334,
+      "likes": 28,
       "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2026-07-28T23:43:34.000Z",
-      "numParameters": 413018352,
+      "lastModified": "2026-07-27T14:06:52.000Z",
+      "numParameters": 315694080,
       "repoType": "model"
     },
     {
       "author": "google",
       "id": "google/vit-base-patch16-224-in21k",
-      "downloads": 913768,
+      "downloads": 899596,
       "likes": 416,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-02-05T16:37:39.000Z",
@@ -157,7 +147,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov2-large",
-      "downloads": 859428,
+      "downloads": 854491,
       "likes": 116,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2023-09-06T11:23:50.000Z",
@@ -166,8 +156,18 @@
     },
     {
       "author": "MahmoodLab",
+      "id": "MahmoodLab/CONCH",
+      "downloads": 136851,
+      "likes": 188,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-05-05T06:05:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoodLab",
       "id": "MahmoodLab/TITAN",
-      "downloads": 88417,
+      "downloads": 87967,
       "likes": 97,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-11-11T12:45:40.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "bioptimus",
       "id": "bioptimus/H-optimus-1",
-      "downloads": 38811,
+      "downloads": 38845,
       "likes": 57,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-06-11T09:00:50.000Z",
@@ -197,10 +197,20 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vit7b16-pretrain-lvd1689m",
-      "downloads": 15816,
+      "downloads": 16295,
       "likes": 242,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:35.000Z",
+      "numParameters": 6716035072,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/dinov3-vit7b16-pretrain-sat493m",
+      "downloads": 362,
+      "likes": 45,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-19T09:00:39.000Z",
       "numParameters": 6716035072,
       "repoType": "model"
     },
@@ -217,7 +227,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/dinov3-vitl16-pretrain-lvd1689m-ONNX",
-      "downloads": 116,
+      "downloads": 117,
       "likes": 3,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-15T02:27:53.000Z",
@@ -235,13 +245,13 @@
       "repoType": "model"
     },
     {
-      "author": "IrohXu",
-      "id": "IrohXu/GazeAnywhere",
-      "downloads": 89,
-      "likes": 1,
+      "author": "mlinslab",
+      "id": "mlinslab/neurovfm-encoder",
+      "downloads": 1066,
+      "likes": 11,
       "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2026-06-17T03:10:57.000Z",
-      "numParameters": 889371926,
+      "lastModified": "2026-07-10T14:35:55.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -255,19 +265,9 @@
       "repoType": "model"
     },
     {
-      "author": "MahmoodLab",
-      "id": "MahmoodLab/KRONOS2",
-      "downloads": 509,
-      "likes": 17,
-      "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2026-07-27T12:58:26.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/sapiens2-pretrain-0.1b",
-      "downloads": 436,
+      "downloads": 426,
       "likes": 9,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-06-15T14:47:55.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "NYUMedML",
       "id": "NYUMedML/Neuro-JEPA",
-      "downloads": 881,
+      "downloads": 832,
       "likes": 11,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-06-17T20:10:41.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:07.408Z"
+  "fetchedAt": "2026-08-07T20:26:48.715Z"
 }

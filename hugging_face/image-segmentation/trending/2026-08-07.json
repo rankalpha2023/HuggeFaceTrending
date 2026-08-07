@@ -1,19 +1,9 @@
 {
   "category": "image-segmentation",
   "sort": "trending",
-  "totalItems": 3123,
+  "totalItems": 3127,
   "fetchedItems": 30,
   "models": [
-    {
-      "author": "Sparknight",
-      "id": "Sparknight/sam3.1-int8-int4-convrot",
-      "downloads": 0,
-      "likes": 4,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-07-31T12:15:53.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
     {
       "author": "dronefreak",
       "id": "dronefreak/vdd-yolo26n-sem",
@@ -22,16 +12,6 @@
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-02T09:18:31.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "ZhengPeng7",
-      "id": "ZhengPeng7/BiRefNet",
-      "downloads": 692376,
-      "likes": 619,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-02-04T22:43:55.000Z",
-      "numParameters": 220700242,
       "repoType": "model"
     },
     {
@@ -67,7 +47,7 @@
     {
       "author": "dronefreak",
       "id": "dronefreak/aeroscapes-yolo26s-sem",
-      "downloads": 21,
+      "downloads": 22,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-03T08:00:50.000Z",
@@ -75,10 +55,40 @@
       "repoType": "model"
     },
     {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 304947,
+      "likes": 2012,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 687735,
+      "likes": 619,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:55.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 655461,
+      "likes": 1353,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 31248,
-      "likes": 102,
+      "downloads": 29739,
+      "likes": 103,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-08T12:32:42.000Z",
       "numParameters": null,
@@ -87,7 +97,7 @@
     {
       "author": "PAIR",
       "id": "PAIR/FlowDIS",
-      "downloads": 64,
+      "downloads": 62,
       "likes": 9,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-21T16:13:30.000Z",
@@ -101,6 +111,16 @@
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-18T10:34:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Sparknight",
+      "id": "Sparknight/sam3.1-int8-int4-convrot",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-07-31T12:15:53.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -137,7 +157,7 @@
     {
       "author": "dronefreak",
       "id": "dronefreak/aeroscapes-yolo26x-sem",
-      "downloads": 18,
+      "downloads": 19,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-03T07:56:31.000Z",
@@ -147,7 +167,7 @@
     {
       "author": "facebook",
       "id": "facebook/detr-resnet-50-panoptic",
-      "downloads": 18286,
+      "downloads": 18419,
       "likes": 141,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-04-10T14:14:21.000Z",
@@ -157,7 +177,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/segformer-b0-finetuned-ade-512-512",
-      "downloads": 356785,
+      "downloads": 349179,
       "likes": 195,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-01-14T10:46:46.000Z",
@@ -167,7 +187,7 @@
     {
       "author": "jonathandinu",
       "id": "jonathandinu/face-parsing",
-      "downloads": 173626,
+      "downloads": 170295,
       "likes": 226,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-18T22:38:54.000Z",
@@ -177,7 +197,7 @@
     {
       "author": "facebook",
       "id": "facebook/mask2former-swin-tiny-coco-panoptic",
-      "downloads": 9983,
+      "downloads": 9471,
       "likes": 11,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-11T20:23:58.000Z",
@@ -187,7 +207,7 @@
     {
       "author": "facebook",
       "id": "facebook/mask2former-swin-large-ade-semantic",
-      "downloads": 598110,
+      "downloads": 574921,
       "likes": 23,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-11T20:35:29.000Z",
@@ -195,39 +215,19 @@
       "repoType": "model"
     },
     {
-      "author": "briaai",
-      "id": "briaai/RMBG-1.4",
-      "downloads": 309769,
-      "likes": 2011,
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-tiny-cityscapes-semantic",
+      "downloads": 10968,
+      "likes": 4,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-07-06T08:27:49.000Z",
-      "numParameters": 44075590,
-      "repoType": "model"
-    },
-    {
-      "author": "sayeed99",
-      "id": "sayeed99/segformer-b2-fashion",
-      "downloads": 128,
-      "likes": 16,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2024-04-16T10:57:48.000Z",
-      "numParameters": 27384303,
-      "repoType": "model"
-    },
-    {
-      "author": "ZhengPeng7",
-      "id": "ZhengPeng7/BiRefNet_lite",
-      "downloads": 17947,
-      "likes": 18,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-02-04T22:43:46.000Z",
-      "numParameters": 44362660,
+      "lastModified": "2023-09-11T20:24:10.000Z",
+      "numParameters": 47434798,
       "repoType": "model"
     },
     {
       "author": "onnx-community",
       "id": "onnx-community/BiRefNet-ONNX",
-      "downloads": 798,
+      "downloads": 795,
       "likes": 19,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-03-07T11:29:49.000Z",
@@ -235,39 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "briaai",
-      "id": "briaai/RMBG-2.0",
-      "downloads": 671155,
-      "likes": 1351,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-04-06T15:27:43.000Z",
-      "numParameters": 220700242,
-      "repoType": "model"
-    },
-    {
-      "author": "Patnev71",
-      "id": "Patnev71/segformer-b0-finetuned-floorplan",
-      "downloads": 78,
-      "likes": 3,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-01-08T17:39:23.000Z",
-      "numParameters": 3715170,
-      "repoType": "model"
-    },
-    {
-      "author": "onnx-community",
-      "id": "onnx-community/BEN2-ONNX",
-      "downloads": 5201,
-      "likes": 22,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-03-03T01:30:06.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "VincentGOURBIN",
       "id": "VincentGOURBIN/RMBG-2-CoreML",
-      "downloads": 80,
+      "downloads": 86,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-05T06:11:58.000Z",
@@ -277,7 +247,7 @@
     {
       "author": "xuanwulab",
       "id": "xuanwulab/HaS_Image_0209_FP32",
-      "downloads": 60,
+      "downloads": 61,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-03-03T08:11:20.000Z",
@@ -295,15 +265,45 @@
       "repoType": "model"
     },
     {
+      "author": "Amazon-FAR",
+      "id": "Amazon-FAR/seg-head-cityscapes",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-18T02:10:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "pirocheto",
       "id": "pirocheto/schp-lip-20",
-      "downloads": 759,
+      "downloads": 762,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-06T23:43:00.000Z",
       "numParameters": 66838456,
       "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/MASS",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-17T05:53:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ishaan1402",
+      "id": "ishaan1402/crack-seg",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-08-05T04:53:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:50:10.344Z"
+  "fetchedAt": "2026-08-07T20:26:51.472Z"
 }

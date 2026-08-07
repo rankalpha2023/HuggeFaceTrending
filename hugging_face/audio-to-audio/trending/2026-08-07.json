@@ -1,7 +1,7 @@
 {
   "category": "audio-to-audio",
   "sort": "trending",
-  "totalItems": 1345,
+  "totalItems": 1347,
   "fetchedItems": 30,
   "models": [
     {
@@ -17,8 +17,8 @@
     {
       "author": "nvidia",
       "id": "nvidia/personaplex-7b-v1",
-      "downloads": 202887,
-      "likes": 2649,
+      "downloads": 200918,
+      "likes": 2651,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-02T18:03:29.000Z",
       "numParameters": 8371408896,
@@ -27,8 +27,8 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Audio-1.5B",
-      "downloads": 1042,
-      "likes": 449,
+      "downloads": 1025,
+      "likes": 450,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-30T14:43:52.000Z",
       "numParameters": 1470308496,
@@ -37,7 +37,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Audio-1.5B-JP",
-      "downloads": 194,
+      "downloads": 196,
       "likes": 75,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-11T02:56:58.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF",
-      "downloads": 2057,
+      "downloads": 2063,
       "likes": 31,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-07T00:19:21.000Z",
@@ -58,7 +58,7 @@
       "author": "skt",
       "id": "skt/A.X-K2-ALM",
       "downloads": 0,
-      "likes": 22,
+      "likes": 24,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-30T13:18:29.000Z",
       "numParameters": null,
@@ -77,7 +77,7 @@
     {
       "author": "Xiaobin-Rong",
       "id": "Xiaobin-Rong/unipase",
-      "downloads": 740,
+      "downloads": 758,
       "likes": 5,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-20T11:02:25.000Z",
@@ -85,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "Plachta",
+      "id": "Plachta/Seed-VC",
+      "downloads": 0,
+      "likes": 86,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-04-07T13:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2-Audio-1.5B",
-      "downloads": 260,
+      "downloads": 248,
       "likes": 361,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-27T16:11:29.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/RE-USE",
-      "downloads": 23076,
+      "downloads": 23051,
       "likes": 90,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-05-14T21:26:36.000Z",
@@ -107,7 +117,7 @@
     {
       "author": "kyutai",
       "id": "kyutai/personaplex-rl-seamless",
-      "downloads": 12392,
+      "downloads": 12568,
       "likes": 34,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-11T14:42:23.000Z",
@@ -115,13 +125,23 @@
       "repoType": "model"
     },
     {
-      "author": "Plachta",
-      "id": "Plachta/Seed-VC",
-      "downloads": 0,
-      "likes": 85,
+      "author": "aufklarer",
+      "id": "aufklarer/VoiceChat-11B-Perception-MLX-int5",
+      "downloads": 41,
+      "likes": 3,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2025-04-07T13:07:56.000Z",
+      "lastModified": "2026-08-07T09:27:06.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "scragnog",
+      "id": "scragnog/Ace-Step-1.5-ScragVAE",
+      "downloads": 2463,
+      "likes": 17,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-19T08:27:38.000Z",
+      "numParameters": 168695426,
       "repoType": "model"
     },
     {
@@ -135,12 +155,12 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/xm_transformer_600m-en_ar-multi_domain",
-      "downloads": 7,
-      "likes": 1,
+      "author": "Waterwzy",
+      "id": "Waterwzy/RVC-firefly-finetuning",
+      "downloads": 0,
+      "likes": 2,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2022-01-21T19:02:06.000Z",
+      "lastModified": "2026-08-05T13:26:41.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -187,7 +207,7 @@
     {
       "author": "cisco-ai",
       "id": "cisco-ai/pase",
-      "downloads": 66,
+      "downloads": 69,
       "likes": 9,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-14T13:20:27.000Z",
@@ -197,7 +217,7 @@
     {
       "author": "Ceva-IP",
       "id": "Ceva-IP/DPDFNet",
-      "downloads": 325,
+      "downloads": 318,
       "likes": 13,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-05T10:22:54.000Z",
@@ -205,19 +225,9 @@
       "repoType": "model"
     },
     {
-      "author": "mlx-community",
-      "id": "mlx-community/LFM2.5-Audio-1.5B-bf16",
-      "downloads": 171,
-      "likes": 14,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-01-15T23:08:18.000Z",
-      "numParameters": 1470308480,
-      "repoType": "model"
-    },
-    {
       "author": "Mungert",
       "id": "Mungert/LFM2.5-Audio-1.5B-GGUF",
-      "downloads": 584,
+      "downloads": 580,
       "likes": 4,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-02-17T18:55:50.000Z",
@@ -227,7 +237,7 @@
     {
       "author": "aufklarer",
       "id": "aufklarer/PersonaPlex-7B-MLX-4bit",
-      "downloads": 9619,
+      "downloads": 9603,
       "likes": 42,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-04-12T08:09:59.000Z",
@@ -237,7 +247,7 @@
     {
       "author": "aufklarer",
       "id": "aufklarer/PersonaPlex-7B-MLX-8bit",
-      "downloads": 494,
+      "downloads": 485,
       "likes": 13,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-04-12T08:10:01.000Z",
@@ -245,19 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "aufklarer",
-      "id": "aufklarer/DeepFilterNet3-CoreML",
-      "downloads": 6178,
-      "likes": 4,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-05-28T06:54:04.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "tencent",
       "id": "tencent/Covo-Audio-Chat",
-      "downloads": 1869,
+      "downloads": 1750,
       "likes": 101,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-16T09:59:16.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "kyutai",
       "id": "kyutai/moshika-rag-pytorch-bf16",
-      "downloads": 2101,
+      "downloads": 2000,
       "likes": 14,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-04-17T07:07:35.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "KRAFTON",
       "id": "KRAFTON/Raon-SpeechChat-9B",
-      "downloads": 901,
+      "downloads": 872,
       "likes": 45,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-07T04:48:01.000Z",
@@ -285,25 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "scragnog",
-      "id": "scragnog/Ace-Step-1.5-ScragVAE",
-      "downloads": 2481,
-      "likes": 16,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-04-19T08:27:38.000Z",
-      "numParameters": 168695426,
-      "repoType": "model"
-    },
-    {
       "author": "LocalAI-io",
       "id": "LocalAI-io/LocalVQE",
-      "downloads": 6023,
+      "downloads": 5593,
       "likes": 64,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-22T17:49:18.000Z",
       "numParameters": 577975,
       "repoType": "model"
+    },
+    {
+      "author": "scragnog",
+      "id": "scragnog/HOT-Step-CPP-PP-VAE",
+      "downloads": 397,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-03T08:13:07.000Z",
+      "numParameters": 168695426,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-07T00:49:49.925Z"
+  "fetchedAt": "2026-08-07T20:26:31.466Z"
 }
