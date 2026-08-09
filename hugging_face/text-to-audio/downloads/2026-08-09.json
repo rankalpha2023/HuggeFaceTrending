@@ -1,0 +1,309 @@
+{
+  "category": "text-to-audio",
+  "sort": "downloads",
+  "totalItems": 3287,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "facebook",
+      "id": "facebook/musicgen-medium",
+      "downloads": 1850282,
+      "likes": 164,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-11-17T15:25:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/musicgen-small",
+      "downloads": 397221,
+      "likes": 504,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-11-17T13:56:10.000Z",
+      "numParameters": 591087174,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/musicgen-large",
+      "downloads": 87607,
+      "likes": 536,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-11-17T15:25:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/Ace-Step1.5",
+      "downloads": 54709,
+      "likes": 820,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-03T11:37:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-3-medium",
+      "downloads": 33151,
+      "likes": 259,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-06-16T21:34:14.000Z",
+      "numParameters": 2305495793,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-open-1.0",
+      "downloads": 18414,
+      "likes": 1556,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-06-19T21:53:23.000Z",
+      "numParameters": 1213448210,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/musicgen-melody",
+      "downloads": 16007,
+      "likes": 255,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2024-04-24T12:27:39.000Z",
+      "numParameters": 1557389894,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-3-small-sfx",
+      "downloads": 15055,
+      "likes": 75,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-05-19T20:02:45.000Z",
+      "numParameters": 567573761,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-3-small-music",
+      "downloads": 12236,
+      "likes": 107,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-05-19T20:02:42.000Z",
+      "numParameters": 567573761,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-3-medium-base",
+      "downloads": 10542,
+      "likes": 24,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-07-13T05:02:33.000Z",
+      "numParameters": 2305495793,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-5Hz-lm-4B",
+      "downloads": 9744,
+      "likes": 53,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-03T06:30:44.000Z",
+      "numParameters": 4189554176,
+      "repoType": "model"
+    },
+    {
+      "author": "mingyi456",
+      "id": "mingyi456/Ace-Step1.5-XL-DF11-ComfyUI",
+      "downloads": 9715,
+      "likes": 6,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-05-16T08:39:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pother",
+      "id": "pother/mms-tts-finetune-tha",
+      "downloads": 7811,
+      "likes": 1,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2024-08-11T15:03:58.000Z",
+      "numParameters": 39643696,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/fastspeech2_conformer",
+      "downloads": 7483,
+      "likes": 7,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-10-06T15:06:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-5Hz-lm-0.6B",
+      "downloads": 6981,
+      "likes": 18,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-03T06:30:22.000Z",
+      "numParameters": 662884352,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/fastspeech2_conformer_with_hifigan",
+      "downloads": 6790,
+      "likes": 1,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-10-05T21:36:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/magenta-realtime-2",
+      "downloads": 5933,
+      "likes": 239,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-06-04T22:29:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-v15-xl-sft",
+      "downloads": 5666,
+      "likes": 91,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-04-07T06:22:59.000Z",
+      "numParameters": 4987310726,
+      "repoType": "model"
+    },
+    {
+      "author": "eustlb",
+      "id": "eustlb/higgs-audio-v2-generation-3B-base",
+      "downloads": 5414,
+      "likes": 1,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-27T13:43:46.000Z",
+      "numParameters": 5771283456,
+      "repoType": "model"
+    },
+    {
+      "author": "declare-lab",
+      "id": "declare-lab/mustango",
+      "downloads": 5146,
+      "likes": 41,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2023-12-17T00:41:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-audio-3-optimized",
+      "downloads": 4760,
+      "likes": 30,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-08-02T10:41:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-captioner",
+      "downloads": 4036,
+      "likes": 65,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-03T06:33:55.000Z",
+      "numParameters": 10732225408,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-v15-xl-turbo",
+      "downloads": 3762,
+      "likes": 199,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-04-07T12:39:26.000Z",
+      "numParameters": 4987310726,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/musicgen-small",
+      "downloads": 3369,
+      "likes": 51,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-08-18T17:06:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "calcuis",
+      "id": "calcuis/ace-gguf",
+      "downloads": 3317,
+      "likes": 31,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-07-14T09:17:22.000Z",
+      "numParameters": 3305659264,
+      "repoType": "model"
+    },
+    {
+      "author": "ilintar",
+      "id": "ilintar/thinksound-gguf",
+      "downloads": 3289,
+      "likes": 1,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-06-28T15:50:56.000Z",
+      "numParameters": 0,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+      "downloads": 2460,
+      "likes": 31,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-08-02T08:27:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/musicgen-stereo-large",
+      "downloads": 2451,
+      "likes": 99,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2024-03-06T14:53:14.000Z",
+      "numParameters": 3463332422,
+      "repoType": "model"
+    },
+    {
+      "author": "HeartMuLa",
+      "id": "HeartMuLa/HeartMuLa-oss-3B-happy-new-year",
+      "downloads": 2376,
+      "likes": 51,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-02-13T08:22:49.000Z",
+      "numParameters": 3938113536,
+      "repoType": "model"
+    },
+    {
+      "author": "ylacombe",
+      "id": "ylacombe/musicgen-melody",
+      "downloads": 2329,
+      "likes": 2,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2024-02-06T12:41:49.000Z",
+      "numParameters": 1557389894,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-09T20:18:38.817Z"
+}
