@@ -1,0 +1,309 @@
+{
+  "category": "zero-shot-image-classification",
+  "sort": "trending",
+  "totalItems": 2076,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "srpone",
+      "id": "srpone/zooclaw-fashionsiglip2",
+      "downloads": 4687,
+      "likes": 14,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2026-07-08T09:58:23.000Z",
+      "numParameters": 375479810,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/clip-vit-base-patch32",
+      "downloads": 20075747,
+      "likes": 995,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2024-02-29T09:45:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/clip-vit-large-patch14",
+      "downloads": 7109011,
+      "likes": 2067,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2023-09-15T15:49:35.000Z",
+      "numParameters": 427616846,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/CLIP-ViT-H-14-laion2B-s32B-b79K",
+      "downloads": 381683,
+      "likes": 468,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-01-22T04:38:44.000Z",
+      "numParameters": 986109774,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/CLIP-ViT-bigG-14-laion2B-39B-b160k",
+      "downloads": 69584,
+      "likes": 316,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-01-22T04:37:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/CLIP-ViT-g-14-laion2B-s34B-b88K",
+      "downloads": 9632,
+      "likes": 28,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-01-22T04:38:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224",
+      "downloads": 709089,
+      "likes": 420,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-01-14T18:29:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/ViT-B-16-SigLIP",
+      "downloads": 134535,
+      "likes": 40,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2023-10-25T21:58:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "q-future",
+      "id": "q-future/one-align",
+      "downloads": 209317,
+      "likes": 46,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2024-05-14T14:51:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/siglip2-base-patch16-224",
+      "downloads": 916801,
+      "likes": 124,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:03:35.000Z",
+      "numParameters": 375187970,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/siglip2-base-patch16-384",
+      "downloads": 72891,
+      "likes": 15,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:03:39.000Z",
+      "numParameters": 375479810,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/siglip2-so400m-patch14-384",
+      "downloads": 818145,
+      "likes": 97,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:03:58.000Z",
+      "numParameters": 1136008498,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/siglip2-base-patch16-naflex",
+      "downloads": 1600067,
+      "likes": 38,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-02-21T04:04:09.000Z",
+      "numParameters": 375234050,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/PE-Core-L14-336",
+      "downloads": 296712,
+      "likes": 55,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-04-30T17:01:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/PE-Core-B16-224",
+      "downloads": 14069,
+      "likes": 14,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-04-30T18:23:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "qihoo360",
+      "id": "qihoo360/fg-clip-large",
+      "downloads": 659,
+      "likes": 15,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-10-09T07:51:45.000Z",
+      "numParameters": 428914944,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/medsiglip-448",
+      "downloads": 17311,
+      "likes": 167,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-07-10T01:05:26.000Z",
+      "numParameters": 878300338,
+      "repoType": "model"
+    },
+    {
+      "author": "qihoo360",
+      "id": "qihoo360/fg-clip2-large",
+      "downloads": 912,
+      "likes": 13,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2025-10-20T02:40:56.000Z",
+      "numParameters": 896622594,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tipsv2-g14",
+      "downloads": 1388,
+      "likes": 26,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2026-07-28T03:38:30.000Z",
+      "numParameters": 1525085696,
+      "repoType": "model"
+    },
+    {
+      "author": "dbrains",
+      "id": "dbrains/SigLIP2-So400m-Patch16-NaFlex-GGUF",
+      "downloads": 26,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2026-05-09T19:11:44.000Z",
+      "numParameters": 1135670962,
+      "repoType": "model"
+    },
+    {
+      "author": "99eren99",
+      "id": "99eren99/one-align",
+      "downloads": 11,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2026-08-05T12:03:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FinDIT-Studio",
+      "id": "FinDIT-Studio/siglip2-naflex-coreml",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2026-07-24T13:57:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SaulLu",
+      "id": "SaulLu/clip-vit-base-patch32",
+      "downloads": 10,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2022-01-07T17:53:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "arampacha",
+      "id": "arampacha/clip-rsicd-v5",
+      "downloads": 57,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2021-07-17T09:59:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flax-community",
+      "id": "flax-community/clip-rsicd-v2",
+      "downloads": 224,
+      "likes": 26,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2022-04-24T21:03:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flax-community",
+      "id": "flax-community/clip-rsicd-v3",
+      "downloads": 8,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2021-07-17T08:36:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flax-community",
+      "id": "flax-community/clip-rsicd-v4",
+      "downloads": 14,
+      "likes": 2,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2021-07-17T08:56:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flax-community",
+      "id": "flax-community/clip-rsicd",
+      "downloads": 31,
+      "likes": 5,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2022-04-24T21:02:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hdo03",
+      "id": "hdo03/clip-finetune",
+      "downloads": 12,
+      "likes": 1,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2021-10-30T22:31:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nostalgebraist",
+      "id": "nostalgebraist/clip-tumblr-vae",
+      "downloads": 4,
+      "likes": 0,
+      "pipeline_tag": "zero-shot-image-classification",
+      "lastModified": "2021-08-12T21:51:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-10T20:30:47.302Z"
+}
