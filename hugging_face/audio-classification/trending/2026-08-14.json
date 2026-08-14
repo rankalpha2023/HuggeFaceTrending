@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 4635,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/lang-id-voxlingua107-ecapa",
+      "downloads": 127352,
+      "likes": 159,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-27T20:12:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/vocalburst-locator",
+      "downloads": 66,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-02T08:10:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-fused",
+      "downloads": 7263010,
+      "likes": 125,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-12T00:41:49.000Z",
+      "numParameters": 153558316,
+      "repoType": "model"
+    },
+    {
+      "author": "ehcalabres",
+      "id": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition",
+      "downloads": 11652,
+      "likes": 251,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-10-24T13:29:57.000Z",
+      "numParameters": 316496520,
+      "repoType": "model"
+    },
+    {
+      "author": "superb",
+      "id": "superb/wav2vec2-base-superb-ks",
+      "downloads": 9983,
+      "likes": 19,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T16:03:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1317945,
+      "likes": 364,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "SpeechFlow",
+      "id": "SpeechFlow/spoken_language_identification",
+      "downloads": 31,
+      "likes": 11,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-03-24T09:33:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ml-for-speech",
+      "id": "ml-for-speech/language-classification",
+      "downloads": 12,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-04-20T18:24:06.000Z",
+      "numParameters": 20733485,
+      "repoType": "model"
+    },
+    {
+      "author": "mo-thecreator",
+      "id": "mo-thecreator/Deepfake-audio-detection",
+      "downloads": 7494,
+      "likes": 17,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-04-23T17:25:11.000Z",
+      "numParameters": 94569090,
+      "repoType": "model"
+    },
+    {
+      "author": "waiv",
+      "id": "waiv/FinVoc2Vec",
+      "downloads": 946,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-09-13T10:17:42.000Z",
+      "numParameters": 316491398,
+      "repoType": "model"
+    },
+    {
+      "author": "alkiskoudounas",
+      "id": "alkiskoudounas/voc2vec-hubert-ls-pt",
+      "downloads": 240,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-04-14T11:19:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TransWithAI",
+      "id": "TransWithAI/Whisper-Vad-EncDec-ASMR-onnx",
+      "downloads": 0,
+      "likes": 14,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-17T05:40:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/CamPlusPlus-Speaker-CoreML",
+      "downloads": 691,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-28T06:54:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mythicinfinity",
+      "id": "mythicinfinity/speech-truncation-detection-12M",
+      "downloads": 31,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-12T17:25:49.000Z",
+      "numParameters": 12953090,
+      "repoType": "model"
+    },
+    {
+      "author": "Alice-Sabrina-Ivy",
+      "id": "Alice-Sabrina-Ivy/voice-gender-classifier-onnx-q8",
+      "downloads": 93,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-06T04:49:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ASLP-lab",
+      "id": "ASLP-lab/FM-Speech",
+      "downloads": 80,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-16T06:03:24.000Z",
+      "numParameters": 35259818545,
+      "repoType": "model"
+    },
+    {
+      "author": "audarai",
+      "id": "audarai/Audar-Diarization-V1",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-15T09:24:15.000Z",
+      "numParameters": 117746976,
+      "repoType": "model"
+    },
+    {
+      "author": "ziyu12345",
+      "id": "ziyu12345/emotion2vec_plus_base_onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-24T08:41:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Mayank022",
+      "id": "Mayank022/voice-activity-detection-marblenet",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-25T03:56:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/vocal-burst-detector-v2",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-01T12:00:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WinFunction",
+      "id": "WinFunction/Tone-Detector-f1",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-11T22:21:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "surogate",
+      "id": "surogate/ambernet-langid",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-13T11:44:21.000Z",
+      "numParameters": 28993339,
+      "repoType": "model"
+    },
+    {
+      "author": "AkshaySg",
+      "id": "AkshaySg/langid",
+      "downloads": 21,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T12:38:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-greek-speech-emotion-recognition",
+      "downloads": 29,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-20T05:38:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bagus",
+      "id": "Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition",
+      "downloads": 1695,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-10-19T01:31:17.000Z",
+      "numParameters": 316492420,
+      "repoType": "model"
+    },
+    {
+      "author": "NhatPham",
+      "id": "NhatPham/wav2vec2-base-finetuned-ks",
+      "downloads": 10,
+      "likes": 0,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-01T04:32:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Rajaram1996",
+      "id": "Rajaram1996/Hubert_emotion",
+      "downloads": 117,
+      "likes": 33,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-11-19T20:10:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TalTechNLP",
+      "id": "TalTechNLP/voxlingua107-epaca-tdnn-ce",
+      "downloads": 18,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T13:37:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TalTechNLP",
+      "id": "TalTechNLP/voxlingua107-epaca-tdnn",
+      "downloads": 589,
+      "likes": 33,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-27T20:06:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "abdelhalim",
+      "id": "abdelhalim/Shower_Sound_Recognition",
+      "downloads": 14,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-03-03T22:09:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-14T20:19:23.578Z"
+}
