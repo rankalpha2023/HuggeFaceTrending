@@ -1,0 +1,309 @@
+{
+  "category": "image-text-to-text",
+  "sort": "trending",
+  "totalItems": 35377,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 91917,
+      "likes": 9703,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T15:00:01.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Glimmer-30B",
+      "downloads": 246454,
+      "likes": 1568,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-11T19:23:35.000Z",
+      "numParameters": 29776626688,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "downloads": 682188,
+      "likes": 432,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-10T17:24:23.000Z",
+      "numParameters": 27854794240,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B-FP8",
+      "downloads": 123157,
+      "likes": 412,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T14:44:41.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "moonshotai",
+      "id": "moonshotai/Kimi-K3",
+      "downloads": 2100680,
+      "likes": 10716,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-27T16:29:18.000Z",
+      "numParameters": 2779931837184,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "downloads": 321049,
+      "likes": 277,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-12T18:47:53.000Z",
+      "numParameters": 27854794240,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 2983500,
+      "likes": 2046,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-13T01:48:00.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "dots-studio",
+      "id": "dots-studio/dots3-note-prev",
+      "downloads": 240,
+      "likes": 159,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T08:00:55.000Z",
+      "numParameters": 288443400864,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-VL-3B",
+      "downloads": 4598,
+      "likes": 141,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-13T23:59:06.000Z",
+      "numParameters": 3123483888,
+      "repoType": "model"
+    },
+    {
+      "author": "orcarouter",
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "downloads": 0,
+      "likes": 112,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T11:19:13.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/North-Micro-Vision-Instruct",
+      "downloads": 6900,
+      "likes": 108,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T14:09:29.000Z",
+      "numParameters": 2484847856,
+      "repoType": "model"
+    },
+    {
+      "author": "endless-frontier",
+      "id": "endless-frontier/BigBang-v1",
+      "downloads": 15177,
+      "likes": 198,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-06T10:54:42.000Z",
+      "numParameters": 35951822704,
+      "repoType": "model"
+    },
+    {
+      "author": "ethanfel",
+      "id": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "downloads": 0,
+      "likes": 494,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-05T15:28:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 2472324,
+      "likes": 3441,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-17T02:59:21.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "baidu",
+      "id": "baidu/Unlimited-OCR",
+      "downloads": 3048228,
+      "likes": 4054,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-29T04:34:16.000Z",
+      "numParameters": 3336106240,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "downloads": 353725,
+      "likes": 639,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T00:21:01.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "downloads": 639475,
+      "likes": 390,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-13T07:35:31.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "peculiar-ragdoll",
+      "id": "peculiar-ragdoll/Nail-Qwen3.6-35B-A3B-GGUF",
+      "downloads": 11760,
+      "likes": 66,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T09:39:42.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-27B",
+      "downloads": 7050183,
+      "likes": 2264,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:39:16.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Glimmer-30B-assistant",
+      "downloads": 42047,
+      "likes": 56,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-11T00:04:51.000Z",
+      "numParameters": 2555985152,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-31B-it",
+      "downloads": 9965914,
+      "likes": 3568,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-20T16:42:18.000Z",
+      "numParameters": 31273088876,
+      "repoType": "model"
+    },
+    {
+      "author": "bartowski",
+      "id": "bartowski/Qwen3.8-27B-GGUF",
+      "downloads": 21238,
+      "likes": 52,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T16:49:01.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "Blackfrost-AI",
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "downloads": 3250,
+      "likes": 51,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T03:59:25.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "trohrbaugh",
+      "id": "trohrbaugh/Qwen3.8-27B-heretic-ara",
+      "downloads": 841,
+      "likes": 45,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T18:28:00.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "bottlecapai",
+      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "downloads": 32550,
+      "likes": 658,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-12T11:01:18.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "LuffyTheFox",
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "downloads": 740390,
+      "likes": 494,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T18:11:12.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "downloads": 5873711,
+      "likes": 2691,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:53:42.000Z",
+      "numParameters": 35951822704,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.6-40B-Fable-Fusion-6-Core-Deckard-Eleanor-Heretic-Uncensored-NM-DAU-NEO-MAX-MTP-GGUF",
+      "downloads": 68638,
+      "likes": 42,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-11T04:19:37.000Z",
+      "numParameters": 39072596736,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1",
+      "downloads": 0,
+      "likes": 40,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-15T13:29:59.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-VL-3B-GGUF",
+      "downloads": 16485,
+      "likes": 38,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-12T13:26:27.000Z",
+      "numParameters": 2697198592,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-15T20:09:25.231Z"
+}
