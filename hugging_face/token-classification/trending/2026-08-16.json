@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 30064,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ForcedAligner-0.6B-hf",
+      "downloads": 143157,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-26T08:42:38.000Z",
+      "numParameters": 917728896,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 461458,
+      "likes": 1724,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
+      "downloads": 3787,
+      "likes": 36,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-28T14:00:37.000Z",
+      "numParameters": 354649154,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 8588,
+      "likes": 152,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-PII-SuperClinical-Large-434M-v1",
+      "downloads": 124987,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-13T20:03:20.000Z",
+      "numParameters": 434120810,
+      "repoType": "model"
+    },
+    {
+      "author": "yuyijiong",
+      "id": "yuyijiong/LFM2.5-Encoder-350M-corpus-cleaner",
+      "downloads": 37,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-15T14:41:26.000Z",
+      "numParameters": 354486020,
+      "repoType": "model"
+    },
+    {
+      "author": "BCCard",
+      "id": "BCCard/MoAI-Privacy-Filter",
+      "downloads": 12,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-13T13:11:31.000Z",
+      "numParameters": 1399512505,
+      "repoType": "model"
+    },
+    {
+      "author": "BCCard",
+      "id": "BCCard/MoAI-Privacy-Filter-INT8",
+      "downloads": 14,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-13T13:13:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 229627,
+      "likes": 170,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 118425,
+      "likes": 75,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-11T07:57:57.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 6016,
+      "likes": 161,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Meddies",
+      "id": "Meddies/meddies-pii-v2",
+      "downloads": 10,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-13T19:26:15.000Z",
+      "numParameters": 354521893,
+      "repoType": "model"
+    },
+    {
+      "author": "akdeniz27",
+      "id": "akdeniz27/modernbert-tr-base-ner",
+      "downloads": 35,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-11T09:33:13.000Z",
+      "numParameters": 149333767,
+      "repoType": "model"
+    },
+    {
+      "author": "akdeniz27",
+      "id": "akdeniz27/bert-base-turkish-cased-ner",
+      "downloads": 72280,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-18T09:42:03.000Z",
+      "numParameters": 110032647,
+      "repoType": "model"
+    },
+    {
+      "author": "classla",
+      "id": "classla/bcms-bertic-ner",
+      "downloads": 2499,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-06-23T06:30:26.000Z",
+      "numParameters": 110034185,
+      "repoType": "model"
+    },
+    {
+      "author": "monologg",
+      "id": "monologg/koelectra-base-v3-naver-ner",
+      "downloads": 2338,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2020-11-30T11:55:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/en_core_web_sm",
+      "downloads": 3854,
+      "likes": 64,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-21T08:10:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ckiplab",
+      "id": "ckiplab/bert-tiny-chinese-ner",
+      "downloads": 473,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-05-10T03:28:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 2220365,
+      "likes": 84,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_large-v2",
+      "downloads": 992,
+      "likes": 57,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-07-12T13:47:26.000Z",
+      "numParameters": 459495168,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 72927,
+      "likes": 172,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "iiiorg",
+      "id": "iiiorg/piiranha-v1-detect-personal-information",
+      "downloads": 168772,
+      "likes": 247,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-01T04:01:28.000Z",
+      "numParameters": 278232594,
+      "repoType": "model"
+    },
+    {
+      "author": "CAMeL-Lab",
+      "id": "CAMeL-Lab/camelbert-msa-zaebuc-ged-43",
+      "downloads": 10,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-10T09:16:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+      "downloads": 256382,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:31:25.000Z",
+      "numParameters": 434015235,
+      "repoType": "model"
+    },
+    {
+      "author": "ayanami-kitasan",
+      "id": "ayanami-kitasan/code-pruner",
+      "downloads": 172,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-27T07:07:06.000Z",
+      "numParameters": 634337034,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/IndicBERT-v3-4B",
+      "downloads": 15,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-12T15:01:40.000Z",
+      "numParameters": 3880263168,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-relex-large-v1.0",
+      "downloads": 548,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-22T10:23:25.000Z",
+      "numParameters": 466576896,
+      "repoType": "model"
+    },
+    {
+      "author": "radlab",
+      "id": "radlab/pii-pl-v1.0",
+      "downloads": 157,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T17:08:11.000Z",
+      "numParameters": 441849865,
+      "repoType": "model"
+    },
+    {
+      "author": "KRLabsOrg",
+      "id": "KRLabsOrg/verbatim-rag-modern-bert-v2",
+      "downloads": 1299,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-02T13:23:11.000Z",
+      "numParameters": 149606402,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/GLiNER2-Guardrails-PII-Multi",
+      "downloads": 5243,
+      "likes": 32,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-11T07:57:47.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-16T20:09:33.449Z"
+}
