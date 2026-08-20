@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 30141,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ForcedAligner-0.6B-hf",
+      "downloads": 146234,
+      "likes": 32,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-26T08:42:38.000Z",
+      "numParameters": 917728896,
+      "repoType": "model"
+    },
+    {
+      "author": "yuyijiong",
+      "id": "yuyijiong/LFM2.5-Encoder-350M-corpus-cleaner",
+      "downloads": 66,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-18T11:38:10.000Z",
+      "numParameters": 354486020,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 456933,
+      "likes": 1727,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
+      "downloads": 4709,
+      "likes": 37,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-28T14:00:37.000Z",
+      "numParameters": 354649154,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-PII-SuperClinical-Large-434M-v1",
+      "downloads": 123281,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-13T20:03:20.000Z",
+      "numParameters": 434120810,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 122051,
+      "likes": 76,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-11T07:57:57.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "Meddies",
+      "id": "Meddies/meddies-pii-v2",
+      "downloads": 834,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-13T19:26:15.000Z",
+      "numParameters": 354521893,
+      "repoType": "model"
+    },
+    {
+      "author": "BCCard",
+      "id": "BCCard/MoAI-Privacy-Filter",
+      "downloads": 23,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-18T04:41:27.000Z",
+      "numParameters": 1399512505,
+      "repoType": "model"
+    },
+    {
+      "author": "BCCard",
+      "id": "BCCard/MoAI-Privacy-Filter-INT8",
+      "downloads": 29,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-18T04:51:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "akdeniz27",
+      "id": "akdeniz27/bert-base-turkish-cased-ner",
+      "downloads": 71204,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-06-18T09:42:03.000Z",
+      "numParameters": 110032647,
+      "repoType": "model"
+    },
+    {
+      "author": "classla",
+      "id": "classla/bcms-bertic-ner",
+      "downloads": 2238,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-06-23T06:30:26.000Z",
+      "numParameters": 110034185,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/bert-spanish-cased-finetuned-ner",
+      "downloads": 23917,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-05-20T00:35:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "savasy",
+      "id": "savasy/bert-base-turkish-ner-cased",
+      "downloads": 11038,
+      "likes": 21,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-01T09:21:04.000Z",
+      "numParameters": 110622727,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+      "downloads": 258089,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:31:25.000Z",
+      "numParameters": 434015235,
+      "repoType": "model"
+    },
+    {
+      "author": "ayanami-kitasan",
+      "id": "ayanami-kitasan/code-pruner",
+      "downloads": 324,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-27T07:07:06.000Z",
+      "numParameters": 634337034,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/eu-pii-anonimization-multilang",
+      "downloads": 2863,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-13T13:03:09.000Z",
+      "numParameters": 277506117,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron",
+      "downloads": 171388,
+      "likes": 51,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T08:01:07.000Z",
+      "numParameters": 1399607373,
+      "repoType": "model"
+    },
+    {
+      "author": "KRLabsOrg",
+      "id": "KRLabsOrg/verbatim-rag-modern-bert-v2",
+      "downloads": 1362,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-02T13:23:11.000Z",
+      "numParameters": 149606402,
+      "repoType": "model"
+    },
+    {
+      "author": "anx2026",
+      "id": "anx2026/zh-tw-pii-ner-spacy-trf",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-05T09:15:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/eu-pii-anonimization-multilang-v2-preview",
+      "downloads": 304,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-11T14:04:15.000Z",
+      "numParameters": 277508424,
+      "repoType": "model"
+    },
+    {
+      "author": "LocalAI-io",
+      "id": "LocalAI-io/privacy-filter-GGUF",
+      "downloads": 291,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-18T09:51:09.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "ytu-ce-cosmos",
+      "id": "ytu-ce-cosmos/modernbert-tr-pii-ner",
+      "downloads": 717,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-20T14:59:39.000Z",
+      "numParameters": 149367603,
+      "repoType": "model"
+    },
+    {
+      "author": "ArkadiuszPawlak",
+      "id": "ArkadiuszPawlak/fastpdn-ner-polish-pii",
+      "downloads": 88,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-18T17:16:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KRLabsOrg",
+      "id": "KRLabsOrg/lettucedect-v2-mmbert-base",
+      "downloads": 2392,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-13T13:40:32.000Z",
+      "numParameters": 307531778,
+      "repoType": "model"
+    },
+    {
+      "author": "Reza2kn",
+      "id": "Reza2kn/ShenavaSanj-v1.0",
+      "downloads": 45,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-03T22:35:19.000Z",
+      "numParameters": 162841344,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 6296,
+      "likes": 162,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-stream-pii-v1.0",
+      "downloads": 192,
+      "likes": 20,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-04T17:05:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Phazel",
+      "id": "Phazel/fa_dep_news_sm",
+      "downloads": 22,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-12T08:54:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PhysicsWallahAI",
+      "id": "PhysicsWallahAI/muril-hinglish-lid",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-09T12:24:37.000Z",
+      "numParameters": 236967170,
+      "repoType": "model"
+    },
+    {
+      "author": "Phazel",
+      "id": "Phazel/fa_ent_news_lg",
+      "downloads": 15,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-12T20:07:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-20T20:16:15.718Z"
+}
