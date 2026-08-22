@@ -1,0 +1,309 @@
+{
+  "category": "image-to-text",
+  "sort": "trending",
+  "totalItems": 2021,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 131744,
+      "likes": 335,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-20T19:44:14.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-base",
+      "downloads": 2096783,
+      "likes": 882,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:45:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-LCNet_x1_0_doc_ori",
+      "downloads": 336250,
+      "likes": 21,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T09:58:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sorryhyun",
+      "id": "sorryhyun/anima-tagger",
+      "downloads": 71,
+      "likes": 4,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-22T05:10:16.000Z",
+      "numParameters": 26640047,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv6_medium_det_safetensors",
+      "downloads": 2217,
+      "likes": 127,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-06-12T03:10:52.000Z",
+      "numParameters": 21993025,
+      "repoType": "model"
+    },
+    {
+      "author": "factlogic",
+      "id": "factlogic/phoenix-arabic-manuscript-htr",
+      "downloads": 20,
+      "likes": 4,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-21T06:59:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/trocr-base-handwritten",
+      "downloads": 207372,
+      "likes": 510,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-11T04:26:58.000Z",
+      "numParameters": 333331200,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/blip-image-captioning-large",
+      "downloads": 479435,
+      "likes": 1486,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-02-03T06:42:42.000Z",
+      "numParameters": 469733436,
+      "repoType": "model"
+    },
+    {
+      "author": "TRI-ML",
+      "id": "TRI-ML/prismatic-vlms",
+      "downloads": 0,
+      "likes": 29,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-05-06T13:46:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "xtuner",
+      "id": "xtuner/llava-phi-3-mini-gguf",
+      "downloads": 1961,
+      "likes": 140,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-04-29T09:04:44.000Z",
+      "numParameters": 3821079552,
+      "repoType": "model"
+    },
+    {
+      "author": "MohamedRashad",
+      "id": "MohamedRashad/arabic-large-nougat",
+      "downloads": 125,
+      "likes": 18,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-11-28T18:50:05.000Z",
+      "numParameters": 426658316,
+      "repoType": "model"
+    },
+    {
+      "author": "kazars24",
+      "id": "kazars24/trocr-base-handwritten-ru",
+      "downloads": 3137,
+      "likes": 17,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2024-10-27T15:55:30.000Z",
+      "numParameters": 333921792,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_det",
+      "downloads": 779508,
+      "likes": 74,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:03:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-OCRv5_server_rec",
+      "downloads": 144439,
+      "likes": 30,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T10:04:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayout-S",
+      "downloads": 267,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T09:59:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-LCNet_x1_0_textline_ori",
+      "downloads": 149808,
+      "likes": 7,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-08-29T02:42:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Teklia",
+      "id": "Teklia/Qwen2.5-VL-7B-DAI-CReTDHI-RecordGold-ATR",
+      "downloads": 5,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-13T14:11:47.000Z",
+      "numParameters": 8292166656,
+      "repoType": "model"
+    },
+    {
+      "author": "UCSC-VLAA",
+      "id": "UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-22T02:05:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mohajesmaeili",
+      "id": "mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0",
+      "downloads": 542,
+      "likes": 15,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-23T08:19:44.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "ZihCiLin",
+      "id": "ZihCiLin/trocr-traditional-chinese-baseline",
+      "downloads": 107,
+      "likes": 3,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-01-05T05:29:40.000Z",
+      "numParameters": 308906497,
+      "repoType": "model"
+    },
+    {
+      "author": "xberg-io",
+      "id": "xberg-io/paddleocr-onnx-models",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-05T08:28:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tiiuae",
+      "id": "tiiuae/Falcon-OCR",
+      "downloads": 3483,
+      "likes": 139,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-07-03T06:59:13.000Z",
+      "numParameters": 269944416,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRed-OCR",
+      "downloads": 2275,
+      "likes": 163,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-03-04T03:15:00.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "opendatalab",
+      "id": "opendatalab/MinerU-Diffusion-V1-0320-2.5B",
+      "downloads": 2414,
+      "likes": 28,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-03-25T05:13:57.000Z",
+      "numParameters": 2699633152,
+      "repoType": "model"
+    },
+    {
+      "author": "livadies",
+      "id": "livadies/gemma-4-31B-Ghetto-NF4",
+      "downloads": 11,
+      "likes": 8,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-04-03T08:25:57.000Z",
+      "numParameters": 32207741839,
+      "repoType": "model"
+    },
+    {
+      "author": "ADSKAILab",
+      "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
+      "downloads": 927,
+      "likes": 64,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-05T21:50:47.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "KuroTo4ka",
+      "id": "KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUF",
+      "downloads": 1261,
+      "likes": 7,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-04-13T09:23:21.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "mudasir13cs",
+      "id": "mudasir13cs/qwen25-vl-3b-floorplan-grpo",
+      "downloads": 559,
+      "likes": 12,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-08-14T02:07:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kk9293",
+      "id": "kk9293/guitar-tab-omr",
+      "downloads": 51,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-23T02:22:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "torchsnow",
+      "id": "torchsnow/Ministral-3-8B-Uncensored-Q5_K_S-GGUF",
+      "downloads": 432,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-23T23:08:17.000Z",
+      "numParameters": 8489553920,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-22T20:09:28.418Z"
+}
