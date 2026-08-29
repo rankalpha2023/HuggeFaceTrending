@@ -7,8 +7,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam3",
-      "downloads": 2198160,
-      "likes": 2760,
+      "downloads": 2249450,
+      "likes": 2775,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-11-20T22:05:08.000Z",
       "numParameters": 859922360,
@@ -17,8 +17,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam3.1",
-      "downloads": 72086,
-      "likes": 558,
+      "downloads": 71393,
+      "likes": 564,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-27T17:40:55.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "tiiuae",
       "id": "tiiuae/Falcon-Perception",
-      "downloads": 4448,
+      "downloads": 5786,
       "likes": 142,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-08-20T10:20:58.000Z",
@@ -36,8 +36,18 @@
     },
     {
       "author": "facebook",
+      "id": "facebook/sam-vit-base",
+      "downloads": 579906,
+      "likes": 173,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2024-01-11T19:23:17.000Z",
+      "numParameters": 93735728,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
       "id": "facebook/sam2-hiera-base-plus",
-      "downloads": 30819,
+      "downloads": 26307,
       "likes": 13,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:21:40.000Z",
@@ -47,7 +57,7 @@
     {
       "author": "jetjodh",
       "id": "jetjodh/sam3.1",
-      "downloads": 127,
+      "downloads": 132,
       "likes": 6,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-27T21:32:50.000Z",
@@ -57,7 +67,7 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-huge",
-      "downloads": 359066,
+      "downloads": 370135,
       "likes": 197,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:32.000Z",
@@ -66,18 +76,8 @@
     },
     {
       "author": "facebook",
-      "id": "facebook/sam-vit-base",
-      "downloads": 611844,
-      "likes": 172,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2024-01-11T19:23:17.000Z",
-      "numParameters": 93735728,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
       "id": "facebook/sam-vit-large",
-      "downloads": 9427,
+      "downloads": 9768,
       "likes": 34,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:46.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "fxmarty",
       "id": "fxmarty/sam-vit-tiny-random",
-      "downloads": 1474,
+      "downloads": 1509,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-04-20T12:42:14.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "wanglab",
       "id": "wanglab/medsam-vit-base",
-      "downloads": 3794,
+      "downloads": 3984,
       "likes": 24,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-03T07:03:04.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "cmhong68",
       "id": "cmhong68/medSAM_skin",
-      "downloads": 10,
+      "downloads": 9,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-03T06:32:27.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-base",
-      "downloads": 1289,
+      "downloads": 1346,
       "likes": 8,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:08:56.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "masapasa",
       "id": "masapasa/breast-cancer-segmentation",
-      "downloads": 19,
+      "downloads": 18,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-12T10:44:59.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "masapasa",
       "id": "masapasa/medsam-vit-base-cancer",
-      "downloads": 13,
+      "downloads": 12,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-12T11:29:23.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "h2thez3",
       "id": "h2thez3/sam_busi",
-      "downloads": 6,
+      "downloads": 5,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-28T08:14:22.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-large",
-      "downloads": 409,
+      "downloads": 408,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:09:28.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "merve",
       "id": "merve/sam-finetuned",
-      "downloads": 12,
+      "downloads": 11,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-11T06:50:29.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "flaviagiammarino",
       "id": "flaviagiammarino/medsam-vit-base",
-      "downloads": 3400,
+      "downloads": 3473,
       "likes": 17,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-13T15:43:56.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "ZoeVN",
       "id": "ZoeVN/sam_full_finetune_breastcancer",
-      "downloads": 10,
+      "downloads": 9,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-13T11:41:28.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "ahishamm",
       "id": "ahishamm/skinsam_focalloss_base",
-      "downloads": 8,
+      "downloads": 7,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-22T11:32:56.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "ahishamm",
       "id": "ahishamm/skinsam_focalloss_large",
-      "downloads": 9,
+      "downloads": 8,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-23T10:15:47.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "giladvdn",
       "id": "giladvdn/test-sam-handler",
-      "downloads": 9,
+      "downloads": 8,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-27T17:54:32.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:29.311Z"
+  "fetchedAt": "2026-08-29T22:05:20.713Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "automatic-speech-recognition",
   "sort": "downloads",
-  "totalItems": 35468,
+  "totalItems": 35487,
   "fetchedItems": 30,
   "models": [
     {
       "author": "argmaxinc",
       "id": "argmaxinc/whisperkit-coreml",
-      "downloads": 10929995,
-      "likes": 202,
+      "downloads": 11245081,
+      "likes": 203,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2026-08-19T16:57:48.000Z",
       "numParameters": null,
@@ -17,7 +17,7 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
-      "downloads": 10174876,
+      "downloads": 11056986,
       "likes": 62,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:58:09.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "pyannote",
       "id": "pyannote/speaker-diarization-3.1",
-      "downloads": 9427064,
-      "likes": 3210,
+      "downloads": 9577296,
+      "likes": 3222,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2024-05-10T19:43:23.000Z",
       "numParameters": null,
@@ -37,8 +37,8 @@
     {
       "author": "openai",
       "id": "openai/whisper-large-v3-turbo",
-      "downloads": 7036645,
-      "likes": 3270,
+      "downloads": 7149661,
+      "likes": 3271,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2024-10-04T14:51:11.000Z",
       "numParameters": 808878080,
@@ -47,8 +47,8 @@
     {
       "author": "pyannote",
       "id": "pyannote/speaker-diarization-community-1",
-      "downloads": 4930127,
-      "likes": 1182,
+      "downloads": 5068874,
+      "likes": 1194,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2025-09-29T08:43:24.000Z",
       "numParameters": null,
@@ -57,7 +57,7 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
-      "downloads": 4566944,
+      "downloads": 4728420,
       "likes": 55,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:59:47.000Z",
@@ -65,9 +65,19 @@
       "repoType": "model"
     },
     {
+      "author": "openai",
+      "id": "openai/whisper-large-v3",
+      "downloads": 4593248,
+      "likes": 6199,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-08-12T10:20:10.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
       "author": "Qwen",
       "id": "Qwen/Qwen3-ASR-1.7B",
-      "downloads": 4445196,
+      "downloads": 4521897,
       "likes": 1044,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2026-01-30T03:00:12.000Z",
@@ -77,7 +87,7 @@
     {
       "author": "pyannote",
       "id": "pyannote/voice-activity-detection",
-      "downloads": 4443893,
+      "downloads": 4439067,
       "likes": 241,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2024-05-10T19:39:17.000Z",
@@ -85,19 +95,9 @@
       "repoType": "model"
     },
     {
-      "author": "openai",
-      "id": "openai/whisper-large-v3",
-      "downloads": 4359272,
-      "likes": 6195,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2024-08-12T10:20:10.000Z",
-      "numParameters": 1543490560,
-      "repoType": "model"
-    },
-    {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
-      "downloads": 3556489,
+      "downloads": 3646174,
       "likes": 76,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:58:43.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
-      "downloads": 3444681,
+      "downloads": 3424944,
       "likes": 12,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:57:56.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
-      "downloads": 3008767,
+      "downloads": 2946155,
       "likes": 17,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:58:20.000Z",
@@ -125,19 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "indonesian-nlp",
-      "id": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
-      "downloads": 2925178,
-      "likes": 15,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2022-08-19T07:44:40.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "openai",
       "id": "openai/whisper-small",
-      "downloads": 2760623,
+      "downloads": 2848209,
       "likes": 585,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2024-02-29T10:57:38.000Z",
@@ -145,9 +135,19 @@
       "repoType": "model"
     },
     {
+      "author": "indonesian-nlp",
+      "id": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+      "downloads": 2843288,
+      "likes": 15,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2022-08-19T07:44:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
-      "downloads": 2638705,
+      "downloads": 2573032,
       "likes": 4,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:56:48.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "MahmoudAshraf",
       "id": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-      "downloads": 2358934,
+      "downloads": 2450454,
       "likes": 100,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2026-04-15T14:57:12.000Z",
@@ -167,8 +167,8 @@
     {
       "author": "mistralai",
       "id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-      "downloads": 2215691,
-      "likes": 953,
+      "downloads": 2212832,
+      "likes": 952,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2026-03-11T15:04:02.000Z",
       "numParameters": 4429679360,
@@ -177,7 +177,7 @@
     {
       "author": "mlx-community",
       "id": "mlx-community/parakeet-tdt-0.6b-v2",
-      "downloads": 2208035,
+      "downloads": 2195366,
       "likes": 46,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2025-05-10T05:56:37.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-hungarian",
-      "downloads": 2187859,
+      "downloads": 2127102,
       "likes": 10,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:57:43.000Z",
@@ -195,19 +195,9 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-ASR-0.6B",
-      "downloads": 2096578,
-      "likes": 343,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2026-01-30T03:00:21.000Z",
-      "numParameters": 938008576,
-      "repoType": "model"
-    },
-    {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-arabic",
-      "downloads": 2021780,
+      "downloads": 2020424,
       "likes": 55,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:57:28.000Z",
@@ -215,29 +205,9 @@
       "repoType": "model"
     },
     {
-      "author": "gigant",
-      "id": "gigant/romanian-wav2vec2",
-      "downloads": 1865879,
-      "likes": 8,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2023-09-13T11:45:00.000Z",
-      "numParameters": 315475620,
-      "repoType": "model"
-    },
-    {
-      "author": "handy-computer",
-      "id": "handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
-      "downloads": 1838021,
-      "likes": 5,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2026-06-29T05:40:11.000Z",
-      "numParameters": 637991968,
-      "repoType": "model"
-    },
-    {
       "author": "Systran",
       "id": "Systran/faster-whisper-small",
-      "downloads": 1807070,
+      "downloads": 1906671,
       "likes": 46,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2023-11-23T10:57:09.000Z",
@@ -245,9 +215,39 @@
       "repoType": "model"
     },
     {
+      "author": "handy-computer",
+      "id": "handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
+      "downloads": 1901328,
+      "likes": 5,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-06-29T05:40:11.000Z",
+      "numParameters": 637991968,
+      "repoType": "model"
+    },
+    {
+      "author": "gigant",
+      "id": "gigant/romanian-wav2vec2",
+      "downloads": 1812415,
+      "likes": 8,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-09-13T11:45:00.000Z",
+      "numParameters": 315475620,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-0.6B",
+      "downloads": 1786634,
+      "likes": 343,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-30T03:00:21.000Z",
+      "numParameters": 938008576,
+      "repoType": "model"
+    },
+    {
       "author": "comodoro",
       "id": "comodoro/wav2vec2-xls-r-300m-cs-250",
-      "downloads": 1797799,
+      "downloads": 1776908,
       "likes": 3,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2023-10-31T10:01:10.000Z",
@@ -255,39 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "anuragshas",
-      "id": "anuragshas/wav2vec2-large-xlsr-53-telugu",
-      "downloads": 1789576,
-      "likes": 5,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2021-07-05T21:31:14.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "KBLab",
-      "id": "KBLab/wav2vec2-large-voxrex-swedish",
-      "downloads": 1734027,
-      "likes": 13,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2025-05-22T20:24:41.000Z",
-      "numParameters": 315485870,
-      "repoType": "model"
-    },
-    {
-      "author": "Khalsuu",
-      "id": "Khalsuu/filipino-wav2vec2-l-xls-r-300m-official",
-      "downloads": 1719808,
-      "likes": 2,
-      "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2022-05-13T05:58:50.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "openai",
       "id": "openai/whisper-base",
-      "downloads": 1714242,
+      "downloads": 1759805,
       "likes": 287,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2024-02-29T10:26:57.000Z",
@@ -295,15 +265,45 @@
       "repoType": "model"
     },
     {
-      "author": "jonatasgrosman",
-      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-persian",
-      "downloads": 1698195,
-      "likes": 28,
+      "author": "Systran",
+      "id": "Systran/faster-whisper-tiny",
+      "downloads": 1749499,
+      "likes": 24,
       "pipeline_tag": "automatic-speech-recognition",
-      "lastModified": "2022-12-14T01:57:01.000Z",
+      "lastModified": "2023-11-23T10:42:55.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anuragshas",
+      "id": "anuragshas/wav2vec2-large-xlsr-53-telugu",
+      "downloads": 1736291,
+      "likes": 5,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2021-07-05T21:31:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/parakeet-tdt-0.6b-v3",
+      "downloads": 1694683,
+      "likes": 53,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-08-16T05:00:45.000Z",
+      "numParameters": 627052166,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/parakeet-ctc-1.1b",
+      "downloads": 1686941,
+      "likes": 58,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-08-05T21:47:03.000Z",
+      "numParameters": 1062626305,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:00.828Z"
+  "fetchedAt": "2026-08-29T22:04:49.683Z"
 }

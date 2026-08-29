@@ -1,13 +1,13 @@
 {
   "category": "audio-classification",
   "sort": "trending",
-  "totalItems": 4715,
+  "totalItems": 4717,
   "fetchedItems": 30,
   "models": [
     {
       "author": "speechbrain",
       "id": "speechbrain/lang-id-voxlingua107-ecapa",
-      "downloads": 135032,
+      "downloads": 145060,
       "likes": 163,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-11-27T20:12:38.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "MIT",
       "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 1232764,
+      "downloads": 1219459,
       "likes": 367,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-09-06T14:49:15.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "mispeech",
       "id": "mispeech/ced-base",
-      "downloads": 11980,
+      "downloads": 14235,
       "likes": 15,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-03-30T12:33:12.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "funasr",
       "id": "funasr/campplus",
-      "downloads": 1816,
+      "downloads": 1866,
       "likes": 26,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-06-19T09:39:29.000Z",
@@ -57,21 +57,11 @@
     {
       "author": "firdhokk",
       "id": "firdhokk/speech-emotion-recognition-with-facebook-wav2vec2-large-xlsr-53",
-      "downloads": 1188,
+      "downloads": 1205,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-12-15T02:38:24.000Z",
       "numParameters": 315702919,
-      "repoType": "model"
-    },
-    {
-      "author": "AGI-Eval",
-      "id": "AGI-Eval/Auto-ATT",
-      "downloads": 28,
-      "likes": 9,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-05-16T10:52:46.000Z",
-      "numParameters": 8397094912,
       "repoType": "model"
     },
     {
@@ -87,7 +77,7 @@
     {
       "author": "GradientDescent2718",
       "id": "GradientDescent2718/LS-EEND-ONNX",
-      "downloads": 8,
+      "downloads": 6,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-04-03T23:18:56.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "cstr",
       "id": "cstr/silero-lid-lang95-GGUF",
-      "downloads": 310,
+      "downloads": 311,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-02T15:39:38.000Z",
@@ -107,7 +97,7 @@
     {
       "author": "mlx-community",
       "id": "mlx-community/silero-vad-v6",
-      "downloads": 274,
+      "downloads": 285,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-05-01T18:12:46.000Z",
@@ -127,7 +117,7 @@
     {
       "author": "aufklarer",
       "id": "aufklarer/ReDimNet2-B6-CoreML",
-      "downloads": 3770,
+      "downloads": 3772,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-07-15T10:35:13.000Z",
@@ -135,9 +125,19 @@
       "repoType": "model"
     },
     {
+      "author": "camillebrl",
+      "id": "camillebrl/european_accent_in_english_classification",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-21T19:17:21.000Z",
+      "numParameters": 51599,
+      "repoType": "model"
+    },
+    {
       "author": "soniqo",
       "id": "soniqo/ReDimNet2-B6-ONNX-FP32",
-      "downloads": 53,
+      "downloads": 50,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-21T09:38:34.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "cstr",
       "id": "cstr/wespeaker-resnet34-lm-GGUF",
-      "downloads": 719,
+      "downloads": 673,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-02T15:44:46.000Z",
@@ -161,16 +161,6 @@
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-07T13:21:19.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "DotCheck",
-      "id": "DotCheck/helmholtz-audio-v3",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-08-28T13:22:21.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -197,7 +187,7 @@
     {
       "author": "Bagus",
       "id": "Bagus/wav2vec2-xlsr-greek-speech-emotion-recognition",
-      "downloads": 23,
+      "downloads": 24,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-10-20T05:38:41.000Z",
@@ -207,7 +197,7 @@
     {
       "author": "Bagus",
       "id": "Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition",
-      "downloads": 4342,
+      "downloads": 4308,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-10-19T01:31:17.000Z",
@@ -217,7 +207,7 @@
     {
       "author": "NhatPham",
       "id": "NhatPham/wav2vec2-base-finetuned-ks",
-      "downloads": 10,
+      "downloads": 9,
       "likes": 0,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-11-01T04:32:59.000Z",
@@ -227,7 +217,7 @@
     {
       "author": "Rajaram1996",
       "id": "Rajaram1996/Hubert_emotion",
-      "downloads": 66,
+      "downloads": 69,
       "likes": 33,
       "pipeline_tag": "audio-classification",
       "lastModified": "2022-11-19T20:10:41.000Z",
@@ -237,7 +227,7 @@
     {
       "author": "TalTechNLP",
       "id": "TalTechNLP/voxlingua107-epaca-tdnn-ce",
-      "downloads": 9,
+      "downloads": 11,
       "likes": 3,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-11-04T13:37:25.000Z",
@@ -247,7 +237,7 @@
     {
       "author": "TalTechNLP",
       "id": "TalTechNLP/voxlingua107-epaca-tdnn",
-      "downloads": 539,
+      "downloads": 564,
       "likes": 33,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-11-27T20:06:00.000Z",
@@ -257,7 +247,7 @@
     {
       "author": "abdelhalim",
       "id": "abdelhalim/Shower_Sound_Recognition",
-      "downloads": 16,
+      "downloads": 12,
       "likes": 4,
       "pipeline_tag": "audio-classification",
       "lastModified": "2022-03-03T22:09:48.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "addy88",
       "id": "addy88/wav2vec2-base-finetuned-ks",
-      "downloads": 14,
+      "downloads": 15,
       "likes": 0,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-12-12T03:41:52.000Z",
@@ -297,13 +287,23 @@
     {
       "author": "anantoj",
       "id": "anantoj/wav2vec2-xls-r-300m-adult-child-cls",
-      "downloads": 35,
+      "downloads": 36,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2022-02-25T07:47:57.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "anton-l",
+      "id": "anton-l/distilhubert-ft-common-language",
+      "downloads": 11,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-10-27T21:29:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:31:51.556Z"
+  "fetchedAt": "2026-08-29T22:04:40.099Z"
 }

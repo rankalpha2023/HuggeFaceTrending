@@ -1,14 +1,14 @@
 {
   "category": "feature-extraction",
   "sort": "trending",
-  "totalItems": 19991,
+  "totalItems": 20011,
   "fetchedItems": 30,
   "models": [
     {
       "author": "tencent",
       "id": "tencent/WeMM-Embedding-9B",
-      "downloads": 385,
-      "likes": 91,
+      "downloads": 1318,
+      "likes": 95,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-26T03:07:30.000Z",
       "numParameters": 9407831280,
@@ -17,8 +17,8 @@
     {
       "author": "tencent",
       "id": "tencent/WeMM-Embedding-2B",
-      "downloads": 424,
-      "likes": 56,
+      "downloads": 2980,
+      "likes": 58,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-26T03:06:06.000Z",
       "numParameters": 2720809792,
@@ -27,8 +27,8 @@
     {
       "author": "tencent",
       "id": "tencent/WeMM-Embedding-4B",
-      "downloads": 184,
-      "likes": 24,
+      "downloads": 555,
+      "likes": 25,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-26T03:06:50.000Z",
       "numParameters": 5173725696,
@@ -37,7 +37,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Embedding-0.6B",
-      "downloads": 6616598,
+      "downloads": 6812094,
       "likes": 1172,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-04-20T02:45:58.000Z",
@@ -45,20 +45,10 @@
       "repoType": "model"
     },
     {
-      "author": "jinaai",
-      "id": "jinaai/jina-embeddings-v5-omni-small",
-      "downloads": 34240,
-      "likes": 129,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-08-27T12:57:35.000Z",
-      "numParameters": 1626268672,
-      "repoType": "model"
-    },
-    {
       "author": "DreamBlooms",
       "id": "DreamBlooms/WeMM-Embedding-2B-GGUF",
-      "downloads": 0,
-      "likes": 5,
+      "downloads": 2309,
+      "likes": 6,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-26T21:26:19.000Z",
       "numParameters": 2389393216,
@@ -66,28 +56,48 @@
     },
     {
       "author": "Qwen",
-      "id": "Qwen/Qwen3-Embedding-4B",
-      "downloads": 3272496,
-      "likes": 313,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2025-06-20T09:30:56.000Z",
-      "numParameters": 4021774336,
-      "repoType": "model"
-    },
-    {
-      "author": "Qwen",
       "id": "Qwen/Qwen3-Embedding-8B",
-      "downloads": 2333125,
-      "likes": 784,
+      "downloads": 2385310,
+      "likes": 785,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2025-07-07T09:02:21.000Z",
       "numParameters": 7567295488,
       "repoType": "model"
     },
     {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-small",
+      "downloads": 35147,
+      "likes": 129,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-08-27T12:57:35.000Z",
+      "numParameters": 1626268672,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-en-v1.5",
+      "downloads": 13399705,
+      "likes": 718,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T02:51:44.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-text-small",
+      "downloads": 178652,
+      "likes": 198,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-15T09:14:28.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
       "author": "Seznam",
       "id": "Seznam/html-lm",
-      "downloads": 30,
+      "downloads": 36,
       "likes": 4,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-25T12:02:32.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-base-en-v1.5",
-      "downloads": 11538125,
+      "downloads": 11869446,
       "likes": 466,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-02-21T03:00:19.000Z",
@@ -106,18 +116,8 @@
     },
     {
       "author": "BAAI",
-      "id": "BAAI/bge-large-en-v1.5",
-      "downloads": 13001785,
-      "likes": 717,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2024-02-21T02:51:44.000Z",
-      "numParameters": 335142400,
-      "repoType": "model"
-    },
-    {
-      "author": "BAAI",
       "id": "BAAI/bge-small-en-v1.5",
-      "downloads": 66356634,
+      "downloads": 67388132,
       "likes": 539,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-02-22T03:36:23.000Z",
@@ -125,29 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "intfloat",
-      "id": "intfloat/multilingual-e5-large-instruct",
-      "downloads": 2154222,
-      "likes": 635,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2025-07-10T10:12:37.000Z",
-      "numParameters": 559890432,
-      "repoType": "model"
-    },
-    {
-      "author": "jinaai",
-      "id": "jinaai/jina-embeddings-v5-text-small",
-      "downloads": 166167,
-      "likes": 197,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-04-15T09:14:28.000Z",
-      "numParameters": 596049920,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/harrier-oss-v1-0.6b",
-      "downloads": 240954,
+      "downloads": 247287,
       "likes": 298,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-03-30T08:00:59.000Z",
@@ -165,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large-instruct",
+      "downloads": 2182942,
+      "likes": 635,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-07-10T10:12:37.000Z",
+      "numParameters": 559890432,
+      "repoType": "model"
+    },
+    {
       "author": "ai-forever",
       "id": "ai-forever/ru-en-RoSBERTa",
-      "downloads": 155221,
+      "downloads": 148180,
       "likes": 88,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-09-26T07:57:30.000Z",
@@ -175,19 +165,19 @@
       "repoType": "model"
     },
     {
-      "author": "mlx-community",
-      "id": "mlx-community/Qwen3-Embedding-4B-4bit-DWQ",
-      "downloads": 5376,
-      "likes": 12,
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-4B",
+      "downloads": 3274869,
+      "likes": 313,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2025-06-07T01:49:06.000Z",
-      "numParameters": 628567696,
+      "lastModified": "2025-06-20T09:30:56.000Z",
+      "numParameters": 4021774336,
       "repoType": "model"
     },
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultraVAD",
-      "downloads": 2672,
+      "downloads": 2576,
       "likes": 42,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-01-01T00:40:03.000Z",
@@ -197,7 +187,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/C-RADIOv4-H",
-      "downloads": 28355,
+      "downloads": 29624,
       "likes": 82,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-01-30T12:40:28.000Z",
@@ -206,8 +196,18 @@
     },
     {
       "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-97m-multilingual-r2",
+      "downloads": 94316,
+      "likes": 137,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-18T20:17:17.000Z",
+      "numParameters": 97441152,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
       "id": "ibm-granite/granite-embedding-311m-multilingual-r2",
-      "downloads": 71457,
+      "downloads": 75553,
       "likes": 125,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-05-18T20:15:41.000Z",
@@ -215,19 +215,29 @@
       "repoType": "model"
     },
     {
+      "author": "paige-ai",
+      "id": "paige-ai/Prism2",
+      "downloads": 814,
+      "likes": 25,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-07-31T14:31:04.000Z",
+      "numParameters": 4469975552,
+      "repoType": "model"
+    },
+    {
       "author": "mbarbosa1",
       "id": "mbarbosa1/zeno-divergent-v1",
-      "downloads": 156,
+      "downloads": 253,
       "likes": 2,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-08-28T11:18:29.000Z",
-      "numParameters": 1874220,
+      "lastModified": "2026-08-29T15:26:08.000Z",
+      "numParameters": 1877849,
       "repoType": "model"
     },
     {
       "author": "multi-vector-encoder",
       "id": "multi-vector-encoder/mLateOn-medical",
-      "downloads": 15,
+      "downloads": 287,
       "likes": 2,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-08-25T15:19:35.000Z",
@@ -237,7 +247,7 @@
     {
       "author": "DeepPavlov",
       "id": "DeepPavlov/rubert-base-cased",
-      "downloads": 169970,
+      "downloads": 184734,
       "likes": 134,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2021-11-23T08:03:04.000Z",
@@ -247,7 +257,7 @@
     {
       "author": "cambridgeltl",
       "id": "cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR-large",
-      "downloads": 1900,
+      "downloads": 1868,
       "likes": 4,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2023-06-14T19:00:04.000Z",
@@ -255,13 +265,13 @@
       "repoType": "model"
     },
     {
-      "author": "nreimers",
-      "id": "nreimers/MiniLM-L6-H384-uncased",
-      "downloads": 8482,
-      "likes": 48,
+      "author": "cambridgeltl",
+      "id": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+      "downloads": 1432757,
+      "likes": 78,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2021-08-30T20:05:29.000Z",
-      "numParameters": null,
+      "lastModified": "2023-06-14T19:03:02.000Z",
+      "numParameters": 109482752,
       "repoType": "model"
     },
     {
@@ -287,23 +297,13 @@
     {
       "author": "intfloat",
       "id": "intfloat/multilingual-e5-large",
-      "downloads": 6947561,
+      "downloads": 7058210,
       "likes": 1243,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-04-02T02:16:59.000Z",
       "numParameters": 559890946,
       "repoType": "model"
-    },
-    {
-      "author": "BAAI",
-      "id": "BAAI/bge-large-en",
-      "downloads": 52553,
-      "likes": 231,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2023-10-12T03:35:38.000Z",
-      "numParameters": 335142400,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:04.162Z"
+  "fetchedAt": "2026-08-29T22:04:53.066Z"
 }

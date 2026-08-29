@@ -1,14 +1,14 @@
 {
   "category": "text-classification",
   "sort": "trending",
-  "totalItems": 120268,
+  "totalItems": 120299,
   "fetchedItems": 30,
   "models": [
     {
       "author": "ProsusAI",
       "id": "ProsusAI/finbert",
-      "downloads": 4641244,
-      "likes": 1228,
+      "downloads": 4803862,
+      "likes": 1229,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-05-23T12:43:35.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-reranker-v2-m3",
-      "downloads": 17377234,
-      "likes": 1147,
+      "downloads": 17771444,
+      "likes": 1148,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-06-24T14:08:45.000Z",
       "numParameters": 567755777,
@@ -27,7 +27,7 @@
     {
       "author": "Roblox",
       "id": "Roblox/roblox-pii-classifier-v2",
-      "downloads": 59,
+      "downloads": 63,
       "likes": 7,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-08-19T06:32:25.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-Prompt-Guard-2-86M",
-      "downloads": 121364,
+      "downloads": 120033,
       "likes": 187,
       "pipeline_tag": "text-classification",
       "lastModified": "2025-04-29T15:59:55.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Encoder-350M-Prompt-Router",
-      "downloads": 5101,
+      "downloads": 5056,
       "likes": 61,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-07-28T13:42:34.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "s-nlp",
       "id": "s-nlp/roberta_toxicity_classifier",
-      "downloads": 260546,
+      "downloads": 275505,
       "likes": 75,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-11-08T11:22:37.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Prompt-Guard-86M",
-      "downloads": 4263738,
+      "downloads": 4377274,
       "likes": 395,
       "pipeline_tag": "text-classification",
       "lastModified": "2025-11-12T21:27:00.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "livekit",
       "id": "livekit/turn-detector",
-      "downloads": 627243,
+      "downloads": 658710,
       "likes": 140,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-02-11T15:04:40.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "PleIAs",
       "id": "PleIAs/CommonLingua",
-      "downloads": 544,
+      "downloads": 553,
       "likes": 31,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-04-28T10:01:57.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "fastino",
       "id": "fastino/gliguard-LLMGuardrails-300M",
-      "downloads": 5522,
+      "downloads": 5633,
       "likes": 81,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-08-11T03:45:18.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "Veronyka",
       "id": "Veronyka/tybyria-v2.2",
-      "downloads": 97,
+      "downloads": 99,
       "likes": 6,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-08-25T19:08:30.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "blueprint-ai",
       "id": "blueprint-ai/NanoTitan-NLI",
-      "downloads": 19,
+      "downloads": 24,
       "likes": 2,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-08-22T07:36:56.000Z",
@@ -125,10 +125,20 @@
       "repoType": "model"
     },
     {
+      "author": "snival",
+      "id": "snival/intent-router-zh-setfit-v2",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-08-29T03:20:03.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
       "author": "openai-community",
       "id": "openai-community/roberta-base-openai-detector",
-      "downloads": 94261,
-      "likes": 136,
+      "downloads": 97694,
+      "likes": 137,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-02-19T12:46:55.000Z",
       "numParameters": 125237762,
@@ -137,7 +147,7 @@
     {
       "author": "alexandrainst",
       "id": "alexandrainst/da-hatespeech-detection-small",
-      "downloads": 248,
+      "downloads": 152,
       "likes": 1,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-09-20T11:56:29.000Z",
@@ -147,7 +157,7 @@
     {
       "author": "HooshvareLab",
       "id": "HooshvareLab/bert-fa-base-uncased-clf-persiannews",
-      "downloads": 117,
+      "downloads": 122,
       "likes": 13,
       "pipeline_tag": "text-classification",
       "lastModified": "2021-05-18T20:51:07.000Z",
@@ -155,19 +165,9 @@
       "repoType": "model"
     },
     {
-      "author": "bvanaken",
-      "id": "bvanaken/clinical-assertion-negation-bert",
-      "downloads": 1514,
-      "likes": 34,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2025-01-17T09:32:35.000Z",
-      "numParameters": 108313859,
-      "repoType": "model"
-    },
-    {
       "author": "cardiffnlp",
       "id": "cardiffnlp/twitter-roberta-base-emoji",
-      "downloads": 248,
+      "downloads": 222,
       "likes": 18,
       "pipeline_tag": "text-classification",
       "lastModified": "2022-11-28T11:27:48.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "finiteautomata",
       "id": "finiteautomata/bertweet-base-sentiment-analysis",
-      "downloads": 1103939,
+      "downloads": 1033753,
       "likes": 196,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-02-17T02:17:31.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "Copycats",
       "id": "Copycats/koelectra-base-v3-generalized-sentiment-analysis",
-      "downloads": 4820,
+      "downloads": 4731,
       "likes": 13,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-11-28T14:07:33.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "papluca",
       "id": "papluca/xlm-roberta-base-language-detection",
-      "downloads": 559099,
+      "downloads": 559033,
       "likes": 376,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-12-28T13:54:18.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "cardiffnlp",
       "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
-      "downloads": 3008360,
+      "downloads": 3091519,
       "likes": 827,
       "pipeline_tag": "text-classification",
       "lastModified": "2025-08-04T07:58:29.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "MilaNLProc",
       "id": "MilaNLProc/xlm-emo-t",
-      "downloads": 459618,
+      "downloads": 471119,
       "likes": 12,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-03-27T17:52:36.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "facebook",
       "id": "facebook/roberta-hate-speech-dynabench-r4-target",
-      "downloads": 57363,
+      "downloads": 58698,
       "likes": 100,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-03-16T20:03:57.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "nlp04",
       "id": "nlp04/korean_sentiment_analysis_kcelectra",
-      "downloads": 4601,
+      "downloads": 4819,
       "likes": 11,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-01-18T03:26:01.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "facebook",
       "id": "facebook/fasttext-language-identification",
-      "downloads": 388944,
+      "downloads": 409676,
       "likes": 277,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-06-09T12:39:43.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "bardsai",
       "id": "bardsai/finance-sentiment-zh-base",
-      "downloads": 4344,
+      "downloads": 4317,
       "likes": 22,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-05-25T14:37:59.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "climatebert",
       "id": "climatebert/netzero-reduction",
-      "downloads": 1308,
+      "downloads": 1292,
       "likes": 5,
       "pipeline_tag": "text-classification",
       "lastModified": "2023-11-24T14:51:34.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "fzanartu",
       "id": "fzanartu/flicc",
-      "downloads": 206,
+      "downloads": 204,
       "likes": 3,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-03-30T19:06:23.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "vectara",
       "id": "vectara/hallucination_evaluation_model",
-      "downloads": 206496,
+      "downloads": 214156,
       "likes": 364,
       "pipeline_tag": "text-classification",
       "lastModified": "2025-10-20T19:34:40.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:46.880Z"
+  "fetchedAt": "2026-08-29T22:05:43.786Z"
 }

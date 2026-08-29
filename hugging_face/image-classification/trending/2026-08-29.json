@@ -1,7 +1,7 @@
 {
   "category": "image-classification",
   "sort": "trending",
-  "totalItems": 28569,
+  "totalItems": 28611,
   "fetchedItems": 30,
   "models": [
     {
@@ -15,10 +15,20 @@
       "repoType": "model"
     },
     {
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger_v2",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-21T07:08:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "google",
       "id": "google/vit-base-patch16-224",
-      "downloads": 4490079,
-      "likes": 993,
+      "downloads": 4622645,
+      "likes": 994,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-05T15:27:12.000Z",
       "numParameters": 86567656,
@@ -27,7 +37,7 @@
     {
       "author": "animetimm",
       "id": "animetimm/convnextv2_huge.dbv4-full",
-      "downloads": 1841,
+      "downloads": 1815,
       "likes": 35,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-10-22T14:54:23.000Z",
@@ -37,7 +47,7 @@
     {
       "author": "Grio43",
       "id": "Grio43/OppaiOracle",
-      "downloads": 24,
+      "downloads": 23,
       "likes": 60,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-05-10T01:13:14.000Z",
@@ -45,19 +55,19 @@
       "repoType": "model"
     },
     {
-      "author": "cella110n",
-      "id": "cella110n/cl_tagger_v2",
-      "downloads": 0,
-      "likes": 22,
+      "author": "resoa",
+      "id": "resoa/garment-attributes",
+      "downloads": 730,
+      "likes": 2,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-06-21T07:08:46.000Z",
-      "numParameters": null,
+      "lastModified": "2026-08-29T20:03:31.000Z",
+      "numParameters": 93051866,
       "repoType": "model"
     },
     {
       "author": "prithivMLmods",
       "id": "prithivMLmods/SigLIP2-ImageShield-90M-224",
-      "downloads": 2,
+      "downloads": 5,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-27T03:01:11.000Z",
@@ -67,7 +77,7 @@
     {
       "author": "kd13",
       "id": "kd13/vit-nano-patch16-224",
-      "downloads": 95,
+      "downloads": 106,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-21T15:10:16.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "facebook",
       "id": "facebook/convnext-base-224-22k-1k",
-      "downloads": 1497,
+      "downloads": 1593,
       "likes": 8,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-04T21:09:35.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/swin-base-patch4-window7-224",
-      "downloads": 42346,
+      "downloads": 43908,
       "likes": 27,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-10T18:04:03.000Z",
@@ -107,7 +117,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/resnet-18",
-      "downloads": 56492,
+      "downloads": 60284,
       "likes": 81,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-04-08T11:06:50.000Z",
@@ -127,7 +137,7 @@
     {
       "author": "timm",
       "id": "timm/mobilenetv3_small_100.lamb_in1k",
-      "downloads": 17830802,
+      "downloads": 18207788,
       "likes": 102,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-10-19T16:12:11.000Z",
@@ -137,7 +147,7 @@
     {
       "author": "timm",
       "id": "timm/vit_base_patch16_224.augreg2_in21k_ft_in1k",
-      "downloads": 398068,
+      "downloads": 434353,
       "likes": 14,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-20T16:09:05.000Z",
@@ -146,18 +156,8 @@
     },
     {
       "author": "timm",
-      "id": "timm/vit_tiny_patch16_224.augreg_in21k",
-      "downloads": 212713,
-      "likes": 5,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2025-01-21T19:16:50.000Z",
-      "numParameters": 9740115,
-      "repoType": "model"
-    },
-    {
-      "author": "timm",
       "id": "timm/eva02_base_patch14_448.mim_in22k_ft_in22k",
-      "downloads": 538,
+      "downloads": 546,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T21:36:56.000Z",
@@ -167,8 +167,8 @@
     {
       "author": "linkanjarad",
       "id": "linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification",
-      "downloads": 3030,
-      "likes": 58,
+      "downloads": 3070,
+      "likes": 60,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-04-26T04:25:49.000Z",
       "numParameters": null,
@@ -177,11 +177,21 @@
     {
       "author": "dima806",
       "id": "dima806/facial_emotions_image_detection",
-      "downloads": 19960,
+      "downloads": 20001,
       "likes": 129,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-10-19T10:09:54.000Z",
       "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/deepfake_vs_real_image_detection",
+      "downloads": 11169,
+      "likes": 60,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-04T09:44:17.000Z",
+      "numParameters": 85800194,
       "repoType": "model"
     },
     {
@@ -197,7 +207,7 @@
     {
       "author": "fancyfeast",
       "id": "fancyfeast/joytag",
-      "downloads": 453,
+      "downloads": 478,
       "likes": 119,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-03-09T04:09:40.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "Organika",
       "id": "Organika/sdxl-detector",
-      "downloads": 113298,
+      "downloads": 112145,
       "likes": 61,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-09-06T12:17:24.000Z",
@@ -217,7 +227,7 @@
     {
       "author": "AdamCodd",
       "id": "AdamCodd/vit-base-nsfw-detector",
-      "downloads": 777243,
+      "downloads": 804777,
       "likes": 82,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-12-03T14:14:31.000Z",
@@ -225,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "dima806",
-      "id": "dima806/cat_breed_image_detection",
-      "downloads": 268,
-      "likes": 7,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2024-10-19T10:11:37.000Z",
-      "numParameters": 85835568,
-      "repoType": "model"
-    },
-    {
       "author": "qualcomm",
       "id": "qualcomm/MobileNet-v2",
-      "downloads": 169,
+      "downloads": 214,
       "likes": 10,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-25T04:18:23.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Qdrant",
       "id": "Qdrant/clip-ViT-B-32-vision",
-      "downloads": 10673,
+      "downloads": 10889,
       "likes": 15,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-10-16T09:40:57.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "haywoodsloan",
       "id": "haywoodsloan/ai-image-detector-deploy",
-      "downloads": 14171,
+      "downloads": 13760,
       "likes": 22,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-24T18:02:27.000Z",
@@ -275,9 +275,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/derm-foundation",
+      "downloads": 362,
+      "likes": 94,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-01T00:52:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "skshmjn",
       "id": "skshmjn/Pokemon-classifier-gen9-1025",
-      "downloads": 498,
+      "downloads": 481,
       "likes": 5,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-12-30T14:01:29.000Z",
@@ -293,17 +303,7 @@
       "lastModified": "2025-01-21T11:18:21.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "dima806",
-      "id": "dima806/ai_vs_human_generated_image_detection",
-      "downloads": 1419,
-      "likes": 3,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-01-28T11:56:26.000Z",
-      "numParameters": 85800194,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:09.177Z"
+  "fetchedAt": "2026-08-29T22:04:58.527Z"
 }

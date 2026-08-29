@@ -1,16 +1,26 @@
 {
   "category": "object-detection",
   "sort": "trending",
-  "totalItems": 6389,
+  "totalItems": 6411,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO26",
-      "downloads": 11854,
+      "downloads": 13393,
       "likes": 146,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-28T19:23:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pesi",
+      "id": "pesi/rtmo",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2024-09-04T05:25:17.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -27,7 +37,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition",
-      "downloads": 1102304,
+      "downloads": 1123179,
       "likes": 227,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:50:49.000Z",
@@ -35,19 +45,9 @@
       "repoType": "model"
     },
     {
-      "author": "mshamrai",
-      "id": "mshamrai/yolov8s-visdrone",
-      "downloads": 409,
-      "likes": 8,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2023-05-29T12:37:27.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "foduucom",
       "id": "foduucom/stockmarket-pattern-detection-yolov8",
-      "downloads": 33787,
+      "downloads": 34725,
       "likes": 425,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-04-02T10:42:40.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "Anzhc",
       "id": "Anzhc/Anzhcs_YOLOs",
-      "downloads": 73128,
+      "downloads": 74633,
       "likes": 179,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-02-25T04:09:43.000Z",
@@ -66,28 +66,18 @@
     },
     {
       "author": "qualcomm",
-      "id": "qualcomm/MediaPipe-Face-Detection",
-      "downloads": 599,
+      "id": "qualcomm/MediaPipe-Hand-Detection",
+      "downloads": 555,
       "likes": 38,
       "pipeline_tag": "object-detection",
-      "lastModified": "2026-08-25T04:18:47.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "pesi",
-      "id": "pesi/rtmo",
-      "downloads": 0,
-      "likes": 4,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-09-04T05:25:17.000Z",
+      "lastModified": "2026-08-25T04:15:40.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "yainage90",
       "id": "yainage90/fashion-object-detection",
-      "downloads": 4958,
+      "downloads": 5037,
       "likes": 42,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-12-02T09:24:16.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO11",
-      "downloads": 11439,
+      "downloads": 11424,
       "likes": 204,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-26T10:23:00.000Z",
@@ -117,7 +107,7 @@
     {
       "author": "AdamCodd",
       "id": "AdamCodd/YOLOv11n-face-detection",
-      "downloads": 34,
+      "downloads": 35,
       "likes": 44,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-09T13:55:47.000Z",
@@ -165,19 +155,9 @@
       "repoType": "model"
     },
     {
-      "author": "IndicDLP",
-      "id": "IndicDLP/IndicDLP-model",
-      "downloads": 75,
-      "likes": 3,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2025-09-24T06:12:57.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Adit-jain",
       "id": "Adit-jain/soccana",
-      "downloads": 267,
+      "downloads": 496,
       "likes": 5,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-08-30T11:33:26.000Z",
@@ -197,7 +177,7 @@
     {
       "author": "julianzu9612",
       "id": "julianzu9612/RFDETR-Soccernet",
-      "downloads": 68,
+      "downloads": 74,
       "likes": 18,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-07-29T18:57:14.000Z",
@@ -207,7 +187,7 @@
     {
       "author": "corzent",
       "id": "corzent/yolo11x_watermark_detection",
-      "downloads": 965,
+      "downloads": 1031,
       "likes": 17,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-08-17T11:27:33.000Z",
@@ -217,7 +197,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV2",
-      "downloads": 1676,
+      "downloads": 1866,
       "likes": 33,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-01-29T08:21:29.000Z",
@@ -227,7 +207,7 @@
     {
       "author": "Davidsv",
       "id": "Davidsv/CourtSide-Computer-Vision-v1",
-      "downloads": 144,
+      "downloads": 143,
       "likes": 10,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-21T15:45:50.000Z",
@@ -237,7 +217,7 @@
     {
       "author": "iitolstykh",
       "id": "iitolstykh/YOLO-Face-Person-Detector",
-      "downloads": 4505,
+      "downloads": 9587,
       "likes": 23,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-28T14:42:05.000Z",
@@ -267,7 +247,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/GPA-GUI-Detector",
-      "downloads": 276,
+      "downloads": 278,
       "likes": 18,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-02-26T07:05:17.000Z",
@@ -277,7 +257,7 @@
     {
       "author": "chayuto",
       "id": "chayuto/thai-id-ocr-yolo26n-card-corner-detector",
-      "downloads": 100,
+      "downloads": 97,
       "likes": 1,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-03-15T03:04:15.000Z",
@@ -287,7 +267,7 @@
     {
       "author": "Armaggheddon",
       "id": "Armaggheddon/yolo26-document-layout",
-      "downloads": 2403,
+      "downloads": 2435,
       "likes": 9,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-03-15T16:01:26.000Z",
@@ -297,13 +277,33 @@
     {
       "author": "chayuto",
       "id": "chayuto/thai-id-ocr-yolo26n-card-field-detector",
-      "downloads": 56,
+      "downloads": 58,
       "likes": 1,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-03-23T01:14:39.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "EdgeFirst",
+      "id": "EdgeFirst/yolo26-det",
+      "downloads": 167,
+      "likes": 3,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-08-26T17:41:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AurevinP",
+      "id": "AurevinP/PULSE_AI_Models",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-03-25T15:09:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:31.791Z"
+  "fetchedAt": "2026-08-29T22:05:23.295Z"
 }

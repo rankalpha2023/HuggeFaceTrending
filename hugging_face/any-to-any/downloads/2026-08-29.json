@@ -7,8 +7,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 4807737,
-      "likes": 1514,
+      "downloads": 4878568,
+      "likes": 1518,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:42:03.000Z",
       "numParameters": 7996156490,
@@ -17,8 +17,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it",
-      "downloads": 3293797,
-      "likes": 919,
+      "downloads": 3364227,
+      "likes": 920,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:41:56.000Z",
       "numParameters": 5123178051,
@@ -27,8 +27,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it",
-      "downloads": 3194564,
-      "likes": 1504,
+      "downloads": 3310474,
+      "likes": 1506,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:42:08.000Z",
       "numParameters": 11959730224,
@@ -37,7 +37,7 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it-qat-w4a16-ct",
-      "downloads": 1394451,
+      "downloads": 1381416,
       "likes": 56,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:43:34.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
-      "downloads": 1204155,
+      "downloads": 1160172,
       "likes": 180,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-24T23:49:42.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-4bit",
-      "downloads": 1115321,
+      "downloads": 1159494,
       "likes": 23,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:01.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "downloads": 1104414,
+      "downloads": 1157256,
       "likes": 450,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T12:37:30.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-8bit",
-      "downloads": 1092800,
+      "downloads": 1137298,
       "likes": 10,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:07.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-5bit",
-      "downloads": 1088779,
+      "downloads": 1131688,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:02.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-6bit",
-      "downloads": 1084328,
+      "downloads": 1127304,
       "likes": 3,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:05.000Z",
@@ -107,8 +107,8 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5",
-      "downloads": 955447,
-      "likes": 1476,
+      "downloads": 963303,
+      "likes": 1477,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-18T03:57:56.000Z",
       "numParameters": 9371787666,
@@ -117,7 +117,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 891172,
+      "downloads": 902847,
       "likes": 988,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:52.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8",
-      "downloads": 862640,
+      "downloads": 882049,
       "likes": 62,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-25T15:47:39.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-3B",
-      "downloads": 775510,
+      "downloads": 720493,
       "likes": 350,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T04:01:19.000Z",
@@ -146,8 +146,18 @@
     },
     {
       "author": "google",
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "downloads": 635190,
+      "likes": 280,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-07-17T21:24:41.000Z",
+      "numParameters": 11907350576,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
       "id": "google/gemma-4-E4B-it-qat-w4a16-ct",
-      "downloads": 654646,
+      "downloads": 632463,
       "likes": 17,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:43:23.000Z",
@@ -156,18 +166,8 @@
     },
     {
       "author": "google",
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "downloads": 595591,
-      "likes": 279,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-17T21:24:41.000Z",
-      "numParameters": 11907350576,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/gemma-4-31B-it-assistant",
-      "downloads": 542505,
+      "downloads": 550694,
       "likes": 321,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:42:27.000Z",
@@ -177,8 +177,8 @@
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-E4B-it-qat-GGUF",
-      "downloads": 494338,
-      "likes": 162,
+      "downloads": 526358,
+      "likes": 164,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T12:37:02.000Z",
       "numParameters": 7463013674,
@@ -187,27 +187,27 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
-      "downloads": 484247,
-      "likes": 130,
+      "downloads": 519411,
+      "likes": 131,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:23:49.000Z",
       "numParameters": 7463013674,
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/gemma-4-E2B-it-qat-w4a16-ct",
-      "downloads": 433743,
-      "likes": 8,
+      "author": "RedHatAI",
+      "id": "RedHatAI/gemma-4-12B-it-FP8-Dynamic",
+      "downloads": 470034,
+      "likes": 5,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-20T16:43:14.000Z",
-      "numParameters": 5565601899,
+      "lastModified": "2026-08-13T13:10:52.000Z",
+      "numParameters": 12966363184,
       "repoType": "model"
     },
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-E2B-it-qat-GGUF",
-      "downloads": 431825,
+      "downloads": 464151,
       "likes": 72,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T12:36:37.000Z",
@@ -217,28 +217,28 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it-qat-q4_0-gguf",
-      "downloads": 419604,
-      "likes": 109,
+      "downloads": 450286,
+      "likes": 110,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:23:24.000Z",
       "numParameters": 4628569635,
       "repoType": "model"
     },
     {
-      "author": "RedHatAI",
-      "id": "RedHatAI/gemma-4-12B-it-FP8-Dynamic",
-      "downloads": 409911,
-      "likes": 5,
+      "author": "google",
+      "id": "google/gemma-4-E2B-it-qat-w4a16-ct",
+      "downloads": 448401,
+      "likes": 8,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-08-13T13:10:52.000Z",
-      "numParameters": 12966363184,
+      "lastModified": "2026-07-20T16:43:14.000Z",
+      "numParameters": 5565601899,
       "repoType": "model"
     },
     {
       "author": "google",
       "id": "google/gemma-4-E4B",
-      "downloads": 394363,
-      "likes": 403,
+      "downloads": 437466,
+      "likes": 405,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:40:09.000Z",
       "numParameters": 7996156490,
@@ -247,7 +247,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
-      "downloads": 392106,
+      "downloads": 412500,
       "likes": 318,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:44.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "llmfan46",
       "id": "llmfan46/gemma-4-E4B-it-uncensored-heretic",
-      "downloads": 379687,
+      "downloads": 390473,
       "likes": 6,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-04T02:04:10.000Z",
@@ -265,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "lmstudio-community",
+      "id": "lmstudio-community/gemma-4-12B-it-MLX-4bit",
+      "downloads": 368044,
+      "likes": 3,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-07-23T18:31:08.000Z",
+      "numParameters": 1876642864,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "downloads": 366973,
+      "downloads": 360599,
       "likes": 422,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-24T23:49:25.000Z",
@@ -276,18 +286,8 @@
     },
     {
       "author": "lmstudio-community",
-      "id": "lmstudio-community/gemma-4-12B-it-MLX-4bit",
-      "downloads": 361696,
-      "likes": 3,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-23T18:31:08.000Z",
-      "numParameters": 1876642864,
-      "repoType": "model"
-    },
-    {
-      "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-8bit",
-      "downloads": 351448,
+      "downloads": 357072,
       "likes": 3,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:14.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-6bit",
-      "downloads": 348513,
+      "downloads": 354178,
       "likes": 2,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:12.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:31:50.729Z"
+  "fetchedAt": "2026-08-29T22:04:39.262Z"
 }

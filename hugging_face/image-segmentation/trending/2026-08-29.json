@@ -1,14 +1,14 @@
 {
   "category": "image-segmentation",
   "sort": "trending",
-  "totalItems": 3244,
+  "totalItems": 3253,
   "fetchedItems": 30,
   "models": [
     {
       "author": "briaai",
       "id": "briaai/RMBG-2.0",
-      "downloads": 629049,
-      "likes": 1380,
+      "downloads": 656449,
+      "likes": 1383,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-06T15:27:43.000Z",
       "numParameters": 220700242,
@@ -17,21 +17,11 @@
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet",
-      "downloads": 892260,
+      "downloads": 924082,
       "likes": 629,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:55.000Z",
       "numParameters": 220700242,
-      "repoType": "model"
-    },
-    {
-      "author": "briaai",
-      "id": "briaai/RMBG-1.4",
-      "downloads": 417656,
-      "likes": 2018,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-07-06T08:27:49.000Z",
-      "numParameters": 44075590,
       "repoType": "model"
     },
     {
@@ -45,9 +35,19 @@
       "repoType": "model"
     },
     {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 431411,
+      "likes": 2018,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
       "author": "onnx-community",
       "id": "onnx-community/BiRefNet_lite-ONNX",
-      "downloads": 5156,
+      "downloads": 5348,
       "likes": 23,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-10-26T21:36:18.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 17703,
+      "downloads": 18973,
       "likes": 108,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-08T12:32:42.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "Jason37437",
       "id": "Jason37437/SEED",
-      "downloads": 59,
+      "downloads": 62,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-06-23T11:44:11.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "keras-io",
       "id": "keras-io/deeplabv3p-resnet50",
-      "downloads": 24,
+      "downloads": 22,
       "likes": 6,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-07-05T12:47:36.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "plant",
       "id": "plant/segformer-b5-finetuned-segments-instryde-foot-test",
-      "downloads": 12,
+      "downloads": 15,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2022-08-10T08:36:09.000Z",
@@ -97,11 +97,21 @@
     {
       "author": "badmatr11x",
       "id": "badmatr11x/semantic-image-segmentation",
-      "downloads": 17,
+      "downloads": 24,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-12-07T01:24:50.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chribark",
+      "id": "chribark/segformer-b3-finetuned-UAVid",
+      "downloads": 86,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-05-04T17:35:01.000Z",
+      "numParameters": 47339350,
       "repoType": "model"
     },
     {
@@ -115,29 +125,19 @@
       "repoType": "model"
     },
     {
-      "author": "onnx-community",
-      "id": "onnx-community/BiRefNet-ONNX",
-      "downloads": 748,
-      "likes": 20,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-03-07T11:29:49.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet-matting",
-      "downloads": 13254,
+      "downloads": 14154,
       "likes": 30,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-02-04T22:43:51.000Z",
+      "lastModified": "2026-08-29T11:40:50.000Z",
       "numParameters": 220700242,
       "repoType": "model"
     },
     {
       "author": "onnx-community",
       "id": "onnx-community/mediapipe_selfie_segmentation",
-      "downloads": 887,
+      "downloads": 924,
       "likes": 6,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-03-07T11:26:23.000Z",
@@ -145,19 +145,9 @@
       "repoType": "model"
     },
     {
-      "author": "wefttechnologies",
-      "id": "wefttechnologies/BiRefNet2",
-      "downloads": 162,
-      "likes": 5,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-05-27T10:11:09.000Z",
-      "numParameters": 220700242,
-      "repoType": "model"
-    },
-    {
       "author": "ianpan",
       "id": "ianpan/chest-x-ray-basic",
-      "downloads": 431,
+      "downloads": 452,
       "likes": 10,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-01-03T12:38:07.000Z",
@@ -167,7 +157,7 @@
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet_lite-matting",
-      "downloads": 2097,
+      "downloads": 2079,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:43.000Z",
@@ -177,7 +167,7 @@
     {
       "author": "csgaobb",
       "id": "csgaobb/MetaUAS",
-      "downloads": 2,
+      "downloads": 14,
       "likes": 7,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-15T11:43:02.000Z",
@@ -187,7 +177,7 @@
     {
       "author": "leeyunjai",
       "id": "leeyunjai/yolo11-road-seg",
-      "downloads": 22,
+      "downloads": 24,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-06-26T06:31:10.000Z",
@@ -207,7 +197,7 @@
     {
       "author": "huyvux3005",
       "id": "huyvux3005/manga109-segmentation-bubble",
-      "downloads": 5663,
+      "downloads": 5222,
       "likes": 22,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-12-29T14:46:03.000Z",
@@ -217,7 +207,7 @@
     {
       "author": "facebook",
       "id": "facebook/sapiens2-seg-0.4b",
-      "downloads": 13044,
+      "downloads": 23755,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-06-15T14:49:24.000Z",
@@ -227,7 +217,7 @@
     {
       "author": "Yytsi",
       "id": "Yytsi/floorplan-to-3d-walls",
-      "downloads": 570,
+      "downloads": 615,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-05-13T15:17:50.000Z",
@@ -247,7 +237,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/PIDNet-S-Cityscapes-LiteRT",
-      "downloads": 130,
+      "downloads": 134,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-24T02:47:40.000Z",
@@ -257,7 +247,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/MODNet-LiteRT",
-      "downloads": 133,
+      "downloads": 134,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-24T02:47:29.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/Cloth-Segmentation-U2Net-LiteRT",
-      "downloads": 57,
+      "downloads": 62,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-24T02:47:13.000Z",
@@ -277,7 +267,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/DIS-ISNet-LiteRT",
-      "downloads": 59,
+      "downloads": 63,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-24T02:47:23.000Z",
@@ -297,13 +287,23 @@
     {
       "author": "egeorcun",
       "id": "egeorcun/lucida",
-      "downloads": 5031,
+      "downloads": 5017,
       "likes": 49,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-05T03:29:59.000Z",
       "numParameters": 220700242,
       "repoType": "model"
+    },
+    {
+      "author": "Catniti",
+      "id": "Catniti/catrex-1.0-image-segmentation",
+      "downloads": 56,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-08-15T10:03:12.000Z",
+      "numParameters": 4639485,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:32:14.162Z"
+  "fetchedAt": "2026-08-29T22:05:03.645Z"
 }

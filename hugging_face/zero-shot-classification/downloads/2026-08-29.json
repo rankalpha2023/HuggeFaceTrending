@@ -7,8 +7,8 @@
     {
       "author": "facebook",
       "id": "facebook/bart-large-mnli",
-      "downloads": 3065549,
-      "likes": 1601,
+      "downloads": 3151710,
+      "likes": 1602,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-09-05T14:49:34.000Z",
       "numParameters": 407344133,
@@ -17,7 +17,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
-      "downloads": 826793,
+      "downloads": 847212,
       "likes": 384,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:49:19.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-      "downloads": 492481,
+      "downloads": 523460,
       "likes": 225,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:47:27.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-base",
-      "downloads": 452965,
+      "downloads": 468789,
       "likes": 47,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-11T09:56:48.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-small",
-      "downloads": 449430,
+      "downloads": 462897,
       "likes": 16,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-15T08:18:25.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "typeform",
       "id": "typeform/distilbert-base-uncased-mnli",
-      "downloads": 429179,
+      "downloads": 444844,
       "likes": 45,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-03-22T08:49:00.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
-      "downloads": 405803,
+      "downloads": 405905,
       "likes": 315,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-01-08T12:37:16.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "MoritzLaurer",
-      "id": "MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnli",
-      "downloads": 157452,
-      "likes": 6,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2023-03-20T08:28:40.000Z",
-      "numParameters": 117642373,
-      "repoType": "model"
-    },
-    {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-MiniLM2-L6-H768",
-      "downloads": 151228,
+      "downloads": 155272,
       "likes": 14,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-15T08:00:19.000Z",
@@ -96,18 +86,18 @@
     },
     {
       "author": "MoritzLaurer",
-      "id": "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
-      "downloads": 131397,
-      "likes": 135,
+      "id": "MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnli",
+      "downloads": 154529,
+      "likes": 6,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-04-11T13:42:28.000Z",
-      "numParameters": 435063810,
+      "lastModified": "2023-03-20T08:28:40.000Z",
+      "numParameters": 117642373,
       "repoType": "model"
     },
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
-      "downloads": 128452,
+      "downloads": 137075,
       "likes": 131,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:49:10.000Z",
@@ -116,8 +106,18 @@
     },
     {
       "author": "MoritzLaurer",
+      "id": "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
+      "downloads": 135663,
+      "likes": 135,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:42:28.000Z",
+      "numParameters": 435063810,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
       "id": "MoritzLaurer/bge-m3-zeroshot-v2.0",
-      "downloads": 114698,
+      "downloads": 116735,
       "likes": 68,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-22T11:09:02.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-xsmall",
-      "downloads": 103259,
+      "downloads": 102724,
       "likes": 7,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-11T09:26:22.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "joeddav",
       "id": "joeddav/xlm-roberta-large-xnli",
-      "downloads": 93495,
+      "downloads": 95372,
       "likes": 293,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-10-16T21:59:20.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-base-zeroshot-v2.0",
-      "downloads": 71090,
+      "downloads": 72284,
       "likes": 17,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:42:07.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-xsmall-zeroshot-v1.1-all-33",
-      "downloads": 65509,
+      "downloads": 66975,
       "likes": 10,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-05-07T14:42:09.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/bart-large-mnli",
-      "downloads": 64804,
+      "downloads": 66783,
       "likes": 6,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-07-11T15:52:29.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-large-zeroshot-v1",
-      "downloads": 53669,
+      "downloads": 55850,
       "likes": 19,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-11-29T19:30:53.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-large",
-      "downloads": 50248,
+      "downloads": 49923,
       "likes": 45,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-15T07:48:35.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "joeddav",
       "id": "joeddav/bart-large-mnli-yahoo-answers",
-      "downloads": 49411,
+      "downloads": 47200,
       "likes": 13,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-09-15T16:35:19.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-distilroberta-base",
-      "downloads": 45146,
+      "downloads": 46179,
       "likes": 27,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-11T09:02:20.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "valhalla",
       "id": "valhalla/distilbart-mnli-12-1",
-      "downloads": 44445,
+      "downloads": 38480,
       "likes": 56,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2021-06-14T10:27:55.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "sileod",
       "id": "sileod/deberta-v3-base-tasksource-nli",
-      "downloads": 29647,
+      "downloads": 30001,
       "likes": 133,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-08-13T21:12:51.000Z",
@@ -235,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "MoritzLaurer",
-      "id": "MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary",
-      "downloads": 24597,
-      "likes": 7,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-04-11T13:48:16.000Z",
-      "numParameters": 70831234,
-      "repoType": "model"
-    },
-    {
       "author": "protectai",
       "id": "protectai/MoritzLaurer-roberta-base-zeroshot-v2.0-c-onnx",
-      "downloads": 22996,
+      "downloads": 27159,
       "likes": 0,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-07-09T16:43:07.000Z",
@@ -256,8 +246,18 @@
     },
     {
       "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-xsmall-mnli-fever-anli-ling-binary",
+      "downloads": 24831,
+      "likes": 7,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:48:16.000Z",
+      "numParameters": 70831234,
+      "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
       "id": "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli",
-      "downloads": 16582,
+      "downloads": 17559,
       "likes": 51,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-22T11:03:52.000Z",
@@ -265,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "tasksource",
+      "id": "tasksource/ModernBERT-large-nli",
+      "downloads": 16842,
+      "likes": 13,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-01-04T12:03:47.000Z",
+      "numParameters": 395834371,
+      "repoType": "model"
+    },
+    {
       "author": "Xenova",
       "id": "Xenova/mobilebert-uncased-mnli",
-      "downloads": 16128,
+      "downloads": 16641,
       "likes": 3,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-07-11T15:52:15.000Z",
@@ -276,34 +286,24 @@
     },
     {
       "author": "tasksource",
-      "id": "tasksource/ModernBERT-large-nli",
-      "downloads": 14775,
-      "likes": 13,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2025-01-04T12:03:47.000Z",
-      "numParameters": 395834371,
-      "repoType": "model"
-    },
-    {
-      "author": "MoritzLaurer",
-      "id": "MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33",
-      "downloads": 14340,
-      "likes": 30,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-06-03T10:27:59.000Z",
-      "numParameters": 184423682,
-      "repoType": "model"
-    },
-    {
-      "author": "tasksource",
       "id": "tasksource/ModernBERT-base-nli",
-      "downloads": 14174,
+      "downloads": 14923,
       "likes": 29,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-01-06T08:58:31.000Z",
       "numParameters": 149607171,
       "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33",
+      "downloads": 14779,
+      "likes": 30,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-06-03T10:27:59.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:33:16.484Z"
+  "fetchedAt": "2026-08-29T22:06:22.106Z"
 }

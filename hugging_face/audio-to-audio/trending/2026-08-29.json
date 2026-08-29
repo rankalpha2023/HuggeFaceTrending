@@ -1,14 +1,14 @@
 {
   "category": "audio-to-audio",
   "sort": "trending",
-  "totalItems": 1430,
+  "totalItems": 1433,
   "fetchedItems": 30,
   "models": [
     {
       "author": "nvidia",
       "id": "nvidia/personaplex-7b-v1",
-      "downloads": 140347,
-      "likes": 2688,
+      "downloads": 135276,
+      "likes": 2689,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-02T18:03:29.000Z",
       "numParameters": 8371408896,
@@ -17,7 +17,7 @@
     {
       "author": "earlab",
       "id": "earlab/EAR_VAE2",
-      "downloads": 70,
+      "downloads": 82,
       "likes": 7,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-08-21T09:50:53.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "BornSaint",
       "id": "BornSaint/minimax-music3-latent-refiner-v0.10",
-      "downloads": 24,
+      "downloads": 42,
       "likes": 4,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-08-21T06:44:00.000Z",
@@ -35,33 +35,13 @@
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM2.5-Audio-1.5B",
-      "downloads": 1491,
-      "likes": 456,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-03-30T14:43:52.000Z",
-      "numParameters": 1470308496,
-      "repoType": "model"
-    },
-    {
       "author": "Qwen",
       "id": "Qwen/Qwen3-TTS-Tokenizer-12Hz",
-      "downloads": 159709,
+      "downloads": 122926,
       "likes": 78,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-01-29T08:01:28.000Z",
       "numParameters": 170557441,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/Real-time_RE-USE",
-      "downloads": 438,
-      "likes": 34,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-06-30T09:47:21.000Z",
-      "numParameters": 13475815,
       "repoType": "model"
     },
     {
@@ -75,9 +55,29 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_base_22khz_80band",
+      "downloads": 387,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:54:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Plachta",
+      "id": "Plachta/Seed-VC",
+      "downloads": 0,
+      "likes": 92,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-04-07T13:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "neuphonic",
       "id": "neuphonic/neucodec",
-      "downloads": 91558,
+      "downloads": 89919,
       "likes": 117,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-08-26T15:22:14.000Z",
@@ -95,29 +95,19 @@
       "repoType": "model"
     },
     {
-      "author": "neuphonic",
-      "id": "neuphonic/distill-neucodec",
-      "downloads": 19622,
-      "likes": 22,
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 1637,
+      "likes": 456,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-08-26T15:25:30.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "HiDolen",
-      "id": "HiDolen/Mini-BS-RoFormer-V2-46.8M",
-      "downloads": 1224,
-      "likes": 12,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2025-12-30T02:39:18.000Z",
-      "numParameters": 46838324,
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
       "repoType": "model"
     },
     {
       "author": "Xiaobin-Rong",
       "id": "Xiaobin-Rong/unipase",
-      "downloads": 1644,
+      "downloads": 1592,
       "likes": 9,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-20T11:02:25.000Z",
@@ -125,9 +115,19 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/Real-time_RE-USE",
+      "downloads": 477,
+      "likes": 34,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-06-30T09:47:21.000Z",
+      "numParameters": 13475815,
+      "repoType": "model"
+    },
+    {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Audio-1.5B-JP",
-      "downloads": 311,
+      "downloads": 322,
       "likes": 77,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-11T02:56:58.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "cisco-ai",
       "id": "cisco-ai/stupase",
-      "downloads": 267,
+      "downloads": 395,
       "likes": 22,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-07-14T13:19:40.000Z",
@@ -145,19 +145,9 @@
       "repoType": "model"
     },
     {
-      "author": "pipecat-ai",
-      "id": "pipecat-ai/NVIDIA-NemotronLabs-VoiceChat-11B-Spark",
-      "downloads": 0,
-      "likes": 19,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-08-15T23:29:45.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "KoshiMazaki",
       "id": "KoshiMazaki/akuspace-ltx25",
-      "downloads": 130,
+      "downloads": 136,
       "likes": 2,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-08-26T01:40:09.000Z",
@@ -167,7 +157,7 @@
     {
       "author": "speechbrain",
       "id": "speechbrain/sepformer-wsj02mix",
-      "downloads": 7688,
+      "downloads": 8195,
       "likes": 79,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-02-19T13:28:30.000Z",
@@ -175,19 +165,9 @@
       "repoType": "model"
     },
     {
-      "author": "tnkmr",
-      "id": "tnkmr/sfi_convtasnet_td_mgf_musdb18hq",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2023-01-24T05:02:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/speecht5_vc",
-      "downloads": 2004,
+      "downloads": 2018,
       "likes": 113,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2023-03-22T20:10:32.000Z",
@@ -211,6 +191,16 @@
       "likes": 5,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2023-08-09T08:21:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IAHispano",
+      "id": "IAHispano/Applio",
+      "downloads": 79,
+      "likes": 200,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-07-27T12:01:25.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -245,22 +235,12 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/bigvgan_base_22khz_80band",
-      "downloads": 455,
-      "likes": 4,
+      "author": "neuphonic",
+      "id": "neuphonic/distill-neucodec",
+      "downloads": 18169,
+      "likes": 23,
       "pipeline_tag": "audio-to-audio",
-      "lastModified": "2024-07-22T13:54:32.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Plachta",
-      "id": "Plachta/Seed-VC",
-      "downloads": 0,
-      "likes": 91,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2025-04-07T13:07:56.000Z",
+      "lastModified": "2026-08-26T15:25:30.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -275,19 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM2-Audio-1.5B",
-      "downloads": 323,
-      "likes": 362,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-03-27T16:11:29.000Z",
-      "numParameters": 1470308496,
-      "repoType": "model"
-    },
-    {
       "author": "earlab",
       "id": "earlab/EAR_VAE",
-      "downloads": 10,
+      "downloads": 11,
       "likes": 18,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-08-21T07:59:21.000Z",
@@ -295,15 +265,45 @@
       "repoType": "model"
     },
     {
+      "author": "HiDolen",
+      "id": "HiDolen/Mini-BS-RoFormer-V2-46.8M",
+      "downloads": 1255,
+      "likes": 12,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-30T02:39:18.000Z",
+      "numParameters": 46838324,
+      "repoType": "model"
+    },
+    {
       "author": "mlx-community",
       "id": "mlx-community/LFM2.5-Audio-1.5B-bf16",
-      "downloads": 174,
+      "downloads": 176,
       "likes": 15,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-01-15T23:08:18.000Z",
       "numParameters": 1470308480,
       "repoType": "model"
+    },
+    {
+      "author": "miercolesv",
+      "id": "miercolesv/MVSEP-Central-Backup",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-16T18:30:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/hibiki-zero-3b-pytorch-bf16",
+      "downloads": 1466,
+      "likes": 58,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-12T15:35:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:31:56.620Z"
+  "fetchedAt": "2026-08-29T22:04:45.356Z"
 }

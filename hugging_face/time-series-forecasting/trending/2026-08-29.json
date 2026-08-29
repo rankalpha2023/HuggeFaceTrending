@@ -1,77 +1,67 @@
 {
   "category": "time-series-forecasting",
   "sort": "trending",
-  "totalItems": 872,
+  "totalItems": 874,
   "fetchedItems": 30,
   "models": [
-    {
-      "author": "amazon",
-      "id": "amazon/chronos-2",
-      "downloads": 29922603,
-      "likes": 414,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-06-05T11:55:42.000Z",
-      "numParameters": 119477664,
-      "repoType": "model"
-    },
-    {
-      "author": "NeoQuasar",
-      "id": "NeoQuasar/Kronos-base",
-      "downloads": 1129177,
-      "likes": 261,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-09-09T14:08:15.000Z",
-      "numParameters": 102311008,
-      "repoType": "model"
-    },
     {
       "author": "google",
       "id": "google/timesfm-3.0-pytorch",
       "downloads": 0,
-      "likes": 5,
+      "likes": 16,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-08-28T15:16:27.000Z",
       "numParameters": 330710976,
       "repoType": "model"
     },
     {
-      "author": "raws-labs",
-      "id": "raws-labs/tinycast",
-      "downloads": 49,
-      "likes": 4,
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-base",
+      "downloads": 1196689,
+      "likes": 262,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-08-18T07:11:15.000Z",
-      "numParameters": 146505,
+      "lastModified": "2025-09-09T14:08:15.000Z",
+      "numParameters": 102311008,
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/timesfm-2.5-200m-pytorch",
+      "author": "amazon",
+      "id": "amazon/chronos-2",
+      "downloads": 29823830,
+      "likes": 415,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-06-05T11:55:42.000Z",
+      "numParameters": 119477664,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-timeseries-patchtst-fm-r2",
       "downloads": 0,
-      "likes": 258,
+      "likes": 3,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-10-02T17:21:38.000Z",
-      "numParameters": 231289280,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/timesfm-2.5-200m-transformers",
-      "downloads": 62014,
-      "likes": 134,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-04-10T23:15:28.000Z",
-      "numParameters": 231289280,
+      "lastModified": "2026-08-28T21:31:02.000Z",
+      "numParameters": 384600208,
       "repoType": "model"
     },
     {
       "author": "NX-AI",
       "id": "NX-AI/TiRex-2",
-      "downloads": 1829,
+      "downloads": 2085,
       "likes": 39,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-07-21T03:36:34.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "raws-labs",
+      "id": "raws-labs/tinycast",
+      "downloads": 51,
+      "likes": 4,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-08-18T07:11:15.000Z",
+      "numParameters": 146505,
       "repoType": "model"
     },
     {
@@ -87,7 +77,7 @@
     {
       "author": "NeoQuasar",
       "id": "NeoQuasar/Kronos-small",
-      "downloads": 1239458,
+      "downloads": 1272205,
       "likes": 33,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-09-09T14:10:26.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "NeoQuasar",
       "id": "NeoQuasar/Kronos-Tokenizer-base",
-      "downloads": 2454555,
+      "downloads": 2571922,
       "likes": 70,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-09-09T14:10:02.000Z",
@@ -105,9 +95,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/timesfm-2.5-200m-pytorch",
+      "downloads": 0,
+      "likes": 258,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-02T17:21:38.000Z",
+      "numParameters": 231289280,
+      "repoType": "model"
+    },
+    {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-flowstate-r1",
-      "downloads": 33539,
+      "downloads": 33470,
       "likes": 28,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-04-29T14:31:21.000Z",
@@ -115,9 +115,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/timesfm-2.5-200m-transformers",
+      "downloads": 61904,
+      "likes": 133,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-04-10T23:15:28.000Z",
+      "numParameters": 231289280,
+      "repoType": "model"
+    },
+    {
       "author": "Synthefy",
       "id": "Synthefy/migas-1.5",
-      "downloads": 143,
+      "downloads": 135,
       "likes": 11,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-03-26T19:35:36.000Z",
@@ -127,7 +137,7 @@
     {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-patchtst-fm-r1",
-      "downloads": 22455,
+      "downloads": 23272,
       "likes": 5,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-03-25T16:25:18.000Z",
@@ -137,7 +147,7 @@
     {
       "author": "Datadog",
       "id": "Datadog/Toto-2.0-2.5B",
-      "downloads": 10341,
+      "downloads": 10413,
       "likes": 50,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-06-04T11:43:04.000Z",
@@ -147,7 +157,7 @@
     {
       "author": "Tylerbry1",
       "id": "Tylerbry1/surge-fm-v3",
-      "downloads": 38,
+      "downloads": 37,
       "likes": 1,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-08-11T01:13:55.000Z",
@@ -157,7 +167,7 @@
     {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-ttm-r3",
-      "downloads": 54930,
+      "downloads": 54328,
       "likes": 11,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-07-02T04:42:55.000Z",
@@ -167,21 +177,11 @@
     {
       "author": "theforecastingcompany",
       "id": "theforecastingcompany/t0-alpha",
-      "downloads": 23486,
+      "downloads": 24142,
       "likes": 40,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-08-19T09:01:24.000Z",
       "numParameters": 101641541,
-      "repoType": "model"
-    },
-    {
-      "author": "ibm-granite",
-      "id": "ibm-granite/granite-timeseries-patchtst-fm-r2",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-08-28T21:31:02.000Z",
-      "numParameters": 384600208,
       "repoType": "model"
     },
     {
@@ -197,7 +197,7 @@
     {
       "author": "keras-io",
       "id": "keras-io/timeseries_transformer_classification",
-      "downloads": 18,
+      "downloads": 19,
       "likes": 14,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-07-09T13:35:48.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "keras-io",
       "id": "keras-io/timeseries_forecasting_for_weather",
-      "downloads": 40,
+      "downloads": 38,
       "likes": 21,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-07-09T13:36:11.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "huggingface",
       "id": "huggingface/time-series-transformer-tourism-monthly",
-      "downloads": 2535,
+      "downloads": 2550,
       "likes": 31,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-05-24T12:25:55.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "ibm-research",
       "id": "ibm-research/patchtst-etth1-pretrain",
-      "downloads": 1030,
+      "downloads": 1193,
       "likes": 3,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-11-14T12:38:52.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-patchtsmixer",
-      "downloads": 8638,
+      "downloads": 8448,
       "likes": 23,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-08-01T21:46:01.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-patchtst",
-      "downloads": 43930,
+      "downloads": 44329,
       "likes": 20,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-08-01T21:45:02.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/moirai-1.0-R-small",
-      "downloads": 126081,
+      "downloads": 110313,
       "likes": 31,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-01-21T09:10:03.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/moirai-1.0-R-base",
-      "downloads": 4242,
+      "downloads": 4281,
       "likes": 32,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-01-21T09:10:49.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/moirai-1.0-R-large",
-      "downloads": 70476,
+      "downloads": 70587,
       "likes": 85,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-01-21T09:07:59.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "amazon",
       "id": "amazon/chronos-t5-mini",
-      "downloads": 38103,
+      "downloads": 40090,
       "likes": 20,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-11-21T12:55:40.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-08-29T02:33:02.182Z"
+  "fetchedAt": "2026-08-29T22:06:04.681Z"
 }
