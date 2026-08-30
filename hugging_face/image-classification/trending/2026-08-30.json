@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 28624,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 201,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-07-07T05:47:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger_v2",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-21T07:08:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 4770208,
+      "likes": 994,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/convnextv2_huge.dbv4-full",
+      "downloads": 1859,
+      "likes": 35,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-22T14:54:23.000Z",
+      "numParameters": 692617532,
+      "repoType": "model"
+    },
+    {
+      "author": "Grio43",
+      "id": "Grio43/OppaiOracle",
+      "downloads": 24,
+      "likes": 60,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-10T01:13:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "resoa",
+      "id": "resoa/garment-attributes",
+      "downloads": 746,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-08-29T20:03:31.000Z",
+      "numParameters": 93051866,
+      "repoType": "model"
+    },
+    {
+      "author": "Redstonexs",
+      "id": "Redstonexs/danbooru-tagger-v1",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-08-25T17:50:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-base-224-22k-1k",
+      "downloads": 1624,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-04T21:09:35.000Z",
+      "numParameters": 88591464,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-base-patch4-window7-224",
+      "downloads": 45846,
+      "likes": 27,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-10T18:04:03.000Z",
+      "numParameters": 87825848,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 61443,
+      "likes": 81,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "SiddharthaM",
+      "id": "SiddharthaM/resnet-18-feature-extraction",
+      "downloads": 16,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-11-07T21:50:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 18639851,
+      "likes": 102,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_base_patch14_448.mim_in22k_ft_in22k",
+      "downloads": 546,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:36:56.000Z",
+      "numParameters": 103144273,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/facial_emotions_image_detection",
+      "downloads": 20239,
+      "likes": 129,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:09:54.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/deepfake_vs_real_image_detection",
+      "downloads": 12562,
+      "likes": 60,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-04T09:44:17.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "nnaatt",
+      "id": "nnaatt/danbooru-effnet",
+      "downloads": 11,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-12-13T06:34:50.000Z",
+      "numParameters": 12320528,
+      "repoType": "model"
+    },
+    {
+      "author": "fancyfeast",
+      "id": "fancyfeast/joytag",
+      "downloads": 501,
+      "likes": 119,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-09T04:09:40.000Z",
+      "numParameters": 91498430,
+      "repoType": "model"
+    },
+    {
+      "author": "Organika",
+      "id": "Organika/sdxl-detector",
+      "downloads": 109352,
+      "likes": 61,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-09-06T12:17:24.000Z",
+      "numParameters": 86802898,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/vit-base-nsfw-detector",
+      "downloads": 841134,
+      "likes": 82,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-03T14:14:31.000Z",
+      "numParameters": 86092034,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/MobileNet-v2",
+      "downloads": 231,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-08-25T04:18:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qdrant",
+      "id": "Qdrant/clip-ViT-B-32-vision",
+      "downloads": 10880,
+      "likes": 15,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-16T09:40:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "haywoodsloan",
+      "id": "haywoodsloan/ai-image-detector-deploy",
+      "downloads": 13406,
+      "likes": 22,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-08-24T18:02:27.000Z",
+      "numParameters": 195206006,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/derm-foundation",
+      "downloads": 364,
+      "likes": 94,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-01T00:52:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "skshmjn",
+      "id": "skshmjn/Pokemon-classifier-gen9-1025",
+      "downloads": 458,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-30T14:01:29.000Z",
+      "numParameters": 86586881,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/timms",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T11:18:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/ai_vs_human_generated_image_detection",
+      "downloads": 1983,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-28T11:56:26.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Guard-Against-Unsafe-Content-Siglip2",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-28T09:08:50.000Z",
+      "numParameters": 92885762,
+      "repoType": "model"
+    },
+    {
+      "author": "trojblue",
+      "id": "trojblue/distill-q-align-quality-siglip2-base",
+      "downloads": 11,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-11T11:29:53.000Z",
+      "numParameters": 93520897,
+      "repoType": "model"
+    },
+    {
+      "author": "trojblue",
+      "id": "trojblue/distill-q-align-aesthetic-siglip2-base",
+      "downloads": 49,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-11T16:15:36.000Z",
+      "numParameters": 93520897,
+      "repoType": "model"
+    },
+    {
+      "author": "Ateeqq",
+      "id": "Ateeqq/ai-vs-human-image-detector",
+      "downloads": 13746,
+      "likes": 63,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-24T16:55:44.000Z",
+      "numParameters": 92885762,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-30T22:11:33.673Z"
+}
