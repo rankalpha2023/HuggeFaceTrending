@@ -1,0 +1,309 @@
+{
+  "category": "models",
+  "sort": "likes",
+  "totalItems": 3033495,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "downloads": 724434,
+      "likes": 14347,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-06-27T16:22:19.000Z",
+      "numParameters": 11901408320,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-R1",
+      "downloads": 2028559,
+      "likes": 13600,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-03-27T04:01:59.000Z",
+      "numParameters": 684531386000,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 4720763,
+      "likes": 13469,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T15:00:01.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "moonshotai",
+      "id": "moonshotai/Kimi-K3",
+      "downloads": 2792274,
+      "likes": 11116,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-20T04:57:37.000Z",
+      "numParameters": 2779931837184,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "downloads": 1720740,
+      "likes": 8092,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-10-30T16:03:47.000Z",
+      "numParameters": 2567463684,
+      "repoType": "model"
+    },
+    {
+      "author": "CompVis",
+      "id": "CompVis/stable-diffusion-v1-4",
+      "downloads": 482396,
+      "likes": 7056,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-08-23T21:15:42.000Z",
+      "numParameters": 859520964,
+      "repoType": "model"
+    },
+    {
+      "author": "hexgrad",
+      "id": "hexgrad/Kokoro-82M",
+      "downloads": 11651409,
+      "likes": 6785,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-04-10T18:12:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "downloads": 5861628,
+      "likes": 6726,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T17:00:57.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Meta-Llama-3-8B",
+      "downloads": 661978,
+      "likes": 6636,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-27T15:52:33.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3",
+      "downloads": 4870548,
+      "likes": 6209,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-08-12T10:20:10.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "downloads": 640106,
+      "likes": 5656,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-08-16T14:37:56.000Z",
+      "numParameters": 11891178560,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 809261,
+      "likes": 5492,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-22T12:12:50.000Z",
+      "numParameters": 1598839674782,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "downloads": 253520473,
+      "likes": 5326,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-01T06:29:13.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "downloads": 709520,
+      "likes": 5181,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-30T16:58:07.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-120b",
+      "downloads": 5316895,
+      "likes": 5137,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:03.000Z",
+      "numParameters": 116829156672,
+      "repoType": "model"
+    },
+    {
+      "author": "zai-org",
+      "id": "zai-org/GLM-5.2",
+      "downloads": 1552546,
+      "likes": 5064,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-07-02T08:08:14.000Z",
+      "numParameters": 753329940480,
+      "repoType": "model"
+    },
+    {
+      "author": "bigscience",
+      "id": "bigscience/bloom",
+      "downloads": 17580,
+      "likes": 5041,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-07-29T07:38:06.000Z",
+      "numParameters": 176247271424,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-3-medium",
+      "downloads": 4287,
+      "likes": 5018,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-08-12T12:37:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-20b",
+      "downloads": 6450692,
+      "likes": 4973,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:47.000Z",
+      "numParameters": 20914757184,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "downloads": 1628648,
+      "likes": 4876,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-06-18T23:49:51.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-2-7b-chat-hf",
+      "downloads": 340293,
+      "likes": 4826,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-04-17T08:40:48.000Z",
+      "numParameters": 6738417664,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "downloads": 305937,
+      "likes": 4722,
+      "pipeline_tag": "",
+      "lastModified": "2025-07-24T16:41:06.000Z",
+      "numParameters": 46702792704,
+      "repoType": "model"
+    },
+    {
+      "author": "MiniMaxAI",
+      "id": "MiniMaxAI/MiniMax-H3",
+      "downloads": 5362365,
+      "likes": 4705,
+      "pipeline_tag": "image-text-to-video",
+      "lastModified": "2026-08-13T01:46:29.000Z",
+      "numParameters": 33122992896,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-2-7b",
+      "downloads": 87,
+      "likes": 4524,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-04-17T08:12:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 158598,
+      "likes": 4514,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-27T05:03:36.000Z",
+      "numParameters": 179999981459,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V3",
+      "downloads": 1063224,
+      "likes": 4177,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-03-27T04:01:45.000Z",
+      "numParameters": 684531386000,
+      "repoType": "model"
+    },
+    {
+      "author": "baidu",
+      "id": "baidu/Unlimited-OCR",
+      "downloads": 3107972,
+      "likes": 4163,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-07-29T04:34:16.000Z",
+      "numParameters": 3336106240,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Mistral-7B-v0.1",
+      "downloads": 359263,
+      "likes": 4149,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-24T16:44:02.000Z",
+      "numParameters": 7241732096,
+      "repoType": "model"
+    },
+    {
+      "author": "lllyasviel",
+      "id": "lllyasviel/ControlNet-v1-1",
+      "downloads": 0,
+      "likes": 4108,
+      "pipeline_tag": "",
+      "lastModified": "2023-04-25T22:46:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WarriorMama777",
+      "id": "WarriorMama777/OrangeMixs",
+      "downloads": 882,
+      "likes": 3931,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-01-07T10:41:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-08-31T23:27:59.311Z"
+}
