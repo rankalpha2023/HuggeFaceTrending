@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 4809,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "griko",
+      "id": "griko/gender_cls_svm_ecapa_voxceleb",
+      "downloads": 401219,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-02-26T16:13:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eliya",
+      "id": "eliya/forensics_0.3B_base_deepfake_classifier",
+      "downloads": 85,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-06T12:36:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "m-a-p",
+      "id": "m-a-p/MERT-v1-330M",
+      "downloads": 168328,
+      "likes": 96,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-25T05:04:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TransWithAI",
+      "id": "TransWithAI/Whisper-Vad-EncDec-ASMR-onnx",
+      "downloads": 0,
+      "likes": 16,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-17T05:40:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eliya",
+      "id": "eliya/forensics_0.3B_v2_deepfake_age_gender_classifier",
+      "downloads": 2,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-06T12:36:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Common-Voice-Gender-Detection-IND-En-ONNX",
+      "downloads": 29,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-02T07:14:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/lang-id-voxlingua107-ecapa",
+      "downloads": 157374,
+      "likes": 164,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-27T20:12:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 790441,
+      "likes": 369,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-2048",
+      "downloads": 4921,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:47.000Z",
+      "numParameters": 968059520,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-4017",
+      "downloads": 61590,
+      "likes": 17,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:56.000Z",
+      "numParameters": 970077745,
+      "repoType": "model"
+    },
+    {
+      "author": "Jzuluaga",
+      "id": "Jzuluaga/accent-id-commonaccent_xlsr-en-english",
+      "downloads": 1548,
+      "likes": 18,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-12-02T15:38:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-24-ft-age-gender",
+      "downloads": 2402598,
+      "likes": 59,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-24T10:02:24.000Z",
+      "numParameters": 317542020,
+      "repoType": "model"
+    },
+    {
+      "author": "mispeech",
+      "id": "mispeech/ced-tiny",
+      "downloads": 5504,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-30T12:32:45.000Z",
+      "numParameters": 5503311,
+      "repoType": "model"
+    },
+    {
+      "author": "ahmmedasaad2772",
+      "id": "ahmmedasaad2772/wav2vec2-base-arabic_speech_emotion_recognition",
+      "downloads": 63,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-03-05T06:36:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "firdhokk",
+      "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+      "downloads": 15174,
+      "likes": 119,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-01T03:19:07.000Z",
+      "numParameters": 637298695,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/audiobox-aesthetics",
+      "downloads": 544313,
+      "likes": 51,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-04T21:32:30.000Z",
+      "numParameters": 103859112,
+      "repoType": "model"
+    },
+    {
+      "author": "badrex",
+      "id": "badrex/mms-300m-arabic-dialect-identifier",
+      "downloads": 684,
+      "likes": 9,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-10-29T12:25:15.000Z",
+      "numParameters": 315702405,
+      "repoType": "model"
+    },
+    {
+      "author": "IbrahimAmin",
+      "id": "IbrahimAmin/hubert-arabic-spoken-dialect-classifier",
+      "downloads": 79,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-11T09:59:51.000Z",
+      "numParameters": 94573202,
+      "repoType": "model"
+    },
+    {
+      "author": "Etherll",
+      "id": "Etherll/NoisySpeechDetection-v0.2",
+      "downloads": 474,
+      "likes": 9,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-06-11T12:49:40.000Z",
+      "numParameters": 88351490,
+      "repoType": "model"
+    },
+    {
+      "author": "lofcz",
+      "id": "lofcz/ai-music-detector",
+      "downloads": 158,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-20T02:32:59.000Z",
+      "numParameters": 3586,
+      "repoType": "model"
+    },
+    {
+      "author": "bnovikov",
+      "id": "bnovikov/bargein-classifier",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-04-11T13:24:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "protoLabsAI",
+      "id": "protoLabsAI/hey-orbis-wakeword",
+      "downloads": 38,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-04-27T09:45:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anyreach-ai",
+      "id": "anyreach-ai/dualturn-endpointing",
+      "downloads": 140,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-07-10T13:34:33.000Z",
+      "numParameters": 1449611,
+      "repoType": "model"
+    },
+    {
+      "author": "mudler",
+      "id": "mudler/ced-gguf",
+      "downloads": 1576525,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-21T17:01:30.000Z",
+      "numParameters": 85728847,
+      "repoType": "model"
+    },
+    {
+      "author": "troyskie",
+      "id": "troyskie/Beewatch-hive-classifier",
+      "downloads": 74,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-08-31T15:10:16.000Z",
+      "numParameters": 86191107,
+      "repoType": "model"
+    },
+    {
+      "author": "tiantiaf",
+      "id": "tiantiaf/childvox-speechocean762-prosody-whisper-large",
+      "downloads": 40,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-01T00:21:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tiantiaf",
+      "id": "tiantiaf/childvox-speechocean762-prosody-whisper-base",
+      "downloads": 55,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-03T01:32:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tiantiaf",
+      "id": "tiantiaf/childvox-speechocean762-prosody-babyhubert",
+      "downloads": 54,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-01T22:41:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eliya",
+      "id": "eliya/forensics_0.3B_xlsr_wild_deepfake_classifier",
+      "downloads": 57,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-06T12:36:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eliya",
+      "id": "eliya/forensics_0.3B_wavlm_oc_softmax_deepfake_classifier",
+      "downloads": 51,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-06T12:36:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-07T22:21:09.338Z"
+}
