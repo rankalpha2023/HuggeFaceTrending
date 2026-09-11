@@ -1,0 +1,309 @@
+{
+  "category": "sentence-similarity",
+  "sort": "trending",
+  "totalItems": 19785,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "downloads": 254035929,
+      "likes": 5818,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-01T06:29:13.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-m3",
+      "downloads": 37793325,
+      "likes": 3491,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-07-03T14:50:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/embeddinggemma-300m",
+      "downloads": 2097452,
+      "likes": 1900,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-09-25T15:11:17.000Z",
+      "numParameters": 302863104,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpai-lab",
+      "id": "nlpai-lab/KURE-v2",
+      "downloads": 2446,
+      "likes": 20,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-07T06:35:44.000Z",
+      "numParameters": 148733184,
+      "repoType": "model"
+    },
+    {
+      "author": "nomic-ai",
+      "id": "nomic-ai/nomic-embed-text-v1.5",
+      "downloads": 16063720,
+      "likes": 908,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-07T14:17:02.000Z",
+      "numParameters": 136731648,
+      "repoType": "model"
+    },
+    {
+      "author": "dnotitia",
+      "id": "dnotitia/DNA-VL-STEER-2B",
+      "downloads": 2908,
+      "likes": 10,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-10T03:20:57.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Embed-8B-BF16",
+      "downloads": 98623,
+      "likes": 95,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-28T15:59:43.000Z",
+      "numParameters": 7952683008,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-small",
+      "downloads": 12176490,
+      "likes": 401,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:16:05.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "InfocubeSrl",
+      "id": "InfocubeSrl/pplx-embed-v1-0.6b-acta-ita",
+      "downloads": 5,
+      "likes": 12,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-10T08:52:06.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "kowshiktg",
+      "id": "kowshiktg/recruiter-engine-minilm",
+      "downloads": 48,
+      "likes": 3,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-06T07:48:11.000Z",
+      "numParameters": 22713216,
+      "repoType": "model"
+    },
+    {
+      "author": "Singaraj",
+      "id": "Singaraj/morisien-embed-v1.5",
+      "downloads": 201,
+      "likes": 3,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-11T07:21:31.000Z",
+      "numParameters": 470926848,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 46383496,
+      "likes": 1370,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-01-28T10:02:26.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/e5-small-v2",
+      "downloads": 521901,
+      "likes": 124,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-02-17T03:24:44.000Z",
+      "numParameters": 33360512,
+      "repoType": "model"
+    },
+    {
+      "author": "nomic-ai",
+      "id": "nomic-ai/nomic-embed-text-v1.5-GGUF",
+      "downloads": 153628,
+      "likes": 133,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-04-28T20:14:53.000Z",
+      "numParameters": 136727040,
+      "repoType": "model"
+    },
+    {
+      "author": "deepvk",
+      "id": "deepvk/USER-bge-m3",
+      "downloads": 298520,
+      "likes": 86,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-07-18T12:12:51.000Z",
+      "numParameters": 359026688,
+      "repoType": "model"
+    },
+    {
+      "author": "Lajavaness",
+      "id": "Lajavaness/bilingual-embedding-small",
+      "downloads": 7127,
+      "likes": 9,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-07-28T04:03:23.000Z",
+      "numParameters": 117653760,
+      "repoType": "model"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "id": "Alibaba-NLP/gte-multilingual-base",
+      "downloads": 1309565,
+      "likes": 376,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-07-05T01:38:16.000Z",
+      "numParameters": 305369089,
+      "repoType": "model"
+    },
+    {
+      "author": "nomic-ai",
+      "id": "nomic-ai/nomic-embed-text-v2-moe-GGUF",
+      "downloads": 49436,
+      "likes": 79,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-05-15T00:35:53.000Z",
+      "numParameters": 475288320,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/omni-embed-nemotron-3b",
+      "downloads": 10555,
+      "likes": 130,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-05-06T18:02:16.000Z",
+      "numParameters": 4703464448,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Embedding-2B",
+      "downloads": 1292392,
+      "likes": 449,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-16T08:54:25.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "ICT-TIME-and-Querit",
+      "id": "ICT-TIME-and-Querit/ICT-TIME-and-Querit-embedding-v1",
+      "downloads": 656,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-05-09T13:32:22.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "hotchpotch",
+      "id": "hotchpotch/bekko-embedding-v1-a8m",
+      "downloads": 5740,
+      "likes": 17,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-05T01:30:32.000Z",
+      "numParameters": 105975168,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Embed-1B-NVFP4",
+      "downloads": 12848,
+      "likes": 78,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-28T16:42:39.000Z",
+      "numParameters": 704710656,
+      "repoType": "model"
+    },
+    {
+      "author": "ai-sage",
+      "id": "ai-sage/Giga-Embeddings-instruct-3B-0826",
+      "downloads": 30537,
+      "likes": 14,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-27T14:02:48.000Z",
+      "numParameters": 3150605312,
+      "repoType": "model"
+    },
+    {
+      "author": "erikkaum",
+      "id": "erikkaum/lattice-retrieval",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-07T11:32:25.000Z",
+      "numParameters": 31254528,
+      "repoType": "model"
+    },
+    {
+      "author": "NbAiLab",
+      "id": "NbAiLab/borealis-embed-212m",
+      "downloads": 315,
+      "likes": 4,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-04T09:19:49.000Z",
+      "numParameters": 211589376,
+      "repoType": "model"
+    },
+    {
+      "author": "cointegrated",
+      "id": "cointegrated/rubert-tiny2",
+      "downloads": 314692,
+      "likes": 176,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-12-30T08:33:24.000Z",
+      "numParameters": 29378550,
+      "repoType": "model"
+    },
+    {
+      "author": "jhgan",
+      "id": "jhgan/ko-sroberta-multitask",
+      "downloads": 646083,
+      "likes": 151,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-16T00:32:36.000Z",
+      "numParameters": 110618626,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/LaBSE",
+      "downloads": 767297,
+      "likes": 347,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:40:25.000Z",
+      "numParameters": 470927360,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L12-v2",
+      "downloads": 4090048,
+      "likes": 328,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-03-31T16:05:12.000Z",
+      "numParameters": 33360512,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-11T22:04:21.066Z"
+}

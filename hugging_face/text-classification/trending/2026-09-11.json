@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 120819,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-v2-m3",
+      "downloads": 18178285,
+      "likes": 1169,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-06-24T14:08:45.000Z",
+      "numParameters": 567755777,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 95309,
+      "likes": 204,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "ProCreations",
+      "id": "ProCreations/auto-1b",
+      "downloads": 271,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-08-09T01:59:00.000Z",
+      "numParameters": 1031267330,
+      "repoType": "model"
+    },
+    {
+      "author": "fromziro",
+      "id": "fromziro/Sentimental-Mini-0.2M",
+      "downloads": 113,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-07T18:03:39.000Z",
+      "numParameters": 190560,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3784438,
+      "likes": 951,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
+      "repoType": "model"
+    },
+    {
+      "author": "ProsusAI",
+      "id": "ProsusAI/finbert",
+      "downloads": 5463538,
+      "likes": 1241,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-05-23T12:43:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/fasttext-language-identification",
+      "downloads": 454988,
+      "likes": 281,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-06-09T12:39:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Mozilla",
+      "id": "Mozilla/tinybert-address-autofill",
+      "downloads": 72,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-08-21T23:00:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/gist",
+      "downloads": 1265,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-10T17:27:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/tongue",
+      "downloads": 98,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-10T16:17:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SamLowe",
+      "id": "SamLowe/roberta-base-go_emotions",
+      "downloads": 645420,
+      "likes": 690,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-05-13T18:23:34.000Z",
+      "numParameters": 124667678,
+      "repoType": "model"
+    },
+    {
+      "author": "padmajabfrl",
+      "id": "padmajabfrl/Gender-Classification",
+      "downloads": 23026,
+      "likes": 34,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2023-01-09T10:52:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/deberta-v3-base-prompt-injection-v2",
+      "downloads": 853958,
+      "likes": 115,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-07-09T16:01:38.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Prompt-Guard-86M",
+      "downloads": 4537985,
+      "likes": 401,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-11-12T21:27:00.000Z",
+      "numParameters": 278811651,
+      "repoType": "model"
+    },
+    {
+      "author": "leolee99",
+      "id": "leolee99/PIGuard",
+      "downloads": 38210,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-08-03T06:13:10.000Z",
+      "numParameters": 184423682,
+      "repoType": "model"
+    },
+    {
+      "author": "NousResearch",
+      "id": "NousResearch/Minos-v1",
+      "downloads": 1680,
+      "likes": 180,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-28T21:18:50.000Z",
+      "numParameters": 395833346,
+      "repoType": "model"
+    },
+    {
+      "author": "rogue-security",
+      "id": "rogue-security/prompt-injection-jailbreak-sentinel-v2",
+      "downloads": 28588,
+      "likes": 40,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-03-11T11:03:42.000Z",
+      "numParameters": 596051968,
+      "repoType": "model"
+    },
+    {
+      "author": "speakleash",
+      "id": "speakleash/Bielik-Guard-0.1B-v1.1",
+      "downloads": 670,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-02-12T08:07:00.000Z",
+      "numParameters": 124446725,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/emo",
+      "downloads": 25068,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-10T15:52:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/toxic",
+      "downloads": 55,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-10T21:46:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ProCreations",
+      "id": "ProCreations/auto-0.4b",
+      "downloads": 140,
+      "likes": 12,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-08-09T01:46:42.000Z",
+      "numParameters": 395833346,
+      "repoType": "model"
+    },
+    {
+      "author": "oddadmix",
+      "id": "oddadmix/Nawah-Dialect-BERT-6M",
+      "downloads": 26,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-10T10:02:57.000Z",
+      "numParameters": 5961344,
+      "repoType": "model"
+    },
+    {
+      "author": "Reza2kn",
+      "id": "Reza2kn/Hes-Shenaas-RizehPizeh-v0.1",
+      "downloads": 22,
+      "likes": 2,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-09T23:33:43.000Z",
+      "numParameters": 12040967,
+      "repoType": "model"
+    },
+    {
+      "author": "HooshvareLab",
+      "id": "HooshvareLab/bert-fa-base-uncased-clf-persiannews",
+      "downloads": 141,
+      "likes": 14,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-18T20:51:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "gurkan08",
+      "id": "gurkan08/bert-turkish-text-classification",
+      "downloads": 16,
+      "likes": 3,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-19T17:50:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "m3hrdadfi",
+      "id": "m3hrdadfi/albert-fa-base-v2-sentiment-digikala",
+      "downloads": 79,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2020-12-26T08:48:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/MiniLM-L12-H384-uncased",
+      "downloads": 80285,
+      "likes": 112,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2021-05-19T23:29:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Multilingual-MiniLM-L12-H384",
+      "downloads": 62411,
+      "likes": 110,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2022-08-10T07:27:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
+      "downloads": 350329,
+      "likes": 468,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2024-01-21T15:17:58.000Z",
+      "numParameters": 82121221,
+      "repoType": "model"
+    },
+    {
+      "author": "nlptown",
+      "id": "nlptown/bert-base-multilingual-uncased-sentiment",
+      "downloads": 811266,
+      "likes": 485,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-01-02T20:13:01.000Z",
+      "numParameters": 167360261,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-11T22:04:28.383Z"
+}
