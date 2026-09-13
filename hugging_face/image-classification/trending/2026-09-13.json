@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 28940,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Grio43",
+      "id": "Grio43/OppaiOracle",
+      "downloads": 31,
+      "likes": 67,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-10T01:13:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/caformer_b36.dbv4-full",
+      "downloads": 958,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-06-02T17:06:14.000Z",
+      "numParameters": 134019362,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 792811,
+      "likes": 509,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/efficientnet_b3.ra2_in1k",
+      "downloads": 12487744,
+      "likes": 12,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:17:02.000Z",
+      "numParameters": 12320528,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 211,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-07-07T05:47:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DannyLuna",
+      "id": "DannyLuna/recaptcha-classification-57k",
+      "downloads": 0,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-25T16:08:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "animeshakr",
+      "id": "animeshakr/plant-disease-efficientnetv2s",
+      "downloads": 45,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-04-05T01:02:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/shapes",
+      "downloads": 3550,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-10T15:53:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "UserPollo",
+      "id": "UserPollo/moire-pattern-detector",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-12T10:55:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "julien-c",
+      "id": "julien-c/hotdog-not-hotdog",
+      "downloads": 1157,
+      "likes": 38,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-09-05T21:30:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nateraw",
+      "id": "nateraw/vit-base-patch16-224-cifar10",
+      "downloads": 2585,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-01-28T10:22:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/mit-b0",
+      "downloads": 90766,
+      "likes": 44,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-15T07:49:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-152",
+      "downloads": 4741,
+      "likes": 19,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-26T19:49:50.000Z",
+      "numParameters": 60344232,
+      "repoType": "model"
+    },
+    {
+      "author": "aaraki",
+      "id": "aaraki/vit-base-patch16-224-in21k-finetuned-cifar10",
+      "downloads": 10937,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-03-30T01:41:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "yangy50",
+      "id": "yangy50/garbage-classification",
+      "downloads": 179,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-04-25T22:55:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anuragiiser",
+      "id": "anuragiiser/convnext-tiny-finetuned-mri",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-11-06T05:42:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnextv2-base-22k-384",
+      "downloads": 294316,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-17T18:43:13.000Z",
+      "numParameters": 88717800,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/anime_classification",
+      "downloads": 0,
+      "likes": 22,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-31T10:12:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/smoker_image_classification",
+      "downloads": 88,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:40:48.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "metadome",
+      "id": "metadome/face_shape_classification",
+      "downloads": 318,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-12-12T03:34:42.000Z",
+      "numParameters": 85802501,
+      "repoType": "model"
+    },
+    {
+      "author": "fancyfeast",
+      "id": "fancyfeast/joytag",
+      "downloads": 624,
+      "likes": 122,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-09T04:09:40.000Z",
+      "numParameters": 91498430,
+      "repoType": "model"
+    },
+    {
+      "author": "unity",
+      "id": "unity/inference-engine-mobilenet-v2",
+      "downloads": 19,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-06-09T17:27:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "unity",
+      "id": "unity/inference-engine-mnist-12",
+      "downloads": 36,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-21T15:42:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "watersplash",
+      "id": "watersplash/waste-classification",
+      "downloads": 945,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-11T18:56:21.000Z",
+      "numParameters": 85807884,
+      "repoType": "model"
+    },
+    {
+      "author": "Anwarkh1",
+      "id": "Anwarkh1/Skin_Cancer-Image_Classification",
+      "downloads": 3496,
+      "likes": 44,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-19T10:58:56.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_so400m_patch14_siglip_378.webli_ft_in1k",
+      "downloads": 228,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:58:31.000Z",
+      "numParameters": 429378600,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/cxr-foundation",
+      "downloads": 21,
+      "likes": 105,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:26:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/fairface_age_image_detection",
+      "downloads": 1539423,
+      "likes": 83,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-15T19:54:53.000Z",
+      "numParameters": 85805577,
+      "repoType": "model"
+    },
+    {
+      "author": "skshmjn",
+      "id": "skshmjn/Pokemon-classifier-gen9-1025",
+      "downloads": 525,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-30T14:01:29.000Z",
+      "numParameters": 86586881,
+      "repoType": "model"
+    },
+    {
+      "author": "bsvaz",
+      "id": "bsvaz/landmark-classification-vit",
+      "downloads": 13,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-23T16:26:31.000Z",
+      "numParameters": 85837106,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-13T21:52:23.776Z"
+}

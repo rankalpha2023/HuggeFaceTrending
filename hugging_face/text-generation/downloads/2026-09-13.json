@@ -1,0 +1,309 @@
+{
+  "category": "text-generation",
+  "sort": "downloads",
+  "totalItems": 409538,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-0.6B",
+      "downloads": 20036436,
+      "likes": 1608,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:27.000Z",
+      "numParameters": 751632384,
+      "repoType": "model"
+    },
+    {
+      "author": "trl-internal-testing",
+      "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+      "downloads": 16212302,
+      "likes": 32,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-09-08T04:47:15.000Z",
+      "numParameters": 2435016,
+      "repoType": "model"
+    },
+    {
+      "author": "openai-community",
+      "id": "openai-community/gpt2",
+      "downloads": 15158496,
+      "likes": 4030,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-02-19T10:57:45.000Z",
+      "numParameters": 137022720,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "downloads": 12863448,
+      "likes": 997,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-01-30T06:29:38.000Z",
+      "numParameters": 30532122624,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-8B",
+      "downloads": 12799189,
+      "likes": 1436,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:49:13.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "downloads": 9990722,
+      "likes": 1660,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-01-12T02:10:10.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+      "downloads": 9297420,
+      "likes": 602,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-08-29T02:26:14.000Z",
+      "numParameters": 18683860336,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/opt-125m",
+      "downloads": 8075595,
+      "likes": 301,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2023-09-15T13:10:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-0.5B-Instruct",
+      "downloads": 7637171,
+      "likes": 623,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:32:56.000Z",
+      "numParameters": 494032768,
+      "repoType": "model"
+    },
+    {
+      "author": "farbodtavakkoli",
+      "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+      "downloads": 7369437,
+      "likes": 15,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-09-08T05:51:57.000Z",
+      "numParameters": 31273088876,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "downloads": 7148070,
+      "likes": 826,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:32:50.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-20b",
+      "downloads": 6582044,
+      "likes": 5030,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:47.000Z",
+      "numParameters": 20914757184,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "downloads": 6200831,
+      "likes": 1641,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-24T15:07:51.000Z",
+      "numParameters": 1235814400,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-4B",
+      "downloads": 6182042,
+      "likes": 701,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:39.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "downloads": 5574752,
+      "likes": 7013,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T17:00:57.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-120b",
+      "downloads": 5415732,
+      "likes": 5209,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:03.000Z",
+      "numParameters": 116829156672,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-3B-Instruct",
+      "downloads": 5354250,
+      "likes": 569,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T12:33:00.000Z",
+      "numParameters": 3085938688,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-32B",
+      "downloads": 4859248,
+      "likes": 746,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:45:22.000Z",
+      "numParameters": 32762123264,
+      "repoType": "model"
+    },
+    {
+      "author": "dphn",
+      "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
+      "downloads": 4806709,
+      "likes": 65,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-09-08T05:56:56.000Z",
+      "numParameters": 34388917248,
+      "repoType": "model"
+    },
+    {
+      "author": "ornith-ai",
+      "id": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "downloads": 4680255,
+      "likes": 364,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-08-24T02:45:24.000Z",
+      "numParameters": 9197093888,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "downloads": 4384168,
+      "likes": 3945,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-08-01T03:07:41.000Z",
+      "numParameters": 304180418494,
+      "repoType": "model"
+    },
+    {
+      "author": "ornith-ai",
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "downloads": 4030977,
+      "likes": 406,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-08-24T03:43:47.000Z",
+      "numParameters": 35505251456,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen-72B",
+      "downloads": 3704811,
+      "likes": 362,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-09T05:59:26.000Z",
+      "numParameters": 72287920128,
+      "repoType": "model"
+    },
+    {
+      "author": "ornith-ai",
+      "id": "ornith-ai/Ornith-1.0-9B-GGUF",
+      "downloads": 3689138,
+      "likes": 667,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-06-25T14:12:12.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-4B-Instruct-2507",
+      "downloads": 3591350,
+      "likes": 959,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-09-17T06:56:53.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+      "downloads": 3567962,
+      "likes": 51,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-10-09T12:26:45.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-1.7B",
+      "downloads": 3515746,
+      "likes": 540,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:32.000Z",
+      "numParameters": 2031739904,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+      "downloads": 3439747,
+      "likes": 117,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-03-20T20:50:41.000Z",
+      "numParameters": 3973556832,
+      "repoType": "model"
+    },
+    {
+      "author": "EleutherAI",
+      "id": "EleutherAI/pythia-160m",
+      "downloads": 3397948,
+      "likes": 45,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2023-07-09T15:52:09.000Z",
+      "numParameters": 212654688,
+      "repoType": "model"
+    },
+    {
+      "author": "JonathanColetti",
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "downloads": 2994589,
+      "likes": 1098,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-08-29T04:18:18.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-13T21:53:04.608Z"
+}
