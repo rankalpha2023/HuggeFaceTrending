@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 30468,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliformer-large-v1",
+      "downloads": 0,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-14T16:25:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/redact",
+      "downloads": 3151,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-10T15:52:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2.5-multi-v1",
+      "downloads": 132360,
+      "likes": 92,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-22T10:26:56.000Z",
+      "numParameters": 287355159,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-pii-masking",
+      "downloads": 1845,
+      "likes": 62,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-14T02:30:28.000Z",
+      "numParameters": 596090241,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliformer-base-v1",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-14T16:26:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 265271,
+      "likes": 1754,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "fastyBOOM",
+      "id": "fastyBOOM/recipe-ner",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-14T05:12:12.000Z",
+      "numParameters": 940813,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1628608,
+      "likes": 733,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "savasy",
+      "id": "savasy/bert-base-turkish-ner-cased",
+      "downloads": 60778,
+      "likes": 23,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-01T09:21:04.000Z",
+      "numParameters": 110622727,
+      "repoType": "model"
+    },
+    {
+      "author": "fxmarty",
+      "id": "fxmarty/20220911-h13m58s51_conll2003_distilbert_quantization",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-09-11T15:15:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "knowledgator",
+      "id": "knowledgator/gliner-pii-large-v1.0",
+      "downloads": 15757,
+      "likes": 41,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-07T09:20:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "agilelab-org",
+      "id": "agilelab-org/Contractner",
+      "downloads": 16,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-23T14:42:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "feyninc",
+      "id": "feyninc/pulpie-orange-small",
+      "downloads": 2915,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-01T19:06:31.000Z",
+      "numParameters": 211768322,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron-v2",
+      "downloads": 25915,
+      "likes": 51,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-07-03T07:57:03.000Z",
+      "numParameters": 1399607373,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 87047,
+      "likes": 80,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-08-11T07:57:57.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "Tazner",
+      "id": "Tazner/Gliner-small-edge-wo-int8-emb4",
+      "downloads": 13,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-10T09:18:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chcaa",
+      "id": "chcaa/da_dacy_small_trf",
+      "downloads": 202,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-16T20:40:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ckiplab",
+      "id": "ckiplab/bert-base-chinese-ner",
+      "downloads": 110988,
+      "likes": 134,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-05-10T03:28:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "s3h",
+      "id": "s3h/gec-token-classification-arabert",
+      "downloads": 21,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-01-04T18:55:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/en_core_web_lg",
+      "downloads": 1577,
+      "likes": 38,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-21T08:13:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NYTK",
+      "id": "NYTK/named-entity-recognition-nerkor-hubert-hungarian",
+      "downloads": 4396,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-01-12T10:21:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kredor",
+      "id": "kredor/punctuate-all",
+      "downloads": 783774,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-26T05:37:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Adapting",
+      "id": "Adapting/bert-base-chinese-finetuned-NER-biomedical",
+      "downloads": 33,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-09-21T23:30:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "chcaa",
+      "id": "chcaa/da_dacy_large_ner_fine_grained",
+      "downloads": 39,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-03-14T17:21:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpie",
+      "id": "nlpie/clinical-mobilebert-i2b2-2010",
+      "downloads": 27,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-05-17T23:24:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/span-marker-roberta-large-ontonotes5",
+      "downloads": 71,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-22T08:45:26.000Z",
+      "numParameters": 355401237,
+      "repoType": "model"
+    },
+    {
+      "author": "newsmediabias",
+      "id": "newsmediabias/UnBIAS-Named-Entity-Recognition",
+      "downloads": 58,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-07T23:40:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi-v2.1",
+      "downloads": 32426,
+      "likes": 171,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-08T01:16:10.000Z",
+      "numParameters": 288949504,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 58170,
+      "likes": 174,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MANMEET75",
+      "id": "MANMEET75/bert-finetuned-named-entity-recognition-ner",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-28T18:18:25.000Z",
+      "numParameters": 107726601,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-14T22:50:33.687Z"
+}
