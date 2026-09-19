@@ -1,0 +1,309 @@
+{
+  "category": "video-classification",
+  "sort": "downloads",
+  "totalItems": 2218,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "MCG-NJU",
+      "id": "MCG-NJU/videomae-base",
+      "downloads": 405358,
+      "likes": 56,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-03-29T08:02:16.000Z",
+      "numParameters": 94210944,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitl-fpc64-256",
+      "downloads": 192035,
+      "likes": 208,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:46:52.000Z",
+      "numParameters": 325971328,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitg-fpc64-256",
+      "downloads": 127784,
+      "likes": 57,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:47:31.000Z",
+      "numParameters": 1034555264,
+      "repoType": "model"
+    },
+    {
+      "author": "MCG-NJU",
+      "id": "MCG-NJU/videomae-base-finetuned-kinetics",
+      "downloads": 115151,
+      "likes": 52,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-03-29T08:01:51.000Z",
+      "numParameters": 86534800,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-zero-shot",
+      "downloads": 112192,
+      "likes": 28,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-09-12T12:13:40.000Z",
+      "numParameters": 194941714,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch32",
+      "downloads": 112037,
+      "likes": 118,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-02-04T01:26:30.000Z",
+      "numParameters": 196585855,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vivit-b-16x2-kinetics400",
+      "downloads": 96051,
+      "likes": 41,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-08-03T10:01:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitl-fpc16-256-ssv2",
+      "downloads": 39571,
+      "likes": 15,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:48:26.000Z",
+      "numParameters": 375485998,
+      "repoType": "model"
+    },
+    {
+      "author": "apiantonio",
+      "id": "apiantonio/vjepa2.1-vit-large-384",
+      "downloads": 31591,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-26T22:02:31.000Z",
+      "numParameters": 327654016,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vivit-b-16x2",
+      "downloads": 22381,
+      "likes": 11,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-08-03T10:01:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch32-16-frames",
+      "downloads": 21735,
+      "likes": 6,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:45.000Z",
+      "numParameters": 196589951,
+      "repoType": "model"
+    },
+    {
+      "author": "MCG-NJU",
+      "id": "MCG-NJU/videomae-large-finetuned-kinetics",
+      "downloads": 20630,
+      "likes": 13,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-03-29T07:39:53.000Z",
+      "numParameters": 304270736,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/timesformer-base-finetuned-k400",
+      "downloads": 14914,
+      "likes": 44,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-01-02T11:43:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MCG-NJU",
+      "id": "MCG-NJU/videomae-large",
+      "downloads": 14859,
+      "likes": 37,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-04-01T07:22:51.000Z",
+      "numParameters": 342996992,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/timesformer-base-finetuned-k600",
+      "downloads": 14837,
+      "likes": 12,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-12-12T12:52:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b0-ff-plus-plus",
+      "downloads": 12442,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:48:18.000Z",
+      "numParameters": 8916853,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b5-celeb-df-v2",
+      "downloads": 12089,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:47:37.000Z",
+      "numParameters": 52743453,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b0-celeb-df-v2",
+      "downloads": 12069,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:47:07.000Z",
+      "numParameters": 8916853,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b0-kodf",
+      "downloads": 12025,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:49:09.000Z",
+      "numParameters": 8916853,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b5-kodf",
+      "downloads": 11957,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:46:31.000Z",
+      "numParameters": 52743453,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-large-patch14",
+      "downloads": 8822,
+      "likes": 16,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:35.000Z",
+      "numParameters": 575673934,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16",
+      "downloads": 7735,
+      "likes": 6,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:56.000Z",
+      "numParameters": 194929426,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Cosmos-Embed1-448p-anomaly-detection",
+      "downloads": 7701,
+      "likes": 12,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-05-19T06:44:32.000Z",
+      "numParameters": 1198007674,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenGVLab",
+      "id": "OpenGVLab/VideoMAEv2-Base",
+      "downloads": 7700,
+      "likes": 19,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-01-14T08:44:20.000Z",
+      "numParameters": 86227200,
+      "repoType": "model"
+    },
+    {
+      "author": "KoreaPeter",
+      "id": "KoreaPeter/ms-eff-gcvit-deepfake-b5-ff-plus-plus",
+      "downloads": 6595,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-04T03:48:40.000Z",
+      "numParameters": 52743453,
+      "repoType": "model"
+    },
+    {
+      "author": "apiantonio",
+      "id": "apiantonio/vjepa2.1-vit-base-384",
+      "downloads": 4954,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-07-26T22:01:56.000Z",
+      "numParameters": 109707904,
+      "repoType": "model"
+    },
+    {
+      "author": "cliffer1",
+      "id": "cliffer1/videomae-base-finetuned-kinetics-violence-nonviolence-tuned",
+      "downloads": 4940,
+      "likes": 0,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-03-10T21:37:03.000Z",
+      "numParameters": 86228738,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-large-patch14-16-frames",
+      "downloads": 4784,
+      "likes": 6,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:09:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlboydaisuke",
+      "id": "mlboydaisuke/VJEPA2-ViTL-SSv2-CoreAI",
+      "downloads": 4284,
+      "likes": 1,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-09-14T18:37:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitg-fpc64-384",
+      "downloads": 3874,
+      "likes": 46,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:46:09.000Z",
+      "numParameters": 1034555264,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-19T21:52:57.843Z"
+}
