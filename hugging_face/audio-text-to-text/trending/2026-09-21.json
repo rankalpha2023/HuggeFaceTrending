@@ -1,0 +1,309 @@
+{
+  "category": "audio-text-to-text",
+  "sort": "trending",
+  "totalItems": 335,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "downloads": 163364,
+      "likes": 448,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-02T08:46:58.000Z",
+      "numParameters": 908513280,
+      "repoType": "model"
+    },
+    {
+      "author": "snkii",
+      "id": "snkii/Sori-1B",
+      "downloads": 447,
+      "likes": 34,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-12T17:55:02.000Z",
+      "numParameters": 932510976,
+      "repoType": "model"
+    },
+    {
+      "author": "snkii",
+      "id": "snkii/Sori-1B-MCQ",
+      "downloads": 71,
+      "likes": 5,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-21T02:57:01.000Z",
+      "numParameters": 1051659137,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Music-8B-Thinking",
+      "downloads": 996,
+      "likes": 42,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-05-01T15:12:38.000Z",
+      "numParameters": 9052463488,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Music-8B-Instruct",
+      "downloads": 2201,
+      "likes": 36,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-05-01T15:10:37.000Z",
+      "numParameters": 9052463488,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2-Audio-7B-Instruct",
+      "downloads": 334383,
+      "likes": 554,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-01-12T02:05:48.000Z",
+      "numParameters": 8397094912,
+      "repoType": "model"
+    },
+    {
+      "author": "sarvamai",
+      "id": "sarvamai/shuka-1",
+      "downloads": 302,
+      "likes": 96,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-03-14T15:56:31.000Z",
+      "numParameters": 8725780480,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/audio-flamingo-3",
+      "downloads": 3458,
+      "likes": 159,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-11-28T20:08:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/audio-flamingo-3-hf",
+      "downloads": 58200,
+      "likes": 195,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-04-13T08:08:11.000Z",
+      "numParameters": 8267215360,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_7-glm-4_6",
+      "downloads": 277,
+      "likes": 38,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-12-08T18:51:50.000Z",
+      "numParameters": 737272320,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/music-flamingo-2601-hf",
+      "downloads": 20777,
+      "likes": 123,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-04-09T15:20:00.000Z",
+      "numParameters": 8267215360,
+      "repoType": "model"
+    },
+    {
+      "author": "ACE-Step",
+      "id": "ACE-Step/acestep-transcriber",
+      "downloads": 2143,
+      "likes": 62,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-02-03T06:33:32.000Z",
+      "numParameters": 10732225408,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/audio-flamingo-next-hf",
+      "downloads": 5883,
+      "likes": 64,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-05-13T18:38:05.000Z",
+      "numParameters": 8267215360,
+      "repoType": "model"
+    },
+    {
+      "author": "PleasedPenguin",
+      "id": "PleasedPenguin/A2R-30B-A3B",
+      "downloads": 131,
+      "likes": 2,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-01T03:12:30.000Z",
+      "numParameters": 35259818545,
+      "repoType": "model"
+    },
+    {
+      "author": "brgroup",
+      "id": "brgroup/BR-Voice-Reasoner",
+      "downloads": 75,
+      "likes": 2,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-07T14:26:59.000Z",
+      "numParameters": 31719205488,
+      "repoType": "model"
+    },
+    {
+      "author": "SYNAPSEai1",
+      "id": "SYNAPSEai1/SynapseMusicV12-Transcriber",
+      "downloads": 16,
+      "likes": 1,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-20T12:33:59.000Z",
+      "numParameters": 10732225408,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_2",
+      "downloads": 737,
+      "likes": 51,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T20:37:10.000Z",
+      "numParameters": 8063825920,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2-Audio-7B",
+      "downloads": 43987,
+      "likes": 176,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-20T09:21:08.000Z",
+      "numParameters": 8397094912,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_3",
+      "downloads": 1060,
+      "likes": 17,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:21:33.000Z",
+      "numParameters": 8063825920,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_4",
+      "downloads": 1296,
+      "likes": 51,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:21:38.000Z",
+      "numParameters": 8072216576,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-base-v0.3",
+      "downloads": 26,
+      "likes": 4,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:21:38.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_4-llama-3_1-70b",
+      "downloads": 37,
+      "likes": 4,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:21:51.000Z",
+      "numParameters": 50348032,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-2",
+      "downloads": 22,
+      "likes": 5,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:21:26.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-3",
+      "downloads": 28,
+      "likes": 35,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:19:51.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/mini-Ichigo-llama3.2-3B-s-base",
+      "downloads": 25,
+      "likes": 1,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:19:19.000Z",
+      "numParameters": 3214331904,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/mini-Ichigo-llama3.2-3B-s-instruct",
+      "downloads": 27,
+      "likes": 32,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:20:15.000Z",
+      "numParameters": 3214331904,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_3-llama-3_2-1b",
+      "downloads": 44,
+      "likes": 8,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T20:37:16.000Z",
+      "numParameters": 29368320,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_4-ToolACE-8B",
+      "downloads": 38,
+      "likes": 1,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:22:00.000Z",
+      "numParameters": 41955328,
+      "repoType": "model"
+    },
+    {
+      "author": "NexaAI",
+      "id": "NexaAI/Qwen2-Audio-7B-GGUF",
+      "downloads": 4872,
+      "likes": 172,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-25T17:58:01.000Z",
+      "numParameters": 7754878976,
+      "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_4_1-llama-3_1-8b",
+      "downloads": 176,
+      "likes": 99,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:22:10.000Z",
+      "numParameters": 50345984,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-21T22:54:26.865Z"
+}
