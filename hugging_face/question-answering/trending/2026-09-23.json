@@ -1,0 +1,309 @@
+{
+  "category": "question-answering",
+  "sort": "trending",
+  "totalItems": 14113,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "lserinol",
+      "id": "lserinol/bert-turkish-question-answering",
+      "downloads": 50,
+      "likes": 27,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-05-19T22:06:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google-bert",
+      "id": "google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
+      "downloads": 42926,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-02-19T11:06:38.000Z",
+      "numParameters": 333581314,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-cased-distilled-squad",
+      "downloads": 195356,
+      "likes": 277,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-05-06T13:46:31.000Z",
+      "numParameters": 65192450,
+      "repoType": "model"
+    },
+    {
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-distilled-squad",
+      "downloads": 31597,
+      "likes": 120,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-05-06T13:46:39.000Z",
+      "numParameters": 66364418,
+      "repoType": "model"
+    },
+    {
+      "author": "csarron",
+      "id": "csarron/bert-base-uncased-squad-v1",
+      "downloads": 10066,
+      "likes": 15,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2023-04-05T17:54:11.000Z",
+      "numParameters": 109483778,
+      "repoType": "model"
+    },
+    {
+      "author": "deepset",
+      "id": "deepset/roberta-base-squad2",
+      "downloads": 542387,
+      "likes": 959,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-09-24T15:48:47.000Z",
+      "numParameters": 124057092,
+      "repoType": "model"
+    },
+    {
+      "author": "NchuNLP",
+      "id": "NchuNLP/Chinese-Question-Answering",
+      "downloads": 117,
+      "likes": 26,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2022-11-01T06:45:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NchuNLP",
+      "id": "NchuNLP/Legal-Document-Question-Answering",
+      "downloads": 14,
+      "likes": 6,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2022-10-26T09:45:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "osiria",
+      "id": "osiria/deberta-italian-question-answering",
+      "downloads": 54,
+      "likes": 6,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2023-12-10T20:03:06.000Z",
+      "numParameters": 124049410,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/question_answering_v2",
+      "downloads": 316,
+      "likes": 12,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2025-02-28T02:18:52.000Z",
+      "numParameters": 66364418,
+      "repoType": "model"
+    },
+    {
+      "author": "miabchdave",
+      "id": "miabchdave/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview-MLX-8Q",
+      "downloads": 49,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2025-02-19T02:09:11.000Z",
+      "numParameters": 32763876352,
+      "repoType": "model"
+    },
+    {
+      "author": "WenchuanZhang",
+      "id": "WenchuanZhang/Agentic-Router",
+      "downloads": 27,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2025-11-17T10:01:56.000Z",
+      "numParameters": 4411424256,
+      "repoType": "model"
+    },
+    {
+      "author": "Trina-QwQ",
+      "id": "Trina-QwQ/wt-neko-instruct",
+      "downloads": 146,
+      "likes": 11,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2026-01-22T10:28:13.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "szd0709",
+      "id": "szd0709/MultiAgent4SyntheticBioNLP-models",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2026-09-23T14:16:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google-bert",
+      "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
+      "downloads": 35459,
+      "likes": 191,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-02-19T11:08:45.000Z",
+      "numParameters": 335143938,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-comqa",
+      "downloads": 12,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:30:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-cq",
+      "downloads": 20,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:31:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-drop",
+      "downloads": 20,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-05-10T14:16:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-duorc_p",
+      "downloads": 18,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:31:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-duorc_s",
+      "downloads": 12,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:32:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-hotpotqa",
+      "downloads": 12,
+      "likes": 1,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:32:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-newsqa",
+      "downloads": 11,
+      "likes": 1,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:33:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-quoref",
+      "downloads": 16,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:34:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-squad",
+      "downloads": 13,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:35:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-squad_v2",
+      "downloads": 15,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:35:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-wikihop",
+      "downloads": 19,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:36:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-comqa",
+      "downloads": 13,
+      "likes": 2,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:37:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-cq",
+      "downloads": 16,
+      "likes": 1,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:38:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-drop",
+      "downloads": 18,
+      "likes": 1,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2024-05-10T14:16:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-duorc_p",
+      "downloads": 11,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:38:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-09-23T22:31:41.627Z"
+}
