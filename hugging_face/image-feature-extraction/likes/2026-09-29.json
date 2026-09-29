@@ -1,14 +1,14 @@
 {
   "category": "image-feature-extraction",
   "sort": "likes",
-  "totalItems": 1591,
+  "totalItems": 1593,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-pretrain-lvd1689m",
-      "downloads": 619702,
-      "likes": 931,
+      "downloads": 623786,
+      "likes": 951,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:52.000Z",
       "numParameters": 303129600,
@@ -17,7 +17,7 @@
     {
       "author": "google",
       "id": "google/vit-base-patch16-224-in21k",
-      "downloads": 1879198,
+      "downloads": 1841191,
       "likes": 419,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-02-05T16:37:39.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "MahmoodLab",
       "id": "MahmoodLab/UNI",
-      "downloads": 49527,
-      "likes": 391,
+      "downloads": 50106,
+      "likes": 394,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-03-06T22:57:31.000Z",
       "numParameters": null,
@@ -37,8 +37,8 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitb16-pretrain-lvd1689m",
-      "downloads": 582507,
-      "likes": 358,
+      "downloads": 581365,
+      "likes": 363,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:44.000Z",
       "numParameters": 85660416,
@@ -46,8 +46,18 @@
     },
     {
       "author": "facebook",
+      "id": "facebook/dinov3-vits16-pretrain-lvd1689m",
+      "downloads": 426266,
+      "likes": 276,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-19T09:01:01.000Z",
+      "numParameters": 21596544,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
       "id": "facebook/dinov3-vit7b16-pretrain-lvd1689m",
-      "downloads": 11060,
+      "downloads": 10752,
       "likes": 275,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:35.000Z",
@@ -57,7 +67,7 @@
     {
       "author": "TTPlanet",
       "id": "TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic",
-      "downloads": 5830,
+      "downloads": 5745,
       "likes": 273,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-06-08T17:20:45.000Z",
@@ -65,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/dinov3-vits16-pretrain-lvd1689m",
-      "downloads": 423554,
-      "likes": 272,
-      "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2025-08-19T09:01:01.000Z",
-      "numParameters": 21596544,
-      "repoType": "model"
-    },
-    {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-vision-v1.5",
-      "downloads": 412860,
+      "downloads": 412271,
       "likes": 230,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-03-31T17:40:39.000Z",
@@ -87,8 +87,8 @@
     {
       "author": "MahmoodLab",
       "id": "MahmoodLab/CONCH",
-      "downloads": 73117,
-      "likes": 218,
+      "downloads": 71612,
+      "likes": 219,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-05-05T06:05:43.000Z",
       "numParameters": null,
@@ -97,8 +97,8 @@
     {
       "author": "MahmoodLab",
       "id": "MahmoodLab/UNI2-h",
-      "downloads": 56975,
-      "likes": 217,
+      "downloads": 56817,
+      "likes": 219,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-01-16T01:35:18.000Z",
       "numParameters": null,
@@ -107,8 +107,8 @@
     {
       "author": "facebook",
       "id": "facebook/dinov2-base",
-      "downloads": 2798274,
-      "likes": 201,
+      "downloads": 2806162,
+      "likes": 202,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-01-17T08:27:01.000Z",
       "numParameters": 86580480,
@@ -117,7 +117,7 @@
     {
       "author": "prov-gigapath",
       "id": "prov-gigapath/prov-gigapath",
-      "downloads": 35092,
+      "downloads": 34790,
       "likes": 198,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-08-07T17:30:48.000Z",
@@ -127,8 +127,8 @@
     {
       "author": "paige-ai",
       "id": "paige-ai/Virchow2",
-      "downloads": 59457,
-      "likes": 174,
+      "downloads": 66231,
+      "likes": 175,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-10-26T17:29:19.000Z",
       "numParameters": 631239424,
@@ -137,7 +137,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov2-large",
-      "downloads": 877479,
+      "downloads": 901293,
       "likes": 119,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2023-09-06T11:23:50.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "facebook",
       "id": "facebook/dino-vitb16",
-      "downloads": 459693,
+      "downloads": 459218,
       "likes": 112,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2023-05-22T07:04:00.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "MahmoodLab",
       "id": "MahmoodLab/TITAN",
-      "downloads": 122839,
+      "downloads": 118975,
       "likes": 106,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-11-11T12:45:40.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "moonshotai",
       "id": "moonshotai/MoonViT-SO-400M",
-      "downloads": 5045,
+      "downloads": 5118,
       "likes": 96,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-04-17T12:56:48.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "bioptimus",
       "id": "bioptimus/H-optimus-0",
-      "downloads": 63547,
+      "downloads": 62512,
       "likes": 95,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-12-12T13:02:16.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "ibm-nasa-geospatial",
       "id": "ibm-nasa-geospatial/Prithvi-WxC-1.0-2300M",
-      "downloads": 3911,
+      "downloads": 5289,
       "likes": 88,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-09-05T15:16:47.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/rad-dino",
-      "downloads": 41162,
+      "downloads": 41020,
       "likes": 86,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-05-12T13:09:23.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-pretrain-sat493m",
-      "downloads": 52295,
+      "downloads": 52945,
       "likes": 82,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:57.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "paige-ai",
       "id": "paige-ai/Virchow",
-      "downloads": 10471,
+      "downloads": 10771,
       "likes": 78,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-09-03T20:21:08.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "OpenGVLab",
       "id": "OpenGVLab/InternViT-6B-448px-V1-5",
-      "downloads": 305,
+      "downloads": 303,
       "likes": 76,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2024-12-09T08:03:28.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vith16plus-pretrain-lvd1689m",
-      "downloads": 91577,
+      "downloads": 91842,
       "likes": 76,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-08-19T09:00:48.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov2-small",
-      "downloads": 2867670,
+      "downloads": 2846364,
       "likes": 75,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2023-09-06T11:24:10.000Z",
@@ -255,9 +255,19 @@
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/dinov3-convnext-tiny-pretrain-lvd1689m",
+      "downloads": 119736,
+      "likes": 67,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-19T09:00:31.000Z",
+      "numParameters": 27820128,
+      "repoType": "model"
+    },
+    {
       "author": "bioptimus",
       "id": "bioptimus/H-optimus-1",
-      "downloads": 48132,
+      "downloads": 49448,
       "likes": 66,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2026-06-11T09:00:50.000Z",
@@ -266,18 +276,8 @@
     },
     {
       "author": "facebook",
-      "id": "facebook/dinov3-convnext-tiny-pretrain-lvd1689m",
-      "downloads": 120259,
-      "likes": 66,
-      "pipeline_tag": "image-feature-extraction",
-      "lastModified": "2025-08-19T09:00:31.000Z",
-      "numParameters": 27820128,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
       "id": "facebook/dinov2-giant",
-      "downloads": 311070,
+      "downloads": 311108,
       "likes": 64,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2023-09-06T11:23:25.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "OpenGVLab",
       "id": "OpenGVLab/InternViT-300M-448px",
-      "downloads": 2483,
+      "downloads": 2555,
       "likes": 62,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-01-08T11:59:59.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "apple",
       "id": "apple/aimv2-large-patch14-224",
-      "downloads": 1453,
+      "downloads": 1445,
       "likes": 62,
       "pipeline_tag": "image-feature-extraction",
       "lastModified": "2025-07-08T16:19:14.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:01:33.247Z"
+  "fetchedAt": "2026-09-29T23:15:29.310Z"
 }

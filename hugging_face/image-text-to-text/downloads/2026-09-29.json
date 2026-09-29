@@ -1,14 +1,14 @@
 {
   "category": "image-text-to-text",
   "sort": "downloads",
-  "totalItems": 40740,
+  "totalItems": 40634,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-8B-Instruct",
-      "downloads": 17550100,
-      "likes": 1155,
+      "downloads": 17082497,
+      "likes": 1156,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-10-15T16:16:59.000Z",
       "numParameters": 8767123696,
@@ -17,28 +17,18 @@
     {
       "author": "google",
       "id": "google/gemma-4-26B-A4B-it",
-      "downloads": 12139481,
-      "likes": 1562,
+      "downloads": 12476446,
+      "likes": 1564,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-20T16:42:12.000Z",
       "numParameters": 25805936206,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3.5-9B",
-      "downloads": 9823564,
-      "likes": 2055,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-03-02T00:51:43.000Z",
-      "numParameters": 9653104368,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/gemma-4-31B-it",
-      "downloads": 9589449,
-      "likes": 3956,
+      "downloads": 9731214,
+      "likes": 3968,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-20T16:42:18.000Z",
       "numParameters": 31273088876,
@@ -46,8 +36,28 @@
     },
     {
       "author": "Qwen",
+      "id": "Qwen/Qwen3.5-9B",
+      "downloads": 9586772,
+      "likes": 2063,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-03-02T00:51:43.000Z",
+      "numParameters": 9653104368,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.5-4B",
+      "downloads": 7229569,
+      "likes": 980,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-03-02T00:52:52.000Z",
+      "numParameters": 4659865088,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
       "id": "Qwen/Qwen3.6-35B-A3B-FP8",
-      "downloads": 7420503,
+      "downloads": 7081501,
       "likes": 415,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:39:23.000Z",
@@ -56,19 +66,9 @@
     },
     {
       "author": "Qwen",
-      "id": "Qwen/Qwen3.5-4B",
-      "downloads": 7126900,
-      "likes": 970,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-03-02T00:52:52.000Z",
-      "numParameters": 4659865088,
-      "repoType": "model"
-    },
-    {
-      "author": "Qwen",
       "id": "Qwen/Qwen3.8-27B",
-      "downloads": 6844348,
-      "likes": 16495,
+      "downloads": 7020239,
+      "likes": 16564,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:00:01.000Z",
       "numParameters": 27781427952,
@@ -77,7 +77,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-VL-7B-Instruct",
-      "downloads": 6257537,
+      "downloads": 6211809,
       "likes": 1723,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-04-06T16:23:01.000Z",
@@ -87,8 +87,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "downloads": 5240937,
-      "likes": 867,
+      "downloads": 5169806,
+      "likes": 871,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T14:44:41.000Z",
       "numParameters": 27781427952,
@@ -97,38 +97,38 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-2B",
-      "downloads": 4863311,
-      "likes": 419,
+      "downloads": 4855106,
+      "likes": 420,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T11:26:29.000Z",
       "numParameters": 2274069824,
       "repoType": "model"
     },
     {
-      "author": "cdiamond",
-      "id": "cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF",
-      "downloads": 4564148,
-      "likes": 20,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-08-17T22:40:35.000Z",
-      "numParameters": 460730096,
-      "repoType": "model"
-    },
-    {
       "author": "zai-org",
       "id": "zai-org/GLM-5.3-Flash",
-      "downloads": 4518525,
-      "likes": 2591,
+      "downloads": 4699117,
+      "likes": 2605,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-07T12:13:47.000Z",
       "numParameters": 321323031390,
       "repoType": "model"
     },
     {
+      "author": "cdiamond",
+      "id": "cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF",
+      "downloads": 4454640,
+      "likes": 22,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-17T22:40:35.000Z",
+      "numParameters": 460730096,
+      "repoType": "model"
+    },
+    {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-4bit",
-      "downloads": 4397416,
-      "likes": 77,
+      "downloads": 4354325,
+      "likes": 78,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:08:37.000Z",
       "numParameters": 27356728560,
@@ -137,7 +137,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-27B-FP8",
-      "downloads": 4382606,
+      "downloads": 4277126,
       "likes": 357,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:39:18.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-8bit",
-      "downloads": 4209379,
+      "downloads": 4170366,
       "likes": 30,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:20:07.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-6bit",
-      "downloads": 4178489,
+      "downloads": 4140158,
       "likes": 24,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:16:45.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-5bit",
-      "downloads": 4160464,
+      "downloads": 4122814,
       "likes": 3,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:11:40.000Z",
@@ -177,8 +177,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-4B-Instruct",
-      "downloads": 3357051,
-      "likes": 481,
+      "downloads": 3320644,
+      "likes": 482,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-10-15T16:15:55.000Z",
       "numParameters": 4437815808,
@@ -187,7 +187,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "downloads": 3240009,
+      "downloads": 3227671,
       "likes": 2891,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:53:42.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/Florence-2-base",
-      "downloads": 3055725,
+      "downloads": 3056571,
       "likes": 401,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-08-04T17:36:57.000Z",
@@ -207,8 +207,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-2B-Instruct",
-      "downloads": 2933946,
-      "likes": 475,
+      "downloads": 2925232,
+      "likes": 477,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-10-23T11:30:44.000Z",
       "numParameters": 2127532032,
@@ -217,8 +217,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-27B",
-      "downloads": 2682159,
-      "likes": 2315,
+      "downloads": 2661592,
+      "likes": 2314,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:39:16.000Z",
       "numParameters": 27781427952,
@@ -227,7 +227,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-0.8B",
-      "downloads": 2475141,
+      "downloads": 2492114,
       "likes": 738,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T11:26:58.000Z",
@@ -237,8 +237,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-VL-3B-Instruct",
-      "downloads": 2355568,
-      "likes": 708,
+      "downloads": 2394504,
+      "likes": 709,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-04-06T16:23:42.000Z",
       "numParameters": 3754622976,
@@ -247,7 +247,7 @@
     {
       "author": "datalab-to",
       "id": "datalab-to/chandra-ocr-2",
-      "downloads": 2256587,
+      "downloads": 2194897,
       "likes": 526,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-06-26T10:30:43.000Z",
@@ -255,19 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "huihui-ai",
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "downloads": 2171467,
-      "likes": 936,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-09-21T17:35:19.000Z",
-      "numParameters": 27320697856,
-      "repoType": "model"
-    },
-    {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-OCR",
-      "downloads": 2168461,
+      "downloads": 2135241,
       "likes": 3388,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-11-04T02:36:12.000Z",
@@ -275,10 +265,20 @@
       "repoType": "model"
     },
     {
+      "author": "huihui-ai",
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "downloads": 2064412,
+      "likes": 955,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-21T17:35:19.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
       "author": "HauhauCS",
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "downloads": 2057914,
-      "likes": 1507,
+      "downloads": 2059950,
+      "likes": 1536,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-17T22:02:10.000Z",
       "numParameters": 1863907840,
@@ -287,8 +287,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-8B-Instruct-FP8",
-      "downloads": 2053208,
-      "likes": 83,
+      "downloads": 2030738,
+      "likes": 84,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-11-26T13:18:16.000Z",
       "numParameters": 8767547632,
@@ -297,7 +297,7 @@
     {
       "author": "vikhyatk",
       "id": "vikhyatk/moondream2",
-      "downloads": 1958675,
+      "downloads": 1956056,
       "likes": 1436,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-23T19:31:05.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:01:39.130Z"
+  "fetchedAt": "2026-09-29T23:15:35.387Z"
 }

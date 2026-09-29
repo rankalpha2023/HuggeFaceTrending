@@ -1,14 +1,14 @@
 {
   "category": "image-to-text",
   "sort": "trending",
-  "totalItems": 2149,
+  "totalItems": 2155,
   "fetchedItems": 30,
   "models": [
     {
       "author": "zai-org",
       "id": "zai-org/GLM-OCR",
-      "downloads": 1785232,
-      "likes": 2094,
+      "downloads": 1805663,
+      "likes": 2098,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-11T11:59:14.000Z",
       "numParameters": 1325258240,
@@ -17,10 +17,10 @@
     {
       "author": "UniParser",
       "id": "UniParser/MolParser-Mobile-V2",
-      "downloads": 3,
-      "likes": 17,
+      "downloads": 42,
+      "likes": 19,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-28T11:05:17.000Z",
+      "lastModified": "2026-09-29T07:47:22.000Z",
       "numParameters": 10000256,
       "repoType": "model"
     },
@@ -37,7 +37,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/nemotron-ocr-v2",
-      "downloads": 1544,
+      "downloads": 1582,
       "likes": 261,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-05-22T04:58:32.000Z",
@@ -47,8 +47,8 @@
     {
       "author": "bodhan-ai",
       "id": "bodhan-ai/indic-ocr",
-      "downloads": 1129,
-      "likes": 37,
+      "downloads": 1176,
+      "likes": 38,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-07T12:21:55.000Z",
       "numParameters": null,
@@ -57,7 +57,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-base",
-      "downloads": 1622572,
+      "downloads": 1609632,
       "likes": 894,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:45:16.000Z",
@@ -65,19 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "kha-white",
-      "id": "kha-white/manga-ocr-base",
-      "downloads": 1128843,
-      "likes": 183,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2022-06-22T15:34:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "qualcomm",
       "id": "qualcomm/TrOCR",
-      "downloads": 2827,
+      "downloads": 2862,
       "likes": 18,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-23T22:09:44.000Z",
@@ -87,7 +77,7 @@
     {
       "author": "MoMonir",
       "id": "MoMonir/llava-llama-3-8b-v1_1-GGUF",
-      "downloads": 272,
+      "downloads": 299,
       "likes": 7,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-05-05T00:53:16.000Z",
@@ -95,19 +85,19 @@
       "repoType": "model"
     },
     {
-      "author": "tiiuae",
-      "id": "tiiuae/Falcon-OCR",
-      "downloads": 6457,
-      "likes": 157,
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 37070,
+      "likes": 367,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-11T22:04:44.000Z",
-      "numParameters": 269944416,
+      "lastModified": "2026-08-20T19:44:14.000Z",
+      "numParameters": 4539265536,
       "repoType": "model"
     },
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-OCRv6_medium_det",
-      "downloads": 77992,
+      "downloads": 77906,
       "likes": 33,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-06-12T03:10:45.000Z",
@@ -115,39 +105,29 @@
       "repoType": "model"
     },
     {
-      "author": "Werea-co",
-      "id": "Werea-co/Werea-DocOCR-1B",
-      "downloads": 116,
-      "likes": 5,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-08-20T06:57:34.000Z",
-      "numParameters": 1005647872,
-      "repoType": "model"
-    },
-    {
       "author": "LocalDoc",
       "id": "LocalDoc/azerbaijani-ocr-crnn",
       "downloads": 25,
-      "likes": 4,
+      "likes": 5,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-12T09:23:33.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/trocr-base-handwritten",
-      "downloads": 186403,
-      "likes": 523,
+      "author": "kha-white",
+      "id": "kha-white/manga-ocr-base",
+      "downloads": 1132075,
+      "likes": 183,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2025-02-11T04:26:58.000Z",
-      "numParameters": 333331200,
+      "lastModified": "2022-06-22T15:34:05.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "microsoft",
       "id": "microsoft/trocr-small-handwritten",
-      "downloads": 183033,
+      "downloads": 185545,
       "likes": 68,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-05-27T20:11:19.000Z",
@@ -157,7 +137,7 @@
     {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-large",
-      "downloads": 572188,
+      "downloads": 573885,
       "likes": 1488,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:42:42.000Z",
@@ -167,7 +147,7 @@
     {
       "author": "hezarai",
       "id": "hezarai/crnn-base-fa-v2",
-      "downloads": 3457,
+      "downloads": 3443,
       "likes": 10,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-04-14T13:33:23.000Z",
@@ -187,7 +167,7 @@
     {
       "author": "unum-cloud",
       "id": "unum-cloud/uform-gen2-qwen-500m",
-      "downloads": 1383,
+      "downloads": 1403,
       "likes": 87,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-04-24T18:30:59.000Z",
@@ -207,7 +187,7 @@
     {
       "author": "Ertugrul",
       "id": "Ertugrul/Pixtral-12B-Captioner-Relaxed",
-      "downloads": 35,
+      "downloads": 37,
       "likes": 30,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-10-01T12:49:28.000Z",
@@ -217,7 +197,7 @@
     {
       "author": "kazars24",
       "id": "kazars24/trocr-base-handwritten-ru",
-      "downloads": 3111,
+      "downloads": 3175,
       "likes": 18,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-10-27T15:55:30.000Z",
@@ -228,7 +208,7 @@
       "author": "xiangjx",
       "id": "xiangjx/musk",
       "downloads": 0,
-      "likes": 72,
+      "likes": 73,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-01-19T06:32:25.000Z",
       "numParameters": 675188736,
@@ -237,7 +217,7 @@
     {
       "author": "enalis",
       "id": "enalis/scold",
-      "downloads": 50,
+      "downloads": 56,
       "likes": 10,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-04-06T10:21:34.000Z",
@@ -247,7 +227,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/QwenStoryteller-GGUF",
-      "downloads": 641,
+      "downloads": 705,
       "likes": 1,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-31T04:56:55.000Z",
@@ -257,7 +237,7 @@
     {
       "author": "logasanjeev",
       "id": "logasanjeev/indian-id-validator",
-      "downloads": 2179,
+      "downloads": 2295,
       "likes": 9,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-06-13T07:43:54.000Z",
@@ -266,8 +246,18 @@
     },
     {
       "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayout_plus-L",
+      "downloads": 9891,
+      "likes": 17,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-07-22T09:59:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
       "id": "PaddlePaddle/UVDoc",
-      "downloads": 470643,
+      "downloads": 473840,
       "likes": 14,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:03:10.000Z",
@@ -277,7 +267,7 @@
     {
       "author": "breezedeus",
       "id": "breezedeus/pix2text-mfr-1.5",
-      "downloads": 3604,
+      "downloads": 3627,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-25T08:31:23.000Z",
@@ -287,7 +277,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF",
-      "downloads": 4628,
+      "downloads": 4791,
       "likes": 79,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-08-01T06:52:02.000Z",
@@ -303,7 +293,17 @@
       "lastModified": "2025-10-07T05:37:22.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "sherif1313",
+      "id": "sherif1313/Arabic-handwritten-OCR-4bit-Qwen2.5-VL-3B-v2",
+      "downloads": 1689,
+      "likes": 11,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-12-29T14:36:56.000Z",
+      "numParameters": 3862624760,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:01:42.522Z"
+  "fetchedAt": "2026-09-29T23:15:38.846Z"
 }

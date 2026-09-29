@@ -1,14 +1,14 @@
 {
   "category": "text-generation",
   "sort": "likes",
-  "totalItems": 416381,
+  "totalItems": 416991,
   "fetchedItems": 30,
   "models": [
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-R1",
-      "downloads": 913252,
-      "likes": 14302,
+      "downloads": 923691,
+      "likes": 14307,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-03-27T04:01:59.000Z",
       "numParameters": 684489845504,
@@ -17,8 +17,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "downloads": 6079804,
-      "likes": 8010,
+      "downloads": 6135791,
+      "likes": 8052,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-25T17:00:57.000Z",
       "numParameters": 8030261248,
@@ -27,8 +27,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Meta-Llama-3-8B",
-      "downloads": 233635,
-      "likes": 6710,
+      "downloads": 233144,
+      "likes": 6717,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-09-27T15:52:33.000Z",
       "numParameters": 8030261248,
@@ -37,8 +37,8 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "downloads": 449070,
-      "likes": 5605,
+      "downloads": 443793,
+      "likes": 5608,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-06-22T12:12:50.000Z",
       "numParameters": 1598839674782,
@@ -47,38 +47,38 @@
     {
       "author": "openai",
       "id": "openai/gpt-oss-120b",
-      "downloads": 4464213,
-      "likes": 5320,
+      "downloads": 4464483,
+      "likes": 5327,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-08-26T17:25:03.000Z",
       "numParameters": 116829156672,
       "repoType": "model"
     },
     {
-      "author": "zai-org",
-      "id": "zai-org/GLM-5.2",
-      "downloads": 773707,
-      "likes": 5139,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2026-09-01T11:36:01.000Z",
-      "numParameters": 753329940480,
-      "repoType": "model"
-    },
-    {
       "author": "meta-llama",
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "downloads": 1067152,
-      "likes": 5131,
+      "downloads": 1053636,
+      "likes": 5139,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-06-18T23:49:51.000Z",
       "numParameters": 8030261248,
       "repoType": "model"
     },
     {
+      "author": "zai-org",
+      "id": "zai-org/GLM-5.2",
+      "downloads": 765196,
+      "likes": 5138,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-09-01T11:36:01.000Z",
+      "numParameters": 753329940480,
+      "repoType": "model"
+    },
+    {
       "author": "openai",
       "id": "openai/gpt-oss-20b",
-      "downloads": 6759234,
-      "likes": 5103,
+      "downloads": 6746931,
+      "likes": 5106,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-08-26T17:25:47.000Z",
       "numParameters": 20914757184,
@@ -87,7 +87,7 @@
     {
       "author": "bigscience",
       "id": "bigscience/bloom",
-      "downloads": 14782,
+      "downloads": 14797,
       "likes": 5071,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-07-29T07:38:06.000Z",
@@ -97,8 +97,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-2-7b-chat-hf",
-      "downloads": 478494,
-      "likes": 4879,
+      "downloads": 484277,
+      "likes": 4880,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-04-17T08:40:48.000Z",
       "numParameters": 6738417664,
@@ -107,7 +107,7 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-2-7b",
-      "downloads": 108,
+      "downloads": 109,
       "likes": 4561,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-04-17T08:12:44.000Z",
@@ -117,17 +117,27 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V3",
-      "downloads": 1178235,
-      "likes": 4309,
+      "downloads": 1206889,
+      "likes": 4336,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-03-27T04:01:45.000Z",
       "numParameters": 684531386000,
       "repoType": "model"
     },
     {
+      "author": "openai-community",
+      "id": "openai-community/gpt2",
+      "downloads": 15551940,
+      "likes": 4188,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-02-19T10:57:45.000Z",
+      "numParameters": 137022720,
+      "repoType": "model"
+    },
+    {
       "author": "mistralai",
       "id": "mistralai/Mistral-7B-v0.1",
-      "downloads": 428108,
+      "downloads": 425714,
       "likes": 4185,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-24T16:44:02.000Z",
@@ -135,20 +145,10 @@
       "repoType": "model"
     },
     {
-      "author": "openai-community",
-      "id": "openai-community/gpt2",
-      "downloads": 15368885,
-      "likes": 4183,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2024-02-19T10:57:45.000Z",
-      "numParameters": 137022720,
-      "repoType": "model"
-    },
-    {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "downloads": 4419279,
-      "likes": 4006,
+      "downloads": 4518947,
+      "likes": 4005,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-08-01T03:07:41.000Z",
       "numParameters": 304180418494,
@@ -157,7 +157,7 @@
     {
       "author": "Edge0",
       "id": "Edge0/Edge0-35B-A3B-preview",
-      "downloads": 79629,
+      "downloads": 79773,
       "likes": 3560,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-09-17T04:37:15.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/phi-2",
-      "downloads": 546235,
+      "downloads": 576419,
       "likes": 3522,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-12-08T11:35:44.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "google",
       "id": "google/gemma-7b",
-      "downloads": 21703,
+      "downloads": 21640,
       "likes": 3445,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-06-27T14:09:40.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "mistralai",
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
-      "downloads": 1689068,
+      "downloads": 1647928,
       "likes": 3236,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-24T16:57:21.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V3-0324",
-      "downloads": 1316511,
+      "downloads": 1397201,
       "likes": 3177,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-03-27T04:01:53.000Z",
@@ -207,8 +207,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.3-70B-Instruct",
-      "downloads": 901521,
-      "likes": 3071,
+      "downloads": 810473,
+      "likes": 3078,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-12-21T18:28:01.000Z",
       "numParameters": 70553706496,
@@ -217,7 +217,7 @@
     {
       "author": "moonshotai",
       "id": "moonshotai/Kimi-K2-Instruct",
-      "downloads": 282365,
+      "downloads": 292090,
       "likes": 2990,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-04-23T02:08:36.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "bigcode",
       "id": "bigcode/starcoder",
-      "downloads": 15956,
+      "downloads": 16128,
       "likes": 2986,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-10-08T20:53:18.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/QwQ-32B",
-      "downloads": 70286,
+      "downloads": 70190,
       "likes": 2965,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-03-11T12:15:48.000Z",
@@ -247,8 +247,8 @@
     {
       "author": "yuxinlu1",
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "downloads": 457870,
-      "likes": 2912,
+      "downloads": 446317,
+      "likes": 2915,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-06-19T03:52:11.000Z",
       "numParameters": 11907350576,
@@ -257,8 +257,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "downloads": 1958864,
-      "likes": 2679,
+      "downloads": 1833942,
+      "likes": 2689,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-10-24T15:07:29.000Z",
       "numParameters": 3212749824,
@@ -267,8 +267,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.2-1B",
-      "downloads": 786570,
-      "likes": 2640,
+      "downloads": 796591,
+      "likes": 2644,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-10-24T15:08:03.000Z",
       "numParameters": 1235814400,
@@ -277,8 +277,8 @@
     {
       "author": "meta-llama",
       "id": "meta-llama/Llama-3.1-8B",
-      "downloads": 565949,
-      "likes": 2555,
+      "downloads": 575657,
+      "likes": 2560,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-10-16T22:00:37.000Z",
       "numParameters": 8030261248,
@@ -287,8 +287,8 @@
     {
       "author": "TokenRhythm",
       "id": "TokenRhythm/NeoHorse-1-4B",
-      "downloads": 27626,
-      "likes": 2540,
+      "downloads": 27889,
+      "likes": 2541,
       "pipeline_tag": "text-generation",
       "lastModified": "2026-09-10T07:47:12.000Z",
       "numParameters": 4205751296,
@@ -297,7 +297,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-R1-0528",
-      "downloads": 160165,
+      "downloads": 155600,
       "likes": 2464,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-05-29T11:37:44.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:02:10.072Z"
+  "fetchedAt": "2026-09-29T23:16:07.573Z"
 }

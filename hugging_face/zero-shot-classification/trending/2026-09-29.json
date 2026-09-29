@@ -1,14 +1,14 @@
 {
   "category": "zero-shot-classification",
   "sort": "trending",
-  "totalItems": 616,
+  "totalItems": 625,
   "fetchedItems": 30,
   "models": [
     {
       "author": "interfaze-ai",
       "id": "interfaze-ai/lev",
-      "downloads": 316,
-      "likes": 92,
+      "downloads": 383,
+      "likes": 97,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-25T17:24:25.000Z",
       "numParameters": null,
@@ -17,11 +17,21 @@
     {
       "author": "openjev",
       "id": "openjev/openjev",
-      "downloads": 4066,
-      "likes": 77,
+      "downloads": 4288,
+      "likes": 80,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-24T00:35:46.000Z",
       "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "wfzyx",
+      "id": "wfzyx/von",
+      "downloads": 51619,
+      "likes": 49,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-09-29T22:53:11.000Z",
+      "numParameters": 394781696,
       "repoType": "model"
     },
     {
@@ -35,33 +45,33 @@
       "repoType": "model"
     },
     {
-      "author": "wfzyx",
-      "id": "wfzyx/von",
-      "downloads": 48028,
-      "likes": 48,
+      "author": "mstrasser",
+      "id": "mstrasser/Jeff-Qwen3.5-0.8B",
+      "downloads": 235,
+      "likes": 11,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-28T22:31:33.000Z",
-      "numParameters": 394781696,
+      "lastModified": "2026-09-29T18:29:08.000Z",
+      "numParameters": 852985920,
+      "repoType": "model"
+    },
+    {
+      "author": "mstrasser",
+      "id": "mstrasser/Jeff-Qwen3.5-2B",
+      "downloads": 105,
+      "likes": 8,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-09-29T18:33:35.000Z",
+      "numParameters": 2213241664,
       "repoType": "model"
     },
     {
       "author": "iapp",
       "id": "iapp/OpenThai-SystemOne",
-      "downloads": 7979,
+      "downloads": 8686,
       "likes": 27,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-21T17:38:18.000Z",
       "numParameters": 752674883,
-      "repoType": "model"
-    },
-    {
-      "author": "openjev",
-      "id": "openjev/openjev-FP8",
-      "downloads": 838,
-      "likes": 6,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-21T10:03:44.000Z",
-      "numParameters": 27356728560,
       "repoType": "model"
     },
     {
@@ -75,29 +85,19 @@
       "repoType": "model"
     },
     {
-      "author": "MoritzLaurer",
-      "id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
-      "downloads": 820294,
-      "likes": 392,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-04-11T13:49:19.000Z",
-      "numParameters": 278812163,
-      "repoType": "model"
-    },
-    {
-      "author": "openjev",
-      "id": "openjev/openjev-MLX",
-      "downloads": 945,
+      "author": "mstrasser",
+      "id": "mstrasser/Jeff-Gemma4-E2B",
+      "downloads": 154,
       "likes": 5,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-21T10:03:48.000Z",
-      "numParameters": 26895993856,
+      "lastModified": "2026-09-29T18:29:21.000Z",
+      "numParameters": 4628569344,
       "repoType": "model"
     },
     {
       "author": "FluidInference",
       "id": "FluidInference/gliclass-edge-apps-coreml",
-      "downloads": 177,
+      "downloads": 189,
       "likes": 4,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-22T20:08:42.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "leobitz",
       "id": "leobitz/jev-berta-base-zeroshot-classifier",
-      "downloads": 66,
+      "downloads": 74,
       "likes": 4,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-25T09:28:43.000Z",
@@ -115,12 +115,42 @@
       "repoType": "model"
     },
     {
-      "author": "openjev",
-      "id": "openjev/openjev-MLX-4bit",
-      "downloads": 881,
-      "likes": 3,
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+      "downloads": 806952,
+      "likes": 392,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-21T10:03:51.000Z",
+      "lastModified": "2024-04-11T13:49:19.000Z",
+      "numParameters": 278812163,
+      "repoType": "model"
+    },
+    {
+      "author": "tasksource",
+      "id": "tasksource/ModernBERT-base-nli",
+      "downloads": 120186,
+      "likes": 35,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2025-01-06T08:58:31.000Z",
+      "numParameters": 149607171,
+      "repoType": "model"
+    },
+    {
+      "author": "openjev",
+      "id": "openjev/openjev-FP8",
+      "downloads": 960,
+      "likes": 6,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-09-21T10:03:44.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "openjev",
+      "id": "openjev/openjev-MLX",
+      "downloads": 1057,
+      "likes": 6,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-09-21T10:03:48.000Z",
       "numParameters": 26895993856,
       "repoType": "model"
     },
@@ -135,23 +165,23 @@
       "repoType": "model"
     },
     {
-      "author": "MoritzLaurer",
-      "id": "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
-      "downloads": 166333,
-      "likes": 141,
+      "author": "RoeiG",
+      "id": "RoeiG/laya-hebrew",
+      "downloads": 0,
+      "likes": 4,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-04-11T13:42:28.000Z",
-      "numParameters": 435063810,
+      "lastModified": "2026-09-25T14:03:10.000Z",
+      "numParameters": 377558278,
       "repoType": "model"
     },
     {
       "author": "tasksource",
-      "id": "tasksource/ModernBERT-base-nli",
-      "downloads": 122084,
-      "likes": 34,
+      "id": "tasksource/ModernBERT-large-nli",
+      "downloads": 16321,
+      "likes": 16,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2025-01-06T08:58:31.000Z",
-      "numParameters": 149607171,
+      "lastModified": "2025-01-04T12:03:47.000Z",
+      "numParameters": 395834371,
       "repoType": "model"
     },
     {
@@ -167,7 +197,7 @@
     {
       "author": "Horizon-Labs",
       "id": "Horizon-Labs/multilingual-zeroshot-small",
-      "downloads": 136,
+      "downloads": 167,
       "likes": 2,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-27T16:32:56.000Z",
@@ -175,19 +205,9 @@
       "repoType": "model"
     },
     {
-      "author": "RoeiG",
-      "id": "RoeiG/laya-hebrew",
-      "downloads": 0,
-      "likes": 3,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-25T14:03:10.000Z",
-      "numParameters": 377558278,
-      "repoType": "model"
-    },
-    {
       "author": "Falconsai",
       "id": "Falconsai/LightDec",
-      "downloads": 361,
+      "downloads": 378,
       "likes": 2,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-26T11:54:01.000Z",
@@ -197,17 +217,17 @@
     {
       "author": "manjunathshiva",
       "id": "manjunathshiva/opendecider-nano",
-      "downloads": 38,
+      "downloads": 71,
       "likes": 2,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-27T09:05:53.000Z",
+      "lastModified": "2026-09-29T15:24:18.000Z",
       "numParameters": 394781696,
       "repoType": "model"
     },
     {
       "author": "Recognai",
       "id": "Recognai/zeroshot_selectra_small",
-      "downloads": 87,
+      "downloads": 89,
       "likes": 9,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-07-14T22:23:19.000Z",
@@ -215,19 +235,19 @@
       "repoType": "model"
     },
     {
-      "author": "cointegrated",
-      "id": "cointegrated/rubert-base-cased-nli-threeway",
-      "downloads": 19308,
-      "likes": 39,
+      "author": "cross-encoder",
+      "id": "cross-encoder/nli-deberta-v3-base",
+      "downloads": 744457,
+      "likes": 50,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2024-04-05T09:31:57.000Z",
-      "numParameters": 177856259,
+      "lastModified": "2025-04-11T09:56:48.000Z",
+      "numParameters": 184424963,
       "repoType": "model"
     },
     {
       "author": "facebook",
       "id": "facebook/bart-large-mnli",
-      "downloads": 2923304,
+      "downloads": 2916376,
       "likes": 1621,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-09-05T14:49:34.000Z",
@@ -237,7 +257,7 @@
     {
       "author": "typeform",
       "id": "typeform/distilbert-base-uncased-mnli",
-      "downloads": 429416,
+      "downloads": 414659,
       "likes": 49,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-03-22T08:49:00.000Z",
@@ -245,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+      "downloads": 156606,
+      "likes": 132,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:49:10.000Z",
+      "numParameters": 435065347,
+      "repoType": "model"
+    },
+    {
       "author": "VivekMalipatel23",
       "id": "VivekMalipatel23/mDeBERTa-v3-base-text-emotion-classification",
-      "downloads": 72,
+      "downloads": 77,
       "likes": 5,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-14T21:00:04.000Z",
@@ -255,19 +285,9 @@
       "repoType": "model"
     },
     {
-      "author": "tasksource",
-      "id": "tasksource/ModernBERT-large-nli",
-      "downloads": 15974,
-      "likes": 15,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2025-01-04T12:03:47.000Z",
-      "numParameters": 395834371,
-      "repoType": "model"
-    },
-    {
       "author": "hivetrace",
       "id": "hivetrace/gliner-guard-biencoder",
-      "downloads": 158,
+      "downloads": 161,
       "likes": 5,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-05-16T23:28:36.000Z",
@@ -277,33 +297,13 @@
     {
       "author": "mrn-dk",
       "id": "mrn-dk/lod-lille-0.6B",
-      "downloads": 178,
+      "downloads": 185,
       "likes": 2,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-27T18:14:09.000Z",
       "numParameters": 597109000,
       "repoType": "model"
-    },
-    {
-      "author": "jaswanthsanjay88",
-      "id": "jaswanthsanjay88/rev-decision-model",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-22T15:20:57.000Z",
-      "numParameters": 421293827,
-      "repoType": "model"
-    },
-    {
-      "author": "annelo",
-      "id": "annelo/bukva-0.8b",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-24T07:12:08.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:02:33.839Z"
+  "fetchedAt": "2026-09-29T23:16:32.501Z"
 }

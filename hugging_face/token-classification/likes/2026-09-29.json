@@ -1,14 +1,14 @@
 {
   "category": "token-classification",
   "sort": "likes",
-  "totalItems": 30668,
+  "totalItems": 30680,
   "fetchedItems": 30,
   "models": [
     {
       "author": "openai",
       "id": "openai/privacy-filter",
-      "downloads": 318645,
-      "likes": 1775,
+      "downloads": 334109,
+      "likes": 1776,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-04-22T16:50:17.000Z",
       "numParameters": 1399486865,
@@ -17,7 +17,7 @@
     {
       "author": "dslim",
       "id": "dslim/bert-base-NER",
-      "downloads": 1428741,
+      "downloads": 1452229,
       "likes": 737,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-10-08T07:51:39.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2.5-multi-v1",
-      "downloads": 255111,
-      "likes": 265,
+      "downloads": 266542,
+      "likes": 266,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:34.000Z",
       "numParameters": 287355159,
@@ -37,7 +37,7 @@
     {
       "author": "iiiorg",
       "id": "iiiorg/piiranha-v1-detect-personal-information",
-      "downloads": 147750,
+      "downloads": 130511,
       "likes": 249,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-11-01T04:01:28.000Z",
@@ -45,9 +45,19 @@
       "repoType": "model"
     },
     {
+      "author": "fastino",
+      "id": "fastino/GLiNER2.5-Decide",
+      "downloads": 29199,
+      "likes": 240,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-28T00:59:04.000Z",
+      "numParameters": 486444053,
+      "repoType": "model"
+    },
+    {
       "author": "blaze999",
       "id": "blaze999/Medical-NER",
-      "downloads": 11422,
+      "downloads": 11789,
       "likes": 231,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-08T06:15:22.000Z",
@@ -55,19 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "fastino",
-      "id": "fastino/GLiNER2.5-Decide",
-      "downloads": 24250,
-      "likes": 230,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-28T00:59:04.000Z",
-      "numParameters": 486444053,
-      "repoType": "model"
-    },
-    {
       "author": "d4data",
       "id": "d4data/biomedical-ner-all",
-      "downloads": 231114,
+      "downloads": 230557,
       "likes": 195,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-07-02T07:28:28.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "FacebookAI",
       "id": "FacebookAI/xlm-roberta-large-finetuned-conll03-english",
-      "downloads": 68669,
+      "downloads": 70955,
       "likes": 185,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-02-19T12:48:53.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "oliverguhr",
       "id": "oliverguhr/fullstop-punctuation-multilang-large",
-      "downloads": 231929,
+      "downloads": 238210,
       "likes": 181,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-11-16T09:35:35.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "urchade",
       "id": "urchade/gliner_multi_pii-v1",
-      "downloads": 62252,
+      "downloads": 63333,
       "likes": 175,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-20T16:16:50.000Z",
@@ -105,9 +105,19 @@
       "repoType": "model"
     },
     {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 14957,
+      "likes": 173,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "urchade",
       "id": "urchade/gliner_multi-v2.1",
-      "downloads": 74331,
+      "downloads": 76257,
       "likes": 171,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-12-08T01:16:10.000Z",
@@ -117,7 +127,7 @@
     {
       "author": "Babelscape",
       "id": "Babelscape/wikineural-multilingual-ner",
-      "downloads": 684619,
+      "downloads": 683363,
       "likes": 169,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-05-23T08:47:23.000Z",
@@ -125,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "nationaldesignstudio",
-      "id": "nationaldesignstudio/rampart",
-      "downloads": 13900,
-      "likes": 167,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-06-30T19:45:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "dslim",
       "id": "dslim/bert-large-NER",
-      "downloads": 175488,
+      "downloads": 177234,
       "likes": 163,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-10-08T07:52:08.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/gliner-PII",
-      "downloads": 23132,
+      "downloads": 23436,
       "likes": 161,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-12-07T21:51:24.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "knowledgator",
       "id": "knowledgator/gliformer-large-v1",
-      "downloads": 1543,
+      "downloads": 1625,
       "likes": 161,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-18T18:31:25.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "knowledgator",
       "id": "knowledgator/gliner-multitask-large-v0.5",
-      "downloads": 1014,
+      "downloads": 1011,
       "likes": 141,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-04-29T09:03:58.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "ckiplab",
       "id": "ckiplab/bert-base-chinese-ner",
-      "downloads": 98884,
+      "downloads": 100177,
       "likes": 134,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-05-10T03:28:12.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "ml6team",
       "id": "ml6team/keyphrase-extraction-kbir-inspec",
-      "downloads": 11592,
+      "downloads": 11550,
       "likes": 133,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-05-06T08:46:52.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "urchade",
       "id": "urchade/gliner_multi",
-      "downloads": 192,
+      "downloads": 195,
       "likes": 132,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-10T10:13:48.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "tanaos",
       "id": "tanaos/tanaos-text-anonymizer-v1",
-      "downloads": 70,
+      "downloads": 76,
       "likes": 127,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-03-27T07:41:38.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "bigcode",
       "id": "bigcode/starpii",
-      "downloads": 9838,
+      "downloads": 10015,
       "likes": 124,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-07-24T09:43:04.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "Jean-Baptiste",
       "id": "Jean-Baptiste/camembert-ner",
-      "downloads": 68946,
+      "downloads": 69191,
       "likes": 121,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-06-01T01:32:51.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "numind",
       "id": "numind/NuNER_Zero",
-      "downloads": 14756,
+      "downloads": 14695,
       "likes": 113,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-02-26T13:28:29.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "flair",
       "id": "flair/ner-english-ontonotes-large",
-      "downloads": 106088,
+      "downloads": 109778,
       "likes": 101,
       "pipeline_tag": "token-classification",
       "lastModified": "2021-05-08T15:35:21.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "zilliz",
       "id": "zilliz/semantic-highlight-bilingual-v1",
-      "downloads": 672,
+      "downloads": 682,
       "likes": 99,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-01-15T06:32:52.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "dbmdz",
       "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
-      "downloads": 1823290,
+      "downloads": 1576779,
       "likes": 98,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-09-06T22:17:56.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2-privacy-filter-PII-multi",
-      "downloads": 162557,
+      "downloads": 171463,
       "likes": 92,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:39.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "urchade",
       "id": "urchade/gliner_base",
-      "downloads": 3415,
+      "downloads": 3487,
       "likes": 87,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-10T10:10:19.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "Davlan",
       "id": "Davlan/bert-base-multilingual-cased-ner-hrl",
-      "downloads": 162818,
+      "downloads": 164459,
       "likes": 85,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-11-11T12:32:14.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:02:24.807Z"
+  "fetchedAt": "2026-09-29T23:16:22.953Z"
 }

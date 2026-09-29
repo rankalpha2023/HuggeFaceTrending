@@ -1,24 +1,14 @@
 {
   "category": "fill-mask",
   "sort": "trending",
-  "totalItems": 18399,
+  "totalItems": 18403,
   "fetchedItems": 30,
   "models": [
     {
-      "author": "RikkaBotan",
-      "id": "RikkaBotan/NexteraBERT-Mezzoforte-220M-en",
-      "downloads": 294,
-      "likes": 14,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2026-09-24T23:09:50.000Z",
-      "numParameters": 212633600,
-      "repoType": "model"
-    },
-    {
       "author": "jhu-clsp",
       "id": "jhu-clsp/mmBERT-small",
-      "downloads": 67299,
-      "likes": 99,
+      "downloads": 68655,
+      "likes": 101,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-10-17T16:06:00.000Z",
       "numParameters": null,
@@ -27,8 +17,8 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-base-uncased",
-      "downloads": 41713428,
-      "likes": 3381,
+      "downloads": 41186079,
+      "likes": 3382,
       "pipeline_tag": "fill-mask",
       "lastModified": "2024-02-19T11:06:12.000Z",
       "numParameters": 110106428,
@@ -37,7 +27,7 @@
     {
       "author": "answerdotai",
       "id": "answerdotai/ModernBERT-base",
-      "downloads": 4255690,
+      "downloads": 4291575,
       "likes": 1112,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-01-15T20:11:48.000Z",
@@ -45,9 +35,29 @@
       "repoType": "model"
     },
     {
+      "author": "jhu-clsp",
+      "id": "jhu-clsp/mmBERT-base",
+      "downloads": 408073,
+      "likes": 255,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2025-10-07T14:08:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RikkaBotan",
+      "id": "RikkaBotan/NexteraBERT-Mezzoforte-220M-en",
+      "downloads": 329,
+      "likes": 15,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2026-09-24T23:09:50.000Z",
+      "numParameters": 212633600,
+      "repoType": "model"
+    },
+    {
       "author": "answerdotai",
       "id": "answerdotai/ModernBERT-large",
-      "downloads": 660749,
+      "downloads": 699178,
       "likes": 496,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-01-15T20:11:27.000Z",
@@ -55,29 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "jhu-clsp",
-      "id": "jhu-clsp/mmBERT-base",
-      "downloads": 408135,
-      "likes": 254,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2025-10-07T14:08:42.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "microsoft",
-      "id": "microsoft/deberta-v3-base",
-      "downloads": 2775569,
-      "likes": 446,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2022-09-22T12:34:19.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "medicalai",
       "id": "medicalai/ClinicalBERT",
-      "downloads": 15922,
+      "downloads": 16172,
       "likes": 383,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-04-14T01:45:38.000Z",
@@ -85,9 +75,49 @@
       "repoType": "model"
     },
     {
+      "author": "google-bert",
+      "id": "google-bert/bert-base-multilingual-cased",
+      "downloads": 1738722,
+      "likes": 607,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T11:05:41.000Z",
+      "numParameters": 178566653,
+      "repoType": "model"
+    },
+    {
+      "author": "FacebookAI",
+      "id": "FacebookAI/roberta-base",
+      "downloads": 8095391,
+      "likes": 667,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T12:39:28.000Z",
+      "numParameters": 124697947,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract",
+      "downloads": 375609,
+      "likes": 100,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2023-11-06T18:04:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/deberta-v3-base",
+      "downloads": 2778091,
+      "likes": 446,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2022-09-22T12:34:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "microsoft",
       "id": "microsoft/deberta-v3-xsmall",
-      "downloads": 40800,
+      "downloads": 41661,
       "likes": 50,
       "pipeline_tag": "fill-mask",
       "lastModified": "2022-09-26T08:59:28.000Z",
@@ -95,9 +125,19 @@
       "repoType": "model"
     },
     {
+      "author": "neuralmind",
+      "id": "neuralmind/bert-base-portuguese-cased",
+      "downloads": 185831,
+      "likes": 239,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2022-06-14T14:37:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/esm2_t33_650M_UR50D",
-      "downloads": 2411869,
+      "downloads": 2585494,
       "likes": 93,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-03-21T15:05:12.000Z",
@@ -105,29 +145,9 @@
       "repoType": "model"
     },
     {
-      "author": "s2w-ai",
-      "id": "s2w-ai/DarkBERT",
-      "downloads": 114,
-      "likes": 214,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2024-07-08T08:16:26.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "answerdotai",
-      "id": "answerdotai/ModernBERT-Large-Instruct",
-      "downloads": 2585,
-      "likes": 36,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2025-02-10T05:33:41.000Z",
-      "numParameters": 395881664,
-      "repoType": "model"
-    },
-    {
       "author": "jhu-clsp",
       "id": "jhu-clsp/ettin-encoder-17m",
-      "downloads": 53263,
+      "downloads": 72805,
       "likes": 22,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-07-16T13:41:48.000Z",
@@ -137,7 +157,7 @@
     {
       "author": "achadj",
       "id": "achadj/footballbert-base",
-      "downloads": 187,
+      "downloads": 188,
       "likes": 2,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-10-12T19:32:18.000Z",
@@ -145,9 +165,29 @@
       "repoType": "model"
     },
     {
+      "author": "albert",
+      "id": "albert/albert-base-v2",
+      "downloads": 1052259,
+      "likes": 151,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T10:58:14.000Z",
+      "numParameters": 11842272,
+      "repoType": "model"
+    },
+    {
+      "author": "google-bert",
+      "id": "google-bert/bert-base-cased",
+      "downloads": 3465869,
+      "likes": 379,
+      "pipeline_tag": "fill-mask",
+      "lastModified": "2024-02-19T11:02:26.000Z",
+      "numParameters": 108932934,
+      "repoType": "model"
+    },
+    {
       "author": "google-bert",
       "id": "google-bert/bert-base-chinese",
-      "downloads": 1017941,
+      "downloads": 1028517,
       "likes": 1469,
       "pipeline_tag": "fill-mask",
       "lastModified": "2025-07-03T11:58:48.000Z",
@@ -155,19 +195,19 @@
       "repoType": "model"
     },
     {
-      "author": "google-bert",
-      "id": "google-bert/bert-base-multilingual-cased",
-      "downloads": 1726698,
-      "likes": 606,
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-multilingual-cased",
+      "downloads": 572707,
+      "likes": 246,
       "pipeline_tag": "fill-mask",
-      "lastModified": "2024-02-19T11:05:41.000Z",
-      "numParameters": 178566653,
+      "lastModified": "2024-05-06T13:46:54.000Z",
+      "numParameters": 135445755,
       "repoType": "model"
     },
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-uncased",
-      "downloads": 8070424,
+      "downloads": 8045220,
       "likes": 1474,
       "pipeline_tag": "fill-mask",
       "lastModified": "2024-05-06T13:44:53.000Z",
@@ -175,19 +215,9 @@
       "repoType": "model"
     },
     {
-      "author": "FacebookAI",
-      "id": "FacebookAI/roberta-base",
-      "downloads": 8098311,
-      "likes": 666,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2024-02-19T12:39:28.000Z",
-      "numParameters": 124697947,
-      "repoType": "model"
-    },
-    {
       "author": "Geotrend",
       "id": "Geotrend/distilbert-base-uk-cased",
-      "downloads": 1036,
+      "downloads": 1043,
       "likes": 3,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-07-02T18:30:28.000Z",
@@ -197,7 +227,7 @@
     {
       "author": "SI2M-Lab",
       "id": "SI2M-Lab/DarijaBERT-arabizi",
-      "downloads": 945,
+      "downloads": 986,
       "likes": 10,
       "pipeline_tag": "fill-mask",
       "lastModified": "2024-09-25T10:25:55.000Z",
@@ -205,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "cointegrated",
-      "id": "cointegrated/rubert-tiny",
-      "downloads": 5345,
-      "likes": 48,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2024-02-09T18:44:51.000Z",
-      "numParameters": 11913150,
-      "repoType": "model"
-    },
-    {
       "author": "gerulata",
       "id": "gerulata/slovakbert",
-      "downloads": 763,
+      "downloads": 828,
       "likes": 27,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-07-11T18:36:33.000Z",
@@ -227,27 +247,17 @@
     {
       "author": "google",
       "id": "google/muril-base-cased",
-      "downloads": 49733,
-      "likes": 64,
+      "downloads": 50156,
+      "likes": 65,
       "pipeline_tag": "fill-mask",
       "lastModified": "2022-06-10T13:33:04.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "hfl",
-      "id": "hfl/chinese-macbert-base",
-      "downloads": 21124,
-      "likes": 174,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2021-05-19T19:09:45.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "indolem",
       "id": "indolem/indobert-base-uncased",
-      "downloads": 49225,
+      "downloads": 49066,
       "likes": 50,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-08-09T13:07:37.000Z",
@@ -257,7 +267,7 @@
     {
       "author": "jackaduma",
       "id": "jackaduma/SecRoBERTa",
-      "downloads": 11797,
+      "downloads": 11920,
       "likes": 27,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-06-26T05:55:27.000Z",
@@ -267,7 +277,7 @@
     {
       "author": "klue",
       "id": "klue/bert-base",
-      "downloads": 37540,
+      "downloads": 37451,
       "likes": 67,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-06-12T12:30:04.000Z",
@@ -277,7 +287,7 @@
     {
       "author": "ltg",
       "id": "ltg/norbert",
-      "downloads": 181,
+      "downloads": 179,
       "likes": 9,
       "pipeline_tag": "fill-mask",
       "lastModified": "2024-03-03T22:17:59.000Z",
@@ -287,23 +297,13 @@
     {
       "author": "microsoft",
       "id": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
-      "downloads": 413388,
+      "downloads": 432943,
       "likes": 337,
       "pipeline_tag": "fill-mask",
       "lastModified": "2023-11-06T18:03:43.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "microsoft",
-      "id": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract",
-      "downloads": 423175,
-      "likes": 99,
-      "pipeline_tag": "fill-mask",
-      "lastModified": "2023-11-06T18:04:15.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:01:27.408Z"
+  "fetchedAt": "2026-09-29T23:15:23.428Z"
 }

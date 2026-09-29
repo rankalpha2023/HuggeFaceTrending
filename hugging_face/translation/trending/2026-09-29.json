@@ -1,24 +1,24 @@
 {
   "category": "translation",
   "sort": "trending",
-  "totalItems": 17785,
+  "totalItems": 17825,
   "fetchedItems": 30,
   "models": [
     {
       "author": "netease-youdao",
       "id": "netease-youdao/Confucius4-T3PO",
-      "downloads": 1367,
-      "likes": 69,
+      "downloads": 1419,
+      "likes": 72,
       "pipeline_tag": "translation",
-      "lastModified": "2026-09-21T09:09:33.000Z",
+      "lastModified": "2026-09-29T15:21:11.000Z",
       "numParameters": 14770033664,
       "repoType": "model"
     },
     {
       "author": "google-t5",
       "id": "google-t5/t5-small",
-      "downloads": 24104243,
-      "likes": 642,
+      "downloads": 24086514,
+      "likes": 643,
       "pipeline_tag": "translation",
       "lastModified": "2023-06-30T02:31:26.000Z",
       "numParameters": 60506880,
@@ -27,7 +27,7 @@
     {
       "author": "tencent",
       "id": "tencent/Hy-MT2-30B-A3B",
-      "downloads": 12637,
+      "downloads": 12196,
       "likes": 505,
       "pipeline_tag": "translation",
       "lastModified": "2026-07-21T12:22:53.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "tencent",
       "id": "tencent/Hy-MT2-1.8B",
-      "downloads": 28033,
+      "downloads": 28438,
       "likes": 1223,
       "pipeline_tag": "translation",
       "lastModified": "2026-05-26T09:05:58.000Z",
@@ -47,17 +47,37 @@
     {
       "author": "fumetodev",
       "id": "fumetodev/Hy-MT2-1.8B-JP-Manga-Finetune-v5-GGUF",
-      "downloads": 994,
-      "likes": 6,
+      "downloads": 1037,
+      "likes": 7,
       "pipeline_tag": "translation",
       "lastModified": "2026-09-06T23:01:27.000Z",
       "numParameters": 1791080448,
       "repoType": "model"
     },
     {
+      "author": "CohereLabs",
+      "id": "CohereLabs/North-Small-Translate-1.0",
+      "downloads": 131,
+      "likes": 55,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-09-10T15:29:25.000Z",
+      "numParameters": 218254938112,
+      "repoType": "model"
+    },
+    {
+      "author": "IndexTeam",
+      "id": "IndexTeam/Index-Translate-9B",
+      "downloads": 7,
+      "likes": 4,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-09-29T18:56:10.000Z",
+      "numParameters": 9653104368,
+      "repoType": "model"
+    },
+    {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-en-indic-dist-200M",
-      "downloads": 244441,
+      "downloads": 244043,
       "likes": 53,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:50.000Z",
@@ -67,7 +87,7 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-indic-en-dist-200M",
-      "downloads": 25321,
+      "downloads": 25762,
       "likes": 39,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:52.000Z",
@@ -77,7 +97,7 @@
     {
       "author": "google",
       "id": "google/madlad400-3b-mt",
-      "downloads": 50541,
+      "downloads": 47662,
       "likes": 231,
       "pipeline_tag": "translation",
       "lastModified": "2023-11-27T15:58:35.000Z",
@@ -87,7 +107,7 @@
     {
       "author": "tencent",
       "id": "tencent/Hunyuan-MT-7B",
-      "downloads": 2509,
+      "downloads": 2376,
       "likes": 744,
       "pipeline_tag": "translation",
       "lastModified": "2025-12-30T03:07:28.000Z",
@@ -97,7 +117,7 @@
     {
       "author": "alphaZimuth",
       "id": "alphaZimuth/Hy-MT2-30B-A3B-APEX-GGUF",
-      "downloads": 6260,
+      "downloads": 6222,
       "likes": 17,
       "pipeline_tag": "translation",
       "lastModified": "2026-09-11T15:24:17.000Z",
@@ -105,19 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "CohereLabs",
-      "id": "CohereLabs/North-Small-Translate-1.0",
-      "downloads": 124,
-      "likes": 54,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-09-10T15:29:25.000Z",
-      "numParameters": 218254938112,
-      "repoType": "model"
-    },
-    {
       "author": "netease-youdao",
       "id": "netease-youdao/Confucius4-T3PO-GGUF",
-      "downloads": 1837,
+      "downloads": 3127,
       "likes": 5,
       "pipeline_tag": "translation",
       "lastModified": "2026-09-20T10:18:34.000Z",
@@ -125,9 +135,29 @@
       "repoType": "model"
     },
     {
+      "author": "IndexTeam",
+      "id": "IndexTeam/Index-Translate-2B",
+      "downloads": 9,
+      "likes": 3,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-09-29T16:31:55.000Z",
+      "numParameters": 2274069824,
+      "repoType": "model"
+    },
+    {
+      "author": "IndexTeam",
+      "id": "IndexTeam/Index-Nailong-9B",
+      "downloads": 7,
+      "likes": 3,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-09-29T08:54:04.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-zh-en",
-      "downloads": 178720,
+      "downloads": 178597,
       "likes": 564,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T12:09:10.000Z",
@@ -137,7 +167,7 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-distilled-600M",
-      "downloads": 848448,
+      "downloads": 853553,
       "likes": 980,
       "pipeline_tag": "translation",
       "lastModified": "2024-02-14T17:18:36.000Z",
@@ -145,43 +175,13 @@
       "repoType": "model"
     },
     {
-      "author": "Unbabel",
-      "id": "Unbabel/XCOMET-XL",
-      "downloads": 0,
-      "likes": 55,
-      "pipeline_tag": "translation",
-      "lastModified": "2025-04-07T09:28:35.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-indic-indic-dist-320M",
-      "downloads": 6569,
+      "downloads": 6582,
       "likes": 26,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:49.000Z",
       "numParameters": 320861184,
-      "repoType": "model"
-    },
-    {
-      "author": "sarvamai",
-      "id": "sarvamai/sarvam-translate",
-      "downloads": 15233,
-      "likes": 159,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-07-13T11:49:53.000Z",
-      "numParameters": 4300079472,
-      "repoType": "model"
-    },
-    {
-      "author": "bodhan-ai",
-      "id": "bodhan-ai/indic-translate",
-      "downloads": 2195,
-      "likes": 16,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-09-07T09:09:12.000Z",
-      "numParameters": 7941106250,
       "repoType": "model"
     },
     {
@@ -197,47 +197,37 @@
     {
       "author": "AdithyanAI",
       "id": "AdithyanAI/Mythos2.0-2B",
-      "downloads": 26,
+      "downloads": 47,
       "likes": 10,
       "pipeline_tag": "translation",
-      "lastModified": "2026-09-28T23:35:17.000Z",
+      "lastModified": "2026-09-29T13:13:28.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "IndexTeam",
-      "id": "IndexTeam/Index-Translate-2B",
-      "downloads": 0,
+      "id": "IndexTeam/Index-Nailong-2B",
+      "downloads": 7,
       "likes": 2,
       "pipeline_tag": "translation",
-      "lastModified": "2026-09-28T12:08:40.000Z",
+      "lastModified": "2026-09-29T08:54:01.000Z",
+      "numParameters": 2213241664,
+      "repoType": "model"
+    },
+    {
+      "author": "IndexTeam",
+      "id": "IndexTeam/Index-Homura-2B",
+      "downloads": 4,
+      "likes": 2,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-09-29T08:54:07.000Z",
       "numParameters": 2274069824,
-      "repoType": "model"
-    },
-    {
-      "author": "IndexTeam",
-      "id": "IndexTeam/Index-Translate-9B",
-      "downloads": 0,
-      "likes": 2,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-09-28T18:33:17.000Z",
-      "numParameters": 9653104368,
-      "repoType": "model"
-    },
-    {
-      "author": "IndexTeam",
-      "id": "IndexTeam/Index-Nailong-9B",
-      "downloads": 0,
-      "likes": 2,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-09-28T18:28:25.000Z",
-      "numParameters": 8953803264,
       "repoType": "model"
     },
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-ja-en",
-      "downloads": 43638,
+      "downloads": 43320,
       "likes": 76,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:59:08.000Z",
@@ -247,7 +237,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-tc-big-en-pt",
-      "downloads": 21848,
+      "downloads": 21970,
       "likes": 34,
       "pipeline_tag": "translation",
       "lastModified": "2023-10-10T10:20:34.000Z",
@@ -257,7 +247,7 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-1.3B",
-      "downloads": 97323,
+      "downloads": 98033,
       "likes": 75,
       "pipeline_tag": "translation",
       "lastModified": "2023-02-11T20:19:16.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "Unbabel",
       "id": "Unbabel/wmt22-cometkiwi-da",
-      "downloads": 3275,
+      "downloads": 3329,
       "likes": 99,
       "pipeline_tag": "translation",
       "lastModified": "2025-04-07T09:26:01.000Z",
@@ -275,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "Unbabel",
+      "id": "Unbabel/XCOMET-XL",
+      "downloads": 0,
+      "likes": 55,
+      "pipeline_tag": "translation",
+      "lastModified": "2025-04-07T09:28:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-en-indic-1B",
-      "downloads": 51462,
+      "downloads": 52787,
       "likes": 70,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:50.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-indic-en-1B",
-      "downloads": 7317,
+      "downloads": 7402,
       "likes": 52,
       "pipeline_tag": "translation",
       "lastModified": "2025-05-02T04:11:48.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "basso4",
       "id": "basso4/model_machine_translation_en_to_vi",
-      "downloads": 9,
+      "downloads": 12,
       "likes": 2,
       "pipeline_tag": "translation",
       "lastModified": "2023-10-27T23:24:18.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:02:26.418Z"
+  "fetchedAt": "2026-09-29T23:16:24.641Z"
 }

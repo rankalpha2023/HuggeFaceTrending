@@ -1,44 +1,54 @@
 {
   "category": "text-classification",
   "sort": "trending",
-  "totalItems": 122525,
+  "totalItems": 122611,
   "fetchedItems": 30,
   "models": [
     {
       "author": "convaiinnovations",
       "id": "convaiinnovations/laya",
       "downloads": 0,
-      "likes": 4301,
+      "likes": 4503,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-24T05:39:22.000Z",
       "numParameters": 421293830,
       "repoType": "model"
     },
     {
-      "author": "akhilaaa3",
-      "id": "akhilaaa3/Jev-Omni",
-      "downloads": 577,
-      "likes": 296,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-25T17:39:18.000Z",
-      "numParameters": 11959730224,
-      "repoType": "model"
-    },
-    {
       "author": "SupersonicLabs",
       "id": "SupersonicLabs/Julia-1",
-      "downloads": 1006,
-      "likes": 262,
+      "downloads": 1725,
+      "likes": 290,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-26T22:03:07.000Z",
       "numParameters": 144292870,
       "repoType": "model"
     },
     {
+      "author": "akhilaaa3",
+      "id": "akhilaaa3/Jev-Omni",
+      "downloads": 923,
+      "likes": 310,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-25T17:39:18.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "convaiinnovations",
+      "id": "convaiinnovations/laya-multilingual",
+      "downloads": 0,
+      "likes": 327,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-24T05:39:24.000Z",
+      "numParameters": 321908998,
+      "repoType": "model"
+    },
+    {
       "author": "AlexWortega",
       "id": "AlexWortega/openjev",
       "downloads": 0,
-      "likes": 619,
+      "likes": 621,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-28T16:04:40.000Z",
       "numParameters": null,
@@ -46,59 +56,49 @@
     },
     {
       "author": "convaiinnovations",
-      "id": "convaiinnovations/laya-multilingual",
-      "downloads": 0,
-      "likes": 321,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-24T05:39:24.000Z",
-      "numParameters": 321908998,
-      "repoType": "model"
-    },
-    {
-      "author": "aac6fef",
-      "id": "aac6fef/laya-mlx",
-      "downloads": 0,
-      "likes": 106,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-19T16:38:19.000Z",
-      "numParameters": 421293830,
-      "repoType": "model"
-    },
-    {
-      "author": "convaiinnovations",
       "id": "convaiinnovations/laya-typed-decisions",
       "downloads": 0,
-      "likes": 127,
+      "likes": 131,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-24T04:08:17.000Z",
       "numParameters": 421293830,
       "repoType": "model"
     },
     {
-      "author": "FrontiersMind",
-      "id": "FrontiersMind/Lumma-fev-0.6b",
-      "downloads": 4252,
-      "likes": 63,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-28T12:57:42.000Z",
-      "numParameters": 649282476,
-      "repoType": "model"
-    },
-    {
       "author": "jaredpalmer",
       "id": "jaredpalmer/kev-4b",
-      "downloads": 10776,
-      "likes": 78,
+      "downloads": 12014,
+      "likes": 81,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-24T14:36:57.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "FrontiersMind",
+      "id": "FrontiersMind/Lumma-fev-0.6b",
+      "downloads": 6586,
+      "likes": 65,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-29T08:43:53.000Z",
+      "numParameters": 649282476,
+      "repoType": "model"
+    },
+    {
+      "author": "aac6fef",
+      "id": "aac6fef/laya-mlx",
+      "downloads": 0,
+      "likes": 108,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-19T16:38:19.000Z",
+      "numParameters": 421293830,
+      "repoType": "model"
+    },
+    {
       "author": "bespokelabs",
       "id": "bespokelabs/Bespoke-Nimble-9B",
-      "downloads": 3451,
-      "likes": 201,
+      "downloads": 3567,
+      "likes": 203,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-24T06:05:07.000Z",
       "numParameters": null,
@@ -107,38 +107,18 @@
     {
       "author": "denis-pplx",
       "id": "denis-pplx/autojev-27b",
-      "downloads": 688,
-      "likes": 41,
+      "downloads": 905,
+      "likes": 46,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-22T03:52:39.000Z",
       "numParameters": 26085330160,
       "repoType": "model"
     },
     {
-      "author": "jaredpalmer",
-      "id": "jaredpalmer/kev-9b",
-      "downloads": 2512,
-      "likes": 52,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-21T14:15:39.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "FluidInference",
-      "id": "FluidInference/laya-coreml",
-      "downloads": 340,
-      "likes": 41,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-22T04:43:35.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "sky7350",
       "id": "sky7350/Mica-v0.1-4B",
-      "downloads": 3135,
-      "likes": 34,
+      "downloads": 3723,
+      "likes": 36,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-28T18:50:41.000Z",
       "numParameters": 4215122944,
@@ -147,8 +127,8 @@
     {
       "author": "surogate",
       "id": "surogate/rune-26b-a4b-GGUF",
-      "downloads": 2090,
-      "likes": 30,
+      "downloads": 2297,
+      "likes": 36,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-26T14:10:30.000Z",
       "numParameters": 25805936206,
@@ -156,38 +136,38 @@
     },
     {
       "author": "jaredpalmer",
-      "id": "jaredpalmer/kev-0.5b",
-      "downloads": 1546,
-      "likes": 58,
+      "id": "jaredpalmer/kev-9b",
+      "downloads": 2865,
+      "likes": 54,
       "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-20T23:49:07.000Z",
+      "lastModified": "2026-09-21T14:15:39.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Mapika",
-      "id": "Mapika/decider-2b",
-      "downloads": 232784,
-      "likes": 93,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-24T21:04:31.000Z",
-      "numParameters": 1881825088,
       "repoType": "model"
     },
     {
       "author": "caiovicentino1",
       "id": "caiovicentino1/Eikos-27B",
-      "downloads": 221,
-      "likes": 21,
+      "downloads": 292,
+      "likes": 26,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-27T00:35:06.000Z",
       "numParameters": 27781427952,
       "repoType": "model"
     },
     {
+      "author": "jaredpalmer",
+      "id": "jaredpalmer/kev-0.5b",
+      "downloads": 1604,
+      "likes": 59,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-20T23:49:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "FluidInference",
       "id": "FluidInference/gliner2-5-decide-coreml",
-      "downloads": 315,
+      "downloads": 348,
       "likes": 21,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-25T00:20:47.000Z",
@@ -195,9 +175,89 @@
       "repoType": "model"
     },
     {
+      "author": "Mapika",
+      "id": "Mapika/decider-2b",
+      "downloads": 244279,
+      "likes": 94,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-24T21:04:31.000Z",
+      "numParameters": 1881825088,
+      "repoType": "model"
+    },
+    {
+      "author": "TokenRhythm",
+      "id": "TokenRhythm/NeoHorse-Jev-4B",
+      "downloads": 2151,
+      "likes": 20,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-28T09:21:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jaredpalmer",
+      "id": "jaredpalmer/kev-0.8b",
+      "downloads": 9019,
+      "likes": 29,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-24T14:37:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FrontiersMind",
+      "id": "FrontiersMind/Lumma-fev-4b",
+      "downloads": 3736,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-29T09:36:44.000Z",
+      "numParameters": 4207062528,
+      "repoType": "model"
+    },
+    {
+      "author": "FrontiersMind",
+      "id": "FrontiersMind/Lumma-fev-0.1b",
+      "downloads": 5370,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-29T09:35:44.000Z",
+      "numParameters": 154102848,
+      "repoType": "model"
+    },
+    {
+      "author": "autotrust",
+      "id": "autotrust/JEV-27B",
+      "downloads": 205,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-26T18:47:53.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "jaredpalmer",
+      "id": "jaredpalmer/kev-27b",
+      "downloads": 386,
+      "likes": 15,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-24T02:58:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "caiovicentino1",
+      "id": "caiovicentino1/Eikos-4B",
+      "downloads": 327,
+      "likes": 13,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-27T00:35:04.000Z",
+      "numParameters": 4659865088,
+      "repoType": "model"
+    },
+    {
       "author": "com-kotobalabs",
       "id": "com-kotobalabs/open-jev-deberta-v3-large",
-      "downloads": 2587,
+      "downloads": 2675,
       "likes": 69,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-24T23:50:11.000Z",
@@ -205,49 +265,9 @@
       "repoType": "model"
     },
     {
-      "author": "jaredpalmer",
-      "id": "jaredpalmer/kev-0.8b",
-      "downloads": 8123,
-      "likes": 25,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-24T14:37:02.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "TokenRhythm",
-      "id": "TokenRhythm/NeoHorse-Jev-4B",
-      "downloads": 1699,
-      "likes": 19,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-28T09:21:16.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "FrontiersMind",
-      "id": "FrontiersMind/Lumma-fev-4b",
-      "downloads": 1453,
-      "likes": 15,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-28T12:58:33.000Z",
-      "numParameters": 4207062528,
-      "repoType": "model"
-    },
-    {
-      "author": "heman10x",
-      "id": "heman10x/rlcd-modernbert-151m",
-      "downloads": 21692,
-      "likes": 36,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-20T14:35:41.000Z",
-      "numParameters": 151378176,
-      "repoType": "model"
-    },
-    {
       "author": "flock-io",
       "id": "flock-io/this-that-model-1.0",
-      "downloads": 1204,
+      "downloads": 1281,
       "likes": 17,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-09-21T14:28:16.000Z",
@@ -255,55 +275,35 @@
       "repoType": "model"
     },
     {
-      "author": "FrontiersMind",
-      "id": "FrontiersMind/Lumma-fev-0.1b",
-      "downloads": 3028,
-      "likes": 14,
+      "author": "autotrust",
+      "id": "autotrust/JEV-9B",
+      "downloads": 471,
+      "likes": 12,
       "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-28T12:57:28.000Z",
-      "numParameters": 154102848,
+      "lastModified": "2026-09-26T06:29:52.000Z",
+      "numParameters": 8953803264,
       "repoType": "model"
     },
     {
-      "author": "caiovicentino1",
-      "id": "caiovicentino1/Eikos-4B",
-      "downloads": 255,
-      "likes": 12,
+      "author": "litert-community",
+      "id": "litert-community/GLiNER2.5-Decide-LiteRT",
+      "downloads": 94,
+      "likes": 11,
       "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-27T00:35:04.000Z",
-      "numParameters": 4659865088,
+      "lastModified": "2026-09-26T07:15:56.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "BAAI",
       "id": "BAAI/bge-reranker-v2-m3",
-      "downloads": 17068125,
-      "likes": 1221,
+      "downloads": 17054034,
+      "likes": 1222,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-06-24T14:08:45.000Z",
       "numParameters": 567755777,
       "repoType": "model"
-    },
-    {
-      "author": "junma",
-      "id": "junma/MedJev-Qwen3.5-0.8B",
-      "downloads": 65,
-      "likes": 11,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-22T02:51:58.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "autotrust",
-      "id": "autotrust/JEV-9B",
-      "downloads": 336,
-      "likes": 11,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-09-26T06:29:52.000Z",
-      "numParameters": 8953803264,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-09-29T00:02:06.821Z"
+  "fetchedAt": "2026-09-29T23:16:04.200Z"
 }
