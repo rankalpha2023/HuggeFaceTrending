@@ -1,13 +1,13 @@
 {
   "category": "object-detection",
   "sort": "trending",
-  "totalItems": 6922,
+  "totalItems": 6937,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO26",
-      "downloads": 18897,
+      "downloads": 18960,
       "likes": 210,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-06T10:42:49.000Z",
@@ -15,9 +15,19 @@
       "repoType": "model"
     },
     {
+      "author": "mudler",
+      "id": "mudler/locate-anything.cpp-gguf",
+      "downloads": 10946803,
+      "likes": 22,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-06-11T22:46:02.000Z",
+      "numParameters": 3830665968,
+      "repoType": "model"
+    },
+    {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLOv8",
-      "downloads": 16044,
+      "downloads": 16233,
       "likes": 389,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-26T10:23:01.000Z",
@@ -27,7 +37,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3_safetensors",
-      "downloads": 1023875,
+      "downloads": 1017740,
       "likes": 49,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-30T05:01:30.000Z",
@@ -35,19 +45,9 @@
       "repoType": "model"
     },
     {
-      "author": "mudler",
-      "id": "mudler/locate-anything.cpp-gguf",
-      "downloads": 10341632,
-      "likes": 20,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-06-11T22:46:02.000Z",
-      "numParameters": 3830665968,
-      "repoType": "model"
-    },
-    {
       "author": "Trendyol",
       "id": "Trendyol/trendyol-yolov9-ecommerce-object-detector",
-      "downloads": 66,
+      "downloads": 72,
       "likes": 5,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-21T13:51:39.000Z",
@@ -55,9 +55,19 @@
       "repoType": "model"
     },
     {
+      "author": "jparedesDS",
+      "id": "jparedesDS/valorant-yolo11m",
+      "downloads": 0,
+      "likes": 46,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-02-23T15:52:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO11",
-      "downloads": 22092,
+      "downloads": 22484,
       "likes": 207,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-26T10:23:00.000Z",
@@ -75,19 +85,9 @@
       "repoType": "model"
     },
     {
-      "author": "ArgoSA",
-      "id": "ArgoSA/D-FINE-seg",
-      "downloads": 520,
-      "likes": 10,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-08-23T17:11:06.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Claquasse",
       "id": "Claquasse/foot_anime_yolo",
-      "downloads": 419,
+      "downloads": 425,
       "likes": 6,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-13T11:44:44.000Z",
@@ -95,29 +95,9 @@
       "repoType": "model"
     },
     {
-      "author": "prithivMLmods",
-      "id": "prithivMLmods/YOLO26-ONNX",
-      "downloads": 0,
-      "likes": 6,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-07-19T15:15:25.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "xamjiang",
-      "id": "xamjiang/dieturn-yolo26s-obb",
-      "downloads": 69,
-      "likes": 2,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-09-29T08:23:54.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "killjoyelite",
       "id": "killjoyelite/anime-eye-yolov8",
-      "downloads": 464,
+      "downloads": 481,
       "likes": 3,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-27T18:59:47.000Z",
@@ -127,7 +107,7 @@
     {
       "author": "facebook",
       "id": "facebook/detr-resnet-50",
-      "downloads": 232704,
+      "downloads": 229445,
       "likes": 982,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-04-10T13:56:31.000Z",
@@ -137,7 +117,7 @@
     {
       "author": "hustvl",
       "id": "hustvl/yolos-small",
-      "downloads": 744324,
+      "downloads": 744558,
       "likes": 99,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-08T07:49:12.000Z",
@@ -147,7 +127,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-detection",
-      "downloads": 498149,
+      "downloads": 493900,
       "likes": 431,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:49:09.000Z",
@@ -157,7 +137,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition",
-      "downloads": 1148010,
+      "downloads": 1191515,
       "likes": 232,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:50:49.000Z",
@@ -175,29 +155,19 @@
       "repoType": "model"
     },
     {
-      "author": "foduucom",
-      "id": "foduucom/thermal-image-object-detection",
-      "downloads": 521,
-      "likes": 25,
+      "author": "intelli-zen",
+      "id": "intelli-zen/detr_cppe5_object_detection",
+      "downloads": 20,
+      "likes": 1,
       "pipeline_tag": "object-detection",
-      "lastModified": "2023-08-28T07:12:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "unity",
-      "id": "unity/inference-engine-yolo",
-      "downloads": 28,
-      "likes": 33,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-06-08T14:20:20.000Z",
+      "lastModified": "2023-10-03T04:02:12.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "Anzhc",
       "id": "Anzhc/Anzhcs_YOLOs",
-      "downloads": 77096,
+      "downloads": 76290,
       "likes": 184,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-02-25T04:09:43.000Z",
@@ -207,7 +177,7 @@
     {
       "author": "droneambulanceproject",
       "id": "droneambulanceproject/drone_ambulance_project_object_detection",
-      "downloads": 11,
+      "downloads": 12,
       "likes": 2,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-06-21T10:22:18.000Z",
@@ -215,12 +185,12 @@
       "repoType": "model"
     },
     {
-      "author": "jparedesDS",
-      "id": "jparedesDS/valorant-yolo11m",
+      "author": "Javvanny",
+      "id": "Javvanny/yolov8m_flying_objects_detection",
       "downloads": 0,
-      "likes": 45,
+      "likes": 6,
       "pipeline_tag": "object-detection",
-      "lastModified": "2026-02-23T15:52:26.000Z",
+      "lastModified": "2024-11-05T19:45:37.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -237,21 +207,11 @@
     {
       "author": "PekingU",
       "id": "PekingU/rtdetr_v2_r18vd",
-      "downloads": 475031,
+      "downloads": 466970,
       "likes": 9,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-02-06T18:21:53.000Z",
       "numParameters": 20209716,
-      "repoType": "model"
-    },
-    {
-      "author": "ustc-community",
-      "id": "ustc-community/dfine-small-obj2coco",
-      "downloads": 3186,
-      "likes": 1,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2025-05-05T11:38:06.000Z",
-      "numParameters": 10350057,
       "repoType": "model"
     },
     {
@@ -267,20 +227,10 @@
     {
       "author": "MidnightRunner",
       "id": "MidnightRunner/Ultralytics",
-      "downloads": 5432,
+      "downloads": 5341,
       "likes": 9,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-11T12:31:35.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "macpaw-research",
-      "id": "macpaw-research/yolov11l-ui-elements-detection",
-      "downloads": 188,
-      "likes": 10,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-08-17T21:33:30.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -297,13 +247,63 @@
     {
       "author": "ayan4m1",
       "id": "ayan4m1/Watermark-Detection-YOLO11-ONNX",
-      "downloads": 92,
+      "downloads": 91,
       "likes": 6,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-09T07:49:26.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-page-elements-v3",
+      "downloads": 6,
+      "likes": 52,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-03-11T15:52:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cazzz307",
+      "id": "cazzz307/yolov8-crack-detection",
+      "downloads": 34,
+      "likes": 5,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2025-11-21T07:25:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Davidsv",
+      "id": "Davidsv/CourtSide-Computer-Vision-v1",
+      "downloads": 100,
+      "likes": 13,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2025-11-21T15:45:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "peterhdd",
+      "id": "peterhdd/pothole-detection-yolov8",
+      "downloads": 30,
+      "likes": 4,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-01-22T00:00:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mustafakemal0146",
+      "id": "mustafakemal0146/playing-cards-yolov8",
+      "downloads": 276,
+      "likes": 1,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2025-12-20T15:29:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:01:07.508Z"
+  "fetchedAt": "2026-10-06T23:24:56.778Z"
 }

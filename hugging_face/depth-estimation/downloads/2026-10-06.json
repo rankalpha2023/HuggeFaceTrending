@@ -1,13 +1,13 @@
 {
   "category": "depth-estimation",
   "sort": "downloads",
-  "totalItems": 607,
+  "totalItems": 609,
   "fetchedItems": 30,
   "models": [
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Small-hf",
-      "downloads": 2567979,
+      "downloads": 2534786,
       "likes": 52,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:38:31.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-hybrid-midas",
-      "downloads": 662056,
+      "downloads": 658697,
       "likes": 110,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-09T08:58:56.000Z",
@@ -26,18 +26,8 @@
     },
     {
       "author": "depth-anything",
-      "id": "depth-anything/DA3METRIC-LARGE",
-      "downloads": 253546,
-      "likes": 28,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2025-11-13T18:50:36.000Z",
-      "numParameters": 334171394,
-      "repoType": "model"
-    },
-    {
-      "author": "depth-anything",
       "id": "depth-anything/DA3MONO-LARGE",
-      "downloads": 253438,
+      "downloads": 259976,
       "likes": 16,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:51:28.000Z",
@@ -45,9 +35,19 @@
       "repoType": "model"
     },
     {
+      "author": "depth-anything",
+      "id": "depth-anything/DA3METRIC-LARGE",
+      "downloads": 252313,
+      "likes": 28,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2025-11-13T18:50:36.000Z",
+      "numParameters": 334171394,
+      "repoType": "model"
+    },
+    {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-large-hf",
-      "downloads": 213328,
+      "downloads": 213745,
       "likes": 66,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:13:11.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-LARGE-1.1",
-      "downloads": 208174,
+      "downloads": 206962,
       "likes": 17,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-12-11T12:55:38.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3NESTED-GIANT-LARGE-1.1",
-      "downloads": 126497,
+      "downloads": 129127,
       "likes": 34,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-12-11T12:54:39.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Large-hf",
-      "downloads": 119424,
+      "downloads": 119415,
       "likes": 33,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:30:29.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Base-hf",
-      "downloads": 118098,
+      "downloads": 117318,
       "likes": 4,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:29:09.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-SMALL",
-      "downloads": 110880,
+      "downloads": 113169,
       "likes": 22,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:44:51.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-base-hf",
-      "downloads": 104281,
+      "downloads": 107964,
       "likes": 12,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:13:34.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-small-hf",
-      "downloads": 102339,
+      "downloads": 102428,
       "likes": 36,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:12:14.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-GIANT",
-      "downloads": 99698,
+      "downloads": 99850,
       "likes": 17,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:41:29.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/depth-anything-v2-small",
-      "downloads": 95582,
+      "downloads": 97114,
       "likes": 29,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-04-14T09:53:47.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-LARGE",
-      "downloads": 91100,
+      "downloads": 84342,
       "likes": 16,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-19T14:03:32.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Large",
-      "downloads": 76729,
+      "downloads": 71300,
       "likes": 178,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-08T09:15:44.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf",
-      "downloads": 54841,
+      "downloads": 55205,
       "likes": 12,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-08-27T14:05:55.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "Intel",
       "id": "Intel/zoedepth-nyu-kitti",
-      "downloads": 48298,
+      "downloads": 48601,
       "likes": 25,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-05-20T15:06:27.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-large",
-      "downloads": 38406,
+      "downloads": 38946,
       "likes": 208,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-24T11:22:17.000Z",
@@ -197,8 +197,8 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3NESTED-GIANT-LARGE",
-      "downloads": 29905,
-      "likes": 53,
+      "downloads": 29216,
+      "likes": 54,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T11:36:25.000Z",
       "numParameters": 1689845519,
@@ -207,7 +207,7 @@
     {
       "author": "apple",
       "id": "apple/DepthPro-hf",
-      "downloads": 27427,
+      "downloads": 27452,
       "likes": 112,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-02-28T18:31:40.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-GIANT-1.1",
-      "downloads": 24684,
+      "downloads": 24897,
       "likes": 18,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-12-11T12:56:08.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Metric-Indoor-Base-hf",
-      "downloads": 23767,
+      "downloads": 23738,
       "likes": 4,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-08-27T14:06:02.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Small",
-      "downloads": 19507,
+      "downloads": 19443,
       "likes": 85,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-08T09:15:27.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Intel",
       "id": "Intel/zoedepth-nyu",
-      "downloads": 17262,
+      "downloads": 17076,
       "likes": 4,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-05-20T14:58:22.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "google",
       "id": "google/tipsv2-b14-dpt",
-      "downloads": 16777,
+      "downloads": 16595,
       "likes": 14,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-08-17T16:43:07.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "vinvino02",
       "id": "vinvino02/glpn-kitti",
-      "downloads": 14305,
+      "downloads": 14293,
       "likes": 10,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2023-11-13T17:30:38.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Metric-Outdoor-Small-hf",
-      "downloads": 12754,
+      "downloads": 13101,
       "likes": 4,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-08-27T14:05:51.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Metric-Indoor-Large-hf",
-      "downloads": 11792,
+      "downloads": 11698,
       "likes": 18,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-08-27T14:05:47.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Metric-Outdoor-Large-hf",
-      "downloads": 11423,
+      "downloads": 11334,
       "likes": 11,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-08-27T14:06:04.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:00:39.370Z"
+  "fetchedAt": "2026-10-06T23:24:27.901Z"
 }

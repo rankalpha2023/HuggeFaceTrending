@@ -1,44 +1,44 @@
 {
   "category": "image-to-3d",
   "sort": "trending",
-  "totalItems": 774,
+  "totalItems": 775,
   "fetchedItems": 30,
   "models": [
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-fast-3d",
-      "downloads": 19468,
-      "likes": 1183,
+      "downloads": 20128,
+      "likes": 1192,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-04-08T16:31:08.000Z",
       "numParameters": 1006027436,
       "repoType": "model"
     },
     {
-      "author": "tencent",
-      "id": "tencent/Hunyuan3D-2.1",
-      "downloads": 58592,
-      "likes": 1245,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2025-10-17T10:10:42.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/TRELLIS.2-4B",
-      "downloads": 1833636,
-      "likes": 1289,
+      "downloads": 1887859,
+      "likes": 1292,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-12-27T13:21:56.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "tencent",
+      "id": "tencent/Hunyuan3D-2.1",
+      "downloads": 59253,
+      "likes": 1246,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2025-10-17T10:10:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/Lyra-2.0",
-      "downloads": 724,
-      "likes": 356,
+      "downloads": 756,
+      "likes": 357,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2026-07-15T21:57:52.000Z",
       "numParameters": null,
@@ -55,12 +55,12 @@
       "repoType": "model"
     },
     {
-      "author": "zuanfilm",
-      "id": "zuanfilm/3D_Model_Multiview_Qwen_i21",
-      "downloads": 0,
-      "likes": 6,
+      "author": "tencent",
+      "id": "tencent/Hunyuan3D-2",
+      "downloads": 122485,
+      "likes": 1834,
       "pipeline_tag": "image-to-3d",
-      "lastModified": "2026-09-28T23:03:03.000Z",
+      "lastModified": "2025-10-17T10:09:17.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -77,27 +77,27 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/TripoSR",
-      "downloads": 222020,
-      "likes": 671,
+      "downloads": 229248,
+      "likes": 672,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2024-08-09T08:52:03.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "tencent",
-      "id": "tencent/Hunyuan3D-2",
-      "downloads": 121160,
-      "likes": 1833,
+      "author": "microsoft",
+      "id": "microsoft/TRELLIS-image-large",
+      "downloads": 2138284,
+      "likes": 690,
       "pipeline_tag": "image-to-3d",
-      "lastModified": "2025-10-17T10:09:17.000Z",
+      "lastModified": "2024-12-06T16:39:24.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "tencent",
       "id": "tencent/Hunyuan3D-2mv",
-      "downloads": 12626,
+      "downloads": 12793,
       "likes": 432,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-10-17T10:16:57.000Z",
@@ -105,19 +105,9 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/VGGT-1B-Commercial",
-      "downloads": 3675,
-      "likes": 111,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2025-09-17T17:03:56.000Z",
-      "numParameters": 1256537516,
-      "repoType": "model"
-    },
-    {
       "author": "libadi",
       "id": "libadi/Alchemy3D",
-      "downloads": 13,
+      "downloads": 16,
       "likes": 4,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2026-09-30T12:18:01.000Z",
@@ -125,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/TRELLIS-image-large",
-      "downloads": 2139710,
-      "likes": 689,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2024-12-06T16:39:24.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/VGGT-1B",
-      "downloads": 496068,
+      "downloads": 501331,
       "likes": 140,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-03-17T12:18:15.000Z",
@@ -145,9 +125,29 @@
       "repoType": "model"
     },
     {
+      "author": "VAST-AI",
+      "id": "VAST-AI/TripoSG",
+      "downloads": 5766,
+      "likes": 149,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2025-03-28T05:08:55.000Z",
+      "numParameters": 1439556160,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/VGGT-1B-Commercial",
+      "downloads": 3722,
+      "likes": 111,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2025-09-17T17:03:56.000Z",
+      "numParameters": 1256537516,
+      "repoType": "model"
+    },
+    {
       "author": "tencent",
       "id": "tencent/Hunyuan3D-Omni",
-      "downloads": 4152,
+      "downloads": 4164,
       "likes": 193,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-10-17T10:13:36.000Z",
@@ -155,9 +155,19 @@
       "repoType": "model"
     },
     {
+      "author": "yyfz233",
+      "id": "yyfz233/Pi3X",
+      "downloads": 160704,
+      "likes": 19,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2026-03-11T02:16:49.000Z",
+      "numParameters": 1360032439,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/instant-nurec",
-      "downloads": 4318,
+      "downloads": 4321,
       "likes": 35,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2026-07-22T15:51:00.000Z",
@@ -167,7 +177,7 @@
     {
       "author": "ilintar",
       "id": "ilintar/trellis2-gguf",
-      "downloads": 118381,
+      "downloads": 122636,
       "likes": 13,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2026-07-27T13:10:24.000Z",
@@ -187,47 +197,27 @@
     {
       "author": "acvlab",
       "id": "acvlab/ABot-Recon",
-      "downloads": 2901,
-      "likes": 24,
+      "downloads": 3167,
+      "likes": 25,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2026-09-01T01:54:24.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "JreamH",
-      "id": "JreamH/CGMLLM",
+      "author": "zuanfilm",
+      "id": "zuanfilm/3D_Model_Multiview_Qwen_i21",
       "downloads": 0,
-      "likes": 3,
+      "likes": 6,
       "pipeline_tag": "image-to-3d",
-      "lastModified": "2026-10-04T11:20:08.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "hongchi",
-      "id": "hongchi/Fire3D",
-      "downloads": 517,
-      "likes": 21,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2026-09-09T03:40:52.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Yang-Tian",
-      "id": "Yang-Tian/Mira-Scene",
-      "downloads": 0,
-      "likes": 13,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2026-09-28T11:35:42.000Z",
+      "lastModified": "2026-09-28T23:03:03.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "TencentARC",
       "id": "TencentARC/InstantMesh",
-      "downloads": 18373,
+      "downloads": 19384,
       "likes": 343,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2024-04-11T02:56:23.000Z",
@@ -237,8 +227,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-point-aware-3d",
-      "downloads": 8934,
-      "likes": 404,
+      "downloads": 8747,
+      "likes": 405,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-04-08T16:31:29.000Z",
       "numParameters": 2026349765,
@@ -247,7 +237,7 @@
     {
       "author": "siyan824",
       "id": "siyan824/reloc3r-512",
-      "downloads": 101788,
+      "downloads": 102123,
       "likes": 7,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-06-18T10:10:24.000Z",
@@ -277,21 +267,11 @@
     {
       "author": "VAST-AI",
       "id": "VAST-AI/MIDI-3D",
-      "downloads": 623,
+      "downloads": 677,
       "likes": 52,
       "pipeline_tag": "image-to-3d",
       "lastModified": "2025-03-09T18:47:08.000Z",
       "numParameters": 1681911616,
-      "repoType": "model"
-    },
-    {
-      "author": "VAST-AI",
-      "id": "VAST-AI/TripoSG",
-      "downloads": 5668,
-      "likes": 148,
-      "pipeline_tag": "image-to-3d",
-      "lastModified": "2025-03-28T05:08:55.000Z",
-      "numParameters": 1439556160,
       "repoType": "model"
     },
     {
@@ -303,7 +283,27 @@
       "lastModified": "2025-09-02T07:41:53.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "zhangganlin",
+      "id": "zhangganlin/vista_slam",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2026-01-07T14:12:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/map-anything",
+      "downloads": 41970,
+      "likes": 99,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2026-01-20T22:31:23.000Z",
+      "numParameters": 1228492758,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:00:55.103Z"
+  "fetchedAt": "2026-10-06T23:24:44.109Z"
 }

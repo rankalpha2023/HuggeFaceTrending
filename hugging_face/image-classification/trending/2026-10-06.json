@@ -1,14 +1,14 @@
 {
   "category": "image-classification",
   "sort": "trending",
-  "totalItems": 29580,
+  "totalItems": 29596,
   "fetchedItems": 30,
   "models": [
     {
       "author": "PSRben",
       "id": "PSRben/VisionHOPE",
-      "downloads": 1654,
-      "likes": 426,
+      "downloads": 1749,
+      "likes": 430,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-29T16:10:49.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "pixai-labs",
       "id": "pixai-labs/pixai-tagger-v1.0",
-      "downloads": 13667,
-      "likes": 84,
+      "downloads": 14597,
+      "likes": 89,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-22T05:35:47.000Z",
       "numParameters": 486346909,
@@ -27,8 +27,8 @@
     {
       "author": "google",
       "id": "google/vit-base-patch16-224",
-      "downloads": 10630625,
-      "likes": 1010,
+      "downloads": 10486761,
+      "likes": 1011,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-05T15:27:12.000Z",
       "numParameters": 86567656,
@@ -38,16 +38,36 @@
       "author": "niclasclassen",
       "id": "niclasclassen/robustness-of-transferability-estimation-metrics-for-medical-imaging",
       "downloads": 0,
-      "likes": 8,
+      "likes": 9,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-19T12:46:16.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "ortusai",
+      "id": "ortusai/rightwayup",
+      "downloads": 48,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-03T12:32:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "heathcliff01",
+      "id": "heathcliff01/Kaloscope3.0-preview",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-06T12:05:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "microsoft",
       "id": "microsoft/resnet-50",
-      "downloads": 450648,
+      "downloads": 447300,
       "likes": 518,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-02-13T21:24:05.000Z",
@@ -57,7 +77,7 @@
     {
       "author": "haywoodsloan",
       "id": "haywoodsloan/ai-image-detector-deploy",
-      "downloads": 8438,
+      "downloads": 8397,
       "likes": 26,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-08-24T18:02:27.000Z",
@@ -77,7 +97,7 @@
     {
       "author": "Camais03",
       "id": "Camais03/camie-tagger-v2",
-      "downloads": 324,
+      "downloads": 311,
       "likes": 82,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-01-01T16:37:32.000Z",
@@ -95,19 +115,19 @@
       "repoType": "model"
     },
     {
-      "author": "ortusai",
-      "id": "ortusai/rightwayup",
-      "downloads": 48,
-      "likes": 2,
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger_v2",
+      "downloads": 0,
+      "likes": 32,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-10-03T12:32:24.000Z",
+      "lastModified": "2026-06-21T07:08:46.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "facebook",
       "id": "facebook/convnext-tiny-224",
-      "downloads": 40724,
+      "downloads": 41428,
       "likes": 28,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-06-13T19:40:31.000Z",
@@ -117,7 +137,7 @@
     {
       "author": "google",
       "id": "google/vit-large-patch16-224",
-      "downloads": 23820,
+      "downloads": 24179,
       "likes": 51,
       "pipeline_tag": "image-classification",
       "lastModified": "2022-06-23T07:50:15.000Z",
@@ -127,7 +147,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/mit-b5",
-      "downloads": 9607,
+      "downloads": 9736,
       "likes": 16,
       "pipeline_tag": "image-classification",
       "lastModified": "2022-08-06T10:25:24.000Z",
@@ -137,7 +157,7 @@
     {
       "author": "shivkumarganesh",
       "id": "shivkumarganesh/vision-transformer-fmri-classification-ft",
-      "downloads": 23,
+      "downloads": 24,
       "likes": 4,
       "pipeline_tag": "image-classification",
       "lastModified": "2021-11-19T13:21:37.000Z",
@@ -147,7 +167,7 @@
     {
       "author": "apple",
       "id": "apple/mobilevit-xx-small",
-      "downloads": 12605,
+      "downloads": 12751,
       "likes": 22,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-02-24T21:25:58.000Z",
@@ -157,7 +177,7 @@
     {
       "author": "gianlab",
       "id": "gianlab/swin-tiny-patch4-window7-224-finetuned-plantdisease",
-      "downloads": 70,
+      "downloads": 57,
       "likes": 6,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-10-18T11:47:14.000Z",
@@ -177,7 +197,7 @@
     {
       "author": "SiddharthaM",
       "id": "SiddharthaM/resnet-18-feature-extraction",
-      "downloads": 21,
+      "downloads": 22,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2022-11-07T21:50:04.000Z",
@@ -187,7 +207,7 @@
     {
       "author": "timm",
       "id": "timm/efficientnet_b3.ra2_in1k",
-      "downloads": 781354,
+      "downloads": 709385,
       "likes": 31,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T18:17:02.000Z",
@@ -196,8 +216,18 @@
     },
     {
       "author": "timm",
+      "id": "timm/tf_efficientnetv2_m.in21k",
+      "downloads": 2772,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:20:38.000Z",
+      "numParameters": 81131271,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
       "id": "timm/tf_mobilenetv3_large_minimal_100.in1k",
-      "downloads": 197857,
+      "downloads": 198670,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T18:21:25.000Z",
@@ -207,7 +237,7 @@
     {
       "author": "timm",
       "id": "timm/tf_mobilenetv3_small_minimal_100.in1k",
-      "downloads": 104185,
+      "downloads": 105160,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T18:21:31.000Z",
@@ -217,7 +247,7 @@
     {
       "author": "google",
       "id": "google/efficientnet-b0",
-      "downloads": 6008,
+      "downloads": 6022,
       "likes": 47,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-02-17T10:05:19.000Z",
@@ -227,7 +257,7 @@
     {
       "author": "timm",
       "id": "timm/swin_tiny_patch4_window7_224.ms_in1k",
-      "downloads": 146191,
+      "downloads": 148881,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T21:18:13.000Z",
@@ -237,7 +267,7 @@
     {
       "author": "linkanjarad",
       "id": "linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification",
-      "downloads": 2805,
+      "downloads": 2791,
       "likes": 63,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-04-26T04:25:49.000Z",
@@ -247,7 +277,7 @@
     {
       "author": "andrewgray11",
       "id": "andrewgray11/autotrain-solar-panel-object-detection-50559120777",
-      "downloads": 12,
+      "downloads": 14,
       "likes": 3,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-04-18T17:58:54.000Z",
@@ -257,7 +287,7 @@
     {
       "author": "timm",
       "id": "timm/vgg19.tv_in1k",
-      "downloads": 39425,
+      "downloads": 41913,
       "likes": 7,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T18:15:45.000Z",
@@ -273,37 +303,7 @@
       "lastModified": "2025-12-19T16:03:22.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "AmitMidday",
-      "id": "AmitMidday/Dogs-Breed-Classification-Using-Vision-Transformers",
-      "downloads": 49,
-      "likes": 2,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2023-09-20T13:42:48.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "kenobi",
-      "id": "kenobi/NASA_GeneLab_MBT",
-      "downloads": 16,
-      "likes": 2,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2024-03-06T15:53:14.000Z",
-      "numParameters": 85800194,
-      "repoType": "model"
-    },
-    {
-      "author": "qualcomm",
-      "id": "qualcomm/MobileNet-v3-Small",
-      "downloads": 651,
-      "likes": 7,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-09-23T22:08:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:00:45.163Z"
+  "fetchedAt": "2026-10-06T23:24:33.877Z"
 }

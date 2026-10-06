@@ -1,14 +1,14 @@
 {
   "category": "token-classification",
   "sort": "trending",
-  "totalItems": 30779,
+  "totalItems": 30798,
   "fetchedItems": 30,
   "models": [
     {
       "author": "fastino",
       "id": "fastino/GLiNER2.5-Decide",
-      "downloads": 59943,
-      "likes": 373,
+      "downloads": 68429,
+      "likes": 380,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:59:04.000Z",
       "numParameters": 486444053,
@@ -17,27 +17,17 @@
     {
       "author": "fastino",
       "id": "fastino/GLiNER2.5-multi-Decide",
-      "downloads": 11871,
-      "likes": 54,
+      "downloads": 12439,
+      "likes": 55,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:59:06.000Z",
       "numParameters": 287355159,
       "repoType": "model"
     },
     {
-      "author": "nationaldesignstudio",
-      "id": "nationaldesignstudio/rampart",
-      "downloads": 19437,
-      "likes": 177,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-06-30T19:45:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "fastino",
       "id": "fastino/GLiNER2.5-Decide-1B",
-      "downloads": 1875,
+      "downloads": 2035,
       "likes": 17,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:59:07.000Z",
@@ -47,8 +37,8 @@
     {
       "author": "openai",
       "id": "openai/privacy-filter",
-      "downloads": 349964,
-      "likes": 1781,
+      "downloads": 350711,
+      "likes": 1782,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-04-22T16:50:17.000Z",
       "numParameters": 1399486865,
@@ -57,8 +47,8 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2-privacy-filter-PII-multi",
-      "downloads": 195514,
-      "likes": 97,
+      "downloads": 198178,
+      "likes": 98,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:39.000Z",
       "numParameters": 307098645,
@@ -67,7 +57,7 @@
     {
       "author": "perplexity-ai",
       "id": "perplexity-ai/PII-Tracer",
-      "downloads": 3578,
+      "downloads": 3617,
       "likes": 71,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-22T17:28:05.000Z",
@@ -77,17 +67,37 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2.5-multi-v1",
-      "downloads": 282243,
-      "likes": 270,
+      "downloads": 273912,
+      "likes": 271,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:34.000Z",
       "numParameters": 287355159,
       "repoType": "model"
     },
     {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-with-radiology-reports-and-i2b2",
+      "downloads": 3789,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-11-23T19:46:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 20304,
+      "likes": 177,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "knowledgator",
       "id": "knowledgator/gliformer-large-v1",
-      "downloads": 2020,
+      "downloads": 2066,
       "likes": 165,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-18T18:31:25.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "ahmedsamirtarjama",
       "id": "ahmedsamirtarjama/Tashkeel-v4",
-      "downloads": 67,
+      "downloads": 105,
       "likes": 4,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-10-02T09:25:25.000Z",
@@ -105,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "StanfordAIMI",
-      "id": "StanfordAIMI/stanford-deidentifier-with-radiology-reports-and-i2b2",
-      "downloads": 3775,
-      "likes": 12,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2022-11-23T19:46:01.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "nlpie",
       "id": "nlpie/clinical-mobilebert-i2b2-2010",
-      "downloads": 43,
+      "downloads": 46,
       "likes": 8,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-05-17T23:24:48.000Z",
@@ -125,19 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "newsmediabias",
-      "id": "newsmediabias/UnBIAS-Named-Entity-Recognition",
-      "downloads": 56,
-      "likes": 15,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2023-10-07T23:40:27.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "dejanseo",
       "id": "dejanseo/link-prediction",
-      "downloads": 43,
+      "downloads": 46,
       "likes": 12,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-08-14T01:05:30.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "RyeAI",
       "id": "RyeAI/ekko-pnc",
-      "downloads": 141,
+      "downloads": 190,
       "likes": 3,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-10-02T15:51:17.000Z",
@@ -157,17 +147,17 @@
     {
       "author": "QuantumNous",
       "id": "QuantumNous/astrlink-guard",
-      "downloads": 37,
+      "downloads": 45,
       "likes": 3,
       "pipeline_tag": "token-classification",
-      "lastModified": "2026-10-01T04:27:27.000Z",
+      "lastModified": "2026-10-06T03:26:38.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "dslim",
       "id": "dslim/bert-base-NER",
-      "downloads": 1444179,
+      "downloads": 1433716,
       "likes": 739,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-10-08T07:51:39.000Z",
@@ -177,7 +167,7 @@
     {
       "author": "NYTK",
       "id": "NYTK/named-entity-recognition-nerkor-hubert-hungarian",
-      "downloads": 5349,
+      "downloads": 5338,
       "likes": 10,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-01-12T10:21:56.000Z",
@@ -185,9 +175,49 @@
       "repoType": "model"
     },
     {
+      "author": "newsmediabias",
+      "id": "newsmediabias/UnBIAS-Named-Entity-Recognition",
+      "downloads": 57,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-07T23:40:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eventdata-utd",
+      "id": "eventdata-utd/conflibert-named-entity-recognition",
+      "downloads": 76,
+      "likes": 15,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-26T22:07:28.000Z",
+      "numParameters": 108506901,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 63022,
+      "likes": 177,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sartajbhuvaji",
+      "id": "sartajbhuvaji/bert-named-entity-recognition",
+      "downloads": 33,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-05T02:35:27.000Z",
+      "numParameters": 108898569,
+      "repoType": "model"
+    },
+    {
       "author": "nvidia",
       "id": "nvidia/gliner-PII",
-      "downloads": 21350,
+      "downloads": 21705,
       "likes": 163,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-12-07T21:51:24.000Z",
@@ -197,7 +227,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
-      "downloads": 3887,
+      "downloads": 3919,
       "likes": 45,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-28T14:00:37.000Z",
@@ -207,7 +237,7 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2.5-small-v1",
-      "downloads": 27989,
+      "downloads": 28751,
       "likes": 40,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:40.000Z",
@@ -217,7 +247,7 @@
     {
       "author": "fastino",
       "id": "fastino/gliner2.5-base-v1",
-      "downloads": 82753,
+      "downloads": 86544,
       "likes": 38,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-28T00:55:37.000Z",
@@ -227,7 +257,7 @@
     {
       "author": "AlfredJames",
       "id": "AlfredJames/jobbert-zh-v6a",
-      "downloads": 56,
+      "downloads": 75,
       "likes": 2,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-10-05T09:26:19.000Z",
@@ -237,7 +267,7 @@
     {
       "author": "perplexity-ai",
       "id": "perplexity-ai/PII-Tracer-vLLM",
-      "downloads": 98,
+      "downloads": 103,
       "likes": 4,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-22T17:28:07.000Z",
@@ -245,19 +275,19 @@
       "repoType": "model"
     },
     {
-      "author": "litert-community",
-      "id": "litert-community/GLiNER2.5-Small-LiteRT",
-      "downloads": 374,
-      "likes": 2,
+      "author": "yale-cultural-heritage",
+      "id": "yale-cultural-heritage/GLiNER2.5-Decide-linkedart-recon",
+      "downloads": 53,
+      "likes": 4,
       "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-20T00:52:53.000Z",
-      "numParameters": null,
+      "lastModified": "2026-10-01T15:59:08.000Z",
+      "numParameters": 486444053,
       "repoType": "model"
     },
     {
       "author": "onnx-community",
       "id": "onnx-community/gliner2-multi-v1-agent-ONNX",
-      "downloads": 43,
+      "downloads": 45,
       "likes": 2,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-25T22:43:44.000Z",
@@ -267,43 +297,13 @@
     {
       "author": "iatagun",
       "id": "iatagun/DizgeBERT-G2PTTS",
-      "downloads": 57,
+      "downloads": 61,
       "likes": 2,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-09-30T13:26:51.000Z",
       "numParameters": 110032904,
       "repoType": "model"
-    },
-    {
-      "author": "NbAiLab",
-      "id": "NbAiLab/nb-bert-base-ner",
-      "downloads": 1488,
-      "likes": 5,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2023-03-31T11:07:20.000Z",
-      "numParameters": 123865875,
-      "repoType": "model"
-    },
-    {
-      "author": "akdeniz27",
-      "id": "akdeniz27/bert-base-turkish-cased-ner",
-      "downloads": 71561,
-      "likes": 29,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2024-06-18T09:42:03.000Z",
-      "numParameters": 110032647,
-      "repoType": "model"
-    },
-    {
-      "author": "ckiplab",
-      "id": "ckiplab/bert-base-chinese-ner",
-      "downloads": 86891,
-      "likes": 135,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2022-05-10T03:28:12.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:01:39.594Z"
+  "fetchedAt": "2026-10-06T23:25:29.849Z"
 }

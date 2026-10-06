@@ -1,14 +1,14 @@
 {
   "category": "image-classification",
   "sort": "likes",
-  "totalItems": 29580,
+  "totalItems": 29596,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Falconsai",
       "id": "Falconsai/nsfw_image_detection",
-      "downloads": 1815451,
-      "likes": 1195,
+      "downloads": 1797355,
+      "likes": 1197,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-07T08:55:17.000Z",
       "numParameters": 85800194,
@@ -17,8 +17,8 @@
     {
       "author": "google",
       "id": "google/vit-base-patch16-224",
-      "downloads": 10630625,
-      "likes": 1010,
+      "downloads": 10486761,
+      "likes": 1011,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-05T15:27:12.000Z",
       "numParameters": 86567656,
@@ -27,7 +27,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/resnet-50",
-      "downloads": 450648,
+      "downloads": 447300,
       "likes": 518,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-02-13T21:24:05.000Z",
@@ -37,8 +37,8 @@
     {
       "author": "PSRben",
       "id": "PSRben/VisionHOPE",
-      "downloads": 1654,
-      "likes": 426,
+      "downloads": 1749,
+      "likes": 430,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-29T16:10:49.000Z",
       "numParameters": null,
@@ -57,7 +57,7 @@
     {
       "author": "nateraw",
       "id": "nateraw/vit-age-classifier",
-      "downloads": 287769,
+      "downloads": 268140,
       "likes": 149,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-07-28T23:24:56.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "dima806",
       "id": "dima806/facial_emotions_image_detection",
-      "downloads": 5956,
+      "downloads": 5121,
       "likes": 129,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-10-19T10:09:54.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "timm",
       "id": "timm/mobilenetv3_small_100.lamb_in1k",
-      "downloads": 22211923,
+      "downloads": 22330951,
       "likes": 124,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-10-19T16:12:11.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "fancyfeast",
       "id": "fancyfeast/joytag",
-      "downloads": 837,
+      "downloads": 828,
       "likes": 123,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-03-09T04:09:40.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "umm-maybe",
       "id": "umm-maybe/AI-image-detector",
-      "downloads": 87315,
+      "downloads": 91316,
       "likes": 99,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-01-03T02:51:55.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "google",
       "id": "google/derm-foundation",
-      "downloads": 483,
+      "downloads": 477,
       "likes": 98,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-04-01T00:52:17.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "apple",
       "id": "apple/mobilevit-small",
-      "downloads": 7840,
+      "downloads": 7984,
       "likes": 94,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-02-24T21:25:21.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "trpakov",
       "id": "trpakov/vit-face-expression",
-      "downloads": 13898,
+      "downloads": 13769,
       "likes": 90,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-02-20T13:24:56.000Z",
@@ -155,9 +155,19 @@
       "repoType": "model"
     },
     {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v1.0",
+      "downloads": 14597,
+      "likes": 89,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-22T05:35:47.000Z",
+      "numParameters": 486346909,
+      "repoType": "model"
+    },
+    {
       "author": "porntech",
       "id": "porntech/sex-position",
-      "downloads": 1288,
+      "downloads": 1375,
       "likes": 87,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-11-15T08:30:23.000Z",
@@ -167,7 +177,7 @@
     {
       "author": "AdamCodd",
       "id": "AdamCodd/vit-base-nsfw-detector",
-      "downloads": 859226,
+      "downloads": 847485,
       "likes": 84,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-12-03T14:14:31.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "dima806",
       "id": "dima806/fairface_age_image_detection",
-      "downloads": 73766,
+      "downloads": 74446,
       "likes": 84,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-12-15T19:54:53.000Z",
@@ -185,19 +195,9 @@
       "repoType": "model"
     },
     {
-      "author": "pixai-labs",
-      "id": "pixai-labs/pixai-tagger-v1.0",
-      "downloads": 13667,
-      "likes": 84,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-09-22T05:35:47.000Z",
-      "numParameters": 486346909,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/beit-base-patch16-224-pt22k-ft22k",
-      "downloads": 26282,
+      "downloads": 25678,
       "likes": 83,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-02-27T15:08:16.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "Camais03",
       "id": "Camais03/camie-tagger-v2",
-      "downloads": 324,
+      "downloads": 311,
       "likes": 82,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-01-01T16:37:32.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "nateraw",
       "id": "nateraw/food",
-      "downloads": 4842,
+      "downloads": 4831,
       "likes": 81,
       "pipeline_tag": "image-classification",
       "lastModified": "2022-05-17T17:44:24.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/resnet-18",
-      "downloads": 345765,
+      "downloads": 376062,
       "likes": 81,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-04-08T11:06:50.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Grio43",
       "id": "Grio43/OppaiOracle",
-      "downloads": 57,
+      "downloads": 55,
       "likes": 71,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-05-10T01:13:14.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "Camais03",
       "id": "Camais03/camie-tagger",
-      "downloads": 112,
+      "downloads": 114,
       "likes": 66,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-08-31T19:24:50.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Ateeqq",
       "id": "Ateeqq/ai-vs-human-image-detector",
-      "downloads": 14053,
+      "downloads": 14538,
       "likes": 66,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-12-24T16:55:44.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "rizvandwiki",
       "id": "rizvandwiki/gender-classification",
-      "downloads": 1405397,
+      "downloads": 1405193,
       "likes": 64,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-05-18T11:16:33.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "linkanjarad",
       "id": "linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification",
-      "downloads": 2805,
+      "downloads": 2791,
       "likes": 63,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-04-26T04:25:49.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "Organika",
       "id": "Organika/sdxl-detector",
-      "downloads": 92494,
+      "downloads": 93841,
       "likes": 62,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-09-06T12:17:24.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-06T01:00:46.000Z"
+  "fetchedAt": "2026-10-06T23:24:34.742Z"
 }
