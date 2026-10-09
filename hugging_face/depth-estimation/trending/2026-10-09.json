@@ -5,16 +5,6 @@
   "fetchedItems": 30,
   "models": [
     {
-      "author": "huawei-bayerlab",
-      "id": "huawei-bayerlab/marigold-v2-0",
-      "downloads": 0,
-      "likes": 111,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-09-13T17:02:10.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "nvidia",
       "id": "nvidia/c-fast-foundationstereo",
       "downloads": 0,
@@ -25,10 +15,20 @@
       "repoType": "model"
     },
     {
+      "author": "huawei-bayerlab",
+      "id": "huawei-bayerlab/marigold-v2-0",
+      "downloads": 0,
+      "likes": 111,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-09-13T17:02:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "apple",
       "id": "apple/DepthPro",
-      "downloads": 4793,
-      "likes": 558,
+      "downloads": 4747,
+      "likes": 559,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-02-28T18:31:41.000Z",
       "numParameters": null,
@@ -37,7 +37,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3NESTED-GIANT-LARGE",
-      "downloads": 28491,
+      "downloads": 27962,
       "likes": 54,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T11:36:25.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-large-hf",
-      "downloads": 211551,
+      "downloads": 207780,
       "likes": 66,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:13:11.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Base",
-      "downloads": 9444,
+      "downloads": 9353,
       "likes": 20,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-08T09:15:57.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Small-hf",
-      "downloads": 2506722,
+      "downloads": 2456164,
       "likes": 52,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:38:31.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3-SMALL",
-      "downloads": 110957,
+      "downloads": 107316,
       "likes": 23,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:44:51.000Z",
@@ -87,8 +87,8 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-chmv2-dpt-head",
-      "downloads": 2108,
-      "likes": 28,
+      "downloads": 1221,
+      "likes": 29,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-03-11T14:32:24.000Z",
       "numParameters": 336876800,
@@ -97,10 +97,20 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/depth-anything-v2-small-ONNX",
-      "downloads": 4165,
+      "downloads": 4191,
       "likes": 7,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-04-14T10:51:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KevinXu02",
+      "id": "KevinXu02/R3",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-05-30T03:59:54.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -167,7 +177,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-large",
-      "downloads": 38588,
+      "downloads": 37921,
       "likes": 208,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-24T11:22:17.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "vinvino02",
       "id": "vinvino02/glpn-kitti",
-      "downloads": 14258,
+      "downloads": 14182,
       "likes": 10,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2023-11-13T17:30:38.000Z",
@@ -187,7 +197,7 @@
     {
       "author": "vinvino02",
       "id": "vinvino02/glpn-nyu",
-      "downloads": 612,
+      "downloads": 643,
       "likes": 25,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-22T21:21:37.000Z",
@@ -197,7 +207,7 @@
     {
       "author": "nielsr",
       "id": "nielsr/dpt-large-redesign",
-      "downloads": 15,
+      "downloads": 16,
       "likes": 0,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2022-03-04T17:54:17.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-hybrid-midas",
-      "downloads": 650749,
+      "downloads": 641474,
       "likes": 110,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-09T08:58:56.000Z",
@@ -237,7 +247,7 @@
     {
       "author": "hf-tiny-model-private",
       "id": "hf-tiny-model-private/tiny-random-DPTForDepthEstimation",
-      "downloads": 23,
+      "downloads": 22,
       "likes": 0,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2023-03-29T18:48:05.000Z",
@@ -247,7 +257,7 @@
     {
       "author": "hf-tiny-model-private",
       "id": "hf-tiny-model-private/tiny-random-GLPNForDepthEstimation",
-      "downloads": 548,
+      "downloads": 518,
       "likes": 0,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2023-03-29T18:56:37.000Z",
@@ -293,17 +303,7 @@
       "lastModified": "2023-05-30T19:40:21.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "Onegafer",
-      "id": "Onegafer/glpn-nyu-finetuned-diode-230530-195017",
-      "downloads": 9,
-      "likes": 0,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2023-05-30T19:51:32.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:01.073Z"
+  "fetchedAt": "2026-10-09T23:38:38.212Z"
 }

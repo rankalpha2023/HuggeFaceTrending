@@ -1,14 +1,14 @@
 {
   "category": "image-to-text",
   "sort": "trending",
-  "totalItems": 2206,
+  "totalItems": 2213,
   "fetchedItems": 30,
   "models": [
     {
       "author": "nvidia",
       "id": "nvidia/PixelUMM",
       "downloads": 0,
-      "likes": 73,
+      "likes": 75,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-10-01T21:29:11.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "zai-org",
       "id": "zai-org/GLM-OCR",
-      "downloads": 1843923,
-      "likes": 2135,
+      "downloads": 1839494,
+      "likes": 2136,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-11T11:59:14.000Z",
       "numParameters": 1325258240,
@@ -27,8 +27,8 @@
     {
       "author": "numind",
       "id": "numind/NuExtract3",
-      "downloads": 30989,
-      "likes": 372,
+      "downloads": 30426,
+      "likes": 374,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-08-20T19:44:14.000Z",
       "numParameters": 4539265536,
@@ -37,37 +37,37 @@
     {
       "author": "bodhan-ai",
       "id": "bodhan-ai/indic-ocr",
-      "downloads": 1461,
-      "likes": 49,
+      "downloads": 1439,
+      "likes": 52,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-07T12:21:55.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "UniParser",
-      "id": "UniParser/MolParser-Mobile-V2",
-      "downloads": 212,
-      "likes": 24,
+      "author": "xiangjx",
+      "id": "xiangjx/musk",
+      "downloads": 0,
+      "likes": 79,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-29T07:47:22.000Z",
-      "numParameters": 10000256,
+      "lastModified": "2025-01-19T06:32:25.000Z",
+      "numParameters": 675188736,
       "repoType": "model"
     },
     {
-      "author": "atonlee",
-      "id": "atonlee/Qota-OCR",
-      "downloads": 318,
-      "likes": 5,
+      "author": "kha-white",
+      "id": "kha-white/manga-ocr-base",
+      "downloads": 1069135,
+      "likes": 185,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-29T16:44:44.000Z",
-      "numParameters": 6688470,
+      "lastModified": "2022-06-22T15:34:05.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-large",
-      "downloads": 573104,
+      "downloads": 570368,
       "likes": 1490,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:42:42.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "xiangjx",
-      "id": "xiangjx/musk",
-      "downloads": 0,
-      "likes": 78,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2025-01-19T06:32:25.000Z",
-      "numParameters": 675188736,
-      "repoType": "model"
-    },
-    {
       "author": "mohajesmaeili",
       "id": "mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0",
-      "downloads": 497,
+      "downloads": 508,
       "likes": 21,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-12-23T08:19:44.000Z",
@@ -97,31 +87,11 @@
     {
       "author": "nvidia",
       "id": "nvidia/nemotron-ocr-v2",
-      "downloads": 1828,
+      "downloads": 1884,
       "likes": 264,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-05-22T04:58:32.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "ADSKAILab",
-      "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
-      "downloads": 1503,
-      "likes": 82,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-05-05T21:50:47.000Z",
-      "numParameters": 2127532032,
-      "repoType": "model"
-    },
-    {
-      "author": "genshiai-daichi",
-      "id": "genshiai-daichi/baberu-ocr",
-      "downloads": 774,
-      "likes": 14,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-10-06T15:42:06.000Z",
-      "numParameters": 112828160,
       "repoType": "model"
     },
     {
@@ -140,18 +110,28 @@
       "downloads": 0,
       "likes": 3,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-28T11:42:59.000Z",
+      "lastModified": "2026-10-09T16:39:32.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "adidsh",
-      "id": "adidsh/indic-ocr-int8-onnx",
-      "downloads": 127,
-      "likes": 2,
+      "author": "UniParser",
+      "id": "UniParser/MolParser-Mobile-V2",
+      "downloads": 248,
+      "likes": 24,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-09-27T20:44:57.000Z",
-      "numParameters": 33295162,
+      "lastModified": "2026-09-29T07:47:22.000Z",
+      "numParameters": 10000256,
+      "repoType": "model"
+    },
+    {
+      "author": "atonlee",
+      "id": "atonlee/Qota-OCR",
+      "downloads": 354,
+      "likes": 5,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-09-29T16:44:44.000Z",
+      "numParameters": 6688470,
       "repoType": "model"
     },
     {
@@ -160,7 +140,7 @@
       "downloads": 0,
       "likes": 2,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-10-07T16:25:21.000Z",
+      "lastModified": "2026-10-09T07:44:52.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -175,20 +155,10 @@
       "repoType": "model"
     },
     {
-      "author": "kha-white",
-      "id": "kha-white/manga-ocr-base",
-      "downloads": 1086262,
-      "likes": 184,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2022-06-22T15:34:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-base",
-      "downloads": 1388781,
-      "likes": 896,
+      "downloads": 1360503,
+      "likes": 897,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:45:16.000Z",
       "numParameters": null,
@@ -197,7 +167,7 @@
     {
       "author": "laion",
       "id": "laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k",
-      "downloads": 16515,
+      "downloads": 15940,
       "likes": 23,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-01-16T22:56:31.000Z",
@@ -207,7 +177,7 @@
     {
       "author": "facebook",
       "id": "facebook/nougat-small",
-      "downloads": 3604,
+      "downloads": 3634,
       "likes": 32,
       "pipeline_tag": "image-to-text",
       "lastModified": "2023-11-20T09:27:37.000Z",
@@ -227,20 +197,10 @@
     {
       "author": "hezarai",
       "id": "hezarai/crnn-fa-license-plate-recognition-v2",
-      "downloads": 3005,
+      "downloads": 3142,
       "likes": 6,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-06-02T06:44:10.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "URIIT",
-      "id": "URIIT/mns-tesseract",
-      "downloads": 0,
-      "likes": 8,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2025-05-13T12:05:34.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -257,7 +217,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/RT-DETR-L_wired_table_cell_det",
-      "downloads": 4201,
+      "downloads": 4395,
       "likes": 5,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:00:18.000Z",
@@ -267,7 +227,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-FormulaNet-S",
-      "downloads": 118,
+      "downloads": 114,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T09:59:05.000Z",
@@ -277,7 +237,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/latin_PP-OCRv5_mobile_rec",
-      "downloads": 33026,
+      "downloads": 32826,
       "likes": 8,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-10-16T09:01:34.000Z",
@@ -287,7 +247,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/korean_PP-OCRv5_mobile_rec",
-      "downloads": 7646,
+      "downloads": 7571,
       "likes": 18,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-07-22T11:40:15.000Z",
@@ -295,15 +255,55 @@
       "repoType": "model"
     },
     {
-      "author": "kotmayyaka",
-      "id": "kotmayyaka/hwr_text_ocr_rus",
-      "downloads": 0,
-      "likes": 1,
+      "author": "topdu",
+      "id": "topdu/unirec-0.1b",
+      "downloads": 61,
+      "likes": 8,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2025-12-18T19:35:31.000Z",
+      "lastModified": "2026-01-08T03:17:06.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Darayut",
+      "id": "Darayut/khmer-text-recognition",
+      "downloads": 131,
+      "likes": 2,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-09-25T05:02:24.000Z",
+      "numParameters": 17584460,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/GLM-OCR-bf16",
+      "downloads": 2515,
+      "likes": 31,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-02-04T11:40:58.000Z",
+      "numParameters": 1107405824,
+      "repoType": "model"
+    },
+    {
+      "author": "HassanB4",
+      "id": "HassanB4/Ketaba-OCR-LoRA",
+      "downloads": 311,
+      "likes": 6,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-03-05T08:04:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ShayanCyan",
+      "id": "ShayanCyan/phi4-multimodal-quantisized-gguf",
+      "downloads": 1738,
+      "likes": 9,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-02-16T14:01:26.000Z",
+      "numParameters": 3836021856,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:21.612Z"
+  "fetchedAt": "2026-10-09T23:38:57.959Z"
 }

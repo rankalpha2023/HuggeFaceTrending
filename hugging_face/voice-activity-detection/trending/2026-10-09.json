@@ -7,8 +7,8 @@
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Diarization",
-      "downloads": 66040,
-      "likes": 746,
+      "downloads": 69284,
+      "likes": 749,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-24T05:52:51.000Z",
       "numParameters": 99226504,
@@ -17,27 +17,27 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation-3.0",
-      "downloads": 5405284,
-      "likes": 2133,
+      "downloads": 5317805,
+      "likes": 2144,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:35:46.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "FireRedTeam",
-      "id": "FireRedTeam/FireRedVAD",
-      "downloads": 3386,
-      "likes": 68,
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/smart-turn-v3",
+      "downloads": 0,
+      "likes": 209,
       "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-03-13T03:40:54.000Z",
+      "lastModified": "2026-01-07T18:00:39.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "audio-cpp",
       "id": "audio-cpp/Nemotron-3-Diarization-GGUF",
-      "downloads": 22240,
+      "downloads": 23558,
       "likes": 17,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-26T18:17:19.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "FluidInference",
       "id": "FluidInference/speaker-diarization-coreml",
-      "downloads": 21548,
+      "downloads": 21302,
       "likes": 43,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-19T22:27:27.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "FluidInference",
       "id": "FluidInference/silero-vad-coreml",
-      "downloads": 37823,
+      "downloads": 37820,
       "likes": 31,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-06-23T18:07:49.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "pipecat-ai",
-      "id": "pipecat-ai/smart-turn-v3",
-      "downloads": 0,
-      "likes": 208,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-01-07T18:00:39.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "videosdk-live",
       "id": "videosdk-live/Namo-Turn-Detector-v1-Multilingual",
-      "downloads": 645,
+      "downloads": 636,
       "likes": 29,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2025-10-15T07:40:29.000Z",
@@ -95,19 +85,19 @@
       "repoType": "model"
     },
     {
-      "author": "runanywhere",
-      "id": "runanywhere/silero-vad-v5",
-      "downloads": 0,
-      "likes": 12,
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedVAD",
+      "downloads": 3351,
+      "likes": 68,
       "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-02-13T02:07:05.000Z",
+      "lastModified": "2026-03-13T03:40:54.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "aufklarer",
       "id": "aufklarer/Silero-VAD-v5-MLX",
-      "downloads": 26187,
+      "downloads": 26487,
       "likes": 4,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-04-12T08:10:13.000Z",
@@ -125,9 +115,29 @@
       "repoType": "model"
     },
     {
+      "author": "VoxRT",
+      "id": "VoxRT/silero-vad-vxrt",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-15T08:17:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "inoryQwQ",
+      "id": "inoryQwQ/sherpa-onnx-silero-vad-ax650",
+      "downloads": 9,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-07-17T14:26:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "mlx-community",
       "id": "mlx-community/Nemotron-3-Diarization-8bit",
-      "downloads": 396,
+      "downloads": 414,
       "likes": 4,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-23T16:34:55.000Z",
@@ -137,7 +147,7 @@
     {
       "author": "Glimpse-Dictation",
       "id": "Glimpse-Dictation/Nemotron-3-Diarization-gguf",
-      "downloads": 190,
+      "downloads": 192,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-24T03:03:13.000Z",
@@ -145,19 +155,9 @@
       "repoType": "model"
     },
     {
-      "author": "smdesai",
-      "id": "smdesai/Nemotron-3-Diarization-CoreAI",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-09-24T03:39:26.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "onnx-community",
       "id": "onnx-community/Nemotron-3-Diarization-ONNX",
-      "downloads": 2831,
+      "downloads": 2955,
       "likes": 7,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-24T05:45:35.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Bonenk",
       "id": "Bonenk/Nemotron-3-Diarization-GGUF",
-      "downloads": 124,
+      "downloads": 125,
       "likes": 2,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-26T09:44:13.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "p99lab",
       "id": "p99lab/turn-1-mini",
-      "downloads": 244,
+      "downloads": 245,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-10-07T08:22:11.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "p99lab",
       "id": "p99lab/turn-1",
-      "downloads": 33,
+      "downloads": 34,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-10-07T08:22:12.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "aidsoid",
       "id": "aidsoid/nemotron-3-diarization-coreml",
-      "downloads": 0,
+      "downloads": 13,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-10-08T14:54:15.000Z",
@@ -247,8 +247,8 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation",
-      "downloads": 649745,
-      "likes": 701,
+      "downloads": 632035,
+      "likes": 702,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:38:44.000Z",
       "numParameters": null,
@@ -287,7 +287,7 @@
     {
       "author": "pyannote",
       "id": "pyannote/brouhaha",
-      "downloads": 12146,
+      "downloads": 12231,
       "likes": 32,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-15T09:10:27.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:02:12.102Z"
+  "fetchedAt": "2026-10-09T23:39:47.132Z"
 }

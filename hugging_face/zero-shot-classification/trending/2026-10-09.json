@@ -1,14 +1,14 @@
 {
   "category": "zero-shot-classification",
   "sort": "trending",
-  "totalItems": 721,
+  "totalItems": 731,
   "fetchedItems": 30,
   "models": [
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Vega-27B",
-      "downloads": 2343,
-      "likes": 63,
+      "downloads": 2459,
+      "likes": 65,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:44.000Z",
       "numParameters": null,
@@ -17,38 +17,38 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Lux-9B",
-      "downloads": 653,
-      "likes": 37,
+      "downloads": 746,
+      "likes": 40,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:46.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "openjev",
-      "id": "openjev/openjev",
-      "downloads": 5410,
-      "likes": 129,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-30T11:08:16.000Z",
-      "numParameters": 27356728560,
-      "repoType": "model"
-    },
-    {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Kai-0.6B",
-      "downloads": 1180,
-      "likes": 34,
+      "downloads": 1300,
+      "likes": 38,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:52.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "openjev",
+      "id": "openjev/openjev",
+      "downloads": 5483,
+      "likes": 131,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-09T22:16:46.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
       "author": "vllm-sr",
       "id": "vllm-sr/Vela-2.0-9B",
-      "downloads": 75,
-      "likes": 28,
+      "downloads": 108,
+      "likes": 30,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-07T04:09:59.000Z",
       "numParameters": 7945373185,
@@ -57,8 +57,8 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Nox-4B",
-      "downloads": 1028,
-      "likes": 27,
+      "downloads": 1158,
+      "likes": 28,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:48.000Z",
       "numParameters": null,
@@ -67,8 +67,8 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Vela-2.0-0.3B",
-      "downloads": 371,
-      "likes": 24,
+      "downloads": 719,
+      "likes": 27,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-07T04:09:19.000Z",
       "numParameters": 309114369,
@@ -85,29 +85,9 @@
       "repoType": "model"
     },
     {
-      "author": "interfaze-ai",
-      "id": "interfaze-ai/lev",
-      "downloads": 850,
-      "likes": 120,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-02T00:02:03.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "mlx-community",
-      "id": "mlx-community/clef-flash-4bit",
-      "downloads": 3804,
-      "likes": 24,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-08T14:09:53.000Z",
-      "numParameters": 9409813744,
-      "repoType": "model"
-    },
-    {
       "author": "vllm-sr",
       "id": "vllm-sr/Vela-2.0-0.8B",
-      "downloads": 87,
+      "downloads": 146,
       "likes": 17,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-07T04:09:31.000Z",
@@ -115,9 +95,19 @@
       "repoType": "model"
     },
     {
+      "author": "interfaze-ai",
+      "id": "interfaze-ai/lev",
+      "downloads": 878,
+      "likes": 122,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-02T00:02:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Sol-2B",
-      "downloads": 748,
+      "downloads": 837,
       "likes": 16,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:49.000Z",
@@ -125,33 +115,23 @@
       "repoType": "model"
     },
     {
+      "author": "mlx-community",
+      "id": "mlx-community/clef-flash-4bit",
+      "downloads": 4103,
+      "likes": 27,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-08T14:09:53.000Z",
+      "numParameters": 9409813744,
+      "repoType": "model"
+    },
+    {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Eos-0.8B",
-      "downloads": 672,
+      "downloads": 772,
       "likes": 14,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:11:51.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "ggml-org",
-      "id": "ggml-org/lev-GGUF",
-      "downloads": 3563,
-      "likes": 11,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-02T12:58:10.000Z",
-      "numParameters": 4205751296,
-      "repoType": "model"
-    },
-    {
-      "author": "ggml-org",
-      "id": "ggml-org/Bespoke-Nimble-9B-v3-GGUF",
-      "downloads": 13538,
-      "likes": 10,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-02T13:06:20.000Z",
-      "numParameters": 8953803264,
       "repoType": "model"
     },
     {
@@ -167,7 +147,7 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Vela-2.0-4B",
-      "downloads": 67,
+      "downloads": 124,
       "likes": 9,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-07T04:09:44.000Z",
@@ -175,59 +155,39 @@
       "repoType": "model"
     },
     {
-      "author": "jeff-legacy",
-      "id": "jeff-legacy/Jeff-Gemma4-E2B",
-      "downloads": 681,
-      "likes": 15,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-05T18:21:40.000Z",
-      "numParameters": 4628569344,
-      "repoType": "model"
-    },
-    {
-      "author": "jeff-legacy",
-      "id": "jeff-legacy/Jeff-Qwen3.5-0.8B",
-      "downloads": 2540,
-      "likes": 23,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-05T18:21:31.000Z",
-      "numParameters": 852985920,
-      "repoType": "model"
-    },
-    {
       "author": "mlx-community",
       "id": "mlx-community/clef-4bit",
-      "downloads": 1355,
-      "likes": 8,
+      "downloads": 1469,
+      "likes": 9,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T14:10:14.000Z",
       "numParameters": 27356728560,
       "repoType": "model"
     },
     {
-      "author": "mlx-community",
-      "id": "mlx-community/clef-8bit",
-      "downloads": 1085,
-      "likes": 7,
+      "author": "ggml-org",
+      "id": "ggml-org/lev-GGUF",
+      "downloads": 3779,
+      "likes": 11,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-07T20:44:25.000Z",
-      "numParameters": 27356728560,
+      "lastModified": "2026-10-02T12:58:10.000Z",
+      "numParameters": 4205751296,
       "repoType": "model"
     },
     {
-      "author": "manjunathshiva",
-      "id": "manjunathshiva/opendecider-nano",
-      "downloads": 6292,
-      "likes": 8,
+      "author": "ggml-org",
+      "id": "ggml-org/Bespoke-Nimble-9B-v3-GGUF",
+      "downloads": 13957,
+      "likes": 10,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-05T07:30:29.000Z",
-      "numParameters": 394781696,
+      "lastModified": "2026-10-02T13:06:20.000Z",
+      "numParameters": 8953803264,
       "repoType": "model"
     },
     {
       "author": "wfzyx",
       "id": "wfzyx/von",
-      "downloads": 96121,
+      "downloads": 98003,
       "likes": 57,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-02T04:54:56.000Z",
@@ -235,19 +195,29 @@
       "repoType": "model"
     },
     {
-      "author": "iapp",
-      "id": "iapp/OpenThai-SystemOne",
-      "downloads": 10750,
-      "likes": 35,
+      "author": "vllm-sr",
+      "id": "vllm-sr/Decision-1.0-Lux-9B",
+      "downloads": 346,
+      "likes": 17,
       "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-01T02:48:49.000Z",
-      "numParameters": 752674883,
+      "lastModified": "2026-10-08T12:11:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "manjunathshiva",
+      "id": "manjunathshiva/opendecider-nano",
+      "downloads": 6343,
+      "likes": 9,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-05T07:30:29.000Z",
+      "numParameters": 394781696,
       "repoType": "model"
     },
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-1.0-Route-0.6B",
-      "downloads": 87,
+      "downloads": 100,
       "likes": 4,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-08T12:12:05.000Z",
@@ -255,9 +225,49 @@
       "repoType": "model"
     },
     {
+      "author": "jeff-legacy",
+      "id": "jeff-legacy/Jeff-Qwen3.5-0.8B",
+      "downloads": 2593,
+      "likes": 23,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-05T18:21:31.000Z",
+      "numParameters": 852985920,
+      "repoType": "model"
+    },
+    {
+      "author": "empiriolabsai",
+      "id": "empiriolabsai/aplomb-1",
+      "downloads": 80,
+      "likes": 5,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-08T21:09:09.000Z",
+      "numParameters": 5295891968,
+      "repoType": "model"
+    },
+    {
+      "author": "iapp",
+      "id": "iapp/OpenThai-SystemOne",
+      "downloads": 10931,
+      "likes": 36,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-01T02:48:49.000Z",
+      "numParameters": 752674883,
+      "repoType": "model"
+    },
+    {
+      "author": "jeff-legacy",
+      "id": "jeff-legacy/Jeff-Qwen3.5-2B",
+      "downloads": 1024,
+      "likes": 17,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-05T18:21:34.000Z",
+      "numParameters": 2213241664,
+      "repoType": "model"
+    },
+    {
       "author": "mlx-community",
       "id": "mlx-community/clef-flash-8bit",
-      "downloads": 1083,
+      "downloads": 1191,
       "likes": 6,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-07T20:44:14.000Z",
@@ -265,45 +275,35 @@
       "repoType": "model"
     },
     {
-      "author": "vllm-sr",
-      "id": "vllm-sr/Decision-1.0-Lux-9B",
-      "downloads": 327,
-      "likes": 16,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-08T12:11:56.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "jeff-legacy",
-      "id": "jeff-legacy/Jeff-Qwen3.5-2B",
-      "downloads": 993,
-      "likes": 16,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-05T18:21:34.000Z",
-      "numParameters": 2213241664,
-      "repoType": "model"
-    },
-    {
-      "author": "empiriolabsai",
-      "id": "empiriolabsai/aplomb-1",
-      "downloads": 72,
-      "likes": 4,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-08T21:09:09.000Z",
-      "numParameters": 5295891968,
-      "repoType": "model"
-    },
-    {
       "author": "decision-tune",
       "id": "decision-tune/decisiontune-1.0",
-      "downloads": 102,
+      "downloads": 113,
       "likes": 3,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-05T08:53:15.000Z",
       "numParameters": 394781696,
       "repoType": "model"
+    },
+    {
+      "author": "MoritzLaurer",
+      "id": "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
+      "downloads": 151554,
+      "likes": 145,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-11T13:42:28.000Z",
+      "numParameters": 435063810,
+      "repoType": "model"
+    },
+    {
+      "author": "VivekMalipatel23",
+      "id": "VivekMalipatel23/mDeBERTa-v3-base-text-emotion-classification",
+      "downloads": 101,
+      "likes": 7,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2024-04-14T21:00:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:02:14.614Z"
+  "fetchedAt": "2026-10-09T23:39:49.622Z"
 }

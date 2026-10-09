@@ -1,13 +1,13 @@
 {
   "category": "object-detection",
   "sort": "downloads",
-  "totalItems": 6983,
+  "totalItems": 7015,
   "fetchedItems": 30,
   "models": [
     {
       "author": "mudler",
       "id": "mudler/locate-anything.cpp-gguf",
-      "downloads": 12063346,
+      "downloads": 12329349,
       "likes": 24,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-11T22:46:02.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition",
-      "downloads": 1233332,
+      "downloads": 1226503,
       "likes": 233,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:50:49.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "PekingU",
       "id": "PekingU/rtdetr_r101vd_coco_o365",
-      "downloads": 1052998,
+      "downloads": 1102969,
       "likes": 19,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-07-01T14:17:49.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3_safetensors",
-      "downloads": 1007349,
+      "downloads": 988241,
       "likes": 49,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-30T05:01:30.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "hustvl",
       "id": "hustvl/yolos-small",
-      "downloads": 744279,
+      "downloads": 735721,
       "likes": 99,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-08T07:49:12.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-detection",
-      "downloads": 477807,
+      "downloads": 474465,
       "likes": 431,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:49:09.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "PekingU",
       "id": "PekingU/rtdetr_v2_r18vd",
-      "downloads": 447151,
+      "downloads": 431617,
       "likes": 9,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-02-06T18:21:53.000Z",
@@ -75,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "PekingU",
-      "id": "PekingU/rtdetr_r50vd_coco_o365",
-      "downloads": 275636,
-      "likes": 17,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-07-01T14:17:52.000Z",
-      "numParameters": 43019372,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition-v1.1-all",
-      "downloads": 264867,
+      "downloads": 265207,
       "likes": 88,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-11-18T21:58:10.000Z",
@@ -95,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "PekingU",
+      "id": "PekingU/rtdetr_r50vd_coco_o365",
+      "downloads": 264727,
+      "likes": 17,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2024-07-01T14:17:52.000Z",
+      "numParameters": 43019372,
+      "repoType": "model"
+    },
+    {
       "author": "keremberke",
       "id": "keremberke/yolov8m-table-extraction",
-      "downloads": 219105,
+      "downloads": 218960,
       "likes": 44,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-23T12:00:01.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "facebook",
       "id": "facebook/detr-resnet-50",
-      "downloads": 209666,
+      "downloads": 182108,
       "likes": 982,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-04-10T13:56:31.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "TahaDouaji",
       "id": "TahaDouaji/detr-doc-table-detection",
-      "downloads": 172731,
+      "downloads": 182076,
       "likes": 64,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-10T05:52:21.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "PekingU",
       "id": "PekingU/rtdetr_r50vd",
-      "downloads": 160930,
+      "downloads": 151051,
       "likes": 36,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-02-06T10:37:28.000Z",
@@ -135,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "hustvl",
-      "id": "hustvl/yolos-tiny",
-      "downloads": 96264,
-      "likes": 282,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-04-10T14:33:27.000Z",
-      "numParameters": 6488736,
-      "repoType": "model"
-    },
-    {
       "author": "iitolstykh",
       "id": "iitolstykh/YOLO-Face-Person-Detector",
-      "downloads": 95601,
+      "downloads": 94951,
       "likes": 28,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-11-28T14:42:05.000Z",
@@ -155,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "hustvl",
+      "id": "hustvl/yolos-tiny",
+      "downloads": 92699,
+      "likes": 282,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2024-04-10T14:33:27.000Z",
+      "numParameters": 6488736,
+      "repoType": "model"
+    },
+    {
       "author": "morsetechlab",
       "id": "morsetechlab/yolov11-license-plate-detection",
-      "downloads": 75514,
+      "downloads": 74884,
       "likes": 44,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-05-14T03:13:30.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Anzhc",
       "id": "Anzhc/Anzhcs_YOLOs",
-      "downloads": 74545,
+      "downloads": 73596,
       "likes": 184,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-02-25T04:09:43.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "PekingU",
       "id": "PekingU/rtdetr_r18vd",
-      "downloads": 40903,
+      "downloads": 40859,
       "likes": 6,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-07-01T14:18:02.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "ustc-community",
       "id": "ustc-community/dfine-xlarge-coco",
-      "downloads": 36932,
+      "downloads": 36674,
       "likes": 9,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-05-05T11:36:11.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "yainage90",
       "id": "yainage90/fashion-object-detection",
-      "downloads": 34268,
+      "downloads": 34159,
       "likes": 45,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-12-02T09:24:16.000Z",
@@ -205,19 +205,9 @@
       "repoType": "model"
     },
     {
-      "author": "Roboflow",
-      "id": "Roboflow/rf-detr-base",
-      "downloads": 32926,
-      "likes": 5,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-05-20T16:47:03.000Z",
-      "numParameters": 32174530,
-      "repoType": "model"
-    },
-    {
       "author": "ustc-community",
       "id": "ustc-community/dfine-xlarge-obj2coco",
-      "downloads": 32505,
+      "downloads": 32666,
       "likes": 6,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-05-05T11:38:46.000Z",
@@ -225,9 +215,19 @@
       "repoType": "model"
     },
     {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-base",
+      "downloads": 32356,
+      "likes": 5,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-05-20T16:47:03.000Z",
+      "numParameters": 32174530,
+      "repoType": "model"
+    },
+    {
       "author": "PekingU",
       "id": "PekingU/rtdetr_v2_r50vd",
-      "downloads": 32465,
+      "downloads": 31521,
       "likes": 33,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-02-06T18:22:45.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "AnnaZhang",
       "id": "AnnaZhang/lwdetr_small_60e_coco",
-      "downloads": 30465,
+      "downloads": 29961,
       "likes": 0,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-01-19T09:21:52.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO11",
-      "downloads": 23385,
+      "downloads": 23462,
       "likes": 207,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-26T10:23:00.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "SenseTime",
       "id": "SenseTime/deformable-detr",
-      "downloads": 22050,
+      "downloads": 21782,
       "likes": 22,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-08T07:47:14.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/conditional-detr-resnet-50",
-      "downloads": 18613,
+      "downloads": 18416,
       "likes": 15,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-08T07:48:26.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO26",
-      "downloads": 18496,
+      "downloads": 18308,
       "likes": 216,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-06T10:42:49.000Z",
@@ -285,25 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "datalab-to",
-      "id": "datalab-to/surya_layout2",
-      "downloads": 17030,
-      "likes": 7,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-07-08T17:02:21.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Fuyucchi",
       "id": "Fuyucchi/yolov8_animeface",
-      "downloads": 16905,
+      "downloads": 17348,
       "likes": 20,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-10-14T07:59:15.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "Ultralytics",
+      "id": "Ultralytics/YOLOv8",
+      "downloads": 16560,
+      "likes": 392,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-06-26T10:23:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:33.193Z"
+  "fetchedAt": "2026-10-09T23:39:09.231Z"
 }

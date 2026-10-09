@@ -1,13 +1,13 @@
 {
   "category": "audio-classification",
   "sort": "downloads",
-  "totalItems": 5058,
+  "totalItems": 5064,
   "fetchedItems": 30,
   "models": [
     {
       "author": "laion",
       "id": "laion/clap-htsat-fused",
-      "downloads": 8082929,
+      "downloads": 8084558,
       "likes": 151,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-01-12T00:41:49.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "audeering",
       "id": "audeering/wav2vec2-large-robust-24-ft-age-gender",
-      "downloads": 2354447,
+      "downloads": 2325218,
       "likes": 63,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-03-24T10:02:24.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "MIT",
       "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 1093836,
+      "downloads": 1083714,
       "likes": 372,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-09-06T14:49:15.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "onecxi",
       "id": "onecxi/open-vakgyata",
-      "downloads": 612417,
+      "downloads": 616044,
       "likes": 3,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-07-23T11:39:56.000Z",
@@ -45,19 +45,9 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/audiobox-aesthetics",
-      "downloads": 547758,
-      "likes": 51,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-03-04T21:32:30.000Z",
-      "numParameters": 103859112,
-      "repoType": "model"
-    },
-    {
       "author": "alefiury",
       "id": "alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech",
-      "downloads": 544557,
+      "downloads": 542891,
       "likes": 48,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-03-23T20:43:05.000Z",
@@ -65,10 +55,20 @@
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/audiobox-aesthetics",
+      "downloads": 538681,
+      "likes": 51,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-04T21:32:30.000Z",
+      "numParameters": 103859112,
+      "repoType": "model"
+    },
+    {
       "author": "audeering",
       "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
-      "downloads": 355521,
-      "likes": 174,
+      "downloads": 330393,
+      "likes": 175,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-09-19T08:07:19.000Z",
       "numParameters": 165336707,
@@ -77,7 +77,7 @@
     {
       "author": "OpenMuQ",
       "id": "OpenMuQ/MuQ-large-msd-iter",
-      "downloads": 320279,
+      "downloads": 322835,
       "likes": 26,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-08-15T10:45:28.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "facebook",
       "id": "facebook/mms-lid-1024",
-      "downloads": 283949,
+      "downloads": 293900,
       "likes": 11,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-06-13T10:18:46.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "m-a-p",
       "id": "m-a-p/MERT-v1-95M",
-      "downloads": 274862,
+      "downloads": 271962,
       "likes": 60,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-25T05:03:07.000Z",
@@ -107,8 +107,8 @@
     {
       "author": "xbgoose",
       "id": "xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned",
-      "downloads": 238342,
-      "likes": 20,
+      "downloads": 236743,
+      "likes": 21,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-04-26T20:07:32.000Z",
       "numParameters": 315702405,
@@ -117,7 +117,7 @@
     {
       "author": "Jzuluaga",
       "id": "Jzuluaga/accent-id-commonaccent_ecapa",
-      "downloads": 204867,
+      "downloads": 204044,
       "likes": 19,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-07-22T15:20:24.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "prithivMLmods",
       "id": "prithivMLmods/Common-Voice-Gender-Detection",
-      "downloads": 179955,
+      "downloads": 178785,
       "likes": 33,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-11-12T02:21:55.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "speechbrain",
       "id": "speechbrain/lang-id-voxlingua107-ecapa",
-      "downloads": 137431,
+      "downloads": 133060,
       "likes": 168,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-11-27T20:12:38.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "m-a-p",
       "id": "m-a-p/MERT-v1-330M",
-      "downloads": 113393,
+      "downloads": 110570,
       "likes": 100,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-25T05:04:41.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "OpenMuQ",
       "id": "OpenMuQ/MuQ-MuLan-large",
-      "downloads": 89018,
+      "downloads": 90707,
       "likes": 28,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-08-21T19:00:44.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Aniemore",
       "id": "Aniemore/wavlm-emotion-russian-resd",
-      "downloads": 65225,
+      "downloads": 66124,
       "likes": 4,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-01T02:26:02.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "superb",
       "id": "superb/wav2vec2-base-superb-er",
-      "downloads": 52696,
+      "downloads": 52604,
       "likes": 18,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-11-04T16:03:36.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "speechbrain",
       "id": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
-      "downloads": 49100,
+      "downloads": 49727,
       "likes": 197,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-07-23T07:52:24.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "audeering",
       "id": "audeering/wav2vec2-large-robust-6-ft-age-gender",
-      "downloads": 47970,
+      "downloads": 45826,
       "likes": 6,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-11-27T10:08:51.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "JaesungHuh",
       "id": "JaesungHuh/voice-gender-classifier",
-      "downloads": 43630,
+      "downloads": 43686,
       "likes": 42,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-04T11:09:00.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "justin1983",
       "id": "justin1983/wav2vec2-base-finetuned-amd",
-      "downloads": 40630,
+      "downloads": 40191,
       "likes": 0,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-06-02T12:42:14.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "facebook",
       "id": "facebook/mms-lid-126",
-      "downloads": 39887,
+      "downloads": 31932,
       "likes": 36,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-06-13T10:15:48.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "jakeBland",
       "id": "jakeBland/wav2vec-vm-finetune",
-      "downloads": 27384,
+      "downloads": 26929,
       "likes": 15,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-02-16T22:42:28.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 25076,
+      "downloads": 25429,
       "likes": 0,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-06-27T17:39:25.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "mo-thecreator",
       "id": "mo-thecreator/Deepfake-audio-detection",
-      "downloads": 23301,
+      "downloads": 22947,
       "likes": 17,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-04-23T17:25:11.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "awsaf49",
       "id": "awsaf49/sonics-spectttra-alpha-120s",
-      "downloads": 22993,
+      "downloads": 22864,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-03-01T21:08:11.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "StanislavKo28",
       "id": "StanislavKo28/music_moods_classification",
-      "downloads": 21826,
+      "downloads": 21828,
       "likes": 4,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-04-27T14:48:13.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "facebook",
       "id": "facebook/mms-lid-256",
-      "downloads": 20819,
+      "downloads": 20475,
       "likes": 20,
       "pipeline_tag": "audio-classification",
       "lastModified": "2023-06-13T10:16:04.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "mispeech",
       "id": "mispeech/ced-base",
-      "downloads": 20482,
+      "downloads": 20373,
       "likes": 17,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-03-30T12:33:12.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:00:52.369Z"
+  "fetchedAt": "2026-10-09T23:38:29.837Z"
 }

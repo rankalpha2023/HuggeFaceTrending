@@ -1,24 +1,34 @@
 {
   "category": "summarization",
   "sort": "trending",
-  "totalItems": 2971,
+  "totalItems": 2972,
   "fetchedItems": 30,
   "models": [
     {
-      "author": "SEBIS",
-      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_python",
-      "downloads": 117,
-      "likes": 19,
+      "author": "Falconsai",
+      "id": "Falconsai/medical_summarization",
+      "downloads": 1940,
+      "likes": 168,
       "pipeline_tag": "summarization",
-      "lastModified": "2021-06-23T04:43:22.000Z",
+      "lastModified": "2024-01-20T12:48:04.000Z",
+      "numParameters": 60506624,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_api_generation",
+      "downloads": 82,
+      "likes": 10,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T03:57:33.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_base_code_documentation_generation_javascript_transfer_learning_finetune",
-      "downloads": 186,
-      "likes": 7,
+      "downloads": 193,
+      "likes": 8,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T04:33:14.000Z",
       "numParameters": null,
@@ -26,8 +36,18 @@
     },
     {
       "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_python",
+      "downloads": 120,
+      "likes": 20,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T04:43:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_large_code_documentation_generation_python_multitask",
-      "downloads": 59,
+      "downloads": 65,
       "likes": 8,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T07:34:31.000Z",
@@ -37,8 +57,8 @@
     {
       "author": "facebook",
       "id": "facebook/bart-large-cnn",
-      "downloads": 1417902,
-      "likes": 1633,
+      "downloads": 1385524,
+      "likes": 1634,
       "pipeline_tag": "summarization",
       "lastModified": "2024-02-13T18:02:05.000Z",
       "numParameters": 406290432,
@@ -47,7 +67,7 @@
     {
       "author": "mrm8488",
       "id": "mrm8488/bert2bert_shared-german-finetuned-summarization",
-      "downloads": 135,
+      "downloads": 136,
       "likes": 29,
       "pipeline_tag": "summarization",
       "lastModified": "2023-05-10T12:29:44.000Z",
@@ -57,7 +77,7 @@
     {
       "author": "ozcangundes",
       "id": "ozcangundes/mt5-small-turkish-summarization",
-      "downloads": 119,
+      "downloads": 124,
       "likes": 33,
       "pipeline_tag": "summarization",
       "lastModified": "2021-09-22T09:31:27.000Z",
@@ -66,18 +86,18 @@
     },
     {
       "author": "Falconsai",
-      "id": "Falconsai/medical_summarization",
-      "downloads": 1895,
-      "likes": 167,
+      "id": "Falconsai/text_summarization",
+      "downloads": 15071,
+      "likes": 324,
       "pipeline_tag": "summarization",
-      "lastModified": "2024-01-20T12:48:04.000Z",
+      "lastModified": "2024-02-17T07:55:14.000Z",
       "numParameters": 60506624,
       "repoType": "model"
     },
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_base_code_documentation_generation_php",
-      "downloads": 64,
+      "downloads": 69,
       "likes": 8,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T04:34:53.000Z",
@@ -87,7 +107,7 @@
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_small_code_documentation_generation_javascript_transfer_learning_finetune",
-      "downloads": 93,
+      "downloads": 97,
       "likes": 8,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T10:06:28.000Z",
@@ -95,29 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "Falconsai",
-      "id": "Falconsai/text_summarization",
-      "downloads": 14301,
-      "likes": 323,
-      "pipeline_tag": "summarization",
-      "lastModified": "2024-02-17T07:55:14.000Z",
-      "numParameters": 60506624,
-      "repoType": "model"
-    },
-    {
-      "author": "SEBIS",
-      "id": "SEBIS/code_trans_t5_base_api_generation",
-      "downloads": 78,
-      "likes": 8,
-      "pipeline_tag": "summarization",
-      "lastModified": "2021-06-23T03:57:33.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_base_code_comment_generation_java_multitask",
-      "downloads": 98,
+      "downloads": 101,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T04:06:42.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_base_code_documentation_generation_go_multitask",
-      "downloads": 57,
+      "downloads": 58,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T04:13:43.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_base_code_documentation_generation_php_multitask",
-      "downloads": 72,
+      "downloads": 79,
       "likes": 6,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T04:36:53.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "SEBIS",
       "id": "SEBIS/code_trans_t5_large_code_documentation_generation_javascript_multitask_finetune",
-      "downloads": 83,
+      "downloads": 86,
       "likes": 2,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-23T07:00:56.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "VietAI",
       "id": "VietAI/vit5-large-vietnews-summarization",
-      "downloads": 267,
+      "downloads": 247,
       "likes": 14,
       "pipeline_tag": "summarization",
       "lastModified": "2022-09-07T02:28:54.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "psyche",
       "id": "psyche/KoT5-summarization",
-      "downloads": 113,
+      "downloads": 92,
       "likes": 21,
       "pipeline_tag": "summarization",
       "lastModified": "2023-07-27T01:22:25.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "VietAI",
       "id": "VietAI/vit5-base-vietnews-summarization",
-      "downloads": 921,
+      "downloads": 904,
       "likes": 9,
       "pipeline_tag": "summarization",
       "lastModified": "2022-09-14T16:46:02.000Z",
@@ -185,9 +185,19 @@
       "repoType": "model"
     },
     {
+      "author": "abdalrahmanshahrour",
+      "id": "abdalrahmanshahrour/auto-arabic-summarization",
+      "downloads": 114,
+      "likes": 9,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-02-08T11:10:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Wespeaker",
       "id": "Wespeaker/wespeaker-voxceleb-resnet34-LM",
-      "downloads": 1578,
+      "downloads": 1628,
       "likes": 11,
       "pipeline_tag": "summarization",
       "lastModified": "2024-05-06T06:08:41.000Z",
@@ -195,9 +205,29 @@
       "repoType": "model"
     },
     {
+      "author": "DISLab",
+      "id": "DISLab/SummLlama3.1-70B",
+      "downloads": 22,
+      "likes": 9,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-11-13T09:02:21.000Z",
+      "numParameters": 70553706496,
+      "repoType": "model"
+    },
+    {
+      "author": "DISLab",
+      "id": "DISLab/SummLlama3.2-3B",
+      "downloads": 43,
+      "likes": 39,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-12-10T00:29:48.000Z",
+      "numParameters": 3212749824,
+      "repoType": "model"
+    },
+    {
       "author": "YuvrajSingh9886",
       "id": "YuvrajSingh9886/Qwen2.5-0.5B-grpo-summarization-quality-rouge",
-      "downloads": 138,
+      "downloads": 160,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2026-10-07T22:24:03.000Z",
@@ -227,7 +257,7 @@
     {
       "author": "kashanalyas",
       "id": "kashanalyas/t5-small-samsum",
-      "downloads": 24,
+      "downloads": 25,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2026-10-05T14:05:29.000Z",
@@ -237,7 +267,7 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/it5-summarization-fanpage-64",
-      "downloads": 43,
+      "downloads": 46,
       "likes": 1,
       "pipeline_tag": "summarization",
       "lastModified": "2021-10-25T12:47:09.000Z",
@@ -267,43 +297,13 @@
     {
       "author": "ARTeLab",
       "id": "ARTeLab/it5-summarization-mlsum",
-      "downloads": 102,
+      "downloads": 83,
       "likes": 2,
       "pipeline_tag": "summarization",
       "lastModified": "2023-09-12T13:43:07.000Z",
       "numParameters": 247539456,
       "repoType": "model"
-    },
-    {
-      "author": "ARTeLab",
-      "id": "ARTeLab/mbart-summarization-fanpage",
-      "downloads": 58,
-      "likes": 1,
-      "pipeline_tag": "summarization",
-      "lastModified": "2023-09-12T13:43:38.000Z",
-      "numParameters": 611101867,
-      "repoType": "model"
-    },
-    {
-      "author": "ARTeLab",
-      "id": "ARTeLab/mbart-summarization-ilpost",
-      "downloads": 58,
-      "likes": 1,
-      "pipeline_tag": "summarization",
-      "lastModified": "2023-09-12T13:42:56.000Z",
-      "numParameters": 611101867,
-      "repoType": "model"
-    },
-    {
-      "author": "ARTeLab",
-      "id": "ARTeLab/mbart-summarization-mlsum",
-      "downloads": 81,
-      "likes": 2,
-      "pipeline_tag": "summarization",
-      "lastModified": "2023-09-12T13:43:29.000Z",
-      "numParameters": 611101867,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:41.615Z"
+  "fetchedAt": "2026-10-09T23:39:17.743Z"
 }

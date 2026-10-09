@@ -1,13 +1,23 @@
 {
   "category": "token-classification",
   "sort": "trending",
-  "totalItems": 30930,
+  "totalItems": 30966,
   "fetchedItems": 30,
   "models": [
     {
+      "author": "HuggingFaceBio",
+      "id": "HuggingFaceBio/Carbon-A-1.2B",
+      "downloads": 29,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-09T17:50:34.000Z",
+      "numParameters": 1153656832,
+      "repoType": "model"
+    },
+    {
       "author": "StanfordAIMI",
       "id": "StanfordAIMI/stanford-deidentifier-with-radiology-reports-and-i2b2",
-      "downloads": 3858,
+      "downloads": 3819,
       "likes": 14,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-11-23T19:46:01.000Z",
@@ -17,7 +27,7 @@
     {
       "author": "nlpie",
       "id": "nlpie/clinical-mobilebert-i2b2-2010",
-      "downloads": 51,
+      "downloads": 55,
       "likes": 10,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-05-17T23:24:48.000Z",
@@ -25,69 +35,29 @@
       "repoType": "model"
     },
     {
-      "author": "openai",
-      "id": "openai/privacy-filter",
-      "downloads": 338737,
-      "likes": 1783,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-04-22T16:50:17.000Z",
-      "numParameters": 1399486865,
-      "repoType": "model"
-    },
-    {
-      "author": "fastino",
-      "id": "fastino/gliner2-privacy-filter-PII-multi",
-      "downloads": 200047,
-      "likes": 99,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-28T00:55:39.000Z",
-      "numParameters": 307098645,
-      "repoType": "model"
-    },
-    {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/PII-Tracer",
-      "downloads": 3537,
-      "likes": 72,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-22T17:28:05.000Z",
-      "numParameters": 596090241,
-      "repoType": "model"
-    },
-    {
-      "author": "ahmedsamirtarjama",
-      "id": "ahmedsamirtarjama/Tashkeel-v4",
-      "downloads": 126,
-      "likes": 4,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-10-02T09:25:25.000Z",
-      "numParameters": 171573661,
-      "repoType": "model"
-    },
-    {
-      "author": "HuggingFaceBio",
-      "id": "HuggingFaceBio/Carbon-A-1.2B",
-      "downloads": 9,
-      "likes": 4,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-10-08T11:31:12.000Z",
-      "numParameters": 1153656832,
-      "repoType": "model"
-    },
-    {
       "author": "sartajbhuvaji",
       "id": "sartajbhuvaji/bert-named-entity-recognition",
-      "downloads": 30,
-      "likes": 9,
+      "downloads": 33,
+      "likes": 10,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-12-05T02:35:27.000Z",
       "numParameters": 108898569,
       "repoType": "model"
     },
     {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 337900,
+      "likes": 1784,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
       "author": "dslim",
       "id": "dslim/bert-base-NER",
-      "downloads": 1384524,
+      "downloads": 1361938,
       "likes": 739,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-10-08T07:51:39.000Z",
@@ -95,19 +65,19 @@
       "repoType": "model"
     },
     {
-      "author": "NYTK",
-      "id": "NYTK/named-entity-recognition-nerkor-hubert-hungarian",
-      "downloads": 5384,
-      "likes": 10,
+      "author": "ajtamayoh",
+      "id": "ajtamayoh/NLP-CIC-WFU_Clinical_Cases_NER_Paragraph_Tokenized_mBERT_cased_fine_tuned",
+      "downloads": 60,
+      "likes": 6,
       "pipeline_tag": "token-classification",
-      "lastModified": "2023-01-12T10:21:56.000Z",
+      "lastModified": "2022-06-09T23:31:56.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "nlpie",
       "id": "nlpie/clinical-distilbert-i2b2-2010",
-      "downloads": 710,
+      "downloads": 695,
       "likes": 7,
       "pipeline_tag": "token-classification",
       "lastModified": "2025-05-17T23:25:34.000Z",
@@ -117,7 +87,7 @@
     {
       "author": "eventdata-utd",
       "id": "eventdata-utd/conflibert-named-entity-recognition",
-      "downloads": 73,
+      "downloads": 72,
       "likes": 15,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-03-26T22:07:28.000Z",
@@ -127,7 +97,7 @@
     {
       "author": "urchade",
       "id": "urchade/gliner_multi_pii-v1",
-      "downloads": 63953,
+      "downloads": 63937,
       "likes": 177,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-20T16:16:50.000Z",
@@ -135,19 +105,19 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/gliner-PII",
-      "downloads": 22186,
-      "likes": 164,
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 202444,
+      "likes": 99,
       "pipeline_tag": "token-classification",
-      "lastModified": "2025-12-07T21:51:24.000Z",
-      "numParameters": null,
+      "lastModified": "2026-09-28T00:55:39.000Z",
+      "numParameters": 307098645,
       "repoType": "model"
     },
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Encoder-350M-PII-Detector",
-      "downloads": 3669,
+      "downloads": 3345,
       "likes": 45,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-07-28T14:00:37.000Z",
@@ -157,7 +127,7 @@
     {
       "author": "RyeAI",
       "id": "RyeAI/ekko-pnc",
-      "downloads": 760,
+      "downloads": 763,
       "likes": 5,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-10-02T15:51:17.000Z",
@@ -167,7 +137,7 @@
     {
       "author": "AlfredJames",
       "id": "AlfredJames/jobbert-zh-v6a",
-      "downloads": 79,
+      "downloads": 69,
       "likes": 2,
       "pipeline_tag": "token-classification",
       "lastModified": "2026-10-05T09:26:19.000Z",
@@ -175,39 +145,29 @@
       "repoType": "model"
     },
     {
-      "author": "knowledgator",
-      "id": "knowledgator/gliformer-large-v1",
-      "downloads": 2130,
-      "likes": 165,
+      "author": "ahmedsamirtarjama",
+      "id": "ahmedsamirtarjama/Tashkeel-v4",
+      "downloads": 129,
+      "likes": 6,
       "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-18T18:31:25.000Z",
+      "lastModified": "2026-10-02T09:25:25.000Z",
+      "numParameters": 171573661,
+      "repoType": "model"
+    },
+    {
+      "author": "Mythologic",
+      "id": "Mythologic/mark",
+      "downloads": 49,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-09T14:28:36.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/PII-Tracer-vLLM",
-      "downloads": 112,
-      "likes": 4,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-22T17:28:07.000Z",
-      "numParameters": 596088870,
-      "repoType": "model"
-    },
-    {
-      "author": "yale-cultural-heritage",
-      "id": "yale-cultural-heritage/GLiNER2.5-Decide-linkedart-recon",
-      "downloads": 81,
-      "likes": 4,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-10-07T14:08:06.000Z",
-      "numParameters": 486444053,
       "repoType": "model"
     },
     {
       "author": "akdeniz27",
       "id": "akdeniz27/bert-base-turkish-cased-ner",
-      "downloads": 71244,
+      "downloads": 70255,
       "likes": 29,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-06-18T09:42:03.000Z",
@@ -217,7 +177,7 @@
     {
       "author": "ckiplab",
       "id": "ckiplab/bert-base-chinese-ner",
-      "downloads": 89502,
+      "downloads": 90504,
       "likes": 135,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-05-10T03:28:12.000Z",
@@ -227,7 +187,7 @@
     {
       "author": "dhtocks",
       "id": "dhtocks/Named-Entity-Recognition",
-      "downloads": 15,
+      "downloads": 16,
       "likes": 3,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-01-15T11:22:33.000Z",
@@ -237,7 +197,7 @@
     {
       "author": "huggingface-course",
       "id": "huggingface-course/bert-finetuned-ner",
-      "downloads": 62,
+      "downloads": 65,
       "likes": 19,
       "pipeline_tag": "token-classification",
       "lastModified": "2022-12-05T23:49:09.000Z",
@@ -247,7 +207,7 @@
     {
       "author": "oliverguhr",
       "id": "oliverguhr/fullstop-punctuation-multilang-large",
-      "downloads": 266245,
+      "downloads": 269038,
       "likes": 182,
       "pipeline_tag": "token-classification",
       "lastModified": "2023-11-16T09:35:35.000Z",
@@ -255,29 +215,19 @@
       "repoType": "model"
     },
     {
-      "author": "stanfordnlp",
-      "id": "stanfordnlp/stanza-fr",
-      "downloads": 1460,
-      "likes": 3,
+      "author": "NYTK",
+      "id": "NYTK/named-entity-recognition-nerkor-hubert-hungarian",
+      "downloads": 5350,
+      "likes": 10,
       "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-29T19:43:34.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "stanfordnlp",
-      "id": "stanfordnlp/stanza-vi",
-      "downloads": 164,
-      "likes": 2,
-      "pipeline_tag": "token-classification",
-      "lastModified": "2026-09-29T20:15:51.000Z",
+      "lastModified": "2023-01-12T10:21:56.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "kredor",
       "id": "kredor/punctuate-all",
-      "downloads": 622851,
+      "downloads": 614779,
       "likes": 31,
       "pipeline_tag": "token-classification",
       "lastModified": "2024-04-26T05:37:58.000Z",
@@ -295,15 +245,65 @@
       "repoType": "model"
     },
     {
-      "author": "ajtamayoh",
-      "id": "ajtamayoh/NLP-CIC-WFU_Clinical_Cases_NER_Paragraph_Tokenized_mBERT_cased_fine_tuned",
-      "downloads": 59,
-      "likes": 5,
+      "author": "NlpHUST",
+      "id": "NlpHUST/ner-vietnamese-electra-base",
+      "downloads": 3412,
+      "likes": 26,
       "pipeline_tag": "token-classification",
-      "lastModified": "2022-06-09T23:31:56.000Z",
+      "lastModified": "2024-11-08T14:25:46.000Z",
+      "numParameters": 133074185,
+      "repoType": "model"
+    },
+    {
+      "author": "RJuro",
+      "id": "RJuro/SciNERTopic",
+      "downloads": 92,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-14T21:16:18.000Z",
+      "numParameters": 109358349,
+      "repoType": "model"
+    },
+    {
+      "author": "Evolett",
+      "id": "Evolett/rubert-tiny2-finetuned-ner",
+      "downloads": 22,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-11-29T13:55:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nguyenkhoa2407",
+      "id": "nguyenkhoa2407/favs_token_classification_v2_uncased",
+      "downloads": 5,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-12-07T04:11:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "newsmediabias",
+      "id": "newsmediabias/UnBIAS-Named-Entity-Recognition",
+      "downloads": 70,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-07T23:40:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "quanai",
+      "id": "quanai/bert-multilingual-finetuned-history-ner-sub-ontology",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-26T18:00:39.000Z",
       "numParameters": null,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:02:04.503Z"
+  "fetchedAt": "2026-10-09T23:39:39.649Z"
 }

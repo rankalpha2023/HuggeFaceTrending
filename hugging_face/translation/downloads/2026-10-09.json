@@ -1,14 +1,14 @@
 {
   "category": "translation",
   "sort": "downloads",
-  "totalItems": 18325,
+  "totalItems": 18335,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google-t5",
       "id": "google-t5/t5-small",
-      "downloads": 24442515,
-      "likes": 655,
+      "downloads": 24170269,
+      "likes": 656,
       "pipeline_tag": "translation",
       "lastModified": "2023-06-30T02:31:26.000Z",
       "numParameters": 60506880,
@@ -17,7 +17,7 @@
     {
       "author": "google-t5",
       "id": "google-t5/t5-base",
-      "downloads": 2022657,
+      "downloads": 1996332,
       "likes": 793,
       "pipeline_tag": "translation",
       "lastModified": "2024-02-14T17:21:55.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-nl-en",
-      "downloads": 1875269,
+      "downloads": 1795991,
       "likes": 10,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T12:01:39.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-fr-en",
-      "downloads": 848616,
+      "downloads": 840183,
       "likes": 56,
       "pipeline_tag": "translation",
       "lastModified": "2025-11-15T22:57:50.000Z",
@@ -47,8 +47,8 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-distilled-600M",
-      "downloads": 815440,
-      "likes": 983,
+      "downloads": 799598,
+      "likes": 985,
       "pipeline_tag": "translation",
       "lastModified": "2024-02-14T17:18:36.000Z",
       "numParameters": null,
@@ -57,7 +57,7 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-distilled-1.3B",
-      "downloads": 418895,
+      "downloads": 420649,
       "likes": 188,
       "pipeline_tag": "translation",
       "lastModified": "2023-02-11T20:19:10.000Z",
@@ -66,18 +66,8 @@
     },
     {
       "author": "Helsinki-NLP",
-      "id": "Helsinki-NLP/opus-mt-ru-en",
-      "downloads": 388956,
-      "likes": 102,
-      "pipeline_tag": "translation",
-      "lastModified": "2023-08-16T12:03:22.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-de-en",
-      "downloads": 380927,
+      "downloads": 368615,
       "likes": 50,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:27:46.000Z",
@@ -86,8 +76,18 @@
     },
     {
       "author": "Helsinki-NLP",
+      "id": "Helsinki-NLP/opus-mt-ru-en",
+      "downloads": 365106,
+      "likes": 102,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-08-16T12:03:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-ru",
-      "downloads": 375947,
+      "downloads": 352452,
       "likes": 100,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:30:58.000Z",
@@ -95,19 +95,9 @@
       "repoType": "model"
     },
     {
-      "author": "krpraveen",
-      "id": "krpraveen/sanskrit-en-custom-transformer",
-      "downloads": 356316,
-      "likes": 0,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-07-04T11:54:00.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-de",
-      "downloads": 348400,
+      "downloads": 338413,
       "likes": 47,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:29:21.000Z",
@@ -115,9 +105,19 @@
       "repoType": "model"
     },
     {
+      "author": "krpraveen",
+      "id": "krpraveen/sanskrit-en-custom-transformer",
+      "downloads": 331955,
+      "likes": 0,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-07-04T11:54:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "google-t5",
       "id": "google-t5/t5-3b",
-      "downloads": 260075,
+      "downloads": 255606,
       "likes": 53,
       "pipeline_tag": "translation",
       "lastModified": "2024-01-29T15:44:49.000Z",
@@ -127,8 +127,8 @@
     {
       "author": "ai4bharat",
       "id": "ai4bharat/indictrans2-en-indic-dist-200M",
-      "downloads": 243547,
-      "likes": 61,
+      "downloads": 240692,
+      "likes": 62,
       "pipeline_tag": "translation",
       "lastModified": "2026-10-08T08:36:59.000Z",
       "numParameters": 274584576,
@@ -136,18 +136,8 @@
     },
     {
       "author": "Helsinki-NLP",
-      "id": "Helsinki-NLP/opus-mt-ko-en",
-      "downloads": 243224,
-      "likes": 68,
-      "pipeline_tag": "translation",
-      "lastModified": "2023-08-16T11:59:39.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-fr",
-      "downloads": 219373,
+      "downloads": 219813,
       "likes": 69,
       "pipeline_tag": "translation",
       "lastModified": "2024-02-14T17:18:11.000Z",
@@ -155,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/nllb-200-3.3B",
+      "downloads": 187923,
+      "likes": 477,
+      "pipeline_tag": "translation",
+      "lastModified": "2023-02-11T20:19:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-es-en",
-      "downloads": 190772,
+      "downloads": 186856,
       "likes": 82,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:32:34.000Z",
@@ -165,19 +165,19 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/nllb-200-3.3B",
-      "downloads": 188524,
-      "likes": 476,
+      "author": "Helsinki-NLP",
+      "id": "Helsinki-NLP/opus-mt-ko-en",
+      "downloads": 184067,
+      "likes": 68,
       "pipeline_tag": "translation",
-      "lastModified": "2023-02-11T20:19:13.000Z",
+      "lastModified": "2023-08-16T11:59:39.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "google-t5",
       "id": "google-t5/t5-large",
-      "downloads": 172038,
+      "downloads": 172618,
       "likes": 264,
       "pipeline_tag": "translation",
       "lastModified": "2023-04-06T13:42:27.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-es",
-      "downloads": 149809,
+      "downloads": 146673,
       "likes": 123,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:29:28.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-zh-en",
-      "downloads": 148640,
+      "downloads": 144993,
       "likes": 564,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T12:09:10.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-it-en",
-      "downloads": 126059,
+      "downloads": 122949,
       "likes": 18,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:58:49.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-ar-en",
-      "downloads": 120490,
+      "downloads": 116419,
       "likes": 50,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:25:35.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-tc-big-ko-en",
-      "downloads": 117956,
+      "downloads": 115945,
       "likes": 16,
       "pipeline_tag": "translation",
       "lastModified": "2023-10-10T10:36:09.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-tc-big-en-tr",
-      "downloads": 106949,
+      "downloads": 101658,
       "likes": 59,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T12:10:49.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-tc-big-tr-en",
-      "downloads": 101666,
+      "downloads": 96358,
       "likes": 102,
       "pipeline_tag": "translation",
       "lastModified": "2023-11-28T09:30:38.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-ROMANCE-en",
-      "downloads": 87307,
+      "downloads": 86321,
       "likes": 10,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:25:14.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Helsinki-NLP",
       "id": "Helsinki-NLP/opus-mt-en-zh",
-      "downloads": 86199,
+      "downloads": 84936,
       "likes": 406,
       "pipeline_tag": "translation",
       "lastModified": "2023-08-16T11:31:42.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "facebook",
       "id": "facebook/nllb-200-1.3B",
-      "downloads": 78539,
+      "downloads": 69150,
       "likes": 75,
       "pipeline_tag": "translation",
       "lastModified": "2023-02-11T20:19:16.000Z",
@@ -285,25 +285,25 @@
       "repoType": "model"
     },
     {
+      "author": "ai4bharat",
+      "id": "ai4bharat/indictrans2-en-indic-1B",
+      "downloads": 67517,
+      "likes": 75,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-10-08T08:39:18.000Z",
+      "numParameters": 1115543552,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/mbart-large-50-many-to-many-mmt",
-      "downloads": 67896,
+      "downloads": 65185,
       "likes": 411,
       "pipeline_tag": "translation",
       "lastModified": "2023-09-28T16:42:59.000Z",
       "numParameters": 611129542,
       "repoType": "model"
-    },
-    {
-      "author": "ai4bharat",
-      "id": "ai4bharat/indictrans2-en-indic-1B",
-      "downloads": 66434,
-      "likes": 74,
-      "pipeline_tag": "translation",
-      "lastModified": "2026-10-08T08:39:18.000Z",
-      "numParameters": 1115543552,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:02:08.680Z"
+  "fetchedAt": "2026-10-09T23:39:43.761Z"
 }

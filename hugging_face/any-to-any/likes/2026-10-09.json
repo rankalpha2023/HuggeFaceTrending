@@ -1,13 +1,13 @@
 {
   "category": "any-to-any",
   "sort": "likes",
-  "totalItems": 11647,
+  "totalItems": 11654,
   "fetchedItems": 30,
   "models": [
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-Pro-7B",
-      "downloads": 10771,
+      "downloads": 10668,
       "likes": 3698,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-02-01T08:00:16.000Z",
@@ -17,8 +17,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-7B",
-      "downloads": 313774,
-      "likes": 1956,
+      "downloads": 305610,
+      "likes": 1957,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T13:48:45.000Z",
       "numParameters": 10732225440,
@@ -27,8 +27,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 4380008,
-      "likes": 1667,
+      "downloads": 4338155,
+      "likes": 1668,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:42:03.000Z",
       "numParameters": 7996156490,
@@ -37,8 +37,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it",
-      "downloads": 1689082,
-      "likes": 1650,
+      "downloads": 1633695,
+      "likes": 1651,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:42:08.000Z",
       "numParameters": 11959730224,
@@ -47,8 +47,8 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5",
-      "downloads": 727961,
-      "likes": 1506,
+      "downloads": 712798,
+      "likes": 1508,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-18T03:57:56.000Z",
       "numParameters": 9371787666,
@@ -57,7 +57,7 @@
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-2_6",
-      "downloads": 202620,
+      "downloads": 192485,
       "likes": 1304,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-18T03:58:46.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "ByteDance-Seed",
       "id": "ByteDance-Seed/BAGEL-7B-MoT",
-      "downloads": 1003,
+      "downloads": 1000,
       "likes": 1223,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-01-09T09:27:26.000Z",
@@ -85,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/gemma-4-E2B-it",
+      "downloads": 3007558,
+      "likes": 1020,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-07-20T16:41:56.000Z",
+      "numParameters": 5123178051,
+      "repoType": "model"
+    },
+    {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 689177,
+      "downloads": 701744,
       "likes": 1016,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:52.000Z",
@@ -96,19 +106,9 @@
     },
     {
       "author": "google",
-      "id": "google/gemma-4-E2B-it",
-      "downloads": 2994679,
-      "likes": 1016,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-20T16:41:56.000Z",
-      "numParameters": 5123178051,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/gemma-4-12B",
-      "downloads": 106193,
-      "likes": 768,
+      "downloads": 102873,
+      "likes": 770,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:40:57.000Z",
       "numParameters": 11959730224,
@@ -117,7 +117,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-1.3B",
-      "downloads": 2228,
+      "downloads": 2230,
       "likes": 601,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-01-27T13:31:24.000Z",
@@ -127,8 +127,8 @@
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "downloads": 500038,
-      "likes": 574,
+      "downloads": 475403,
+      "likes": 576,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T12:37:30.000Z",
       "numParameters": 11907350576,
@@ -137,8 +137,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B",
-      "downloads": 240641,
-      "likes": 507,
+      "downloads": 237829,
+      "likes": 509,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:39:18.000Z",
       "numParameters": 5123178051,
@@ -147,7 +147,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/Janus-Pro-1B",
-      "downloads": 3198,
+      "downloads": 3036,
       "likes": 488,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-02-01T08:00:32.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "OmniGen2",
       "id": "OmniGen2/OmniGen2",
-      "downloads": 3545,
+      "downloads": 3543,
       "likes": 459,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-27T07:19:21.000Z",
@@ -167,8 +167,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B",
-      "downloads": 622320,
-      "likes": 450,
+      "downloads": 617817,
+      "likes": 453,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:40:09.000Z",
       "numParameters": 7996156490,
@@ -177,7 +177,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-      "downloads": 350417,
+      "downloads": 352028,
       "likes": 437,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-08-24T23:49:25.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "FlashLabs",
       "id": "FlashLabs/Chroma-4B",
-      "downloads": 69,
+      "downloads": 67,
       "likes": 390,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-01-28T03:21:07.000Z",
@@ -197,8 +197,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-3B",
-      "downloads": 284235,
-      "likes": 359,
+      "downloads": 273611,
+      "likes": 360,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T04:01:19.000Z",
       "numParameters": 5537120672,
@@ -207,8 +207,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "downloads": 780419,
-      "likes": 329,
+      "downloads": 764469,
+      "likes": 330,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:24:41.000Z",
       "numParameters": 11907350576,
@@ -217,7 +217,7 @@
     {
       "author": "google",
       "id": "google/gemma-4-31B-it-assistant",
-      "downloads": 265755,
+      "downloads": 266730,
       "likes": 328,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:42:27.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
-      "downloads": 192783,
+      "downloads": 190185,
       "likes": 324,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T14:17:44.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "sensenova",
       "id": "sensenova/SenseNova-U1-8B-MoT",
-      "downloads": 2037,
+      "downloads": 2000,
       "likes": 293,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-15T17:44:07.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "gpt-omni",
       "id": "gpt-omni/mini-omni2",
-      "downloads": 150,
+      "downloads": 140,
       "likes": 289,
       "pipeline_tag": "any-to-any",
       "lastModified": "2024-10-24T14:30:31.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "inclusionAI",
       "id": "inclusionAI/Ming-flash-omni-2.0",
-      "downloads": 4829,
+      "downloads": 4734,
       "likes": 278,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-09-29T03:43:27.000Z",
@@ -267,8 +267,8 @@
     {
       "author": "stepfun-ai",
       "id": "stepfun-ai/Step-Audio-2-mini",
-      "downloads": 1560,
-      "likes": 266,
+      "downloads": 1542,
+      "likes": 267,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-02-14T09:32:03.000Z",
       "numParameters": 8315179264,
@@ -277,7 +277,7 @@
     {
       "author": "sensenova",
       "id": "sensenova/SenseNova-U1.5-8B-MoT",
-      "downloads": 4770,
+      "downloads": 4692,
       "likes": 262,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-09-15T10:57:45.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-Omni-30B-A3B-Captioner",
-      "downloads": 7785,
+      "downloads": 7910,
       "likes": 251,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-09-22T13:46:56.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "inclusionAI",
       "id": "inclusionAI/LLaDA2.0-Uni",
-      "downloads": 383,
+      "downloads": 396,
       "likes": 251,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-05-27T02:19:43.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:00:48.738Z"
+  "fetchedAt": "2026-10-09T23:38:26.576Z"
 }

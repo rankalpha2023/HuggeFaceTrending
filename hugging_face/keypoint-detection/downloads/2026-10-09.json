@@ -1,13 +1,13 @@
 {
   "category": "keypoint-detection",
   "sort": "downloads",
-  "totalItems": 436,
+  "totalItems": 437,
   "fetchedItems": 30,
   "models": [
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-base",
-      "downloads": 857064,
+      "downloads": 819763,
       "likes": 36,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-08T12:42:35.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-base-simple",
-      "downloads": 129874,
+      "downloads": 129061,
       "likes": 34,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-08T12:25:32.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-large",
-      "downloads": 64910,
+      "downloads": 64342,
       "likes": 5,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-12T20:49:41.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-small",
-      "downloads": 52871,
+      "downloads": 52474,
       "likes": 8,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-12T20:50:10.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-plus-huge",
-      "downloads": 28069,
+      "downloads": 27717,
       "likes": 20,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-12T20:49:19.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "ETH-CVG",
       "id": "ETH-CVG/lightglue_superpoint",
-      "downloads": 25765,
+      "downloads": 25499,
       "likes": 74,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-07-17T09:34:38.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "magic-leap-community",
       "id": "magic-leap-community/superpoint",
-      "downloads": 20745,
+      "downloads": 20479,
       "likes": 28,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-01T19:30:19.000Z",
@@ -76,8 +76,18 @@
     },
     {
       "author": "facebook",
+      "id": "facebook/sapiens2-pose-1b",
+      "downloads": 7955,
+      "likes": 8,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2026-06-10T18:34:31.000Z",
+      "numParameters": 1519780164,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
       "id": "facebook/sapiens2-pose-5b",
-      "downloads": 7836,
+      "downloads": 7823,
       "likes": 12,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-06-15T14:49:20.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "akore",
       "id": "akore/rtmw-l-256x192",
-      "downloads": 7752,
+      "downloads": 7779,
       "likes": 1,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-03-23T16:47:19.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "stanfordmimi",
       "id": "stanfordmimi/synthpose-vitpose-huge-hf",
-      "downloads": 7719,
+      "downloads": 7701,
       "likes": 4,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-03-23T00:36:55.000Z",
@@ -106,18 +116,8 @@
     },
     {
       "author": "facebook",
-      "id": "facebook/sapiens2-pose-1b",
-      "downloads": 7040,
-      "likes": 8,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2026-06-10T18:34:31.000Z",
-      "numParameters": 1519780164,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
       "id": "facebook/sapiens2-pose-0.4b",
-      "downloads": 5079,
+      "downloads": 5092,
       "likes": 10,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-06-15T14:49:03.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "usyd-community",
       "id": "usyd-community/vitpose-base",
-      "downloads": 3144,
+      "downloads": 3105,
       "likes": 11,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-01-08T12:28:56.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "facebook",
       "id": "facebook/sapiens-pose-1b-torchscript",
-      "downloads": 2279,
+      "downloads": 2271,
       "likes": 15,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-10-07T19:30:42.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/MediaPipe-Pose-Estimation",
-      "downloads": 2234,
+      "downloads": 2207,
       "likes": 112,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-10-07T00:08:50.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "vrg-prague",
       "id": "vrg-prague/BBoxMaskPose",
-      "downloads": 1764,
+      "downloads": 1782,
       "likes": 6,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-19T13:16:13.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "stanfordmimi",
       "id": "stanfordmimi/synthpose-vitpose-base-hf",
-      "downloads": 1377,
+      "downloads": 1380,
       "likes": 10,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2025-03-23T00:38:18.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "software-mansion",
       "id": "software-mansion/react-native-executorch-yolo26-pose",
-      "downloads": 1058,
+      "downloads": 1020,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-09-17T12:00:04.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "facebook",
       "id": "facebook/sapiens2-pose-0.8b",
-      "downloads": 813,
+      "downloads": 811,
       "likes": 2,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-06-15T14:49:09.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "facebook",
       "id": "facebook/sapiens-pose-1b",
-      "downloads": 724,
+      "downloads": 725,
       "likes": 8,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-10-07T19:41:34.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/HRNetPose",
-      "downloads": 700,
+      "downloads": 704,
       "likes": 9,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-10-06T23:58:27.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "ETH-CVG",
       "id": "ETH-CVG/lightglue_disk",
-      "downloads": 656,
+      "downloads": 643,
       "likes": 18,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-04-22T14:56:06.000Z",
@@ -225,22 +225,22 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/sapiens-pose-0.3b-torchscript",
-      "downloads": 434,
-      "likes": 1,
+      "author": "image-matching-models",
+      "id": "image-matching-models/eloftr",
+      "downloads": 433,
+      "likes": 0,
       "pipeline_tag": "keypoint-detection",
-      "lastModified": "2024-10-07T19:14:49.000Z",
+      "lastModified": "2026-01-25T23:29:54.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "image-matching-models",
-      "id": "image-matching-models/eloftr",
-      "downloads": 431,
-      "likes": 0,
+      "author": "facebook",
+      "id": "facebook/sapiens-pose-0.3b-torchscript",
+      "downloads": 418,
+      "likes": 1,
       "pipeline_tag": "keypoint-detection",
-      "lastModified": "2026-01-25T23:29:54.000Z",
+      "lastModified": "2024-10-07T19:14:49.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -255,29 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/sapiens-pose-bbox-detector",
-      "downloads": 343,
-      "likes": 5,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2024-10-06T21:20:43.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens-pose-0.6b-torchscript",
-      "downloads": 336,
-      "likes": 0,
-      "pipeline_tag": "keypoint-detection",
-      "lastModified": "2024-10-07T19:19:09.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "litert-community",
       "id": "litert-community/RTMPose-Animal-AP10K-LiteRT",
-      "downloads": 329,
+      "downloads": 333,
       "likes": 1,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-09-08T08:54:20.000Z",
@@ -286,8 +266,28 @@
     },
     {
       "author": "facebook",
+      "id": "facebook/sapiens-pose-0.6b-torchscript",
+      "downloads": 331,
+      "likes": 0,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2024-10-07T19:19:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens-pose-bbox-detector",
+      "downloads": 326,
+      "likes": 5,
+      "pipeline_tag": "keypoint-detection",
+      "lastModified": "2024-10-06T21:20:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
       "id": "facebook/sapiens-pose-0.6b",
-      "downloads": 317,
+      "downloads": 298,
       "likes": 2,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2024-10-07T19:44:54.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "vismatch",
       "id": "vismatch/xfeat",
-      "downloads": 283,
+      "downloads": 288,
       "likes": 0,
       "pipeline_tag": "keypoint-detection",
       "lastModified": "2026-02-10T16:30:25.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:28.142Z"
+  "fetchedAt": "2026-10-09T23:39:04.387Z"
 }

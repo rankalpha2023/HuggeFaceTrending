@@ -1,14 +1,14 @@
 {
   "category": "text-to-image",
   "sort": "downloads",
-  "totalItems": 111176,
+  "totalItems": 111389,
   "fetchedItems": 30,
   "models": [
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-diffusion-xl-base-1.0",
-      "downloads": 4367759,
-      "likes": 8285,
+      "downloads": 4300354,
+      "likes": 8287,
       "pipeline_tag": "text-to-image",
       "lastModified": "2023-10-30T16:03:47.000Z",
       "numParameters": 2567463684,
@@ -17,8 +17,8 @@
     {
       "author": "abenzerps",
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "downloads": 1933066,
-      "likes": 3675,
+      "downloads": 2013268,
+      "likes": 3766,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-09-28T05:56:36.000Z",
       "numParameters": 7115124736,
@@ -27,17 +27,27 @@
     {
       "author": "stable-diffusion-v1-5",
       "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
-      "downloads": 1630753,
-      "likes": 1306,
+      "downloads": 1630014,
+      "likes": 1308,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-09-07T16:20:30.000Z",
       "numParameters": 859520964,
       "repoType": "model"
     },
     {
+      "author": "unsloth",
+      "id": "unsloth/Z-Image-Turbo-GGUF",
+      "downloads": 922986,
+      "likes": 275,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-08T02:11:45.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
       "author": "stabilityai",
       "id": "stabilityai/sdxl-turbo",
-      "downloads": 926578,
+      "downloads": 921507,
       "likes": 2638,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-07-10T11:33:43.000Z",
@@ -45,19 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "unsloth",
-      "id": "unsloth/Z-Image-Turbo-GGUF",
-      "downloads": 900218,
-      "likes": 274,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-01-08T02:11:45.000Z",
-      "numParameters": 6154908736,
-      "repoType": "model"
-    },
-    {
       "author": "Lykon",
       "id": "Lykon/dreamshaper-7",
-      "downloads": 882847,
+      "downloads": 873428,
       "likes": 66,
       "pipeline_tag": "text-to-image",
       "lastModified": "2023-12-07T10:13:17.000Z",
@@ -67,8 +67,8 @@
     {
       "author": "unsloth",
       "id": "unsloth/Qwen-Image-2.1-GGUF",
-      "downloads": 805462,
-      "likes": 367,
+      "downloads": 849988,
+      "likes": 375,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-09-22T22:34:12.000Z",
       "numParameters": 7115124736,
@@ -77,8 +77,8 @@
     {
       "author": "black-forest-labs",
       "id": "black-forest-labs/FLUX.1-dev",
-      "downloads": 699696,
-      "likes": 15443,
+      "downloads": 692175,
+      "likes": 15464,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-06-27T16:22:19.000Z",
       "numParameters": 11901408320,
@@ -87,8 +87,8 @@
     {
       "author": "black-forest-labs",
       "id": "black-forest-labs/FLUX.1-schnell",
-      "downloads": 657202,
-      "likes": 6171,
+      "downloads": 650951,
+      "likes": 6182,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-08-16T14:37:56.000Z",
       "numParameters": 11891178560,
@@ -97,8 +97,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/sd-turbo",
-      "downloads": 635179,
-      "likes": 465,
+      "downloads": 644754,
+      "likes": 468,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-07-10T11:38:51.000Z",
       "numParameters": 865910724,
@@ -107,8 +107,8 @@
     {
       "author": "Tongyi-MAI",
       "id": "Tongyi-MAI/Z-Image-Turbo",
-      "downloads": 620806,
-      "likes": 5422,
+      "downloads": 623351,
+      "likes": 5429,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-01-30T16:58:07.000Z",
       "numParameters": 6154908736,
@@ -117,7 +117,7 @@
     {
       "author": "CompVis",
       "id": "CompVis/stable-diffusion-v1-4",
-      "downloads": 590101,
+      "downloads": 583859,
       "likes": 7107,
       "pipeline_tag": "text-to-image",
       "lastModified": "2023-08-23T21:15:42.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "SG161222",
       "id": "SG161222/RealVisXL_V5.0",
-      "downloads": 544921,
+      "downloads": 550884,
       "likes": 249,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-10-08T16:34:25.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "SG161222",
       "id": "SG161222/Realistic_Vision_V5.1_noVAE",
-      "downloads": 525322,
+      "downloads": 532021,
       "likes": 269,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-10-30T16:55:47.000Z",
@@ -147,8 +147,8 @@
     {
       "author": "cagliostrolab",
       "id": "cagliostrolab/animagine-xl-4.0",
-      "downloads": 388890,
-      "likes": 543,
+      "downloads": 383899,
+      "likes": 544,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-02-13T16:16:46.000Z",
       "numParameters": 2567463684,
@@ -157,8 +157,8 @@
     {
       "author": "Viggle",
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "downloads": 344932,
-      "likes": 681,
+      "downloads": 358096,
+      "likes": 692,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-10-01T02:44:17.000Z",
       "numParameters": 7115124736,
@@ -167,7 +167,7 @@
     {
       "author": "unsloth",
       "id": "unsloth/Qwen-Image-2512-GGUF",
-      "downloads": 326921,
+      "downloads": 322546,
       "likes": 427,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-01-06T22:28:00.000Z",
@@ -175,19 +175,29 @@
       "repoType": "model"
     },
     {
-      "author": "Tencent-Hunyuan",
-      "id": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
-      "downloads": 314126,
-      "likes": 19,
+      "author": "PrunaAI",
+      "id": "PrunaAI/Pruna-Qwen-Image-2.1",
+      "downloads": 313226,
+      "likes": 150,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2024-06-14T09:16:20.000Z",
-      "numParameters": 1516534048,
+      "lastModified": "2026-09-24T15:59:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nphSi",
+      "id": "nphSi/Z-Image-Lora",
+      "downloads": 306242,
+      "likes": 161,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-10-09T20:47:05.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "lightx2v",
       "id": "lightx2v/Qwen-Image-Lightning",
-      "downloads": 311524,
+      "downloads": 304404,
       "likes": 835,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-11-03T11:20:08.000Z",
@@ -195,9 +205,19 @@
       "repoType": "model"
     },
     {
+      "author": "Tencent-Hunyuan",
+      "id": "Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers-Distilled",
+      "downloads": 302412,
+      "likes": 19,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-06-14T09:16:20.000Z",
+      "numParameters": 1516534048,
+      "repoType": "model"
+    },
+    {
       "author": "RunDiffusion",
       "id": "RunDiffusion/Juggernaut-XL-v9",
-      "downloads": 311313,
+      "downloads": 284237,
       "likes": 477,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-05-08T17:14:44.000Z",
@@ -205,39 +225,9 @@
       "repoType": "model"
     },
     {
-      "author": "nphSi",
-      "id": "nphSi/Z-Image-Lora",
-      "downloads": 308400,
-      "likes": 161,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-10-07T20:04:57.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "PrunaAI",
-      "id": "PrunaAI/Pruna-Qwen-Image-2.1",
-      "downloads": 286411,
-      "likes": 148,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2026-09-24T15:59:35.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "playgroundai",
-      "id": "playgroundai/playground-v2.5-1024px-aesthetic",
-      "downloads": 276518,
-      "likes": 772,
-      "pipeline_tag": "text-to-image",
-      "lastModified": "2024-03-15T00:00:20.000Z",
-      "numParameters": 2567463684,
-      "repoType": "model"
-    },
-    {
       "author": "Qwen",
       "id": "Qwen/Qwen-Image",
-      "downloads": 263997,
+      "downloads": 266180,
       "likes": 2668,
       "pipeline_tag": "text-to-image",
       "lastModified": "2025-08-18T02:42:19.000Z",
@@ -245,9 +235,19 @@
       "repoType": "model"
     },
     {
+      "author": "playgroundai",
+      "id": "playgroundai/playground-v2.5-1024px-aesthetic",
+      "downloads": 260243,
+      "likes": 772,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-03-15T00:00:20.000Z",
+      "numParameters": 2567463684,
+      "repoType": "model"
+    },
+    {
       "author": "LyliaEngine",
       "id": "LyliaEngine/Pony_Diffusion_V6_XL",
-      "downloads": 229559,
+      "downloads": 226882,
       "likes": 194,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-05-25T09:45:40.000Z",
@@ -255,19 +255,19 @@
       "repoType": "model"
     },
     {
-      "author": "lightx2v",
-      "id": "lightx2v/Qwen-Image-2512-Lightning",
-      "downloads": 204484,
-      "likes": 232,
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+      "downloads": 196493,
+      "likes": 120,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2026-01-15T10:37:26.000Z",
+      "lastModified": "2024-09-06T18:58:07.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "Lykon",
       "id": "Lykon/DreamShaper",
-      "downloads": 200224,
+      "downloads": 194571,
       "likes": 1022,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-04-14T10:07:25.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "h94",
       "id": "h94/IP-Adapter-FaceID",
-      "downloads": 192947,
+      "downloads": 193295,
       "likes": 1890,
       "pipeline_tag": "text-to-image",
       "lastModified": "2024-04-16T08:53:12.000Z",
@@ -285,25 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "stable-diffusion-v1-5",
-      "id": "stable-diffusion-v1-5/stable-diffusion-inpainting",
-      "downloads": 191469,
-      "likes": 120,
+      "author": "lightx2v",
+      "id": "lightx2v/Qwen-Image-2512-Lightning",
+      "downloads": 192849,
+      "likes": 232,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2024-09-06T18:58:07.000Z",
+      "lastModified": "2026-01-15T10:37:26.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "city96",
-      "id": "city96/FLUX.1-dev-gguf",
-      "downloads": 190117,
-      "likes": 1460,
+      "author": "Laxhar",
+      "id": "Laxhar/noobai-XL-1.1",
+      "downloads": 186607,
+      "likes": 182,
       "pipeline_tag": "text-to-image",
-      "lastModified": "2024-08-18T08:14:09.000Z",
-      "numParameters": 11901408320,
+      "lastModified": "2025-09-08T13:03:01.000Z",
+      "numParameters": 2567463684,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:58.734Z"
+  "fetchedAt": "2026-10-09T23:39:34.015Z"
 }

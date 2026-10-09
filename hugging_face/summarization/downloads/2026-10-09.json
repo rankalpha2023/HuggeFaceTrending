@@ -1,14 +1,14 @@
 {
   "category": "summarization",
   "sort": "downloads",
-  "totalItems": 2971,
+  "totalItems": 2972,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/bart-large-cnn",
-      "downloads": 1417902,
-      "likes": 1633,
+      "downloads": 1385524,
+      "likes": 1634,
       "pipeline_tag": "summarization",
       "lastModified": "2024-02-13T18:02:05.000Z",
       "numParameters": 406290432,
@@ -17,7 +17,7 @@
     {
       "author": "sshleifer",
       "id": "sshleifer/distilbart-cnn-12-6",
-      "downloads": 362819,
+      "downloads": 361567,
       "likes": 326,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-14T07:51:12.000Z",
@@ -25,19 +25,9 @@
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/pegasus-xsum",
-      "downloads": 116750,
-      "likes": 225,
-      "pipeline_tag": "summarization",
-      "lastModified": "2023-01-24T16:42:49.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "pszemraj",
       "id": "pszemraj/long-t5-tglobal-base-sci-simplify",
-      "downloads": 104052,
+      "downloads": 109445,
       "likes": 10,
       "pipeline_tag": "summarization",
       "lastModified": "2025-12-29T03:43:02.000Z",
@@ -45,9 +35,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/pegasus-xsum",
+      "downloads": 109397,
+      "likes": 225,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "philschmid",
       "id": "philschmid/bart-large-cnn-samsum",
-      "downloads": 83822,
+      "downloads": 83758,
       "likes": 268,
       "pipeline_tag": "summarization",
       "lastModified": "2022-12-23T19:48:57.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "knkarthick",
       "id": "knkarthick/MEETING_SUMMARY",
-      "downloads": 44294,
+      "downloads": 43163,
       "likes": 199,
       "pipeline_tag": "summarization",
       "lastModified": "2023-03-27T15:08:14.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "sshleifer",
       "id": "sshleifer/distilbart-xsum-12-6",
-      "downloads": 35020,
+      "downloads": 34718,
       "likes": 7,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-14T07:58:25.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "d0rj",
       "id": "d0rj/rut5-base-summ",
-      "downloads": 24654,
+      "downloads": 24399,
       "likes": 27,
       "pipeline_tag": "summarization",
       "lastModified": "2023-10-05T06:21:49.000Z",
@@ -85,9 +85,19 @@
       "repoType": "model"
     },
     {
+      "author": "Falconsai",
+      "id": "Falconsai/text_summarization",
+      "downloads": 15071,
+      "likes": 324,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-02-17T07:55:14.000Z",
+      "numParameters": 60506624,
+      "repoType": "model"
+    },
+    {
       "author": "cnicu",
       "id": "cnicu/t5-small-booksum",
-      "downloads": 15232,
+      "downloads": 14802,
       "likes": 10,
       "pipeline_tag": "summarization",
       "lastModified": "2022-02-26T21:32:52.000Z",
@@ -95,19 +105,9 @@
       "repoType": "model"
     },
     {
-      "author": "Falconsai",
-      "id": "Falconsai/text_summarization",
-      "downloads": 14301,
-      "likes": 323,
-      "pipeline_tag": "summarization",
-      "lastModified": "2024-02-17T07:55:14.000Z",
-      "numParameters": 60506624,
-      "repoType": "model"
-    },
-    {
       "author": "csebuetnlp",
       "id": "csebuetnlp/mT5_multilingual_XLSum",
-      "downloads": 12501,
+      "downloads": 12028,
       "likes": 332,
       "pipeline_tag": "summarization",
       "lastModified": "2022-08-13T13:15:36.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "sshleifer",
       "id": "sshleifer/distilbart-cnn-6-6",
-      "downloads": 11484,
+      "downloads": 11130,
       "likes": 34,
       "pipeline_tag": "summarization",
       "lastModified": "2021-06-14T07:53:04.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "cahya",
       "id": "cahya/t5-base-indonesian-summarization-cased",
-      "downloads": 11142,
+      "downloads": 11024,
       "likes": 6,
       "pipeline_tag": "summarization",
       "lastModified": "2022-11-19T20:41:24.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/distilbart-cnn-6-6",
-      "downloads": 9205,
+      "downloads": 9093,
       "likes": 10,
       "pipeline_tag": "summarization",
       "lastModified": "2025-07-22T00:11:07.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "google",
       "id": "google/bigbird-pegasus-large-arxiv",
-      "downloads": 8856,
+      "downloads": 8530,
       "likes": 65,
       "pipeline_tag": "summarization",
       "lastModified": "2023-01-24T16:36:41.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rut5_base_headline_gen_telegram",
-      "downloads": 8424,
+      "downloads": 8495,
       "likes": 9,
       "pipeline_tag": "summarization",
       "lastModified": "2021-12-18T19:27:52.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "google",
       "id": "google/pegasus-large",
-      "downloads": 8399,
+      "downloads": 8342,
       "likes": 109,
       "pipeline_tag": "summarization",
       "lastModified": "2023-01-24T16:42:31.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "IlyaGusev",
       "id": "IlyaGusev/rut5_base_sum_gazeta",
-      "downloads": 5839,
+      "downloads": 5749,
       "likes": 19,
       "pipeline_tag": "summarization",
       "lastModified": "2022-07-13T15:36:04.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "mrm8488",
       "id": "mrm8488/bert-mini2bert-mini-finetuned-cnn_daily_mail-summarization",
-      "downloads": 5668,
+      "downloads": 5296,
       "likes": 5,
       "pipeline_tag": "summarization",
       "lastModified": "2023-05-05T23:11:51.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "facebook",
       "id": "facebook/bart-large-xsum",
-      "downloads": 4905,
+      "downloads": 4844,
       "likes": 37,
       "pipeline_tag": "summarization",
       "lastModified": "2023-01-24T16:28:59.000Z",
@@ -205,19 +205,9 @@
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/pegasus-cnn_dailymail",
-      "downloads": 4706,
-      "likes": 113,
-      "pipeline_tag": "summarization",
-      "lastModified": "2023-01-24T16:42:26.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "yatharth97",
       "id": "yatharth97/T5-base-10K-summarization",
-      "downloads": 4624,
+      "downloads": 4704,
       "likes": 3,
       "pipeline_tag": "summarization",
       "lastModified": "2024-06-10T15:44:07.000Z",
@@ -225,9 +215,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/pegasus-cnn_dailymail",
+      "downloads": 4652,
+      "likes": 113,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "thanathorn",
       "id": "thanathorn/mt5-cpe-kmutt-thai-sentence-sum",
-      "downloads": 3687,
+      "downloads": 3759,
       "likes": 8,
       "pipeline_tag": "summarization",
       "lastModified": "2022-05-13T18:20:03.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "human-centered-summarization",
       "id": "human-centered-summarization/financial-summarization-pegasus",
-      "downloads": 3155,
+      "downloads": 3095,
       "likes": 155,
       "pipeline_tag": "summarization",
       "lastModified": "2024-04-26T18:26:40.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "google",
       "id": "google/bigbird-pegasus-large-pubmed",
-      "downloads": 2925,
+      "downloads": 2921,
       "likes": 47,
       "pipeline_tag": "summarization",
       "lastModified": "2023-01-24T16:36:47.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "mrm8488",
       "id": "mrm8488/bert-small2bert-small-finetuned-cnn_daily_mail-summarization",
-      "downloads": 2687,
+      "downloads": 2400,
       "likes": 10,
       "pipeline_tag": "summarization",
       "lastModified": "2020-12-11T21:53:12.000Z",
@@ -265,19 +265,9 @@
       "repoType": "model"
     },
     {
-      "author": "pszemraj",
-      "id": "pszemraj/led-large-book-summary",
-      "downloads": 2432,
-      "likes": 121,
-      "pipeline_tag": "summarization",
-      "lastModified": "2025-12-29T03:38:09.000Z",
-      "numParameters": 459851865,
-      "repoType": "model"
-    },
-    {
       "author": "RussianNLP",
       "id": "RussianNLP/FRED-T5-Summarizer",
-      "downloads": 2269,
+      "downloads": 2379,
       "likes": 28,
       "pipeline_tag": "summarization",
       "lastModified": "2024-04-22T11:57:33.000Z",
@@ -285,25 +275,35 @@
       "repoType": "model"
     },
     {
-      "author": "gsarti",
-      "id": "gsarti/it5-base-news-summarization",
-      "downloads": 1944,
-      "likes": 6,
+      "author": "pszemraj",
+      "id": "pszemraj/led-large-book-summary",
+      "downloads": 2315,
+      "likes": 121,
       "pipeline_tag": "summarization",
-      "lastModified": "2022-10-18T13:43:57.000Z",
-      "numParameters": null,
+      "lastModified": "2025-12-29T03:38:09.000Z",
+      "numParameters": 459851865,
       "repoType": "model"
     },
     {
       "author": "Falconsai",
       "id": "Falconsai/medical_summarization",
-      "downloads": 1895,
-      "likes": 167,
+      "downloads": 1940,
+      "likes": 168,
       "pipeline_tag": "summarization",
       "lastModified": "2024-01-20T12:48:04.000Z",
       "numParameters": 60506624,
       "repoType": "model"
+    },
+    {
+      "author": "gsarti",
+      "id": "gsarti/it5-base-news-summarization",
+      "downloads": 1937,
+      "likes": 6,
+      "pipeline_tag": "summarization",
+      "lastModified": "2022-10-18T13:43:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:43.312Z"
+  "fetchedAt": "2026-10-09T23:39:19.453Z"
 }

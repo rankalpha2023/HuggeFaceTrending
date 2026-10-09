@@ -1,23 +1,33 @@
 {
   "category": "question-answering",
   "sort": "trending",
-  "totalItems": 14175,
+  "totalItems": 14178,
   "fetchedItems": 30,
   "models": [
     {
       "author": "yang-ai-lab",
       "id": "yang-ai-lab/OpenSLA",
       "downloads": 0,
-      "likes": 5,
+      "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-10-08T03:21:48.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "atharvamundada99",
+      "id": "atharvamundada99/bert-large-question-answering-finetuned-legal",
+      "downloads": 143,
+      "likes": 24,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-05-24T15:10:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "NchuNLP",
       "id": "NchuNLP/Legal-Document-Question-Answering",
-      "downloads": 33,
+      "downloads": 37,
       "likes": 10,
       "pipeline_tag": "question-answering",
       "lastModified": "2022-10-26T09:45:48.000Z",
@@ -35,29 +45,9 @@
       "repoType": "model"
     },
     {
-      "author": "Falconsai",
-      "id": "Falconsai/question_answering_v2",
-      "downloads": 334,
-      "likes": 14,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2025-02-28T02:18:52.000Z",
-      "numParameters": 66364418,
-      "repoType": "model"
-    },
-    {
-      "author": "OVHaiLLM",
-      "id": "OVHaiLLM/Qwen-Open-Finance-R-8B",
-      "downloads": 192,
-      "likes": 12,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2025-11-03T16:56:54.000Z",
-      "numParameters": 8190735360,
-      "repoType": "model"
-    },
-    {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-uncased-distilled-squad",
-      "downloads": 33048,
+      "downloads": 33213,
       "likes": 123,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:39.000Z",
@@ -65,19 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "atharvamundada99",
-      "id": "atharvamundada99/bert-large-question-answering-finetuned-legal",
-      "downloads": 137,
-      "likes": 23,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2021-05-24T15:10:08.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "VietAI",
       "id": "VietAI/vit5-base",
-      "downloads": 5632,
+      "downloads": 5529,
       "likes": 21,
       "pipeline_tag": "question-answering",
       "lastModified": "2022-09-27T18:09:26.000Z",
@@ -87,7 +67,7 @@
     {
       "author": "autoevaluate",
       "id": "autoevaluate/extractive-question-answering",
-      "downloads": 44,
+      "downloads": 48,
       "likes": 3,
       "pipeline_tag": "question-answering",
       "lastModified": "2022-07-20T13:18:04.000Z",
@@ -97,7 +77,7 @@
     {
       "author": "consciousAI",
       "id": "consciousAI/question-answering-roberta-base-s-v2",
-      "downloads": 246,
+      "downloads": 239,
       "likes": 17,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-03-20T14:19:07.000Z",
@@ -107,7 +87,7 @@
     {
       "author": "Falconsai",
       "id": "Falconsai/question_answering",
-      "downloads": 51,
+      "downloads": 52,
       "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2023-11-18T06:39:17.000Z",
@@ -117,7 +97,7 @@
     {
       "author": "l3cube-pune",
       "id": "l3cube-pune/telugu-question-answering-squad-bert",
-      "downloads": 20,
+      "downloads": 22,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2025-05-24T06:38:20.000Z",
@@ -125,9 +105,19 @@
       "repoType": "model"
     },
     {
+      "author": "OVHaiLLM",
+      "id": "OVHaiLLM/Qwen-Open-Finance-R-8B",
+      "downloads": 189,
+      "likes": 12,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2025-11-03T16:56:54.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
       "author": "vividdream",
       "id": "vividdream/Qwen-Open-Finance-R-8B-IQ4_NL-GGUF",
-      "downloads": 120,
+      "downloads": 126,
       "likes": 4,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-04-04T11:16:04.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/Bible-Assistant-Qwen3.5-4B-v3.2-GGUF",
-      "downloads": 1244,
+      "downloads": 1181,
       "likes": 3,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-09-05T15:43:12.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "fibonacciai",
       "id": "fibonacciai/laya-gguf-persian-multilingual-decision",
-      "downloads": 408,
+      "downloads": 410,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-09-23T11:38:49.000Z",
@@ -157,7 +147,7 @@
     {
       "author": "nlpctx",
       "id": "nlpctx/activeqa-indicqa-telugu",
-      "downloads": 18,
+      "downloads": 20,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-10-03T13:39:54.000Z",
@@ -167,7 +157,7 @@
     {
       "author": "jasonjimnz",
       "id": "jasonjimnz/tyness-boe-1.2b-pre-alpha",
-      "downloads": 0,
+      "downloads": 29,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-10-08T06:29:07.000Z",
@@ -177,7 +167,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
-      "downloads": 49735,
+      "downloads": 48538,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:06:38.000Z",
@@ -187,7 +177,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
-      "downloads": 37355,
+      "downloads": 36845,
       "likes": 191,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:08:45.000Z",
@@ -197,7 +187,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-cased-distilled-squad",
-      "downloads": 197053,
+      "downloads": 191506,
       "likes": 277,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:31.000Z",
@@ -217,7 +207,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-cq",
-      "downloads": 20,
+      "downloads": 19,
       "likes": 0,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:31:36.000Z",
@@ -227,7 +217,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-drop",
-      "downloads": 18,
+      "downloads": 19,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-10T14:16:17.000Z",
@@ -237,7 +227,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-duorc_p",
-      "downloads": 16,
+      "downloads": 15,
       "likes": 0,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:31:52.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-newsqa",
-      "downloads": 17,
+      "downloads": 15,
       "likes": 1,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:33:25.000Z",
@@ -287,7 +277,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-squad",
-      "downloads": 10,
+      "downloads": 9,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:35:16.000Z",
@@ -303,7 +293,17 @@
       "lastModified": "2021-11-15T10:35:24.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-wikihop",
+      "downloads": 15,
+      "likes": 0,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:36:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-09T00:01:34.005Z"
+  "fetchedAt": "2026-10-09T23:39:10.028Z"
 }
