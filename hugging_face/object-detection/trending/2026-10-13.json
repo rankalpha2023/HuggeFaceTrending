@@ -1,44 +1,24 @@
 {
   "category": "object-detection",
   "sort": "trending",
-  "totalItems": 7068,
+  "totalItems": 7071,
   "fetchedItems": 30,
   "models": [
     {
-      "author": "mudler",
-      "id": "mudler/locate-anything.cpp-gguf",
-      "downloads": 12333890,
-      "likes": 43,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-06-11T22:46:02.000Z",
-      "numParameters": 3830665968,
-      "repoType": "model"
-    },
-    {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLO26",
-      "downloads": 19565,
-      "likes": 221,
+      "downloads": 19935,
+      "likes": 222,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-09-06T10:42:49.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/detr-resnet-50",
-      "downloads": 171756,
-      "likes": 986,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-04-10T13:56:31.000Z",
-      "numParameters": 41631008,
-      "repoType": "model"
-    },
-    {
       "author": "microsoft",
       "id": "microsoft/table-transformer-detection",
-      "downloads": 426587,
-      "likes": 435,
+      "downloads": 424138,
+      "likes": 438,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:49:09.000Z",
       "numParameters": 28818631,
@@ -47,57 +27,127 @@
     {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition",
-      "downloads": 1204241,
-      "likes": 237,
+      "downloads": 1219754,
+      "likes": 240,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-09-06T14:50:49.000Z",
       "numParameters": 28847819,
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/table-transformer-structure-recognition-v1.1-pub",
-      "downloads": 619,
-      "likes": 9,
+      "author": "PekingU",
+      "id": "PekingU/rtdetr_r101vd_coco_o365",
+      "downloads": 1139671,
+      "likes": 26,
       "pipeline_tag": "object-detection",
-      "lastModified": "2023-11-27T10:40:53.000Z",
-      "numParameters": 28847819,
+      "lastModified": "2024-07-01T14:17:49.000Z",
+      "numParameters": 76798700,
+      "repoType": "model"
+    },
+    {
+      "author": "mudler",
+      "id": "mudler/locate-anything.cpp-gguf",
+      "downloads": 12335986,
+      "likes": 51,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-06-11T22:46:02.000Z",
+      "numParameters": 3830665968,
       "repoType": "model"
     },
     {
       "author": "facebook",
-      "id": "facebook/detr-resnet-101-dc5",
-      "downloads": 4696,
-      "likes": 23,
+      "id": "facebook/detr-resnet-50",
+      "downloads": 174705,
+      "likes": 987,
       "pipeline_tag": "object-detection",
-      "lastModified": "2023-09-06T19:19:43.000Z",
-      "numParameters": 60675360,
+      "lastModified": "2024-04-10T13:56:31.000Z",
+      "numParameters": 41631008,
       "repoType": "model"
     },
     {
       "author": "microsoft",
       "id": "microsoft/conditional-detr-resnet-50",
-      "downloads": 16849,
-      "likes": 17,
+      "downloads": 16373,
+      "likes": 20,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-05-08T07:48:26.000Z",
       "numParameters": 43524641,
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-101-dc5",
+      "downloads": 4667,
+      "likes": 25,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2023-09-06T19:19:43.000Z",
+      "numParameters": 60675360,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-101",
+      "downloads": 15199,
+      "likes": 135,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2023-12-14T17:21:17.000Z",
+      "numParameters": 60675360,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/table-transformer-structure-recognition-v1.1-pub",
+      "downloads": 626,
+      "likes": 11,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2023-11-27T10:40:53.000Z",
+      "numParameters": 28847819,
+      "repoType": "model"
+    },
+    {
       "author": "microsoft",
       "id": "microsoft/table-transformer-structure-recognition-v1.1-all",
-      "downloads": 223880,
-      "likes": 90,
+      "downloads": 223777,
+      "likes": 92,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-11-18T21:58:10.000Z",
       "numParameters": 28847819,
       "repoType": "model"
     },
     {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-dc5",
+      "downloads": 2021,
+      "likes": 10,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2023-09-07T15:35:22.000Z",
+      "numParameters": 41631008,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/table-transformer-structure-recognition-v1.1-fin",
+      "downloads": 1551,
+      "likes": 5,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2023-11-27T10:40:21.000Z",
+      "numParameters": 28847819,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayoutV3_safetensors",
+      "downloads": 959623,
+      "likes": 52,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-09-30T05:01:30.000Z",
+      "numParameters": 33288957,
+      "repoType": "model"
+    },
+    {
       "author": "Ultralytics",
       "id": "Ultralytics/YOLOv8",
-      "downloads": 17421,
+      "downloads": 17461,
       "likes": 392,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-06-26T10:23:01.000Z",
@@ -105,39 +155,39 @@
       "repoType": "model"
     },
     {
-      "author": "PekingU",
-      "id": "PekingU/rtdetr_r101vd_coco_o365",
-      "downloads": 1130693,
-      "likes": 21,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-07-01T14:17:49.000Z",
-      "numParameters": 76798700,
-      "repoType": "model"
-    },
-    {
       "author": "deepghs",
       "id": "deepghs/AnimeText_yolo",
       "downloads": 0,
-      "likes": 30,
+      "likes": 32,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-10-10T01:31:02.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "PaddlePaddle",
-      "id": "PaddlePaddle/PP-DocLayoutV3_safetensors",
-      "downloads": 957886,
-      "likes": 51,
+      "author": "nvidia",
+      "id": "nvidia/nemotron-table-structure-v1",
+      "downloads": 622,
+      "likes": 39,
       "pipeline_tag": "object-detection",
-      "lastModified": "2026-09-30T05:01:30.000Z",
-      "numParameters": 33288957,
+      "lastModified": "2026-03-11T15:52:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dronefreak",
+      "id": "dronefreak/visdrone-yolo26n",
+      "downloads": 343,
+      "likes": 13,
+      "pipeline_tag": "object-detection",
+      "lastModified": "2026-10-05T21:15:50.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "nsr51324",
       "id": "nsr51324/Road_Damage_Object_Detection",
-      "downloads": 202,
+      "downloads": 205,
       "likes": 3,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-07-11T18:04:18.000Z",
@@ -145,29 +195,19 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/detr-resnet-101",
-      "downloads": 15130,
-      "likes": 132,
+      "author": "theokiGuyOKI",
+      "id": "theokiGuyOKI/OKIYOLO26X-DEFENSIVE",
+      "downloads": 0,
+      "likes": 2,
       "pipeline_tag": "object-detection",
-      "lastModified": "2023-12-14T17:21:17.000Z",
-      "numParameters": 60675360,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/detr-resnet-50-dc5",
-      "downloads": 1981,
-      "likes": 8,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2023-09-07T15:35:22.000Z",
-      "numParameters": 41631008,
+      "lastModified": "2026-10-13T10:34:09.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "foduucom",
       "id": "foduucom/table-detection-and-extraction",
-      "downloads": 455,
+      "downloads": 460,
       "likes": 107,
       "pipeline_tag": "object-detection",
       "lastModified": "2023-08-06T09:33:39.000Z",
@@ -175,29 +215,9 @@
       "repoType": "model"
     },
     {
-      "author": "intelli-zen",
-      "id": "intelli-zen/detr_cppe5_object_detection",
-      "downloads": 26,
-      "likes": 1,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2023-10-03T04:02:12.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "microsoft",
-      "id": "microsoft/table-transformer-structure-recognition-v1.1-fin",
-      "downloads": 1586,
-      "likes": 3,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2023-11-27T10:40:21.000Z",
-      "numParameters": 28847819,
-      "repoType": "model"
-    },
-    {
       "author": "qualcomm",
       "id": "qualcomm/MediaPipe-Hand-Detection",
-      "downloads": 1679,
+      "downloads": 1676,
       "likes": 40,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-10-07T00:18:39.000Z",
@@ -217,7 +237,7 @@
     {
       "author": "droneambulanceproject",
       "id": "droneambulanceproject/drone_ambulance_project_object_detection",
-      "downloads": 21,
+      "downloads": 23,
       "likes": 3,
       "pipeline_tag": "object-detection",
       "lastModified": "2024-06-21T10:22:18.000Z",
@@ -235,29 +255,9 @@
       "repoType": "model"
     },
     {
-      "author": "jparedesDS",
-      "id": "jparedesDS/valorant-yolo11m",
-      "downloads": 0,
-      "likes": 46,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2026-02-23T15:52:26.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Javvanny",
-      "id": "Javvanny/yolov8m_flying_objects_detection",
-      "downloads": 0,
-      "likes": 6,
-      "pipeline_tag": "object-detection",
-      "lastModified": "2024-11-05T19:45:37.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "tech4humans",
       "id": "tech4humans/yolov8s-signature-detector",
-      "downloads": 2772,
+      "downloads": 2785,
       "likes": 81,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-04-05T00:37:03.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "Enos-123",
       "id": "Enos-123/traffic-accident-detection-yolo11x",
-      "downloads": 213,
+      "downloads": 214,
       "likes": 15,
       "pipeline_tag": "object-detection",
       "lastModified": "2025-06-25T09:43:19.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "macpaw-research",
       "id": "macpaw-research/yolov11l-ui-elements-detection",
-      "downloads": 229,
+      "downloads": 223,
       "likes": 11,
       "pipeline_tag": "object-detection",
       "lastModified": "2026-08-17T21:33:30.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:42:38.720Z"
+  "fetchedAt": "2026-10-13T23:28:45.734Z"
 }

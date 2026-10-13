@@ -1,14 +1,14 @@
 {
   "category": "voice-activity-detection",
   "sort": "trending",
-  "totalItems": 326,
+  "totalItems": 329,
   "fetchedItems": 30,
   "models": [
     {
       "author": "nvidia",
       "id": "nvidia/Nemotron-3-Diarization",
-      "downloads": 77153,
-      "likes": 763,
+      "downloads": 80680,
+      "likes": 766,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-24T05:52:51.000Z",
       "numParameters": 99226504,
@@ -17,10 +17,20 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation-3.0",
-      "downloads": 5203425,
-      "likes": 2185,
+      "downloads": 5305163,
+      "likes": 2195,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:35:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0",
+      "downloads": 3772,
+      "likes": 49,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-05-14T14:35:11.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -37,7 +47,7 @@
     {
       "author": "pyannote",
       "id": "pyannote/segmentation",
-      "downloads": 612538,
+      "downloads": 619413,
       "likes": 703,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-05-10T19:38:44.000Z",
@@ -47,7 +57,7 @@
     {
       "author": "kamilakesbi",
       "id": "kamilakesbi/segmentation_model_pyannote",
-      "downloads": 8,
+      "downloads": 7,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2024-04-29T12:56:25.000Z",
@@ -57,7 +67,7 @@
     {
       "author": "BUT-FIT",
       "id": "BUT-FIT/diarizen-wavlm-large-s80-md",
-      "downloads": 1477,
+      "downloads": 1462,
       "likes": 55,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-08-31T13:10:14.000Z",
@@ -65,19 +75,9 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0",
-      "downloads": 3597,
-      "likes": 48,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2025-05-14T14:35:11.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "FluidInference",
       "id": "FluidInference/speaker-diarization-coreml",
-      "downloads": 21056,
+      "downloads": 21571,
       "likes": 44,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-10-12T22:01:08.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "FireRedTeam",
       "id": "FireRedTeam/FireRedVAD",
-      "downloads": 3105,
+      "downloads": 3143,
       "likes": 68,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-03-13T03:40:54.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "cstr",
       "id": "cstr/firered-vad-GGUF",
-      "downloads": 583,
+      "downloads": 584,
       "likes": 2,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-08-02T15:22:45.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "audio-cpp",
       "id": "audio-cpp/Nemotron-3-Diarization-GGUF",
-      "downloads": 29296,
+      "downloads": 30948,
       "likes": 18,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-26T18:17:19.000Z",
@@ -145,32 +145,22 @@
       "repoType": "model"
     },
     {
-      "author": "p99lab",
-      "id": "p99lab/turn-1-mini",
-      "downloads": 334,
-      "likes": 1,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-10-07T08:22:11.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "p99lab",
-      "id": "p99lab/turn-1",
-      "downloads": 52,
-      "likes": 1,
-      "pipeline_tag": "voice-activity-detection",
-      "lastModified": "2026-10-07T08:22:12.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "aidsoid",
       "id": "aidsoid/nemotron-3-diarization-coreml",
-      "downloads": 24,
+      "downloads": 25,
       "likes": 1,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-10-08T14:54:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "konradjr007",
+      "id": "konradjr007/nemotron-3-diarization-litert",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-10-13T17:04:11.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -187,7 +177,7 @@
     {
       "author": "espnet",
       "id": "espnet/YushiUeda_mini_librispeech_diar_train_diar_raw_valid.acc.best",
-      "downloads": 9,
+      "downloads": 7,
       "likes": 0,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-18T04:19:13.000Z",
@@ -197,7 +187,7 @@
     {
       "author": "espnet",
       "id": "espnet/Yushi_Ueda_mini_librispeech_diar_train_diar_raw_max_epoch20_valid.acc.best",
-      "downloads": 11,
+      "downloads": 12,
       "likes": 0,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-18T04:19:14.000Z",
@@ -217,7 +207,7 @@
     {
       "author": "espnet",
       "id": "espnet/YushiUeda_librimix_diar_enh_2_3_spk",
-      "downloads": 14,
+      "downloads": 13,
       "likes": 0,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-18T04:19:23.000Z",
@@ -227,7 +217,7 @@
     {
       "author": "espnet",
       "id": "espnet/YushiUeda_librimix_diar_enh_2_3_spk_lmf",
-      "downloads": 20,
+      "downloads": 19,
       "likes": 0,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2026-09-18T04:19:24.000Z",
@@ -237,7 +227,7 @@
     {
       "author": "philschmid",
       "id": "philschmid/pyannote-speaker-diarization-endpoint",
-      "downloads": 35,
+      "downloads": 34,
       "likes": 20,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-22T07:17:22.000Z",
@@ -247,7 +237,7 @@
     {
       "author": "pyannote",
       "id": "pyannote/brouhaha",
-      "downloads": 5448,
+      "downloads": 5481,
       "likes": 32,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-15T09:10:27.000Z",
@@ -257,7 +247,7 @@
     {
       "author": "anilbs",
       "id": "anilbs/segmentation",
-      "downloads": 10,
+      "downloads": 9,
       "likes": 2,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-01T18:54:22.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "philschmid",
       "id": "philschmid/pyannote-segmentation",
-      "downloads": 374,
+      "downloads": 372,
       "likes": 10,
       "pipeline_tag": "voice-activity-detection",
       "lastModified": "2022-11-08T17:15:47.000Z",
@@ -303,7 +293,17 @@
       "lastModified": "2023-04-20T06:34:51.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "funasr",
+      "id": "funasr/fsmn-vad-onnx",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-06-19T09:39:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:43:20.100Z"
+  "fetchedAt": "2026-10-13T23:29:26.316Z"
 }

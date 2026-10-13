@@ -7,8 +7,8 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Small-hf",
-      "downloads": 2318674,
-      "likes": 56,
+      "downloads": 2325454,
+      "likes": 60,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:38:31.000Z",
       "numParameters": 24785089,
@@ -17,27 +17,27 @@
     {
       "author": "google",
       "id": "google/tipsv2-b14-dpt",
-      "downloads": 14606,
-      "likes": 18,
+      "downloads": 14142,
+      "likes": 19,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-08-17T16:43:07.000Z",
       "numParameters": 158007257,
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/c-fast-foundationstereo",
-      "downloads": 0,
-      "likes": 18,
+      "author": "depth-anything",
+      "id": "depth-anything/Depth-Anything-V2-Large",
+      "downloads": 69815,
+      "likes": 181,
       "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-10-02T07:50:34.000Z",
+      "lastModified": "2024-07-08T09:15:44.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "apple",
       "id": "apple/DepthPro",
-      "downloads": 10540,
+      "downloads": 10551,
       "likes": 561,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-02-28T18:31:41.000Z",
@@ -45,52 +45,122 @@
       "repoType": "model"
     },
     {
-      "author": "depth-anything",
-      "id": "depth-anything/Depth-Anything-V2-Large",
-      "downloads": 69133,
-      "likes": 180,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2024-07-08T09:15:44.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/tipsv2-g14-dpt",
-      "downloads": 363,
-      "likes": 18,
+      "downloads": 364,
+      "likes": 19,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-08-17T16:43:10.000Z",
       "numParameters": 1320463897,
       "repoType": "model"
     },
     {
-      "author": "litert-community",
-      "id": "litert-community/MoGe-2-LiteRT",
-      "downloads": 397,
-      "likes": 5,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-10-10T04:03:39.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "huawei-bayerlab",
-      "id": "huawei-bayerlab/marigold-v2-0",
+      "author": "nvidia",
+      "id": "nvidia/c-fast-foundationstereo",
       "downloads": 0,
-      "likes": 111,
+      "likes": 19,
       "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-09-13T17:02:10.000Z",
+      "lastModified": "2026-10-02T07:50:34.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "nvidia",
       "id": "nvidia/c-foundationstereo-s",
-      "downloads": 711,
-      "likes": 10,
+      "downloads": 730,
+      "likes": 11,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-09-15T17:18:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/dpt-dinov2-small-nyu",
+      "downloads": 578,
+      "likes": 5,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2023-11-14T19:17:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/tipsv2-l14-dpt",
+      "downloads": 464,
+      "likes": 9,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-08-17T16:43:14.000Z",
+      "numParameters": 405695641,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-normal-0.4b",
+      "downloads": 1252,
+      "likes": 5,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:49:44.000Z",
+      "numParameters": 453357747,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-normal-1b",
+      "downloads": 3461,
+      "likes": 7,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:49:54.000Z",
+      "numParameters": 1539334323,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-normal-5b",
+      "downloads": 626,
+      "likes": 6,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:49:59.000Z",
+      "numParameters": 5316358294,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-pointmap-0.4b",
+      "downloads": 885,
+      "likes": 4,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:50:04.000Z",
+      "numParameters": 528675380,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-pointmap-1b",
+      "downloads": 2810,
+      "likes": 4,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:50:13.000Z",
+      "numParameters": 1629594164,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-pointmap-5b",
+      "downloads": 1861,
+      "likes": 6,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-06-15T14:50:19.000Z",
+      "numParameters": 5348345879,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/MoGe-2-LiteRT",
+      "downloads": 410,
+      "likes": 5,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-10-10T04:03:39.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -105,23 +175,33 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/dpt-dinov2-small-nyu",
-      "downloads": 579,
-      "likes": 4,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2023-11-14T19:17:33.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "onnx-community",
       "id": "onnx-community/depth-anything-v2-small",
-      "downloads": 104812,
+      "downloads": 106051,
       "likes": 31,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-04-14T09:53:47.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MackinationsAi",
+      "id": "MackinationsAi/Depth-Anything-V2_Safetensors",
+      "downloads": 0,
+      "likes": 13,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2025-09-23T23:26:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "apple",
+      "id": "apple/DepthPro-hf",
+      "downloads": 27692,
+      "likes": 113,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2025-02-28T18:31:40.000Z",
+      "numParameters": 951991330,
       "repoType": "model"
     },
     {
@@ -136,18 +216,8 @@
     },
     {
       "author": "depth-anything",
-      "id": "depth-anything/DA3NESTED-GIANT-LARGE",
-      "downloads": 27346,
-      "likes": 54,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2025-11-13T11:36:25.000Z",
-      "numParameters": 1689845519,
-      "repoType": "model"
-    },
-    {
-      "author": "depth-anything",
       "id": "depth-anything/DA3-SMALL",
-      "downloads": 101177,
+      "downloads": 98633,
       "likes": 23,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:44:51.000Z",
@@ -157,81 +227,11 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-chmv2-dpt-head",
-      "downloads": 1528,
+      "downloads": 1508,
       "likes": 29,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-03-11T14:32:24.000Z",
       "numParameters": 336876800,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/tipsv2-l14-dpt",
-      "downloads": 460,
-      "likes": 8,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-08-17T16:43:14.000Z",
-      "numParameters": 405695641,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-normal-0.4b",
-      "downloads": 1276,
-      "likes": 4,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:49:44.000Z",
-      "numParameters": 453357747,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-normal-1b",
-      "downloads": 3434,
-      "likes": 6,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:49:54.000Z",
-      "numParameters": 1539334323,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-normal-5b",
-      "downloads": 642,
-      "likes": 5,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:49:59.000Z",
-      "numParameters": 5316358294,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-pointmap-0.4b",
-      "downloads": 902,
-      "likes": 3,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:50:04.000Z",
-      "numParameters": 528675380,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-pointmap-1b",
-      "downloads": 2831,
-      "likes": 3,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:50:13.000Z",
-      "numParameters": 1629594164,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sapiens2-pointmap-5b",
-      "downloads": 1886,
-      "likes": 5,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-15T14:50:19.000Z",
-      "numParameters": 5348345879,
       "repoType": "model"
     },
     {
@@ -245,19 +245,9 @@
       "repoType": "model"
     },
     {
-      "author": "blanchon",
-      "id": "blanchon/dinodepth-model",
-      "downloads": 0,
-      "likes": 2,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2026-06-18T12:30:38.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "a-ml",
       "id": "a-ml/FaceDepth",
-      "downloads": 15,
+      "downloads": 13,
       "likes": 8,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-08-03T08:27:38.000Z",
@@ -295,9 +285,19 @@
       "repoType": "model"
     },
     {
+      "author": "huawei-bayerlab",
+      "id": "huawei-bayerlab/marigold-v2-0",
+      "downloads": 0,
+      "likes": 111,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2026-09-13T17:02:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "sergmister",
       "id": "sergmister/PromptMoGe",
-      "downloads": 257,
+      "downloads": 429,
       "likes": 1,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-09-20T20:43:13.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:42:04.730Z"
+  "fetchedAt": "2026-10-13T23:28:15.523Z"
 }

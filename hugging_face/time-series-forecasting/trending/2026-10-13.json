@@ -1,123 +1,163 @@
 {
   "category": "time-series-forecasting",
   "sort": "trending",
-  "totalItems": 965,
+  "totalItems": 972,
   "fetchedItems": 30,
   "models": [
     {
-      "author": "google",
-      "id": "google/timesfm-3.0-pytorch",
-      "downloads": 1023753,
-      "likes": 948,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-09-02T15:44:59.000Z",
-      "numParameters": 330710976,
-      "repoType": "model"
-    },
-    {
       "author": "amazon",
       "id": "amazon/chronos-2",
-      "downloads": 19526904,
-      "likes": 525,
+      "downloads": 19156628,
+      "likes": 534,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-06-05T11:55:42.000Z",
       "numParameters": 119477664,
       "repoType": "model"
     },
     {
-      "author": "autogluon",
-      "id": "autogluon/chronos-2-small",
-      "downloads": 2864112,
-      "likes": 19,
+      "author": "google",
+      "id": "google/timesfm-3.0-pytorch",
+      "downloads": 1037101,
+      "likes": 953,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-12-03T11:57:35.000Z",
-      "numParameters": 27934624,
+      "lastModified": "2026-09-02T15:44:59.000Z",
+      "numParameters": 330710976,
       "repoType": "model"
     },
     {
       "author": "NeoQuasar",
       "id": "NeoQuasar/Kronos-Tokenizer-base",
-      "downloads": 2249512,
-      "likes": 90,
+      "downloads": 2263961,
+      "likes": 100,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-09-09T14:10:02.000Z",
       "numParameters": 3958258,
       "repoType": "model"
     },
     {
-      "author": "amazon",
-      "id": "amazon/chronos-bolt-small",
-      "downloads": 6651432,
-      "likes": 56,
+      "author": "autogluon",
+      "id": "autogluon/chronos-2-small",
+      "downloads": 2874153,
+      "likes": 25,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-11-21T12:54:10.000Z",
-      "numParameters": 47718016,
-      "repoType": "model"
-    },
-    {
-      "author": "amazon",
-      "id": "amazon/chronos-t5-small",
-      "downloads": 1242550,
-      "likes": 148,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-11-21T12:55:58.000Z",
-      "numParameters": 46154240,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/timesfm-2.0-500m-pytorch",
-      "downloads": 94029,
-      "likes": 270,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-04-16T15:51:43.000Z",
-      "numParameters": 498828960,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/timesfm-2.5-200m-pytorch",
-      "downloads": 1520073,
-      "likes": 273,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-10-02T17:21:38.000Z",
-      "numParameters": 231289280,
-      "repoType": "model"
-    },
-    {
-      "author": "birlaailabs",
-      "id": "birlaailabs/yug",
-      "downloads": 387,
-      "likes": 13,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-10-09T09:13:24.000Z",
-      "numParameters": 271845260,
+      "lastModified": "2025-12-03T11:57:35.000Z",
+      "numParameters": 27934624,
       "repoType": "model"
     },
     {
       "author": "autogluon",
       "id": "autogluon/chronos-bolt-small",
-      "downloads": 5731983,
-      "likes": 67,
+      "downloads": 5829158,
+      "likes": 77,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-10-30T09:20:15.000Z",
       "numParameters": 47718016,
       "repoType": "model"
     },
     {
+      "author": "amazon",
+      "id": "amazon/chronos-bolt-small",
+      "downloads": 6431353,
+      "likes": 62,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:54:10.000Z",
+      "numParameters": 47718016,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-2",
+      "downloads": 5452093,
+      "likes": 84,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-06-05T11:59:59.000Z",
+      "numParameters": 119477664,
+      "repoType": "model"
+    },
+    {
       "author": "NeoQuasar",
       "id": "NeoQuasar/Kronos-small",
-      "downloads": 1001596,
-      "likes": 38,
+      "downloads": 1008654,
+      "likes": 42,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-09-09T14:10:26.000Z",
       "numParameters": 24741696,
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/timesfm-2.5-200m-pytorch",
+      "downloads": 1542813,
+      "likes": 276,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-02T17:21:38.000Z",
+      "numParameters": 231289280,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-t5-small",
+      "downloads": 1148258,
+      "likes": 150,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:55:58.000Z",
+      "numParameters": 46154240,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-base",
+      "downloads": 1786690,
+      "likes": 41,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:44.000Z",
+      "numParameters": 205292928,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-tiny",
+      "downloads": 2143704,
+      "likes": 19,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:02.000Z",
+      "numParameters": 8652672,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/timesfm-2.0-500m-pytorch",
+      "downloads": 92629,
+      "likes": 271,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-04-16T15:51:43.000Z",
+      "numParameters": 498828960,
+      "repoType": "model"
+    },
+    {
+      "author": "theforecastingcompany",
+      "id": "theforecastingcompany/t0-gamma",
+      "downloads": 152,
+      "likes": 6,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-10-13T13:06:23.000Z",
+      "numParameters": 255614293,
+      "repoType": "model"
+    },
+    {
+      "author": "IUseAMouse",
+      "id": "IUseAMouse/timessm-2.5m",
+      "downloads": 43,
+      "likes": 5,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-10-12T18:43:11.000Z",
+      "numParameters": 2525772,
+      "repoType": "model"
+    },
+    {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-ensemble-r1",
-      "downloads": 101,
+      "downloads": 116,
       "likes": 4,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-10-02T16:00:06.000Z",
@@ -125,19 +165,59 @@
       "repoType": "model"
     },
     {
-      "author": "IUseAMouse",
-      "id": "IUseAMouse/timessm-2.5m",
-      "downloads": 17,
-      "likes": 4,
+      "author": "birlaailabs",
+      "id": "birlaailabs/yug",
+      "downloads": 402,
+      "likes": 13,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-10-12T18:43:11.000Z",
-      "numParameters": 2525772,
+      "lastModified": "2026-10-09T09:13:24.000Z",
+      "numParameters": 271845260,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/timesfm-1.0-200m",
+      "downloads": 1151,
+      "likes": 843,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2024-05-17T17:29:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/timesfm-1.0-200m-pytorch",
+      "downloads": 5849,
+      "likes": 37,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2024-08-29T23:52:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-bolt-base",
+      "downloads": 875431,
+      "likes": 97,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:53:22.000Z",
+      "numParameters": 205292928,
+      "repoType": "model"
+    },
+    {
+      "author": "h2oai",
+      "id": "h2oai/timeh2o-v1-tiny",
+      "downloads": 10,
+      "likes": 3,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-10-12T13:35:11.000Z",
+      "numParameters": 5825636,
       "repoType": "model"
     },
     {
       "author": "keras-io",
       "id": "keras-io/timeseries_forecasting_for_weather",
-      "downloads": 47,
+      "downloads": 46,
       "likes": 30,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2024-07-09T13:36:11.000Z",
@@ -145,29 +225,29 @@
       "repoType": "model"
     },
     {
-      "author": "autogluon",
-      "id": "autogluon/chronos-bolt-tiny",
-      "downloads": 2049142,
-      "likes": 15,
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-base",
+      "downloads": 723447,
+      "likes": 287,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-10-30T09:20:02.000Z",
-      "numParameters": 8652672,
+      "lastModified": "2025-09-09T14:08:15.000Z",
+      "numParameters": 102311008,
       "repoType": "model"
     },
     {
-      "author": "autogluon",
-      "id": "autogluon/chronos-2",
-      "downloads": 5301156,
-      "likes": 75,
+      "author": "google",
+      "id": "google/timesfm-2.5-200m-transformers",
+      "downloads": 52748,
+      "likes": 143,
       "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-06-05T11:59:59.000Z",
-      "numParameters": 119477664,
+      "lastModified": "2026-04-10T23:15:28.000Z",
+      "numParameters": 231289280,
       "repoType": "model"
     },
     {
       "author": "XinyueWangg",
       "id": "XinyueWangg/TimeBraid-2.5B",
-      "downloads": 87,
+      "downloads": 91,
       "likes": 2,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-09-27T03:06:23.000Z",
@@ -187,7 +267,7 @@
     {
       "author": "bakshinghampalace",
       "id": "bakshinghampalace/timesfm-2.5-200m-onnx",
-      "downloads": 0,
+      "downloads": 122,
       "likes": 2,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-10-12T18:31:18.000Z",
@@ -197,7 +277,7 @@
     {
       "author": "amazon",
       "id": "amazon/chronos-t5-large",
-      "downloads": 119165,
+      "downloads": 118137,
       "likes": 181,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-11-21T12:56:29.000Z",
@@ -207,7 +287,7 @@
     {
       "author": "ibm-granite",
       "id": "ibm-granite/granite-timeseries-ttm-r1",
-      "downloads": 17645,
+      "downloads": 17392,
       "likes": 330,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-01-30T14:38:28.000Z",
@@ -215,95 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/timesfm-1.0-200m",
-      "downloads": 1309,
-      "likes": 841,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2024-05-17T17:29:47.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "AutonLab",
       "id": "AutonLab/MOMENT-1-large",
-      "downloads": 25382,
+      "downloads": 24923,
       "likes": 102,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2025-03-26T01:44:19.000Z",
       "numParameters": 346368520,
       "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/timesfm-1.0-200m-pytorch",
-      "downloads": 5723,
-      "likes": 35,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2024-08-29T23:52:11.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "AutonLab",
-      "id": "AutonLab/MOMENT-1-base",
-      "downloads": 43394,
-      "likes": 8,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-03-26T01:43:26.000Z",
-      "numParameters": 113481608,
-      "repoType": "model"
-    },
-    {
-      "author": "autogluon",
-      "id": "autogluon/chronos-bolt-base",
-      "downloads": 1780585,
-      "likes": 35,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-10-30T09:20:44.000Z",
-      "numParameters": 205292928,
-      "repoType": "model"
-    },
-    {
-      "author": "amazon",
-      "id": "amazon/chronos-bolt-base",
-      "downloads": 873148,
-      "likes": 95,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-11-21T12:53:22.000Z",
-      "numParameters": 205292928,
-      "repoType": "model"
-    },
-    {
-      "author": "NeoQuasar",
-      "id": "NeoQuasar/Kronos-base",
-      "downloads": 721938,
-      "likes": 286,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2025-09-09T14:08:15.000Z",
-      "numParameters": 102311008,
-      "repoType": "model"
-    },
-    {
-      "author": "DecisionIntelligence",
-      "id": "DecisionIntelligence/Aurora",
-      "downloads": 1185,
-      "likes": 9,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-04-29T12:55:13.000Z",
-      "numParameters": 210863308,
-      "repoType": "model"
-    },
-    {
-      "author": "michel-pohl",
-      "id": "michel-pohl/online_rnn_transformer_video_prediction",
-      "downloads": 0,
-      "likes": 5,
-      "pipeline_tag": "time-series-forecasting",
-      "lastModified": "2026-04-17T17:58:41.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:43:09.642Z"
+  "fetchedAt": "2026-10-13T23:29:16.202Z"
 }

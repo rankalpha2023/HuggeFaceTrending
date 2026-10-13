@@ -5,20 +5,10 @@
   "fetchedItems": 30,
   "models": [
     {
-      "author": "IDEA-Research",
-      "id": "IDEA-Research/grounding-dino-base",
-      "downloads": 1878720,
-      "likes": 218,
-      "pipeline_tag": "zero-shot-object-detection",
-      "lastModified": "2024-05-12T09:03:22.000Z",
-      "numParameters": 232810880,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/owlv2-base-patch16-ensemble",
-      "downloads": 1917826,
-      "likes": 136,
+      "downloads": 1791130,
+      "likes": 142,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-10-31T14:55:13.000Z",
       "numParameters": 154966791,
@@ -26,9 +16,19 @@
     },
     {
       "author": "IDEA-Research",
+      "id": "IDEA-Research/grounding-dino-base",
+      "downloads": 1928759,
+      "likes": 220,
+      "pipeline_tag": "zero-shot-object-detection",
+      "lastModified": "2024-05-12T09:03:22.000Z",
+      "numParameters": 232810880,
+      "repoType": "model"
+    },
+    {
+      "author": "IDEA-Research",
       "id": "IDEA-Research/grounding-dino-tiny",
-      "downloads": 796930,
-      "likes": 121,
+      "downloads": 802371,
+      "likes": 123,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-05-12T09:03:39.000Z",
       "numParameters": 172277902,
@@ -36,19 +36,19 @@
     },
     {
       "author": "google",
-      "id": "google/owlv2-large-patch14",
-      "downloads": 741,
-      "likes": 14,
+      "id": "google/owlv2-large-patch14-ensemble",
+      "downloads": 99217,
+      "likes": 53,
       "pipeline_tag": "zero-shot-object-detection",
-      "lastModified": "2024-10-31T14:56:11.000Z",
+      "lastModified": "2024-10-31T14:56:27.000Z",
       "numParameters": 437610759,
       "repoType": "model"
     },
     {
       "author": "google",
       "id": "google/owlvit-base-patch16",
-      "downloads": 21853,
-      "likes": 17,
+      "downloads": 20008,
+      "likes": 19,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2023-12-12T13:41:12.000Z",
       "numParameters": null,
@@ -57,8 +57,8 @@
     {
       "author": "google",
       "id": "google/owlv2-base-patch16",
-      "downloads": 38292,
-      "likes": 33,
+      "downloads": 36370,
+      "likes": 36,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-04-15T16:59:02.000Z",
       "numParameters": 154966791,
@@ -66,29 +66,19 @@
     },
     {
       "author": "google",
-      "id": "google/owlv2-large-patch14-ensemble",
-      "downloads": 98978,
-      "likes": 49,
+      "id": "google/owlv2-large-patch14",
+      "downloads": 731,
+      "likes": 15,
       "pipeline_tag": "zero-shot-object-detection",
-      "lastModified": "2024-10-31T14:56:27.000Z",
+      "lastModified": "2024-10-31T14:56:11.000Z",
       "numParameters": 437610759,
       "repoType": "model"
     },
     {
       "author": "google",
-      "id": "google/owlvit-large-patch14",
-      "downloads": 7059,
-      "likes": 31,
-      "pipeline_tag": "zero-shot-object-detection",
-      "lastModified": "2023-12-12T13:41:07.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/owlv2-large-patch14-finetuned",
-      "downloads": 270,
-      "likes": 8,
+      "downloads": 269,
+      "likes": 10,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2023-12-12T13:40:36.000Z",
       "numParameters": null,
@@ -97,8 +87,8 @@
     {
       "author": "google",
       "id": "google/owlvit-base-patch32",
-      "downloads": 204669,
-      "likes": 152,
+      "downloads": 206544,
+      "likes": 154,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2023-12-12T13:47:41.000Z",
       "numParameters": 153232471,
@@ -106,9 +96,19 @@
     },
     {
       "author": "google",
+      "id": "google/owlvit-large-patch14",
+      "downloads": 7040,
+      "likes": 32,
+      "pipeline_tag": "zero-shot-object-detection",
+      "lastModified": "2023-12-12T13:41:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
       "id": "google/owlv2-base-patch16-finetuned",
-      "downloads": 318,
-      "likes": 4,
+      "downloads": 317,
+      "likes": 6,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-10-31T14:56:18.000Z",
       "numParameters": null,
@@ -117,7 +117,7 @@
     {
       "author": "omlab",
       "id": "omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps",
-      "downloads": 150,
+      "downloads": 149,
       "likes": 26,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-04-14T00:20:46.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "openmmlab-community",
       "id": "openmmlab-community/mm_grounding_dino_base_all",
-      "downloads": 2426,
+      "downloads": 2456,
       "likes": 4,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-23T12:01:09.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "hf-tiny-model-private",
       "id": "hf-tiny-model-private/tiny-random-OwlViTForObjectDetection",
-      "downloads": 34,
+      "downloads": 35,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2023-03-29T19:16:07.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "juhi7ag",
       "id": "juhi7ag/idea-model",
-      "downloads": 27,
+      "downloads": 29,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2023-07-28T11:09:03.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlvit-base-patch32",
-      "downloads": 15048,
+      "downloads": 15124,
       "likes": 1,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:38:40.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlvit-base-patch16",
-      "downloads": 72,
+      "downloads": 71,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:38:21.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlvit-large-patch14",
-      "downloads": 51,
+      "downloads": 49,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:38:07.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "fxmarty",
       "id": "fxmarty/owlvit-tiny-non-contiguous-weight",
-      "downloads": 193,
+      "downloads": 189,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-01-16T12:35:42.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlv2-base-patch16-ensemble",
-      "downloads": 1785,
+      "downloads": 1870,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:37:55.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlv2-base-patch16",
-      "downloads": 138,
+      "downloads": 127,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:37:44.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/owlv2-base-patch16-finetuned",
-      "downloads": 34,
+      "downloads": 32,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2025-07-08T14:36:54.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "Thomasboosinger",
       "id": "Thomasboosinger/owlv2-base-patch16-ensemble",
-      "downloads": 15,
+      "downloads": 14,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-02-18T16:33:11.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Thomasboosinger",
       "id": "Thomasboosinger/owlv2-large-patch14-ensemble",
-      "downloads": 14,
+      "downloads": 13,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-02-19T15:31:44.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "Thomasboosinger",
       "id": "Thomasboosinger/owlv2-large-patch14-finetuned",
-      "downloads": 18,
+      "downloads": 17,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-02-19T15:32:25.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Thomasboosinger",
       "id": "Thomasboosinger/owlv2-large-patch14",
-      "downloads": 9,
+      "downloads": 8,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-02-19T15:33:01.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "solomonpm",
       "id": "solomonpm/my-owlvit-8bit",
-      "downloads": 9,
+      "downloads": 13,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-02-29T09:05:24.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "Gunulhona",
       "id": "Gunulhona/owlvit-base-patch32-qint8",
-      "downloads": 13,
+      "downloads": 11,
       "likes": 0,
       "pipeline_tag": "zero-shot-object-detection",
       "lastModified": "2024-04-04T02:22:07.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:43:27.778Z"
+  "fetchedAt": "2026-10-13T23:29:33.852Z"
 }

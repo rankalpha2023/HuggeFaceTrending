@@ -1,14 +1,14 @@
 {
   "category": "zero-shot-classification",
   "sort": "likes",
-  "totalItems": 775,
+  "totalItems": 794,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/bart-large-mnli",
-      "downloads": 2498782,
-      "likes": 1625,
+      "downloads": 2469015,
+      "likes": 1627,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-09-05T14:49:34.000Z",
       "numParameters": 407344133,
@@ -17,8 +17,8 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
-      "downloads": 878054,
-      "likes": 397,
+      "downloads": 869177,
+      "likes": 401,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:49:19.000Z",
       "numParameters": 278812163,
@@ -27,7 +27,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
-      "downloads": 116076,
+      "downloads": 118859,
       "likes": 319,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-01-08T12:37:16.000Z",
@@ -37,8 +37,8 @@
     {
       "author": "joeddav",
       "id": "joeddav/xlm-roberta-large-xnli",
-      "downloads": 2014325,
-      "likes": 298,
+      "downloads": 2024749,
+      "likes": 301,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-10-16T21:59:20.000Z",
       "numParameters": 560943621,
@@ -47,7 +47,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-      "downloads": 455586,
+      "downloads": 456599,
       "likes": 226,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:47:27.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
-      "downloads": 150509,
+      "downloads": 150656,
       "likes": 145,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:42:28.000Z",
@@ -67,17 +67,27 @@
     {
       "author": "openjev",
       "id": "openjev/openjev",
-      "downloads": 5704,
-      "likes": 138,
+      "downloads": 6055,
+      "likes": 141,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-09T22:16:46.000Z",
       "numParameters": 27356728560,
       "repoType": "model"
     },
     {
+      "author": "vllm-sr",
+      "id": "vllm-sr/d3",
+      "downloads": 1156,
+      "likes": 135,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-13T10:20:10.000Z",
+      "numParameters": 26085330160,
+      "repoType": "model"
+    },
+    {
       "author": "sileod",
       "id": "sileod/deberta-v3-base-tasksource-nli",
-      "downloads": 10160,
+      "downloads": 10221,
       "likes": 134,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-08-13T21:12:51.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
-      "downloads": 134958,
+      "downloads": 137570,
       "likes": 132,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-11T13:49:10.000Z",
@@ -97,7 +107,7 @@
     {
       "author": "interfaze-ai",
       "id": "interfaze-ai/lev",
-      "downloads": 982,
+      "downloads": 1010,
       "likes": 125,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-02T00:02:03.000Z",
@@ -107,7 +117,7 @@
     {
       "author": "AgentBull",
       "id": "AgentBull/bongard-mini",
-      "downloads": 57,
+      "downloads": 62,
       "likes": 107,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-09-30T08:18:31.000Z",
@@ -115,19 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "vllm-sr",
-      "id": "vllm-sr/d3",
-      "downloads": 420,
-      "likes": 93,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-12T12:03:13.000Z",
-      "numParameters": 26085330160,
-      "repoType": "model"
-    },
-    {
       "author": "knowledgator",
       "id": "knowledgator/comprehend_it-base",
-      "downloads": 169,
+      "downloads": 167,
       "likes": 88,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-03-24T09:59:51.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Vega-27B",
-      "downloads": 2692,
+      "downloads": 2776,
       "likes": 73,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-10T21:21:25.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/bge-m3-zeroshot-v2.0",
-      "downloads": 115146,
+      "downloads": 114824,
       "likes": 70,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-22T11:09:02.000Z",
@@ -155,9 +155,19 @@
       "repoType": "model"
     },
     {
+      "author": "Meanblock",
+      "id": "Meanblock/JEV-CPU",
+      "downloads": 0,
+      "likes": 59,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-09-19T12:13:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33",
-      "downloads": 4640,
+      "downloads": 4653,
       "likes": 58,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-01T15:10:33.000Z",
@@ -165,19 +175,9 @@
       "repoType": "model"
     },
     {
-      "author": "Meanblock",
-      "id": "Meanblock/JEV-CPU",
-      "downloads": 0,
-      "likes": 57,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-09-19T12:13:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "wfzyx",
       "id": "wfzyx/von",
-      "downloads": 107725,
+      "downloads": 109978,
       "likes": 57,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-02T04:54:56.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "valhalla",
       "id": "valhalla/distilbart-mnli-12-1",
-      "downloads": 14181,
+      "downloads": 14250,
       "likes": 56,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2021-06-14T10:27:55.000Z",
@@ -195,9 +195,19 @@
       "repoType": "model"
     },
     {
+      "author": "vllm-sr",
+      "id": "vllm-sr/d3-flash",
+      "downloads": 1157,
+      "likes": 53,
+      "pipeline_tag": "zero-shot-classification",
+      "lastModified": "2026-10-13T10:20:08.000Z",
+      "numParameters": 8392695024,
+      "repoType": "model"
+    },
+    {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli",
-      "downloads": 22223,
+      "downloads": 23139,
       "likes": 52,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-04-22T11:03:52.000Z",
@@ -207,7 +217,7 @@
     {
       "author": "tasksource",
       "id": "tasksource/deberta-small-long-nli",
-      "downloads": 10030,
+      "downloads": 10134,
       "likes": 52,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-08-28T15:06:37.000Z",
@@ -217,7 +227,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-base",
-      "downloads": 487789,
+      "downloads": 411608,
       "likes": 50,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-11T09:56:48.000Z",
@@ -227,7 +237,7 @@
     {
       "author": "typeform",
       "id": "typeform/distilbert-base-uncased-mnli",
-      "downloads": 327967,
+      "downloads": 327698,
       "likes": 49,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-03-22T08:49:00.000Z",
@@ -237,8 +247,8 @@
     {
       "author": "microsoft",
       "id": "microsoft/LLM2CLIP-Openai-L-14-336",
-      "downloads": 15579,
-      "likes": 46,
+      "downloads": 17433,
+      "likes": 47,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-11-24T10:00:30.000Z",
       "numParameters": 578587904,
@@ -247,7 +257,7 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/nli-deberta-v3-large",
-      "downloads": 126183,
+      "downloads": 128438,
       "likes": 45,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2025-04-15T07:48:35.000Z",
@@ -257,8 +267,8 @@
     {
       "author": "microsoft",
       "id": "microsoft/LLM2CLIP-Llama-3-8B-Instruct-CC-Finetuned",
-      "downloads": 20656,
-      "likes": 44,
+      "downloads": 23571,
+      "likes": 45,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2024-11-19T16:27:34.000Z",
       "numParameters": 7504924672,
@@ -266,18 +276,8 @@
     },
     {
       "author": "vllm-sr",
-      "id": "vllm-sr/d3-flash",
-      "downloads": 407,
-      "likes": 44,
-      "pipeline_tag": "zero-shot-classification",
-      "lastModified": "2026-10-12T12:03:01.000Z",
-      "numParameters": 8392695024,
-      "repoType": "model"
-    },
-    {
-      "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Lux-9B",
-      "downloads": 993,
+      "downloads": 1081,
       "likes": 43,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-10T21:21:21.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "MoritzLaurer",
       "id": "MoritzLaurer/deberta-v3-base-zeroshot-v1",
-      "downloads": 961,
+      "downloads": 958,
       "likes": 41,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2023-11-29T19:30:58.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "vllm-sr",
       "id": "vllm-sr/Decision-2.0-Kai-0.6B",
-      "downloads": 1651,
+      "downloads": 1806,
       "likes": 41,
       "pipeline_tag": "zero-shot-classification",
       "lastModified": "2026-10-10T21:21:19.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:43:23.577Z"
+  "fetchedAt": "2026-10-13T23:29:29.641Z"
 }

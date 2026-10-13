@@ -1,14 +1,14 @@
 {
   "category": "robotics",
   "sort": "trending",
-  "totalItems": 35782,
+  "totalItems": 35998,
   "fetchedItems": 30,
   "models": [
     {
       "author": "DAGroup-PKU",
       "id": "DAGroup-PKU/ViGAR",
       "downloads": 0,
-      "likes": 15,
+      "likes": 17,
       "pipeline_tag": "robotics",
       "lastModified": "2026-10-11T15:58:26.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "lerobot",
       "id": "lerobot/smolvla_base",
-      "downloads": 131676,
-      "likes": 468,
+      "downloads": 135996,
+      "likes": 469,
       "pipeline_tag": "robotics",
       "lastModified": "2026-10-06T13:57:08.000Z",
       "numParameters": 450046176,
@@ -27,31 +27,31 @@
     {
       "author": "nvidia",
       "id": "nvidia/Alpamayo-1.5-10B",
-      "downloads": 38888,
-      "likes": 123,
+      "downloads": 40341,
+      "likes": 124,
       "pipeline_tag": "robotics",
       "lastModified": "2026-08-07T05:10:21.000Z",
       "numParameters": 11078526194,
       "repoType": "model"
     },
     {
-      "author": "black-forest-labs",
-      "id": "black-forest-labs/flux-3-action-base",
-      "downloads": 1657,
-      "likes": 137,
+      "author": "Haodong082399",
+      "id": "Haodong082399/VPP2",
+      "downloads": 137,
+      "likes": 8,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-10-02T11:46:28.000Z",
+      "lastModified": "2026-10-10T10:28:48.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "black-forest-labs",
-      "id": "black-forest-labs/flux-3-action-so101",
-      "downloads": 1950,
-      "likes": 56,
+      "id": "black-forest-labs/flux-3-action-base",
+      "downloads": 1952,
+      "likes": 138,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-10-02T11:46:31.000Z",
-      "numParameters": 6947071232,
+      "lastModified": "2026-10-02T11:46:28.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -65,19 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "Haodong082399",
-      "id": "Haodong082399/VPP2",
-      "downloads": 76,
-      "likes": 7,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-10-10T10:28:48.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Robot-Learning-Collective",
       "id": "Robot-Learning-Collective/VLA-0-Smol",
-      "downloads": 169,
+      "downloads": 180,
       "likes": 18,
       "pipeline_tag": "robotics",
       "lastModified": "2025-12-27T23:03:29.000Z",
@@ -87,11 +77,101 @@
     {
       "author": "nvidia",
       "id": "nvidia/GR00T-N1.7-3B",
-      "downloads": 135362,
-      "likes": 151,
+      "downloads": 132198,
+      "likes": 152,
       "pipeline_tag": "robotics",
       "lastModified": "2026-04-23T19:09:30.000Z",
       "numParameters": 3144016000,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/flux-3-action-so101",
+      "downloads": 2003,
+      "likes": 57,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-10-02T11:46:31.000Z",
+      "numParameters": 6947071232,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Magma-8B",
+      "downloads": 929,
+      "likes": 422,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-12-10T18:06:12.000Z",
+      "numParameters": 8903066496,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/GR00T-N1.6-fractal",
+      "downloads": 662,
+      "likes": 6,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-12-15T22:51:32.000Z",
+      "numParameters": 3286610368,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gr00t17-lerobot-libero_spatial-640",
+      "downloads": 801,
+      "likes": 4,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-07-06T16:59:35.000Z",
+      "numParameters": 3144016000,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/GR00T-N1-2B",
+      "downloads": 408,
+      "likes": 359,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-09-02T22:25:27.000Z",
+      "numParameters": 2190019826,
+      "repoType": "model"
+    },
+    {
+      "author": "lerobot",
+      "id": "lerobot/pi05_base",
+      "downloads": 16422,
+      "likes": 108,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-10-06T14:11:08.000Z",
+      "numParameters": 3616757520,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/VITRA-VLA-3B",
+      "downloads": 113,
+      "likes": 20,
+      "pipeline_tag": "robotics",
+      "lastModified": "2025-12-09T10:02:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/GR00T-N1.6-DROID",
+      "downloads": 394,
+      "likes": 11,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-02-03T02:49:42.000Z",
+      "numParameters": 3286610368,
+      "repoType": "model"
+    },
+    {
+      "author": "GEAR-Dreams",
+      "id": "GEAR-Dreams/DreamZero-DROID",
+      "downloads": 1651,
+      "likes": 38,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-03-15T12:18:43.000Z",
+      "numParameters": 22924172115,
       "repoType": "model"
     },
     {
@@ -105,59 +185,29 @@
       "repoType": "model"
     },
     {
-      "author": "black-forest-labs",
-      "id": "black-forest-labs/flux-3-action-droid",
-      "downloads": 1570,
-      "likes": 38,
+      "author": "nvidia",
+      "id": "nvidia/GR00T-N1.7-DROID",
+      "downloads": 1540,
+      "likes": 10,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-10-02T11:46:29.000Z",
-      "numParameters": 6947058944,
+      "lastModified": "2026-04-20T23:16:09.000Z",
+      "numParameters": 3144016000,
       "repoType": "model"
     },
     {
-      "author": "van-i",
-      "id": "van-i/so100-imitation-learning-stand",
-      "downloads": 0,
-      "likes": 4,
+      "author": "nvidia",
+      "id": "nvidia/GR00T-N1.7-SimplerEnv-Bridge",
+      "downloads": 2111,
+      "likes": 8,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-10-04T19:29:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "microsoft",
-      "id": "microsoft/Magma-8B",
-      "downloads": 949,
-      "likes": 421,
-      "pipeline_tag": "robotics",
-      "lastModified": "2025-12-10T18:06:12.000Z",
-      "numParameters": 8903066496,
-      "repoType": "model"
-    },
-    {
-      "author": "lerobot",
-      "id": "lerobot/pi05_base",
-      "downloads": 16377,
-      "likes": 108,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-10-06T14:11:08.000Z",
-      "numParameters": 3616757520,
-      "repoType": "model"
-    },
-    {
-      "author": "GEAR-Dreams",
-      "id": "GEAR-Dreams/DreamZero-DROID",
-      "downloads": 1621,
-      "likes": 38,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-03-15T12:18:43.000Z",
-      "numParameters": 22924172115,
+      "lastModified": "2026-04-20T23:07:55.000Z",
+      "numParameters": 3144016000,
       "repoType": "model"
     },
     {
       "author": "AutowareFoundation",
       "id": "AutowareFoundation/auto_e2e",
-      "downloads": 33,
+      "downloads": 44,
       "likes": 4,
       "pipeline_tag": "robotics",
       "lastModified": "2026-10-11T15:10:45.000Z",
@@ -175,9 +225,19 @@
       "repoType": "model"
     },
     {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/flux-3-action-droid",
+      "downloads": 1609,
+      "likes": 38,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-10-02T11:46:29.000Z",
+      "numParameters": 6947058944,
+      "repoType": "model"
+    },
+    {
       "author": "Alibaba-DAMO-Academy",
       "id": "Alibaba-DAMO-Academy/RynnValue-4B-Quantile",
-      "downloads": 22,
+      "downloads": 28,
       "likes": 3,
       "pipeline_tag": "robotics",
       "lastModified": "2026-10-09T13:53:39.000Z",
@@ -185,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "van-i",
+      "id": "van-i/so100-imitation-learning-stand",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "robotics",
+      "lastModified": "2026-10-04T19:29:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Alibaba-DAMO-Academy",
       "id": "Alibaba-DAMO-Academy/RynnValue-8B-Quantile",
-      "downloads": 18,
+      "downloads": 24,
       "likes": 3,
       "pipeline_tag": "robotics",
       "lastModified": "2026-10-09T13:57:20.000Z",
@@ -207,7 +277,7 @@
     {
       "author": "openvla",
       "id": "openvla/openvla-7b",
-      "downloads": 154447,
+      "downloads": 152118,
       "likes": 262,
       "pipeline_tag": "robotics",
       "lastModified": "2026-02-17T03:43:23.000Z",
@@ -216,94 +286,24 @@
     },
     {
       "author": "nvidia",
-      "id": "nvidia/GR00T-N1.6-fractal",
-      "downloads": 658,
-      "likes": 4,
+      "id": "nvidia/GR00T-N1.5-3B",
+      "downloads": 1422,
+      "likes": 199,
       "pipeline_tag": "robotics",
-      "lastModified": "2025-12-15T22:51:32.000Z",
-      "numParameters": 3286610368,
-      "repoType": "model"
-    },
-    {
-      "author": "Embodied-AI-6",
-      "id": "Embodied-AI-6/pi0.5",
-      "downloads": 49,
-      "likes": 5,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-01-30T04:10:39.000Z",
-      "numParameters": 3616757520,
+      "lastModified": "2025-09-17T20:50:05.000Z",
+      "numParameters": 2724163520,
       "repoType": "model"
     },
     {
       "author": "nvidia",
-      "id": "nvidia/GR00T-N1.6-DROID",
-      "downloads": 395,
-      "likes": 10,
+      "id": "nvidia/Alpamayo-R1-10B",
+      "downloads": 9166,
+      "likes": 441,
       "pipeline_tag": "robotics",
-      "lastModified": "2026-02-03T02:49:42.000Z",
-      "numParameters": 3286610368,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/GR00T-N1.7-DROID",
-      "downloads": 1518,
-      "likes": 9,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T23:16:09.000Z",
-      "numParameters": 3144016000,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/GR00T-N1.7-SimplerEnv-Bridge",
-      "downloads": 2091,
-      "likes": 7,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-20T23:07:55.000Z",
-      "numParameters": 3144016000,
-      "repoType": "model"
-    },
-    {
-      "author": "Vizuara",
-      "id": "Vizuara/dreamzero-so101-lora",
-      "downloads": 41,
-      "likes": 14,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-04-08T09:08:54.000Z",
-      "numParameters": 108582944,
-      "repoType": "model"
-    },
-    {
-      "author": "nvidia",
-      "id": "nvidia/Alpamayo2-Super",
-      "downloads": 15192,
-      "likes": 149,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-08-07T05:10:43.000Z",
-      "numParameters": 35813934322,
-      "repoType": "model"
-    },
-    {
-      "author": "LIQIIIII",
-      "id": "LIQIIIII/badwam-libero-joint-wam",
-      "downloads": 0,
-      "likes": 7,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-08-05T13:00:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "LightOriginsHQ",
-      "id": "LightOriginsHQ/LightNav-0",
-      "downloads": 810,
-      "likes": 31,
-      "pipeline_tag": "robotics",
-      "lastModified": "2026-09-03T03:12:30.000Z",
-      "numParameters": 4847825408,
+      "lastModified": "2026-08-04T14:18:29.000Z",
+      "numParameters": 11078526194,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:42:43.975Z"
+  "fetchedAt": "2026-10-13T23:28:50.783Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "mask-generation",
   "sort": "downloads",
-  "totalItems": 322,
+  "totalItems": 323,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/sam3",
-      "downloads": 2054071,
-      "likes": 4156,
+      "downloads": 2037775,
+      "likes": 4246,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-11-20T22:05:08.000Z",
       "numParameters": 859922360,
@@ -17,8 +17,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-huge",
-      "downloads": 310097,
-      "likes": 202,
+      "downloads": 309860,
+      "likes": 204,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:32.000Z",
       "numParameters": 641090864,
@@ -27,8 +27,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam2.1-hiera-large",
-      "downloads": 267019,
-      "likes": 151,
+      "downloads": 269502,
+      "likes": 152,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:19:57.000Z",
       "numParameters": 224447154,
@@ -37,8 +37,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-base",
-      "downloads": 234967,
-      "likes": 178,
+      "downloads": 239601,
+      "likes": 179,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:17.000Z",
       "numParameters": 93735728,
@@ -46,19 +46,9 @@
     },
     {
       "author": "facebook",
-      "id": "facebook/sam2-hiera-base-plus",
-      "downloads": 140904,
-      "likes": 16,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2025-08-15T21:21:40.000Z",
-      "numParameters": 80834178,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
       "id": "facebook/sam2.1-hiera-small",
-      "downloads": 140903,
-      "likes": 20,
+      "downloads": 142511,
+      "likes": 22,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:18:57.000Z",
       "numParameters": 46060866,
@@ -66,9 +56,19 @@
     },
     {
       "author": "facebook",
+      "id": "facebook/sam2-hiera-base-plus",
+      "downloads": 140854,
+      "likes": 17,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2025-08-15T21:21:40.000Z",
+      "numParameters": 80834178,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
       "id": "facebook/sam2.1-hiera-tiny",
-      "downloads": 123640,
-      "likes": 27,
+      "downloads": 126094,
+      "likes": 28,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:18:13.000Z",
       "numParameters": 38963010,
@@ -77,8 +77,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam2.1-hiera-base-plus",
-      "downloads": 117005,
-      "likes": 24,
+      "downloads": 122479,
+      "likes": 26,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:19:27.000Z",
       "numParameters": 80850690,
@@ -87,7 +87,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/slimsam-77-uniform",
-      "downloads": 65634,
+      "downloads": 65665,
       "likes": 30,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:10:20.000Z",
@@ -97,8 +97,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam3.1",
-      "downloads": 56499,
-      "likes": 1029,
+      "downloads": 62136,
+      "likes": 1044,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-27T17:40:55.000Z",
       "numParameters": null,
@@ -107,7 +107,7 @@
     {
       "author": "syscv-community",
       "id": "syscv-community/sam-hq-vit-base",
-      "downloads": 33466,
+      "downloads": 32416,
       "likes": 12,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-05-10T09:50:24.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "yonigozlan",
       "id": "yonigozlan/EdgeTAM-hf",
-      "downloads": 26178,
+      "downloads": 25547,
       "likes": 72,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-11-06T04:05:20.000Z",
@@ -127,27 +127,17 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-large",
-      "downloads": 22420,
-      "likes": 37,
+      "downloads": 23059,
+      "likes": 39,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:46.000Z",
       "numParameters": 312343088,
       "repoType": "model"
     },
     {
-      "author": "vil-uob",
-      "id": "vil-uob/sam3-litetext-s0",
-      "downloads": 15315,
-      "likes": 20,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2026-05-08T16:09:57.000Z",
-      "numParameters": 529232438,
-      "repoType": "model"
-    },
-    {
       "author": "jetjodh",
       "id": "jetjodh/sam3",
-      "downloads": 14889,
+      "downloads": 15279,
       "likes": 12,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-11-25T01:58:30.000Z",
@@ -155,10 +145,20 @@
       "repoType": "model"
     },
     {
+      "author": "vil-uob",
+      "id": "vil-uob/sam3-litetext-s0",
+      "downloads": 15171,
+      "likes": 20,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2026-05-08T16:09:57.000Z",
+      "numParameters": 529232438,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/sam2-hiera-large",
-      "downloads": 14416,
-      "likes": 144,
+      "downloads": 15132,
+      "likes": 145,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:22:23.000Z",
       "numParameters": 224430642,
@@ -167,7 +167,7 @@
     {
       "author": "finegrain",
       "id": "finegrain/finegrain-box-segmenter",
-      "downloads": 14377,
+      "downloads": 14486,
       "likes": 130,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-09-11T07:04:37.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "Zigeng",
       "id": "Zigeng/SlimSAM-uniform-77",
-      "downloads": 13330,
+      "downloads": 13379,
       "likes": 32,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-11-08T07:55:33.000Z",
@@ -187,8 +187,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam2-hiera-tiny",
-      "downloads": 10260,
-      "likes": 32,
+      "downloads": 10330,
+      "likes": 33,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:20:41.000Z",
       "numParameters": 38946498,
@@ -197,7 +197,7 @@
     {
       "author": "tiiuae",
       "id": "tiiuae/Falcon-Perception",
-      "downloads": 8935,
+      "downloads": 8013,
       "likes": 146,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-08-20T10:20:58.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "wanglab",
       "id": "wanglab/medsam-vit-base",
-      "downloads": 5710,
+      "downloads": 5842,
       "likes": 24,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-03T07:03:04.000Z",
@@ -217,8 +217,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam2-hiera-small",
-      "downloads": 5077,
-      "likes": 18,
+      "downloads": 4624,
+      "likes": 20,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:21:06.000Z",
       "numParameters": 46044354,
@@ -227,7 +227,7 @@
     {
       "author": "flaviagiammarino",
       "id": "flaviagiammarino/medsam-vit-base",
-      "downloads": 4518,
+      "downloads": 4417,
       "likes": 17,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-07-13T15:43:56.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "apple",
       "id": "apple/coreml-sam2.1-tiny",
-      "downloads": 2337,
+      "downloads": 2370,
       "likes": 10,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-10-01T11:49:59.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-base",
-      "downloads": 2038,
+      "downloads": 2141,
       "likes": 8,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:08:56.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "fxmarty",
       "id": "fxmarty/sam-vit-tiny-random",
-      "downloads": 1931,
+      "downloads": 1910,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-04-20T12:42:14.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "Zigeng",
       "id": "Zigeng/SlimSAM-uniform-50",
-      "downloads": 1510,
+      "downloads": 1520,
       "likes": 15,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-11-08T07:57:08.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "nielsr",
       "id": "nielsr/slimsam-50-uniform",
-      "downloads": 1452,
+      "downloads": 1463,
       "likes": 3,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-08T12:58:09.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "nielsr",
       "id": "nielsr/slimsam-77-uniform",
-      "downloads": 1389,
+      "downloads": 1382,
       "likes": 6,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-08T12:36:06.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "apple",
       "id": "apple/coreml-sam2.1-baseplus",
-      "downloads": 1244,
+      "downloads": 1321,
       "likes": 3,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-10-01T11:49:13.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:42:37.875Z"
+  "fetchedAt": "2026-10-13T23:28:44.895Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "text-to-audio",
   "sort": "downloads",
-  "totalItems": 3555,
+  "totalItems": 3561,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/musicgen-medium",
-      "downloads": 1920054,
-      "likes": 171,
+      "downloads": 1922654,
+      "likes": 172,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2023-11-17T15:25:23.000Z",
       "numParameters": null,
@@ -17,7 +17,7 @@
     {
       "author": "audio-cpp",
       "id": "audio-cpp/MiniMax-Music3-GGUF",
-      "downloads": 591989,
+      "downloads": 580174,
       "likes": 32,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T03:35:26.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "audio-cpp",
       "id": "audio-cpp/Yue2-3B-GGUF",
-      "downloads": 193950,
+      "downloads": 189708,
       "likes": 93,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T03:22:56.000Z",
@@ -37,8 +37,8 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-small",
-      "downloads": 152358,
-      "likes": 519,
+      "downloads": 152305,
+      "likes": 520,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2023-11-17T13:56:10.000Z",
       "numParameters": 591087174,
@@ -47,7 +47,7 @@
     {
       "author": "CaptainArni",
       "id": "CaptainArni/audio.cpp-gguf",
-      "downloads": 133210,
+      "downloads": 129584,
       "likes": 0,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-09-05T19:40:26.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-large",
-      "downloads": 84442,
-      "likes": 542,
+      "downloads": 81706,
+      "likes": 543,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2023-11-17T15:25:38.000Z",
       "numParameters": null,
@@ -67,8 +67,8 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/Ace-Step1.5",
-      "downloads": 71174,
-      "likes": 899,
+      "downloads": 71789,
+      "likes": 902,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-03T11:37:37.000Z",
       "numParameters": null,
@@ -77,8 +77,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-3-medium",
-      "downloads": 63256,
-      "likes": 393,
+      "downloads": 61903,
+      "likes": 399,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T19:37:26.000Z",
       "numParameters": 2305495793,
@@ -87,7 +87,7 @@
     {
       "author": "alakxender",
       "id": "alakxender/mms-tts-div-finetuned-md-f01",
-      "downloads": 42991,
+      "downloads": 41575,
       "likes": 0,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2025-06-12T16:53:23.000Z",
@@ -97,8 +97,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-3-small-sfx",
-      "downloads": 39725,
-      "likes": 214,
+      "downloads": 40865,
+      "likes": 218,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T19:37:57.000Z",
       "numParameters": 567573761,
@@ -107,7 +107,7 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-3-optimized",
-      "downloads": 39571,
+      "downloads": 39965,
       "likes": 53,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-10T04:01:21.000Z",
@@ -115,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "m-a-p",
-      "id": "m-a-p/YuE2-3B",
-      "downloads": 36201,
-      "likes": 1134,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-10-06T07:30:41.000Z",
-      "numParameters": 3630684224,
-      "repoType": "model"
-    },
-    {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-3-small-music",
-      "downloads": 35932,
+      "downloads": 35920,
       "likes": 182,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T19:38:31.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "scragnog",
       "id": "scragnog/ace-step-1.5-gguf-merge-models",
-      "downloads": 33522,
+      "downloads": 35750,
       "likes": 11,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-05-03T08:25:35.000Z",
@@ -145,10 +135,20 @@
       "repoType": "model"
     },
     {
+      "author": "m-a-p",
+      "id": "m-a-p/YuE2-3B",
+      "downloads": 35669,
+      "likes": 1141,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-10-06T07:30:41.000Z",
+      "numParameters": 3630684224,
+      "repoType": "model"
+    },
+    {
       "author": "google",
       "id": "google/magenta-realtime-2",
-      "downloads": 25134,
-      "likes": 259,
+      "downloads": 26140,
+      "likes": 263,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-06-04T22:29:40.000Z",
       "numParameters": null,
@@ -157,8 +157,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-open-1.0",
-      "downloads": 19284,
-      "likes": 1741,
+      "downloads": 18890,
+      "likes": 1745,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2025-06-19T21:53:23.000Z",
       "numParameters": 1213448210,
@@ -167,8 +167,8 @@
     {
       "author": "facebook",
       "id": "facebook/musicgen-melody",
-      "downloads": 17252,
-      "likes": 263,
+      "downloads": 16633,
+      "likes": 265,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2024-04-24T12:27:39.000Z",
       "numParameters": 1557389894,
@@ -177,7 +177,7 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-5Hz-lm-4B",
-      "downloads": 13639,
+      "downloads": 13911,
       "likes": 55,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-03T06:30:44.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-5Hz-lm-0.6B",
-      "downloads": 12768,
+      "downloads": 12956,
       "likes": 18,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-02-03T06:30:22.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "ngquocvinh",
       "id": "ngquocvinh/YuE2-3B-GGUF",
-      "downloads": 10804,
+      "downloads": 10485,
       "likes": 4,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-09-13T14:08:01.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-audio-3-medium-base",
-      "downloads": 8621,
+      "downloads": 8741,
       "likes": 27,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-10-06T19:39:59.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "calcuis",
       "id": "calcuis/ace-gguf",
-      "downloads": 7428,
+      "downloads": 7550,
       "likes": 31,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2025-07-14T09:17:22.000Z",
@@ -225,20 +225,10 @@
       "repoType": "model"
     },
     {
-      "author": "thepatch",
-      "id": "thepatch/stable-audio-3-medium-GGUF",
-      "downloads": 6932,
-      "likes": 5,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-08-15T13:48:30.000Z",
-      "numParameters": 198144,
-      "repoType": "model"
-    },
-    {
       "author": "slseanwu",
       "id": "slseanwu/MIDI-LLM_Llama-3.2-1B",
-      "downloads": 6711,
-      "likes": 37,
+      "downloads": 7162,
+      "likes": 38,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-07-27T22:56:24.000Z",
       "numParameters": 1723885568,
@@ -247,7 +237,7 @@
     {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-v15-xl-turbo",
-      "downloads": 6586,
+      "downloads": 6666,
       "likes": 223,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-04-07T12:39:26.000Z",
@@ -255,19 +245,9 @@
       "repoType": "model"
     },
     {
-      "author": "MiniMaxAI",
-      "id": "MiniMaxAI/MiniMax-Music3",
-      "downloads": 6584,
-      "likes": 1442,
-      "pipeline_tag": "text-to-audio",
-      "lastModified": "2026-08-14T10:51:40.000Z",
-      "numParameters": 2431905920,
-      "repoType": "model"
-    },
-    {
       "author": "ACE-Step",
       "id": "ACE-Step/acestep-v15-xl-sft",
-      "downloads": 6553,
+      "downloads": 6653,
       "likes": 101,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2026-04-07T06:22:59.000Z",
@@ -275,19 +255,29 @@
       "repoType": "model"
     },
     {
-      "author": "sharjeel103",
-      "id": "sharjeel103/mms-tts-urdu-finetune",
-      "downloads": 5748,
-      "likes": 0,
+      "author": "thepatch",
+      "id": "thepatch/stable-audio-3-medium-GGUF",
+      "downloads": 6587,
+      "likes": 5,
       "pipeline_tag": "text-to-audio",
-      "lastModified": "2025-01-05T04:33:35.000Z",
-      "numParameters": 36288432,
+      "lastModified": "2026-08-15T13:48:30.000Z",
+      "numParameters": 198144,
+      "repoType": "model"
+    },
+    {
+      "author": "MiniMaxAI",
+      "id": "MiniMaxAI/MiniMax-Music3",
+      "downloads": 6498,
+      "likes": 1449,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2026-08-14T10:51:40.000Z",
+      "numParameters": 2431905920,
       "repoType": "model"
     },
     {
       "author": "espnet",
       "id": "espnet/fastspeech2_conformer",
-      "downloads": 5676,
+      "downloads": 5518,
       "likes": 7,
       "pipeline_tag": "text-to-audio",
       "lastModified": "2023-10-06T15:06:39.000Z",
@@ -295,15 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "facebook",
-      "id": "facebook/musicgen-stereo-large",
-      "downloads": 5509,
-      "likes": 103,
+      "author": "espnet",
+      "id": "espnet/fastspeech2_conformer_with_hifigan",
+      "downloads": 5228,
+      "likes": 2,
       "pipeline_tag": "text-to-audio",
-      "lastModified": "2024-03-06T14:53:14.000Z",
-      "numParameters": 3463332422,
+      "lastModified": "2023-10-05T21:36:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sharjeel103",
+      "id": "sharjeel103/mms-tts-urdu-finetune",
+      "downloads": 5216,
+      "likes": 0,
+      "pipeline_tag": "text-to-audio",
+      "lastModified": "2025-01-05T04:33:35.000Z",
+      "numParameters": 36288432,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:43:03.814Z"
+  "fetchedAt": "2026-10-13T23:29:10.340Z"
 }

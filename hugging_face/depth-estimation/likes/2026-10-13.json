@@ -7,7 +7,7 @@
     {
       "author": "apple",
       "id": "apple/DepthPro",
-      "downloads": 10540,
+      "downloads": 10551,
       "likes": 561,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-02-28T18:31:41.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-large",
-      "downloads": 35804,
+      "downloads": 35535,
       "likes": 208,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-24T11:22:17.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Large",
-      "downloads": 69133,
-      "likes": 180,
+      "downloads": 69815,
+      "likes": 181,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-08T09:15:44.000Z",
       "numParameters": null,
@@ -37,7 +37,7 @@
     {
       "author": "prs-eth",
       "id": "prs-eth/marigold-depth-v1-0",
-      "downloads": 10681,
+      "downloads": 10937,
       "likes": 143,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-05-20T15:50:52.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "tencent",
       "id": "tencent/DepthCrafter",
-      "downloads": 11617,
+      "downloads": 11650,
       "likes": 122,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-07-30T08:26:57.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "apple",
       "id": "apple/DepthPro-hf",
-      "downloads": 27436,
-      "likes": 112,
+      "downloads": 27692,
+      "likes": 113,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-02-28T18:31:40.000Z",
       "numParameters": 951991330,
@@ -77,7 +77,7 @@
     {
       "author": "Intel",
       "id": "Intel/dpt-hybrid-midas",
-      "downloads": 635332,
+      "downloads": 635138,
       "likes": 110,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-02-09T08:58:56.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "apple",
       "id": "apple/coreml-depth-anything-v2-small",
-      "downloads": 19575,
+      "downloads": 21651,
       "likes": 102,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-06-24T22:48:56.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Small",
-      "downloads": 22373,
+      "downloads": 22818,
       "likes": 85,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-08T09:15:27.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/dpt-dinov2-small-kitti",
-      "downloads": 23,
+      "downloads": 20,
       "likes": 69,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-10-08T13:54:32.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-large-hf",
-      "downloads": 211631,
+      "downloads": 215513,
       "likes": 66,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:13:11.000Z",
@@ -135,9 +135,19 @@
       "repoType": "model"
     },
     {
+      "author": "depth-anything",
+      "id": "depth-anything/Depth-Anything-V2-Small-hf",
+      "downloads": 2325454,
+      "likes": 60,
+      "pipeline_tag": "depth-estimation",
+      "lastModified": "2024-07-05T11:38:31.000Z",
+      "numParameters": 24785089,
+      "repoType": "model"
+    },
+    {
       "author": "prs-eth",
       "id": "prs-eth/marigold-depth-lcm-v1-0",
-      "downloads": 1591,
+      "downloads": 1592,
       "likes": 58,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-05-20T15:51:13.000Z",
@@ -146,18 +156,8 @@
     },
     {
       "author": "depth-anything",
-      "id": "depth-anything/Depth-Anything-V2-Small-hf",
-      "downloads": 2318674,
-      "likes": 56,
-      "pipeline_tag": "depth-estimation",
-      "lastModified": "2024-07-05T11:38:31.000Z",
-      "numParameters": 24785089,
-      "repoType": "model"
-    },
-    {
-      "author": "depth-anything",
       "id": "depth-anything/DA3NESTED-GIANT-LARGE",
-      "downloads": 27346,
+      "downloads": 27737,
       "likes": 54,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T11:36:25.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth_anything_vitl14",
-      "downloads": 2449,
+      "downloads": 2557,
       "likes": 43,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:07:57.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "apple",
       "id": "apple/coreml-depth-anything-small",
-      "downloads": 136,
+      "downloads": 120,
       "likes": 39,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-06-13T22:43:00.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "LiheYoung",
       "id": "LiheYoung/depth-anything-small-hf",
-      "downloads": 49471,
+      "downloads": 52487,
       "likes": 36,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-25T08:12:14.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "prs-eth",
       "id": "prs-eth/marigold-depth-v1-1",
-      "downloads": 5484,
+      "downloads": 5906,
       "likes": 34,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-05-20T15:49:57.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3NESTED-GIANT-LARGE-1.1",
-      "downloads": 132548,
+      "downloads": 135582,
       "likes": 34,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-12-11T12:54:39.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/Depth-Anything-V2-Large-hf",
-      "downloads": 130456,
+      "downloads": 134994,
       "likes": 33,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-07-05T11:30:29.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/depth-anything-v2-small",
-      "downloads": 104812,
+      "downloads": 106051,
       "likes": 31,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-04-14T09:53:47.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "facebook",
       "id": "facebook/dinov3-vitl16-chmv2-dpt-head",
-      "downloads": 1528,
+      "downloads": 1508,
       "likes": 29,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2026-03-11T14:32:24.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "depth-anything",
       "id": "depth-anything/DA3METRIC-LARGE",
-      "downloads": 355998,
+      "downloads": 338849,
       "likes": 28,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2025-11-13T18:50:36.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "jingheya",
       "id": "jingheya/lotus-depth-g-v1-0",
-      "downloads": 1336,
+      "downloads": 1230,
       "likes": 27,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-10-05T15:29:13.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "Intel",
       "id": "Intel/zoedepth-nyu-kitti",
-      "downloads": 50221,
+      "downloads": 50171,
       "likes": 26,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-05-20T15:06:27.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "vinvino02",
       "id": "vinvino02/glpn-nyu",
-      "downloads": 713,
+      "downloads": 738,
       "likes": 25,
       "pipeline_tag": "depth-estimation",
       "lastModified": "2024-01-22T21:21:37.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-10-13T01:42:05.557Z"
+  "fetchedAt": "2026-10-13T23:28:16.395Z"
 }
