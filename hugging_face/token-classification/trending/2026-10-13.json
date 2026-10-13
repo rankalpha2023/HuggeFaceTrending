@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 31058,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "nlpai-lab",
+      "id": "nlpai-lab/MixLID",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-12T11:03:40.000Z",
+      "numParameters": 140685426,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceBio",
+      "id": "HuggingFaceBio/Carbon-A-1.2B",
+      "downloads": 185,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-09T17:10:01.000Z",
+      "numParameters": 1153656832,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 330968,
+      "likes": 1791,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "nationaldesignstudio",
+      "id": "nationaldesignstudio/rampart",
+      "downloads": 24818,
+      "likes": 187,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-30T19:45:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sartajbhuvaji",
+      "id": "sartajbhuvaji/bert-named-entity-recognition",
+      "downloads": 48,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-05T02:35:27.000Z",
+      "numParameters": 108898569,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ForcedAligner-0.6B-hf",
+      "downloads": 71021,
+      "likes": 44,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-06-26T08:42:38.000Z",
+      "numParameters": 917728896,
+      "repoType": "model"
+    },
+    {
+      "author": "w11wo",
+      "id": "w11wo/indonesian-roberta-base-posp-tagger",
+      "downloads": 3310535,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-19T11:03:26.000Z",
+      "numParameters": 124075034,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1350763,
+      "likes": 742,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "ajtamayoh",
+      "id": "ajtamayoh/NLP-CIC-WFU_Clinical_Cases_NER_Paragraph_Tokenized_mBERT_cased_fine_tuned",
+      "downloads": 73,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-06-09T23:31:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpie",
+      "id": "nlpie/clinical-distilbert-i2b2-2010",
+      "downloads": 705,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-05-17T23:25:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+      "downloads": 160989,
+      "likes": 33,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:15.000Z",
+      "numParameters": 558945282,
+      "repoType": "model"
+    },
+    {
+      "author": "9pinus",
+      "id": "9pinus/macbert-base-chinese-medicine-recognition",
+      "downloads": 41,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-03-02T09:20:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-conll2003_pos",
+      "downloads": 15,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:22:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-ud_deprel",
+      "downloads": 15,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:36:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-ud_pos",
+      "downloads": 10,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:26:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-fce_error_detection",
+      "downloads": 14,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:39:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/electra-srb-ner-setimes",
+      "downloads": 30,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:34.000Z",
+      "numParameters": 108899850,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/electra-srb-ner",
+      "downloads": 31,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-04T08:14:22.000Z",
+      "numParameters": 108897543,
+      "repoType": "model"
+    },
+    {
+      "author": "AlexMaclean",
+      "id": "AlexMaclean/sentence-compression",
+      "downloads": 41,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-04T08:10:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NYTK",
+      "id": "NYTK/named-entity-recognition-nerkor-hubert-hungarian",
+      "downloads": 5400,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-01-12T10:21:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-with-radiology-reports-and-i2b2",
+      "downloads": 3878,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-11-23T19:46:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 1385247,
+      "likes": 87,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpie",
+      "id": "nlpie/clinical-mobilebert-i2b2-2010",
+      "downloads": 76,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-05-17T23:24:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mdarhri00",
+      "id": "mdarhri00/named-entity-recognition",
+      "downloads": 37,
+      "likes": 58,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-11-16T12:50:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "newsmediabias",
+      "id": "newsmediabias/UnBIAS-Named-Entity-Recognition",
+      "downloads": 78,
+      "likes": 17,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-07T23:40:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eventdata-utd",
+      "id": "eventdata-utd/conflibert-named-entity-recognition",
+      "downloads": 84,
+      "likes": 16,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-26T22:07:28.000Z",
+      "numParameters": 108506901,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER_Zero",
+      "downloads": 14166,
+      "likes": 115,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-26T13:28:29.000Z",
+      "numParameters": 448872192,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 21258,
+      "likes": 165,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 207125,
+      "likes": 99,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-28T00:55:39.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/PII-Tracer",
+      "downloads": 3353,
+      "likes": 73,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-22T17:28:05.000Z",
+      "numParameters": 596090241,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-13T01:43:12.243Z"
+}

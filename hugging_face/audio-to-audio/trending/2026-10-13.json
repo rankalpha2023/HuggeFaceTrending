@@ -1,0 +1,309 @@
+{
+  "category": "audio-to-audio",
+  "sort": "trending",
+  "totalItems": 1675,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "nvidia",
+      "id": "nvidia/personaplex-7b-v1",
+      "downloads": 165963,
+      "likes": 2822,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-02T18:03:29.000Z",
+      "numParameters": 8371408896,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/RE-USE",
+      "downloads": 8232,
+      "likes": 133,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-09T08:14:47.000Z",
+      "numParameters": 9607747,
+      "repoType": "model"
+    },
+    {
+      "author": "neuphonic",
+      "id": "neuphonic/neucodec",
+      "downloads": 52290,
+      "likes": 164,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-09-02T15:30:57.000Z",
+      "numParameters": 629937706,
+      "repoType": "model"
+    },
+    {
+      "author": "minori-live",
+      "id": "minori-live/revox-vocoder-1",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-07T10:39:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "neuphonic",
+      "id": "neuphonic/neucodec-onnx-decoder-int8",
+      "downloads": 848,
+      "likes": 14,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-08-26T15:25:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_24khz_100band_256x",
+      "downloads": 32192,
+      "likes": 27,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:36:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_44khz_128band_512x",
+      "downloads": 847917,
+      "likes": 80,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:35:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JusperLee",
+      "id": "JusperLee/Dolphin",
+      "downloads": 566,
+      "likes": 19,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-07-22T09:50:19.000Z",
+      "numParameters": 7036033,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 5603,
+      "likes": 471,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Real-time_RE-USE",
+      "downloads": 516,
+      "likes": 41,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-09T08:15:35.000Z",
+      "numParameters": 13475815,
+      "repoType": "model"
+    },
+    {
+      "author": "StemSplitio",
+      "id": "StemSplitio/htdemucs-ft-pytorch",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-20T21:15:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/personaplex-rl-seamless",
+      "downloads": 5448,
+      "likes": 42,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-06-11T14:42:23.000Z",
+      "numParameters": 8371408896,
+      "repoType": "model"
+    },
+    {
+      "author": "kandinskylab",
+      "id": "kandinskylab/KVAE-Audio",
+      "downloads": 168,
+      "likes": 61,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-08-10T13:39:15.000Z",
+      "numParameters": 166871218,
+      "repoType": "model"
+    },
+    {
+      "author": "Quran-Lab",
+      "id": "Quran-Lab/sawt-v4",
+      "downloads": 50,
+      "likes": 10,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-09-27T16:11:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "audio-cpp",
+      "id": "audio-cpp/SAM-Audio-GGUF",
+      "downloads": 87924,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-09-27T06:16:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Quran-Lab",
+      "id": "Quran-Lab/sawt-v5",
+      "downloads": 5,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-09T13:48:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/speecht5_vc",
+      "downloads": 989,
+      "likes": 115,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2023-03-22T20:10:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TLME",
+      "id": "TLME/RVC-Umamusume",
+      "downloads": 0,
+      "likes": 55,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2023-10-27T01:29:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IAHispano",
+      "id": "IAHispano/Applio",
+      "downloads": 236,
+      "likes": 219,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-12T21:15:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PersianSingers",
+      "id": "PersianSingers/RVC-models",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-04-04T02:21:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Nekochu",
+      "id": "Nekochu/RVC-VCTK_Voice-sample",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-14T05:31:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shikhr",
+      "id": "shikhr/music_maker",
+      "downloads": 44,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-12-28T20:39:09.000Z",
+      "numParameters": 44429824,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_22khz_80band_256x",
+      "downloads": 1223020,
+      "likes": 34,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:36:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_22khz_80band_fmax8k_256x",
+      "downloads": 1115,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:36:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_44khz_128band_256x",
+      "downloads": 1149,
+      "likes": 10,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:35:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_22khz_80band",
+      "downloads": 694,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:54:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_24khz_100band",
+      "downloads": 655,
+      "likes": 7,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T14:00:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_base_22khz_80band",
+      "downloads": 482,
+      "likes": 6,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:54:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_base_24khz_100band",
+      "downloads": 366,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:53:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-codec-speech-16k",
+      "downloads": 382,
+      "likes": 24,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-01-10T14:34:20.000Z",
+      "numParameters": 953436236,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-13T01:41:59.357Z"
+}
