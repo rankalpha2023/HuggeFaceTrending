@@ -1,0 +1,309 @@
+{
+  "category": "image-segmentation",
+  "sort": "trending",
+  "totalItems": 3654,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 396124,
+      "likes": 1527,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 264600,
+      "likes": 2049,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b2-finetuned-ade-512-512",
+      "downloads": 231096,
+      "likes": 13,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-06T10:07:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b4-finetuned-ade-512-512",
+      "downloads": 33488,
+      "likes": 8,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-06T10:25:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b5-finetuned-ade-640-640",
+      "downloads": 51358,
+      "likes": 52,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-06T10:25:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b5-finetuned-cityscapes-1024-1024",
+      "downloads": 22387,
+      "likes": 49,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-09T11:29:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-ade-semantic",
+      "downloads": 465137,
+      "likes": 29,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:35:29.000Z",
+      "numParameters": 215986594,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-tiny-ade-semantic",
+      "downloads": 11684,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-01-25T11:42:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens-seg-0.3b-torchscript",
+      "downloads": 1915,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-06T21:20:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NV-Segment-CT",
+      "downloads": 465,
+      "likes": 29,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-01T20:56:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-seg-0.4b",
+      "downloads": 10612,
+      "likes": 7,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-15T14:49:24.000Z",
+      "numParameters": 406601709,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-matting-1b",
+      "downloads": 2342,
+      "likes": 10,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-15T14:50:24.000Z",
+      "numParameters": 1539334340,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-panoptic",
+      "downloads": 13349,
+      "likes": 145,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-04-10T14:14:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-large-ade",
+      "downloads": 745,
+      "likes": 61,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-02-27T15:08:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-base-finetuned-ade-640-640",
+      "downloads": 7608,
+      "likes": 16,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-10-13T07:01:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-large-finetuned-ade-640-640",
+      "downloads": 13193,
+      "likes": 18,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-01-25T11:51:04.000Z",
+      "numParameters": 502815044,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b0-finetuned-cityscapes-512-1024",
+      "downloads": 5191,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-09T11:34:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b2-finetuned-cityscapes-1024-1024",
+      "downloads": 12125,
+      "likes": 5,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-09T11:34:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-base-coco-instance",
+      "downloads": 6865,
+      "likes": 7,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:38:41.000Z",
+      "numParameters": 107401946,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-small-coco-instance",
+      "downloads": 34172,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:39:26.000Z",
+      "numParameters": 68797252,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-cityscapes-panoptic",
+      "downloads": 1837,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T18:57:04.000Z",
+      "numParameters": 216003996,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-mapillary-vistas-semantic",
+      "downloads": 27655,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:32.000Z",
+      "numParameters": 215964664,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-mapillary-vistas-panoptic",
+      "downloads": 5633,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:31:16.000Z",
+      "numParameters": 216015864,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-tiny-cityscapes-instance",
+      "downloads": 10906,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:23:49.000Z",
+      "numParameters": 47431960,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-ade-panoptic",
+      "downloads": 5753,
+      "likes": 8,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:55.000Z",
+      "numParameters": 216037794,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-base-ade-semantic",
+      "downloads": 13889,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T13:46:21.000Z",
+      "numParameters": 107420006,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens-seg-foreground-1b-torchscript",
+      "downloads": 1803,
+      "likes": 7,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-06T21:21:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Kukulauren",
+      "id": "Kukulauren/3D_medical_imaging_dental",
+      "downloads": 0,
+      "likes": 13,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-12-30T15:25:07.000Z",
+      "numParameters": 5836198,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-seg-5b",
+      "downloads": 1843,
+      "likes": 9,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-06-15T14:49:39.000Z",
+      "numParameters": 5089588656,
+      "repoType": "model"
+    },
+    {
+      "author": "yokko123",
+      "id": "yokko123/ctp-core-penumbra-nnunet",
+      "downloads": 36,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-10-09T11:15:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-14T22:46:23.276Z"
+}
