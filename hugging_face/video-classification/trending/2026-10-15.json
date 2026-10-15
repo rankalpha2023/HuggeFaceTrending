@@ -1,0 +1,309 @@
+{
+  "category": "video-classification",
+  "sort": "trending",
+  "totalItems": 2242,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "google",
+      "id": "google/vivit-b-16x2",
+      "downloads": 39897,
+      "likes": 18,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-08-03T10:01:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-large-patch14-16-frames",
+      "downloads": 1036,
+      "likes": 11,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:09:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitl-fpc64-256",
+      "downloads": 327168,
+      "likes": 215,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:46:52.000Z",
+      "numParameters": 325971328,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch32",
+      "downloads": 90809,
+      "likes": 123,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-02-04T01:26:30.000Z",
+      "numParameters": 196585855,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/videoprism-base-f16r288",
+      "downloads": 2069,
+      "likes": 114,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-07-29T20:33:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/videoprism-lvt-large-f8r288",
+      "downloads": 1236,
+      "likes": 24,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-07-29T20:34:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Cosmos-Embed1-448p-anomaly-detection",
+      "downloads": 3652,
+      "likes": 19,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-10-08T00:29:47.000Z",
+      "numParameters": 1198007674,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch32-16-frames",
+      "downloads": 11596,
+      "likes": 9,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:45.000Z",
+      "numParameters": 196589951,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16",
+      "downloads": 10889,
+      "likes": 9,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:56.000Z",
+      "numParameters": 194929426,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-hmdb-2-shot",
+      "downloads": 94,
+      "likes": 3,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:46:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-hmdb-8-shot",
+      "downloads": 100,
+      "likes": 4,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:47:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-hmdb-16-shot",
+      "downloads": 91,
+      "likes": 4,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:47:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-ucf-2-shot",
+      "downloads": 97,
+      "likes": 4,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:49:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-ucf-16-shot",
+      "downloads": 94,
+      "likes": 5,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:54:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-zero-shot",
+      "downloads": 180983,
+      "likes": 31,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-09-12T12:13:40.000Z",
+      "numParameters": 194941714,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-kinetics-600",
+      "downloads": 411,
+      "likes": 7,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:40:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-kinetics-600-16-frames",
+      "downloads": 98,
+      "likes": 7,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:41:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vivit-b-16x2-kinetics400",
+      "downloads": 50681,
+      "likes": 44,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-08-03T10:01:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vitg-fpc64-256",
+      "downloads": 95514,
+      "likes": 60,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:47:31.000Z",
+      "numParameters": 1034555264,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/vjepa2-vith-fpc64-256",
+      "downloads": 2008,
+      "likes": 27,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-08-11T13:47:15.000Z",
+      "numParameters": 653930880,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/videoprism-lvt-base-f16r288",
+      "downloads": 1624,
+      "likes": 19,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2025-07-29T20:34:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "matu79go",
+      "id": "matu79go/Reflex-2",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2026-10-09T07:23:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-16-frames",
+      "downloads": 2098,
+      "likes": 3,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:07:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-large-patch14",
+      "downloads": 6017,
+      "likes": 19,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2024-10-28T06:59:35.000Z",
+      "numParameters": 575673934,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-hmdb-4-shot",
+      "downloads": 96,
+      "likes": 3,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:47:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-ucf-4-shot",
+      "downloads": 95,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:49:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-base-patch16-ucf-8-shot",
+      "downloads": 95,
+      "likes": 2,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:49:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/xclip-large-patch14-kinetics-600",
+      "downloads": 92,
+      "likes": 8,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-09-08T11:41:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/timesformer-base-finetuned-k400",
+      "downloads": 16826,
+      "likes": 46,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2023-01-02T11:43:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/timesformer-base-finetuned-k600",
+      "downloads": 13996,
+      "likes": 14,
+      "pipeline_tag": "video-classification",
+      "lastModified": "2022-12-12T12:52:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-15T22:45:11.009Z"
+}
