@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 5207,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "neuphonic",
+      "id": "neuphonic/neudecide",
+      "downloads": 651,
+      "likes": 77,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-09T13:41:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-24-ft-age-gender",
+      "downloads": 2287155,
+      "likes": 79,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-24T10:02:24.000Z",
+      "numParameters": 317542020,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-fused",
+      "downloads": 7645871,
+      "likes": 165,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-12T00:41:49.000Z",
+      "numParameters": 153558316,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1235269,
+      "likes": 381,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/audiobox-aesthetics",
+      "downloads": 491088,
+      "likes": 55,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-04T21:32:30.000Z",
+      "numParameters": 103859112,
+      "repoType": "model"
+    },
+    {
+      "author": "theboringai-work",
+      "id": "theboringai-work/surround-sound",
+      "downloads": 79,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-14T08:35:58.000Z",
+      "numParameters": 6828710,
+      "repoType": "model"
+    },
+    {
+      "author": "AustinXiao",
+      "id": "AustinXiao/voxturn",
+      "downloads": 72,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-15T03:11:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AkshaySg",
+      "id": "AkshaySg/langid",
+      "downloads": 8,
+      "likes": 11,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T12:38:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-4017",
+      "downloads": 17065,
+      "likes": 20,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:56.000Z",
+      "numParameters": 970077745,
+      "repoType": "model"
+    },
+    {
+      "author": "ehcalabres",
+      "id": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition",
+      "downloads": 13268,
+      "likes": 260,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-10-24T13:29:57.000Z",
+      "numParameters": 316496520,
+      "repoType": "model"
+    },
+    {
+      "author": "harshit345",
+      "id": "harshit345/xlsr-wav2vec-speech-emotion-recognition",
+      "downloads": 486,
+      "likes": 69,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-12-12T20:53:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lopushanskyy",
+      "id": "lopushanskyy/music-generation",
+      "downloads": 106,
+      "likes": 11,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-05-30T01:24:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "m-a-p",
+      "id": "m-a-p/MERT-v1-95M",
+      "downloads": 230153,
+      "likes": 62,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-25T05:03:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "xbgoose",
+      "id": "xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned",
+      "downloads": 238802,
+      "likes": 23,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-04-26T20:07:32.000Z",
+      "numParameters": 315702405,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-126",
+      "downloads": 21583,
+      "likes": 38,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:15:48.000Z",
+      "numParameters": 966089470,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-256",
+      "downloads": 29974,
+      "likes": 22,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:04.000Z",
+      "numParameters": 966222720,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-512",
+      "downloads": 708,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:19.000Z",
+      "numParameters": 966485120,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-1024",
+      "downloads": 353286,
+      "likes": 13,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:18:46.000Z",
+      "numParameters": 967009920,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-2048",
+      "downloads": 3993,
+      "likes": 6,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:47.000Z",
+      "numParameters": 968059520,
+      "repoType": "model"
+    },
+    {
+      "author": "firdhokk",
+      "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+      "downloads": 1620,
+      "likes": 128,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-01T03:19:07.000Z",
+      "numParameters": 637298695,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Common-Voice-Gender-Detection",
+      "downloads": 187450,
+      "likes": 35,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-12T02:21:55.000Z",
+      "numParameters": 94569090,
+      "repoType": "model"
+    },
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
+      "downloads": 50568,
+      "likes": 198,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-07-23T07:52:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AmeerHesham",
+      "id": "AmeerHesham/distilhubert-finetuned-baby_cry",
+      "downloads": 159,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-07T17:27:03.000Z",
+      "numParameters": 23690117,
+      "repoType": "model"
+    },
+    {
+      "author": "Lajavaness",
+      "id": "Lajavaness/wav2vec2-lg-xlsr-fr-speech-emotion-recognition",
+      "downloads": 323,
+      "likes": 21,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-04-25T14:48:59.000Z",
+      "numParameters": 315702405,
+      "repoType": "model"
+    },
+    {
+      "author": "forwarder1121",
+      "id": "forwarder1121/ast-finetuned-model",
+      "downloads": 99,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-11-17T08:29:18.000Z",
+      "numParameters": 86193414,
+      "repoType": "model"
+    },
+    {
+      "author": "litagin",
+      "id": "litagin/anime_speech_emotion_classification",
+      "downloads": 139,
+      "likes": 7,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-06-28T00:52:23.000Z",
+      "numParameters": 164549514,
+      "repoType": "model"
+    },
+    {
+      "author": "Etherll",
+      "id": "Etherll/NoisySpeechDetection-v0.2",
+      "downloads": 133,
+      "likes": 11,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-06-11T12:49:40.000Z",
+      "numParameters": 88351490,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedLID",
+      "downloads": 349,
+      "likes": 24,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-13T03:44:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jianshu001",
+      "id": "Jianshu001/wavlm-phoneme-scorer",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-31T03:42:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AbijahKaj",
+      "id": "AbijahKaj/whisper-telephony-amd",
+      "downloads": 1808,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-04-30T14:33:44.000Z",
+      "numParameters": 8307972,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-16T22:16:57.488Z"
+}
