@@ -1,0 +1,309 @@
+{
+  "category": "image-text-to-text",
+  "sort": "trending",
+  "totalItems": 43063,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 10233,
+      "likes": 1312,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T05:46:55.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "downloads": 57935,
+      "likes": 1005,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T16:33:30.000Z",
+      "numParameters": 35212875824,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Spark-Open-816B-A42B",
+      "downloads": 1809,
+      "likes": 539,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T15:46:43.000Z",
+      "numParameters": 822036529664,
+      "repoType": "model"
+    },
+    {
+      "author": "baidu",
+      "id": "baidu/Unlimited-OCR",
+      "downloads": 1652742,
+      "likes": 4791,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-14T06:17:59.000Z",
+      "numParameters": 3336106240,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.7-1B",
+      "downloads": 22689,
+      "likes": 385,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T16:34:32.000Z",
+      "numParameters": 1554476272,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 7695206,
+      "likes": 17955,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T15:00:01.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "downloads": 4876,
+      "likes": 212,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T19:45:54.000Z",
+      "numParameters": 96486615005,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 2485835,
+      "likes": 6327,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-27T05:03:36.000Z",
+      "numParameters": 179999981459,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 1316711,
+      "likes": 4633,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T09:27:28.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "nerkyor",
+      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "downloads": 256336,
+      "likes": 431,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-18T15:45:42.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
+      "downloads": 160184,
+      "likes": 164,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T08:41:01.000Z",
+      "numParameters": 34659889792,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Spark-Open-816B-A42B-NVFP4",
+      "downloads": 2875,
+      "likes": 173,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T17:18:42.000Z",
+      "numParameters": 483807947264,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "downloads": 7599,
+      "likes": 153,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T23:39:43.000Z",
+      "numParameters": 65769840138,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "downloads": 1762401,
+      "likes": 1862,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T22:34:07.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "orcarouter",
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "downloads": 808181,
+      "likes": 955,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-18T13:59:35.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "Cloudflare",
+      "id": "Cloudflare/clef",
+      "downloads": 21094,
+      "likes": 2214,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-09T18:46:56.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/d1-3B",
+      "downloads": 21223,
+      "likes": 448,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-07T20:23:00.000Z",
+      "numParameters": 3123483888,
+      "repoType": "model"
+    },
+    {
+      "author": "dealignai",
+      "id": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "downloads": 52944,
+      "likes": 712,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-11T21:11:08.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
+      "downloads": 5444,
+      "likes": 122,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T18:09:19.000Z",
+      "numParameters": 22367086600,
+      "repoType": "model"
+    },
+    {
+      "author": "ISTA-DASLab",
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "downloads": 5767951,
+      "likes": 936,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-29T10:28:23.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "downloads": 2350251,
+      "likes": 1901,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-17T22:02:10.000Z",
+      "numParameters": 1863907840,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF",
+      "downloads": 62993,
+      "likes": 94,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T18:10:28.000Z",
+      "numParameters": 74042720848,
+      "repoType": "model"
+    },
+    {
+      "author": "ISTA-DASLab",
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 1374874,
+      "likes": 2261,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-02T09:11:34.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
+      "downloads": 67396,
+      "likes": 93,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T16:04:11.000Z",
+      "numParameters": 1470621184,
+      "repoType": "model"
+    },
+    {
+      "author": "SC117",
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "downloads": 1773110,
+      "likes": 308,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-03T12:52:36.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.7-1B-gguf",
+      "downloads": 47404,
+      "likes": 86,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T07:24:12.000Z",
+      "numParameters": 1006209856,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/GLM-5.3-Flash-FP4-Local",
+      "downloads": 1304,
+      "likes": 81,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T20:28:36.000Z",
+      "numParameters": 175239203374,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
+      "downloads": 189339,
+      "likes": 158,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T22:46:13.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "huihui-ai",
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "downloads": 2362309,
+      "likes": 1381,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-10T04:51:31.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+      "downloads": 11591,
+      "likes": 74,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T23:39:54.000Z",
+      "numParameters": 124453395976,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-18T22:00:09.386Z"
+}

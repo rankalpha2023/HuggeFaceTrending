@@ -1,0 +1,309 @@
+{
+  "category": "summarization",
+  "sort": "trending",
+  "totalItems": 2987,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "google",
+      "id": "google/bigbird-pegasus-large-arxiv",
+      "downloads": 6824,
+      "likes": 71,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:36:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-arxiv",
+      "downloads": 894,
+      "likes": 7,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-billsum",
+      "downloads": 540,
+      "likes": 8,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-xsum",
+      "downloads": 28254,
+      "likes": 230,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-ilpost",
+      "downloads": 97,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:14.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-mlsum",
+      "downloads": 88,
+      "likes": 5,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:07.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_php",
+      "downloads": 135,
+      "likes": 11,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T04:34:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-cnn_dailymail",
+      "downloads": 4297,
+      "likes": 116,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/roberta2roberta_L-24_bbc",
+      "downloads": 336,
+      "likes": 7,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:43:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/ssr-base",
+      "downloads": 180,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:56:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mrm8488",
+      "id": "mrm8488/bert2bert_shared-spanish-finetuned-summarization",
+      "downloads": 1357,
+      "likes": 39,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-05-02T18:59:18.000Z",
+      "numParameters": 138841882,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-fanpage-64",
+      "downloads": 47,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-10-25T12:47:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/it5-summarization-fanpage",
+      "downloads": 136,
+      "likes": 4,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:22.000Z",
+      "numParameters": 247539456,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-fanpage",
+      "downloads": 55,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:38.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-ilpost",
+      "downloads": 51,
+      "likes": 3,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:42:56.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "ARTeLab",
+      "id": "ARTeLab/mbart-summarization-mlsum",
+      "downloads": 80,
+      "likes": 4,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-09-12T13:43:29.000Z",
+      "numParameters": 611101867,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_javascript_transfer_learning_finetune",
+      "downloads": 296,
+      "likes": 10,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T04:33:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_small_code_documentation_generation_javascript_transfer_learning_finetune",
+      "downloads": 182,
+      "likes": 11,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T10:06:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/bart-large-cnn",
+      "downloads": 1292976,
+      "likes": 1640,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-02-13T18:02:05.000Z",
+      "numParameters": 406290432,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/bart-large-xsum",
+      "downloads": 4290,
+      "likes": 39,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:28:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/bigbird-pegasus-large-bigpatent",
+      "downloads": 562,
+      "likes": 43,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:36:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/bigbird-pegasus-large-pubmed",
+      "downloads": 2784,
+      "likes": 49,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:36:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-large",
+      "downloads": 7139,
+      "likes": 111,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-multi_news",
+      "downloads": 388,
+      "likes": 28,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/pegasus-pubmed",
+      "downloads": 443,
+      "likes": 11,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-01-24T16:42:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "eenzeenee",
+      "id": "eenzeenee/t5-base-korean-summarization",
+      "downloads": 425,
+      "likes": 38,
+      "pipeline_tag": "summarization",
+      "lastModified": "2023-05-21T03:49:27.000Z",
+      "numParameters": 275579136,
+      "repoType": "model"
+    },
+    {
+      "author": "stjiris",
+      "id": "stjiris/t5-portuguese-legal-summarization",
+      "downloads": 95,
+      "likes": 22,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-10-24T20:39:37.000Z",
+      "numParameters": 222903552,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/text_summarization",
+      "downloads": 23567,
+      "likes": 326,
+      "pipeline_tag": "summarization",
+      "lastModified": "2024-02-17T07:55:14.000Z",
+      "numParameters": 60506624,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_php_multitask",
+      "downloads": 136,
+      "likes": 8,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T04:36:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SEBIS",
+      "id": "SEBIS/code_trans_t5_base_code_documentation_generation_python",
+      "downloads": 182,
+      "likes": 21,
+      "pipeline_tag": "summarization",
+      "lastModified": "2021-06-23T04:43:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-18T22:00:34.728Z"
+}
