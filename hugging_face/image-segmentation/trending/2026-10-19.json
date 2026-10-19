@@ -1,0 +1,309 @@
+{
+  "category": "image-segmentation",
+  "sort": "trending",
+  "totalItems": 3720,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 387981,
+      "likes": 1547,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 752484,
+      "likes": 655,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:55.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-ade-panoptic",
+      "downloads": 6416,
+      "likes": 9,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:55.000Z",
+      "numParameters": 216037794,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-ade-semantic",
+      "downloads": 460496,
+      "likes": 31,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:35:29.000Z",
+      "numParameters": 215986594,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens-seg-1b-torchscript",
+      "downloads": 1979,
+      "likes": 8,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-06T21:21:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Kukulauren",
+      "id": "Kukulauren/3D_medical_imaging_dental",
+      "downloads": 0,
+      "likes": 14,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-12-30T15:25:07.000Z",
+      "numParameters": 5836198,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayoutV3",
+      "downloads": 41751,
+      "likes": 121,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-09-30T04:59:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-tiny-coco",
+      "downloads": 17530,
+      "likes": 9,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:34:36.000Z",
+      "numParameters": 41783122,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b0-finetuned-cityscapes-1024-1024",
+      "downloads": 16059,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-08T13:43:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b0-finetuned-cityscapes-512-1024",
+      "downloads": 5158,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-09T11:34:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b5-finetuned-ade-640-640",
+      "downloads": 49936,
+      "likes": 52,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-06T10:25:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonathandinu",
+      "id": "jonathandinu/face-parsing",
+      "downloads": 198338,
+      "likes": 230,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-18T22:38:54.000Z",
+      "numParameters": 84609491,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/deeplabv3_mobilenet_v2_1.0_513",
+      "downloads": 338,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-11-10T16:28:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shi-labs",
+      "id": "shi-labs/oneformer_ade20k_swin_large",
+      "downloads": 57015,
+      "likes": 39,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-01-19T14:36:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-coco-panoptic",
+      "downloads": 11644,
+      "likes": 35,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-02-07T12:46:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-cityscapes-semantic",
+      "downloads": 430654,
+      "likes": 40,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:38:57.000Z",
+      "numParameters": 215952796,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mask2former-swin-large-mapillary-vistas-semantic",
+      "downloads": 32730,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:32.000Z",
+      "numParameters": 215964664,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 256056,
+      "likes": 2050,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/MediaPipe-Selfie-Segmentation",
+      "downloads": 289,
+      "likes": 10,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-10-07T00:01:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Thalirajesh",
+      "id": "Thalirajesh/Aerial-Drone-Image-Segmentation",
+      "downloads": 196,
+      "likes": 14,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-03-25T21:05:15.000Z",
+      "numParameters": 3720824,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/FCN-ResNet50",
+      "downloads": 85,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-10-07T00:18:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/BiRefNet-ONNX",
+      "downloads": 1569,
+      "likes": 25,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-03-07T11:29:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens-seg-foreground-1b-torchscript",
+      "downloads": 1809,
+      "likes": 7,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-06T21:21:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PramaLLC",
+      "id": "PramaLLC/BEN",
+      "downloads": 55,
+      "likes": 96,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-01-26T01:27:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Keyven",
+      "id": "Keyven/AnomalyDetection-MVTech-Metal",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-11-29T14:38:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PramaLLC",
+      "id": "PramaLLC/BEN2",
+      "downloads": 101430,
+      "likes": 250,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-12-31T17:17:52.000Z",
+      "numParameters": 94632322,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet_HR",
+      "downloads": 50886,
+      "likes": 83,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:53.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/ormbg-ONNX",
+      "downloads": 25153,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-14T13:06:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/HRNet-W48-OCR",
+      "downloads": 68,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-10-07T00:18:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lorebianchi98",
+      "id": "lorebianchi98/Talk2DINO-ViTL",
+      "downloads": 222,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-10-07T15:27:14.000Z",
+      "numParameters": 455568609,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-19T23:11:08.985Z"
+}
