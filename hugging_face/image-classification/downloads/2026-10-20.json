@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "downloads",
+  "totalItems": 29882,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 19016303,
+      "likes": 152,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 13481671,
+      "likes": 1039,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Gender-Classifier-Mini",
+      "downloads": 5402417,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-28T03:10:26.000Z",
+      "numParameters": 92885762,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet18.a1_in1k",
+      "downloads": 2038451,
+      "likes": 27,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:13:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/tf_efficientnetv2_s.in21k_ft_in1k",
+      "downloads": 1744161,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:20:45.000Z",
+      "numParameters": 21612360,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 1692687,
+      "likes": 1210,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-07T08:55:17.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet50.a1_in1k",
+      "downloads": 1487127,
+      "likes": 49,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-07-11T18:17:03.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "rizvandwiki",
+      "id": "rizvandwiki/gender-classification",
+      "downloads": 1388671,
+      "likes": 72,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-05-18T11:16:33.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "amunchet",
+      "id": "amunchet/rorshark-vit-base",
+      "downloads": 866607,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-18T20:58:42.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet34.a1_in1k",
+      "downloads": 787758,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:39:27.000Z",
+      "numParameters": 21814696,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_tiny.in12k_ft_in1k",
+      "downloads": 765302,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:16:24.000Z",
+      "numParameters": 28589128,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/efficientnet_b0.ra_in1k",
+      "downloads": 752002,
+      "likes": 14,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:16:51.000Z",
+      "numParameters": 5330564,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/vit-base-nsfw-detector",
+      "downloads": 745446,
+      "likes": 91,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-03T14:14:31.000Z",
+      "numParameters": 86092034,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 638843,
+      "likes": 92,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/wide_resnet50_2.racm_in1k",
+      "downloads": 613770,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:45:51.000Z",
+      "numParameters": 68951464,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/repvgg_a0.rvgg_in1k",
+      "downloads": 584916,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:10:22.000Z",
+      "numParameters": 9132616,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_base_patch16_224.augreg2_in21k_ft_in1k",
+      "downloads": 443119,
+      "likes": 14,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-20T16:09:05.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swinv2-tiny-patch4-window16-256",
+      "downloads": 397638,
+      "likes": 20,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-12-10T10:09:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Marqo",
+      "id": "Marqo/nsfw-image-detection-384",
+      "downloads": 365588,
+      "likes": 63,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-11-27T23:13:33.000Z",
+      "numParameters": 5597762,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_small_patch16_224.augreg_in21k_ft_in1k",
+      "downloads": 338759,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T19:16:38.000Z",
+      "numParameters": 22050664,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 316235,
+      "likes": 526,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "Freepik",
+      "id": "Freepik/nsfw_image_detector",
+      "downloads": 313359,
+      "likes": 63,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-09T09:04:50.000Z",
+      "numParameters": 86351620,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnextv2_large.fcmae_ft_in22k_in1k_384",
+      "downloads": 290537,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:15:57.000Z",
+      "numParameters": 197956840,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_tiny.fb_in22k_ft_in1k",
+      "downloads": 275556,
+      "likes": 0,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:14:53.000Z",
+      "numParameters": 28589128,
+      "repoType": "model"
+    },
+    {
+      "author": "BVRA",
+      "id": "BVRA/MegaDescriptor-T-224",
+      "downloads": 267724,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-01-05T01:37:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_base_patch8_224.augreg2_in21k_ft_in1k",
+      "downloads": 258278,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T19:14:27.000Z",
+      "numParameters": 86576872,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_small.fb_in22k_ft_in1k_384",
+      "downloads": 236788,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:14:46.000Z",
+      "numParameters": 50223688,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet18.a3_in1k",
+      "downloads": 218289,
+      "likes": 0,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:38:56.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/convnext_base.fb_in22k_ft_in1k",
+      "downloads": 203440,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:14:07.000Z",
+      "numParameters": 88591464,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/densenet201.tv_in1k",
+      "downloads": 199026,
+      "likes": 0,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:04:48.000Z",
+      "numParameters": 20242984,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-20T22:45:33.846Z"
+}
