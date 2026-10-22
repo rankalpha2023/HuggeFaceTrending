@@ -1,0 +1,309 @@
+{
+  "category": "models",
+  "sort": "trending",
+  "totalItems": 3179030,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 51911,
+      "likes": 2349,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T05:46:55.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "downloads": 512524,
+      "likes": 1294,
+      "pipeline_tag": "image-to-image",
+      "lastModified": "2026-10-17T07:10:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Image-SFT",
+      "downloads": 6890,
+      "likes": 574,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-10-21T01:52:00.000Z",
+      "numParameters": 5082308624,
+      "repoType": "model"
+    },
+    {
+      "author": "RecursiveSI",
+      "id": "RecursiveSI/flint",
+      "downloads": 420,
+      "likes": 521,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-21T14:24:03.000Z",
+      "numParameters": 39785287456,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Image-Base",
+      "downloads": 5013,
+      "likes": 484,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-10-21T01:51:54.000Z",
+      "numParameters": 5082308624,
+      "repoType": "model"
+    },
+    {
+      "author": "fishaudio",
+      "id": "fishaudio/drama-3",
+      "downloads": 16305,
+      "likes": 914,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-17T05:06:07.000Z",
+      "numParameters": 35899643008,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.5",
+      "downloads": 2054990,
+      "likes": 8893,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-10-11T07:00:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-models",
+      "id": "meta-models/Muse-Spark-Open-816B-A42B",
+      "downloads": 3163,
+      "likes": 659,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T15:46:43.000Z",
+      "numParameters": 822036529664,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/flux-3-image-klein",
+      "downloads": 102903,
+      "likes": 635,
+      "pipeline_tag": "image-to-image",
+      "lastModified": "2026-10-16T04:58:03.000Z",
+      "numParameters": 5548681984,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/embeddinggemma-2",
+      "downloads": 185259,
+      "likes": 2842,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-10-06T15:29:23.000Z",
+      "numParameters": 744371512,
+      "repoType": "model"
+    },
+    {
+      "author": "Comfy-Org",
+      "id": "Comfy-Org/MOSS-Image",
+      "downloads": 1463386,
+      "likes": 362,
+      "pipeline_tag": "",
+      "lastModified": "2026-10-22T05:20:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jialinyyzz",
+      "id": "jialinyyzz/humanizer",
+      "downloads": 124773,
+      "likes": 2093,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-15T02:09:56.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "abenzerps",
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "downloads": 2665585,
+      "likes": 4827,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-10-12T07:10:55.000Z",
+      "numParameters": 7115124736,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 7758670,
+      "likes": 18210,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T15:00:01.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-Memory-30B-A3B",
+      "downloads": 2966,
+      "likes": 286,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-16T08:12:51.000Z",
+      "numParameters": 30064725888,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "downloads": 10519,
+      "likes": 312,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T19:45:54.000Z",
+      "numParameters": 96486615005,
+      "repoType": "model"
+    },
+    {
+      "author": "datalab-to",
+      "id": "datalab-to/indra-ocr",
+      "downloads": 3823,
+      "likes": 366,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-10-19T14:36:52.000Z",
+      "numParameters": 1250566,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Timestral-209M",
+      "downloads": 6194,
+      "likes": 284,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-10-15T15:33:49.000Z",
+      "numParameters": 209312256,
+      "repoType": "model"
+    },
+    {
+      "author": "XHToken",
+      "id": "XHToken/Spark-X2.6-4B",
+      "downloads": 482,
+      "likes": 244,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-21T08:51:53.000Z",
+      "numParameters": 4112079360,
+      "repoType": "model"
+    },
+    {
+      "author": "dealignai",
+      "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "downloads": 3808,
+      "likes": 253,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-18T12:45:29.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "reflection",
+      "id": "reflection/Beam-1.0-501B-A23B",
+      "downloads": 3984,
+      "likes": 226,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-21T23:26:37.000Z",
+      "numParameters": 501267612352,
+      "repoType": "model"
+    },
+    {
+      "author": "InternScience",
+      "id": "InternScience/Sage-A1.5",
+      "downloads": 396,
+      "likes": 221,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-22T14:08:48.000Z",
+      "numParameters": 35951822704,
+      "repoType": "model"
+    },
+    {
+      "author": "lodestones",
+      "id": "lodestones/Kromoss",
+      "downloads": 14415,
+      "likes": 224,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-10-20T14:31:08.000Z",
+      "numParameters": 5082308624,
+      "repoType": "model"
+    },
+    {
+      "author": "lodestones",
+      "id": "lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "downloads": 75389,
+      "likes": 201,
+      "pipeline_tag": "",
+      "lastModified": "2026-10-17T03:44:54.000Z",
+      "numParameters": 5082308624,
+      "repoType": "model"
+    },
+    {
+      "author": "orcarouter",
+      "id": "orcarouter/OrcaCyber-Nano-1.0",
+      "downloads": 21727,
+      "likes": 188,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-22T03:16:13.000Z",
+      "numParameters": 1924404480,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sam3",
+      "downloads": 1864206,
+      "likes": 4911,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2025-11-20T22:05:08.000Z",
+      "numParameters": 859922360,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "downloads": 3375,
+      "likes": 163,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-16T23:54:11.000Z",
+      "numParameters": 3975229440,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 2706809,
+      "likes": 6408,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-27T05:03:36.000Z",
+      "numParameters": 179999981459,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-24B-A2B",
+      "downloads": 17637,
+      "likes": 560,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-21T01:14:14.000Z",
+      "numParameters": 23971585280,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/flint-GGUF",
+      "downloads": 7401,
+      "likes": 147,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-10-21T23:54:26.000Z",
+      "numParameters": 39785287456,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-22T22:49:29.288Z"
+}
