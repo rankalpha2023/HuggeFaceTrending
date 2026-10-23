@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 31218,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/PII-Tracer",
+      "downloads": 4890,
+      "likes": 90,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-22T17:28:05.000Z",
+      "numParameters": 596090241,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 211835,
+      "likes": 1813,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "QuantumNous",
+      "id": "QuantumNous/astrlink-guard",
+      "downloads": 247,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-23T04:11:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-conll2000",
+      "downloads": 98,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:22:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/eu-pii-anonimization-multilang-v2",
+      "downloads": 211,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-10-19T09:45:46.000Z",
+      "numParameters": 307584839,
+      "repoType": "model"
+    },
+    {
+      "author": "9pinus",
+      "id": "9pinus/macbert-base-chinese-medicine-recognition",
+      "downloads": 38,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-03-02T09:20:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-conll2003_pos",
+      "downloads": 83,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:22:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-ud_deprel",
+      "downloads": 88,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:36:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-pmb_sem_tagging",
+      "downloads": 8,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:40:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/bert-srb-ner",
+      "downloads": 32,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:15.000Z",
+      "numParameters": 107725575,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/distilbert-srb-ner-setimes",
+      "downloads": 25,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:25.000Z",
+      "numParameters": 81527050,
+      "repoType": "model"
+    },
+    {
+      "author": "AlexMaclean",
+      "id": "AlexMaclean/sentence-compression-roberta",
+      "downloads": 38,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-06T04:22:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 618486,
+      "likes": 64,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 153635,
+      "likes": 102,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-28T00:55:39.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-v2-base",
+      "downloads": 2211,
+      "likes": 34,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-17T22:40:17.000Z",
+      "numParameters": 153379075,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-fce_error_detection",
+      "downloads": 86,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:32:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-mit_movie_trivia",
+      "downloads": 87,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:32:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-pmb_sem_tagging",
+      "downloads": 80,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:33:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-wnut_17",
+      "downloads": 21,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:27:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-conll2000",
+      "downloads": 8,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:28:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-conll2003",
+      "downloads": 18,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:28:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-fce_error_detection",
+      "downloads": 14,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:39:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-ud_deprel",
+      "downloads": 11,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:44:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-ud_pos",
+      "downloads": 6,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:32:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-wnut_17",
+      "downloads": 9,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:33:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/bert-srb-ner-setimes",
+      "downloads": 35,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-18T10:00:41.000Z",
+      "numParameters": 107727882,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/distilbert-srb-ner",
+      "downloads": 20,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-09-09T06:27:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/electra-srb-ner-setimes",
+      "downloads": 32,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:34.000Z",
+      "numParameters": 108899850,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/electra-srb-ner",
+      "downloads": 31,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-04T08:14:22.000Z",
+      "numParameters": 108897543,
+      "repoType": "model"
+    },
+    {
+      "author": "AlexMaclean",
+      "id": "AlexMaclean/sentence-compression",
+      "downloads": 34,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-04T08:10:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-23T22:43:15.501Z"
+}
