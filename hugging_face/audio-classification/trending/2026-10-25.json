@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 5347,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "laion",
+      "id": "laion/clap-htsat-fused",
+      "downloads": 7104330,
+      "likes": 174,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-01-12T00:41:49.000Z",
+      "numParameters": 153558316,
+      "repoType": "model"
+    },
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
+      "downloads": 51204,
+      "likes": 203,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-07-23T07:52:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lopushanskyy",
+      "id": "lopushanskyy/music-generation",
+      "downloads": 176,
+      "likes": 16,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2022-05-30T01:24:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ayousanz",
+      "id": "ayousanz/KoeAct-JP",
+      "downloads": 10,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-25T13:04:13.000Z",
+      "numParameters": 2590941,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1361528,
+      "likes": 384,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "xmj2002",
+      "id": "xmj2002/hubert-base-ch-speech-emotion-recognition",
+      "downloads": 646,
+      "likes": 61,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-05-16T02:27:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-1024",
+      "downloads": 348154,
+      "likes": 15,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:18:46.000Z",
+      "numParameters": 967009920,
+      "repoType": "model"
+    },
+    {
+      "author": "mispeech",
+      "id": "mispeech/ced-base",
+      "downloads": 14328,
+      "likes": 19,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-30T12:33:12.000Z",
+      "numParameters": 85711887,
+      "repoType": "model"
+    },
+    {
+      "author": "firdhokk",
+      "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+      "downloads": 1376,
+      "likes": 131,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-01T03:19:07.000Z",
+      "numParameters": 637298695,
+      "repoType": "model"
+    },
+    {
+      "author": "neuphonic",
+      "id": "neuphonic/neudecide",
+      "downloads": 772,
+      "likes": 80,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-09T13:41:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "theboringai-work",
+      "id": "theboringai-work/surround-sound",
+      "downloads": 111,
+      "likes": 7,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-14T08:35:58.000Z",
+      "numParameters": 6828710,
+      "repoType": "model"
+    },
+    {
+      "author": "AustinXiao",
+      "id": "AustinXiao/voxturn",
+      "downloads": 185,
+      "likes": 6,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-15T03:11:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ehcalabres",
+      "id": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition",
+      "downloads": 12368,
+      "likes": 261,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-10-24T13:29:57.000Z",
+      "numParameters": 316496520,
+      "repoType": "model"
+    },
+    {
+      "author": "harshit345",
+      "id": "harshit345/xlsr-wav2vec-speech-emotion-recognition",
+      "downloads": 402,
+      "likes": 71,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-12-12T20:53:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "superb",
+      "id": "superb/wav2vec2-base-superb-ks",
+      "downloads": 8076,
+      "likes": 20,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2021-11-04T16:03:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "m-a-p",
+      "id": "m-a-p/MERT-v1-95M",
+      "downloads": 112406,
+      "likes": 63,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-25T05:03:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "m-a-p",
+      "id": "m-a-p/MERT-v1-330M",
+      "downloads": 93414,
+      "likes": 101,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-25T05:04:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/mms-lid-4017",
+      "downloads": 19299,
+      "likes": 21,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-06-13T10:16:56.000Z",
+      "numParameters": 970077745,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/music_genres_classification",
+      "downloads": 1683,
+      "likes": 41,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-10-19T10:57:45.000Z",
+      "numParameters": 94571146,
+      "repoType": "model"
+    },
+    {
+      "author": "mispeech",
+      "id": "mispeech/ced-small",
+      "downloads": 967,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-30T12:32:03.000Z",
+      "numParameters": 21622671,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/voxcelebs12_ecapa_wavlm_joint",
+      "downloads": 6068,
+      "likes": 7,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-18T04:19:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lajavaness",
+      "id": "Lajavaness/wav2vec2-lg-xlsr-fr-speech-emotion-recognition",
+      "downloads": 221,
+      "likes": 22,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-04-25T14:48:59.000Z",
+      "numParameters": 315702405,
+      "repoType": "model"
+    },
+    {
+      "author": "JaesungHuh",
+      "id": "JaesungHuh/voice-gender-classifier",
+      "downloads": 46690,
+      "likes": 43,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-04T11:09:00.000Z",
+      "numParameters": 15471682,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMuQ",
+      "id": "OpenMuQ/MuQ-MuLan-large",
+      "downloads": 79566,
+      "likes": 29,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-08-21T19:00:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/audiobox-aesthetics",
+      "downloads": 439899,
+      "likes": 57,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-04T21:32:30.000Z",
+      "numParameters": 103859112,
+      "repoType": "model"
+    },
+    {
+      "author": "AGI-Eval",
+      "id": "AGI-Eval/Auto-ATT",
+      "downloads": 147,
+      "likes": 10,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-16T10:52:46.000Z",
+      "numParameters": 8397094912,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedLID",
+      "downloads": 411,
+      "likes": 25,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-13T03:44:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dolphinteam",
+      "id": "dolphinteam/OpenWhistle-CNN-VGG16",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-29T08:01:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lab260",
+      "id": "lab260/redimnet2-plus",
+      "downloads": 172,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-11T08:59:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/wav2vec2-keyword-spotting",
+      "downloads": 150,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-08T08:55:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-25T22:08:11.376Z"
+}
