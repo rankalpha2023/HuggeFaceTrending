@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 29976,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v1.0",
+      "downloads": 34808,
+      "likes": 140,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-22T05:35:47.000Z",
+      "numParameters": 486346909,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Gender-Classifier-Mini",
+      "downloads": 8466096,
+      "likes": 18,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-28T03:10:26.000Z",
+      "numParameters": 92885762,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/eye",
+      "downloads": 897,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-27T16:04:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ATH-MaaS",
+      "id": "ATH-MaaS/TextVerifier-CJK-CLIP",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-22T02:58:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 14864966,
+      "likes": 1046,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/mobilenet_v2_1.0_224",
+      "downloads": 76986,
+      "likes": 57,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-10-31T13:40:16.000Z",
+      "numParameters": 3540265,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet18.a1_in1k",
+      "downloads": 2102039,
+      "likes": 31,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:13:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnet50.a1_in1k",
+      "downloads": 1554448,
+      "likes": 53,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-07-11T18:17:03.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "amunchet",
+      "id": "amunchet/rorshark-vit-base",
+      "downloads": 845294,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-18T20:58:42.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "inference4j",
+      "id": "inference4j/efficientnet-lite4",
+      "downloads": 0,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-02-13T23:43:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aftabhussain",
+      "id": "Aftabhussain/Tomato_Leaf_Classifier",
+      "downloads": 24,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2021-09-13T04:14:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AkshatSurolia",
+      "id": "AkshatSurolia/DeiT-FaceMask-Finetuned",
+      "downloads": 26,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-02-18T13:10:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-tiny-224",
+      "downloads": 40273,
+      "likes": 33,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-13T19:40:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-384",
+      "downloads": 25848,
+      "likes": 57,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-11T20:46:00.000Z",
+      "numParameters": 86859496,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-large-patch16-224",
+      "downloads": 25928,
+      "likes": 57,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-06-23T07:50:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-large-patch32-384",
+      "downloads": 8806,
+      "likes": 23,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-01-28T10:24:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-base-patch16-384",
+      "downloads": 419,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-01-28T10:19:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/beit-large-patch16-512",
+      "downloads": 364,
+      "likes": 21,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-01-28T10:20:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-base-patch4-window7-224",
+      "downloads": 36802,
+      "likes": 34,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-10T18:04:03.000Z",
+      "numParameters": 87825848,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-large-patch4-window7-224",
+      "downloads": 2962,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-05-16T19:58:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/dit-base-finetuned-rvlcdip",
+      "downloads": 78665,
+      "likes": 47,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-10T14:31:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/dit-large-finetuned-rvlcdip",
+      "downloads": 6035,
+      "likes": 18,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-10T14:31:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 827309,
+      "likes": 95,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 256792,
+      "likes": 530,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swinv2-tiny-patch4-window16-256",
+      "downloads": 383912,
+      "likes": 23,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-12-10T10:09:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swinv2-base-patch4-window12-192-22k",
+      "downloads": 4869,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-12-10T10:10:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "rizvandwiki",
+      "id": "rizvandwiki/gender-classification",
+      "downloads": 1374214,
+      "likes": 75,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-05-18T11:16:33.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-hybrid-base-bit-384",
+      "downloads": 481,
+      "likes": 12,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-11T20:45:52.000Z",
+      "numParameters": 98950952,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/tf_efficientnetv2_s.in21k_ft_in1k",
+      "downloads": 2293501,
+      "likes": 16,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:20:45.000Z",
+      "numParameters": 21612360,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/efficientnet-b0",
+      "downloads": 4269,
+      "likes": 53,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-17T10:05:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-27T23:17:47.314Z"
+}

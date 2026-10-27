@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 31267,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/PII-Tracer",
+      "downloads": 5965,
+      "likes": 92,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-22T17:28:05.000Z",
+      "numParameters": 596090241,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 147600,
+      "likes": 1815,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-only-radiology-reports",
+      "downloads": 21,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-11-23T19:45:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 697275,
+      "likes": 65,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-conll2000",
+      "downloads": 99,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:22:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-fce_error_detection",
+      "downloads": 87,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:32:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-pmb_sem_tagging",
+      "downloads": 83,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:33:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-ud_deprel",
+      "downloads": 86,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:36:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/bert-base-uncased-pf-wnut_17",
+      "downloads": 18,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:27:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-conll2000",
+      "downloads": 6,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:28:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-conll2003",
+      "downloads": 18,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:28:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-pmb_sem_tagging",
+      "downloads": 10,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:40:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-ud_deprel",
+      "downloads": 10,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-15T10:44:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-ud_pos",
+      "downloads": 5,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:32:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-wnut_17",
+      "downloads": 11,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-11-24T16:33:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/bert-srb-ner-setimes",
+      "downloads": 41,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-12-18T10:00:41.000Z",
+      "numParameters": 107727882,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/bert-srb-ner",
+      "downloads": 40,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:15.000Z",
+      "numParameters": 107725575,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/distilbert-srb-ner-setimes",
+      "downloads": 27,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-12T13:05:25.000Z",
+      "numParameters": 81527050,
+      "repoType": "model"
+    },
+    {
+      "author": "Aleksandar",
+      "id": "Aleksandar/electra-srb-ner",
+      "downloads": 29,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-04T08:14:22.000Z",
+      "numParameters": 108897543,
+      "repoType": "model"
+    },
+    {
+      "author": "AlexMaclean",
+      "id": "AlexMaclean/sentence-compression-roberta",
+      "downloads": 47,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-06T04:22:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AlexMaclean",
+      "id": "AlexMaclean/sentence-compression",
+      "downloads": 42,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2021-12-04T08:10:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dhtocks",
+      "id": "dhtocks/Named-Entity-Recognition",
+      "downloads": 9,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-01-15T11:22:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1107059,
+      "likes": 746,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "w11wo",
+      "id": "w11wo/indonesian-roberta-base-posp-tagger",
+      "downloads": 3457132,
+      "likes": 21,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-19T11:03:26.000Z",
+      "numParameters": 124075034,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-only-radiology-reports-augmented",
+      "downloads": 124,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-11-23T19:45:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 1422198,
+      "likes": 94,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpie",
+      "id": "nlpie/clinical-mobilebert-i2b2-2010",
+      "downloads": 116,
+      "likes": 13,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-05-17T23:24:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+      "downloads": 103500,
+      "likes": 37,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:15.000Z",
+      "numParameters": 558945282,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 165821,
+      "likes": 103,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-28T00:55:39.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/PII-Tracer-MLX",
+      "downloads": 10239,
+      "likes": 7,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-09-22T17:28:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-27T23:18:40.625Z"
+}
