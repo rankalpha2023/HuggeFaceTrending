@@ -1,0 +1,309 @@
+{
+  "category": "automatic-speech-recognition",
+  "sort": "trending",
+  "totalItems": 38565,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "downloads": 4276,
+      "likes": 402,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-29T23:04:39.000Z",
+      "numParameters": 33697781029,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-community-1",
+      "downloads": 5204400,
+      "likes": 3563,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2025-09-29T08:43:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/speaker-diarization-3.1",
+      "downloads": 7080784,
+      "likes": 4741,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-05-10T19:43:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ConwayResearch",
+      "id": "ConwayResearch/Underdog-Bark-3.0",
+      "downloads": 341,
+      "likes": 82,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-15T07:29:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Cactus-Compute",
+      "id": "Cactus-Compute/whistle",
+      "downloads": 65406,
+      "likes": 532,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-18T16:58:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FermionResearch",
+      "id": "FermionResearch/Phonon-2.5",
+      "downloads": 801,
+      "likes": 41,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-28T18:33:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ConwayResearch",
+      "id": "ConwayResearch/Underdog-Bark-3.0-Clean",
+      "downloads": 0,
+      "likes": 67,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-15T07:16:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ConwayResearch",
+      "id": "ConwayResearch/Underdog-Bark-3.0-Pro",
+      "downloads": 1659,
+      "likes": 43,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-15T07:05:51.000Z",
+      "numParameters": 627057286,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-labs-unified-asr-0.6b",
+      "downloads": 275,
+      "likes": 26,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-27T13:33:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-5.0-2b",
+      "downloads": 4650,
+      "likes": 66,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-26T21:06:47.000Z",
+      "numParameters": 2313207132,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3",
+      "downloads": 3655530,
+      "likes": 6711,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-08-12T10:20:10.000Z",
+      "numParameters": 1543490560,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "downloads": 837510,
+      "likes": 1246,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-09-10T16:49:07.000Z",
+      "numParameters": 637997088,
+      "repoType": "model"
+    },
+    {
+      "author": "FermionResearch",
+      "id": "FermionResearch/Phonon-2.5-English",
+      "downloads": 595,
+      "likes": 19,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-28T18:33:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-5.0-470m-turboctc",
+      "downloads": 61328,
+      "likes": 111,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-21T21:30:36.000Z",
+      "numParameters": 472993792,
+      "repoType": "model"
+    },
+    {
+      "author": "AtomicChat",
+      "id": "AtomicChat/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF",
+      "downloads": 1476,
+      "likes": 15,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-28T21:27:22.000Z",
+      "numParameters": 32913266240,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/parakeet-tdt-0.6b-v3",
+      "downloads": 582958,
+      "likes": 1237,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-08-05T21:46:17.000Z",
+      "numParameters": 627057286,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/whisper-large-v3-turbo",
+      "downloads": 5780450,
+      "likes": 3490,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-04T14:51:11.000Z",
+      "numParameters": 808878080,
+      "repoType": "model"
+    },
+    {
+      "author": "qnguyen3",
+      "id": "qnguyen3/QUAN-Transcribe-1.0",
+      "downloads": 755,
+      "likes": 71,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-14T03:59:50.000Z",
+      "numParameters": 101738068,
+      "repoType": "model"
+    },
+    {
+      "author": "erayyapagci",
+      "id": "erayyapagci/balbal-v1",
+      "downloads": 433,
+      "likes": 19,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-29T12:58:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ggerganov",
+      "id": "ggerganov/whisper.cpp",
+      "downloads": 0,
+      "likes": 1670,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2024-10-29T18:25:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "oruk",
+      "id": "oruk/oruk-loop-153M",
+      "downloads": 50,
+      "likes": 12,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-26T17:52:24.000Z",
+      "numParameters": 153428522,
+      "repoType": "model"
+    },
+    {
+      "author": "akhaliq",
+      "id": "akhaliq/nemotron-3.5-transcribe-mini-64e",
+      "downloads": 105,
+      "likes": 12,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-29T06:04:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-ASR-1.7B",
+      "downloads": 1450813,
+      "likes": 1215,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-01-30T03:00:12.000Z",
+      "numParameters": 2349217408,
+      "repoType": "model"
+    },
+    {
+      "author": "nineninesix",
+      "id": "nineninesix/tyger",
+      "downloads": 841,
+      "likes": 94,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-16T18:29:56.000Z",
+      "numParameters": 651988520,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-speech-5.0-470m-turboctc-nc",
+      "downloads": 37978,
+      "likes": 46,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-02T15:32:29.000Z",
+      "numParameters": 472993792,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/indic-conformer-600m-multilingual",
+      "downloads": 243501,
+      "likes": 254,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-08T08:47:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "downloads": 97756,
+      "likes": 1215,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-07T11:55:35.000Z",
+      "numParameters": 2065804048,
+      "repoType": "model"
+    },
+    {
+      "author": "FermionResearch",
+      "id": "FermionResearch/Phonon-2",
+      "downloads": 12413,
+      "likes": 372,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-23T12:37:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-NVFP4",
+      "downloads": 202,
+      "likes": 8,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2026-10-29T23:04:44.000Z",
+      "numParameters": 18710697253,
+      "repoType": "model"
+    },
+    {
+      "author": "Systran",
+      "id": "Systran/faster-whisper-large-v3",
+      "downloads": 1427672,
+      "likes": 703,
+      "pipeline_tag": "automatic-speech-recognition",
+      "lastModified": "2023-11-23T09:41:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-29T23:40:53.011Z"
+}
