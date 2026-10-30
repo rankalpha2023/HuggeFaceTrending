@@ -1,0 +1,309 @@
+{
+  "category": "sentence-similarity",
+  "sort": "trending",
+  "totalItems": 20669,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "downloads": 186334547,
+      "likes": 6045,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-01T06:29:13.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-m3",
+      "downloads": 30192732,
+      "likes": 3948,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-07-03T14:50:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/embeddinggemma-300m",
+      "downloads": 1381726,
+      "likes": 2075,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-09-25T15:11:17.000Z",
+      "numParameters": 302863104,
+      "repoType": "model"
+    },
+    {
+      "author": "kakaocorp",
+      "id": "kakaocorp/kanana-2-3b-embedding",
+      "downloads": 114,
+      "likes": 10,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-22T04:34:29.000Z",
+      "numParameters": 3180636672,
+      "repoType": "model"
+    },
+    {
+      "author": "VAGOsolutions",
+      "id": "VAGOsolutions/SauerkrautLM-MoEdernColBERT-115M",
+      "downloads": 137,
+      "likes": 10,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-23T15:25:22.000Z",
+      "numParameters": 114565504,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-small",
+      "downloads": 9298068,
+      "likes": 479,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:16:05.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Embedding-8B",
+      "downloads": 1109850,
+      "likes": 514,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-16T08:55:18.000Z",
+      "numParameters": 8144793840,
+      "repoType": "model"
+    },
+    {
+      "author": "turintech",
+      "id": "turintech/embeddinggemma-2-Artemis-GGUF",
+      "downloads": 578,
+      "likes": 8,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-26T09:22:59.000Z",
+      "numParameters": 271002648,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Embedding-2B",
+      "downloads": 622066,
+      "likes": 491,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-16T08:54:25.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "hotchpotch",
+      "id": "hotchpotch/bekko-static-embedding-v1",
+      "downloads": 0,
+      "likes": 19,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-21T03:55:10.000Z",
+      "numParameters": 204800000,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpai-lab",
+      "id": "nlpai-lab/KURE-v3",
+      "downloads": 834,
+      "likes": 24,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-21T08:20:21.000Z",
+      "numParameters": 1140918272,
+      "repoType": "model"
+    },
+    {
+      "author": "VAGOsolutions",
+      "id": "VAGOsolutions/SauerkrautLM-MoEdernColBERT-27M",
+      "downloads": 80,
+      "likes": 6,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-23T15:25:17.000Z",
+      "numParameters": 27042080,
+      "repoType": "model"
+    },
+    {
+      "author": "GeniusVoice",
+      "id": "GeniusVoice/gv-semanticsearch-dutch-cased",
+      "downloads": 164,
+      "likes": 18,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2021-08-29T20:28:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Sakil",
+      "id": "Sakil/sentence_similarity_semantic_search",
+      "downloads": 171,
+      "likes": 42,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2023-12-19T20:18:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "agentic-in",
+      "id": "agentic-in/elephant-embeddings-v1-multimodal-large",
+      "downloads": 71,
+      "likes": 11,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-05-19T03:44:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kakaocorp",
+      "id": "kakaocorp/kanana-2-1.3b-embedding",
+      "downloads": 136,
+      "likes": 4,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-22T04:34:31.000Z",
+      "numParameters": 1291478272,
+      "repoType": "model"
+    },
+    {
+      "author": "hotchpotch",
+      "id": "hotchpotch/bekko-embedding-v1-a8m",
+      "downloads": 4737,
+      "likes": 28,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-05T01:30:32.000Z",
+      "numParameters": 105975168,
+      "repoType": "model"
+    },
+    {
+      "author": "VAGOsolutions",
+      "id": "VAGOsolutions/SauerkrautLM-MoEdernColBERT-1.5M",
+      "downloads": 157,
+      "likes": 4,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-23T15:25:12.000Z",
+      "numParameters": 1468064,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 33435635,
+      "likes": 1495,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-01-28T10:02:26.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "AnnaWegmann",
+      "id": "AnnaWegmann/Style-Embedding",
+      "downloads": 6148,
+      "likes": 28,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-10-23T08:53:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-base",
+      "downloads": 5291445,
+      "likes": 419,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:13:31.000Z",
+      "numParameters": 278044162,
+      "repoType": "model"
+    },
+    {
+      "author": "SeyedAli",
+      "id": "SeyedAli/Multilingual-Text-Semantic-Search-Siamese-BERT-V1",
+      "downloads": 130,
+      "likes": 16,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2023-11-18T20:09:19.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/embeddinggemma-300m",
+      "downloads": 1374,
+      "likes": 95,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-07T03:24:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Octen",
+      "id": "Octen/Octen-Embedding-0.6B",
+      "downloads": 14301,
+      "likes": 59,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-10T06:46:44.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Embed-8B-BF16",
+      "downloads": 143969,
+      "likes": 112,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-28T15:59:43.000Z",
+      "numParameters": 7952683008,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpai-lab",
+      "id": "nlpai-lab/KURE-v2",
+      "downloads": 3966,
+      "likes": 27,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-07T06:35:44.000Z",
+      "numParameters": 148733184,
+      "repoType": "model"
+    },
+    {
+      "author": "HukukcuApp",
+      "id": "HukukcuApp/tr-legal-embedding-gemma-2",
+      "downloads": 176,
+      "likes": 7,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-13T13:05:01.000Z",
+      "numParameters": 271002648,
+      "repoType": "model"
+    },
+    {
+      "author": "papr-ai",
+      "id": "papr-ai/papr-embed-code-1-4b",
+      "downloads": 26,
+      "likes": 3,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-10-21T17:44:49.000Z",
+      "numParameters": 4021774336,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/LaBSE",
+      "downloads": 714340,
+      "likes": 351,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:40:25.000Z",
+      "numParameters": 470927360,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-distilroberta-v1",
+      "downloads": 2805375,
+      "likes": 56,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:35:55.000Z",
+      "numParameters": 82118914,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-10-30T23:20:52.308Z"
+}
