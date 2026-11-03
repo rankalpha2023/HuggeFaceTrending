@@ -1,0 +1,309 @@
+{
+  "category": "text-to-speech",
+  "sort": "downloads",
+  "totalItems": 9274,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "hexgrad",
+      "id": "hexgrad/Kokoro-82M",
+      "downloads": 11366340,
+      "likes": 7332,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-04-10T18:12:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "audio-cpp",
+      "id": "audio-cpp/audio.cpp-gguf",
+      "downloads": 8003097,
+      "likes": 296,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-27T01:38:47.000Z",
+      "numParameters": 16578590,
+      "repoType": "model"
+    },
+    {
+      "author": "coqui",
+      "id": "coqui/XTTS-v2",
+      "downloads": 5965681,
+      "likes": 3930,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2023-12-11T17:50:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "k2-fsa",
+      "id": "k2-fsa/OmniVoice",
+      "downloads": 2928673,
+      "likes": 1646,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-07-03T03:32:17.000Z",
+      "numParameters": 612577288,
+      "repoType": "model"
+    },
+    {
+      "author": "ResembleAI",
+      "id": "ResembleAI/chatterbox",
+      "downloads": 2203606,
+      "likes": 1887,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-06-10T21:16:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pnnbao-ump",
+      "id": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+      "downloads": 1900754,
+      "likes": 94,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-09-23T03:54:31.000Z",
+      "numParameters": 130907520,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "downloads": 1719207,
+      "likes": 2193,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-29T08:00:54.000Z",
+      "numParameters": 1916676352,
+      "repoType": "model"
+    },
+    {
+      "author": "remsky",
+      "id": "remsky/kokoro-inno-clone-tuner",
+      "downloads": 1415963,
+      "likes": 36,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-30T14:55:08.000Z",
+      "numParameters": 9653396,
+      "repoType": "model"
+    },
+    {
+      "author": "SWivid",
+      "id": "SWivid/F5-TTS",
+      "downloads": 1258143,
+      "likes": 1226,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-03-21T05:05:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/VoxCPM2",
+      "downloads": 969017,
+      "likes": 1747,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-08-18T07:37:17.000Z",
+      "numParameters": 2290004544,
+      "repoType": "model"
+    },
+    {
+      "author": "Serveurperso",
+      "id": "Serveurperso/Qwen3-TTS-GGUF",
+      "downloads": 924311,
+      "likes": 65,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-09-09T15:05:30.000Z",
+      "numParameters": 914643008,
+      "repoType": "model"
+    },
+    {
+      "author": "drbaph",
+      "id": "drbaph/Higgs-Audio-v3-Studio",
+      "downloads": 920748,
+      "likes": 9,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-07-06T18:23:55.000Z",
+      "numParameters": 4654850537,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice",
+      "downloads": 766108,
+      "likes": 210,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-29T08:01:51.000Z",
+      "numParameters": 905788672,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+      "downloads": 764023,
+      "likes": 362,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-29T08:01:19.000Z",
+      "numParameters": 914643008,
+      "repoType": "model"
+    },
+    {
+      "author": "HoppouAI",
+      "id": "HoppouAI/Breeze-TTS-2.cpp",
+      "downloads": 750269,
+      "likes": 40,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-08-28T08:45:14.000Z",
+      "numParameters": 3011962721,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/Kokoro-82M-v1.0-ONNX",
+      "downloads": 739369,
+      "likes": 286,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-02-08T12:15:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "downloads": 534542,
+      "likes": 467,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-29T08:04:19.000Z",
+      "numParameters": 1916676352,
+      "repoType": "model"
+    },
+    {
+      "author": "ampixa",
+      "id": "ampixa/sanoTTS",
+      "downloads": 519274,
+      "likes": 76,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-09-10T15:25:39.000Z",
+      "numParameters": 294279,
+      "repoType": "model"
+    },
+    {
+      "author": "Jmica",
+      "id": "Jmica/Drama-3-GGUF",
+      "downloads": 393018,
+      "likes": 35,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-16T06:49:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "audio-cpp",
+      "id": "audio-cpp/AuK-Base-and-Flash-GGUF",
+      "downloads": 289741,
+      "likes": 7,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-09-21T14:18:04.000Z",
+      "numParameters": 1530538629,
+      "repoType": "model"
+    },
+    {
+      "author": "FunAudioLLM",
+      "id": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
+      "downloads": 262996,
+      "likes": 679,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-02-03T07:58:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-Realtime-0.5B",
+      "downloads": 259681,
+      "likes": 1309,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-12-12T15:35:46.000Z",
+      "numParameters": 1017626722,
+      "repoType": "model"
+    },
+    {
+      "author": "KittenML",
+      "id": "KittenML/kitten-tts-nano-0.8-fp32",
+      "downloads": 235503,
+      "likes": 40,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-30T02:31:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "speechbrain",
+      "id": "speechbrain/tts-hifigan-libritts-22050Hz",
+      "downloads": 233312,
+      "likes": 6,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2024-02-25T19:57:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/chatterbox-turbo-4bit",
+      "downloads": 220403,
+      "likes": 9,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-12-17T20:06:59.000Z",
+      "numParameters": 625976322,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-1.5B",
+      "downloads": 203968,
+      "likes": 2510,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-22T07:22:28.000Z",
+      "numParameters": 2704021985,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-TTS-Local-Transformer",
+      "downloads": 151348,
+      "likes": 32,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-03-20T08:24:57.000Z",
+      "numParameters": 3060606464,
+      "repoType": "model"
+    },
+    {
+      "author": "pnnbao-ump",
+      "id": "pnnbao-ump/VieNeu-TTS-0.3B-q4-gguf",
+      "downloads": 142209,
+      "likes": 7,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-03-13T02:05:01.000Z",
+      "numParameters": 294201088,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/indic-parler-tts",
+      "downloads": 125627,
+      "likes": 509,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-06T08:46:50.000Z",
+      "numParameters": 937803241,
+      "repoType": "model"
+    },
+    {
+      "author": "myshell-ai",
+      "id": "myshell-ai/MeloTTS-English",
+      "downloads": 123722,
+      "likes": 316,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2024-12-24T19:18:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-03T01:54:54.526Z"
+}

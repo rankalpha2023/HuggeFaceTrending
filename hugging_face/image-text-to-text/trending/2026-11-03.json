@@ -1,0 +1,309 @@
+{
+  "category": "image-text-to-text",
+  "sort": "trending",
+  "totalItems": 45350,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 177009,
+      "likes": 4706,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T05:46:55.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "mistralai",
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 5500,
+      "likes": 1501,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T18:30:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "baidu",
+      "id": "baidu/Unlimited-OCR-2",
+      "downloads": 147588,
+      "likes": 563,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T06:55:38.000Z",
+      "numParameters": 3343978497,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 7915637,
+      "likes": 19015,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-14T15:00:01.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM3-VL-2B",
+      "downloads": 10141,
+      "likes": 218,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-28T23:16:11.000Z",
+      "numParameters": 1918181888,
+      "repoType": "model"
+    },
+    {
+      "author": "sensenova",
+      "id": "sensenova/SenseNova-Loop-9B-Preview",
+      "downloads": 1536,
+      "likes": 187,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T15:43:56.000Z",
+      "numParameters": 9656250480,
+      "repoType": "model"
+    },
+    {
+      "author": "xiaomi-research",
+      "id": "xiaomi-research/Xiaomi-OCR-0",
+      "downloads": 18472,
+      "likes": 246,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-29T02:17:14.000Z",
+      "numParameters": 873438784,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/d1-2B",
+      "downloads": 5047,
+      "likes": 189,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-29T14:55:57.000Z",
+      "numParameters": 1918181888,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "downloads": 1356658,
+      "likes": 2341,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T22:34:07.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "downloads": 510726,
+      "likes": 314,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T15:03:31.000Z",
+      "numParameters": 748494643824,
+      "repoType": "model"
+    },
+    {
+      "author": "SC117",
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "downloads": 3553530,
+      "likes": 626,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-24T10:10:42.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Mage-VL-Cowork",
+      "downloads": 1152,
+      "likes": 143,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-30T12:14:43.000Z",
+      "numParameters": 4741793792,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+      "downloads": 1839,
+      "likes": 138,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-30T18:24:56.000Z",
+      "numParameters": 664898390994,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "downloads": 3929164,
+      "likes": 6721,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-27T05:03:36.000Z",
+      "numParameters": 179999981459,
+      "repoType": "model"
+    },
+    {
+      "author": "huihui-ai",
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "downloads": 3249724,
+      "likes": 1692,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-10T04:51:31.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "MiniMaxAI",
+      "id": "MiniMaxAI/MiniMax-M3.1-Flash",
+      "downloads": 23530,
+      "likes": 541,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-30T08:44:16.000Z",
+      "numParameters": 220490854016,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-OCR-1.0",
+      "downloads": 4191,
+      "likes": 403,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T14:11:27.000Z",
+      "numParameters": 1300434160,
+      "repoType": "model"
+    },
+    {
+      "author": "ISTA-DASLab",
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "downloads": 1308259,
+      "likes": 2505,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-02T09:11:34.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "dealignai",
+      "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "downloads": 12441,
+      "likes": 539,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-18T12:45:29.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "downloads": 1967913,
+      "likes": 1342,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T22:33:16.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-OCR-Jev",
+      "downloads": 2523,
+      "likes": 88,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T04:13:10.000Z",
+      "numParameters": 2213245760,
+      "repoType": "model"
+    },
+    {
+      "author": "sensenova",
+      "id": "sensenova/SenseNova-6.8-Code2Video",
+      "downloads": 644,
+      "likes": 87,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-29T11:32:05.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "ISTA-DASLab",
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "downloads": 7426020,
+      "likes": 1146,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-29T10:28:23.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "downloads": 2144269,
+      "likes": 4845,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-16T09:27:28.000Z",
+      "numParameters": 763205315794,
+      "repoType": "model"
+    },
+    {
+      "author": "orcarouter",
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "downloads": 1149873,
+      "likes": 1261,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-27T06:57:06.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    },
+    {
+      "author": "HauhauCS",
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "downloads": 2379869,
+      "likes": 2219,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-08-17T22:02:10.000Z",
+      "numParameters": 1863907840,
+      "repoType": "model"
+    },
+    {
+      "author": "ISTA-DASLab",
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "downloads": 0,
+      "likes": 73,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T15:21:16.000Z",
+      "numParameters": 196613849600,
+      "repoType": "model"
+    },
+    {
+      "author": "moonshotai",
+      "id": "moonshotai/Kimi-K3",
+      "downloads": 781702,
+      "likes": 11919,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-09-02T02:22:41.000Z",
+      "numParameters": 2779931837184,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM3-VL-2B-GGUF",
+      "downloads": 64293,
+      "likes": 59,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-28T21:21:57.000Z",
+      "numParameters": 1728801600,
+      "repoType": "model"
+    },
+    {
+      "author": "jackjusko",
+      "id": "jackjusko/Swift-1.5-Flash-Next-Heretic-ReverseEngineer",
+      "downloads": 4884,
+      "likes": 59,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-02T21:12:24.000Z",
+      "numParameters": 176943899520,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-03T01:54:16.032Z"
+}
