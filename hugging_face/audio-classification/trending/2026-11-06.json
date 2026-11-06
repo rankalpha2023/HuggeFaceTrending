@@ -1,0 +1,309 @@
+{
+  "category": "audio-classification",
+  "sort": "trending",
+  "totalItems": 5408,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/voice-reader",
+      "downloads": 21,
+      "likes": 21,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-04T17:18:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/backchannel-detector",
+      "downloads": 0,
+      "likes": 13,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-28T03:39:07.000Z",
+      "numParameters": 960735,
+      "repoType": "model"
+    },
+    {
+      "author": "abacusai",
+      "id": "abacusai/Smaug-Audio-Decisions-0.7B",
+      "downloads": 105,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-02T14:07:40.000Z",
+      "numParameters": 744371512,
+      "repoType": "model"
+    },
+    {
+      "author": "CIIL",
+      "id": "CIIL/Anuvani-LID",
+      "downloads": 184,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-19T08:42:27.000Z",
+      "numParameters": 115685512,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1766602,
+      "likes": 388,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
+      "author": "ABLingss",
+      "id": "ABLingss/MUQ-JEV",
+      "downloads": 16,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-02T07:11:24.000Z",
+      "numParameters": 363852070,
+      "repoType": "model"
+    },
+    {
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
+      "downloads": 175811,
+      "likes": 176,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-09-19T08:07:19.000Z",
+      "numParameters": 165336707,
+      "repoType": "model"
+    },
+    {
+      "author": "3loi",
+      "id": "3loi/SER-Odyssey-Baseline-WavLM-Arousal",
+      "downloads": 44,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2024-06-12T20:35:00.000Z",
+      "numParameters": 318604993,
+      "repoType": "model"
+    },
+    {
+      "author": "JaesungHuh",
+      "id": "JaesungHuh/voice-gender-classifier",
+      "downloads": 45767,
+      "likes": 44,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-05-04T11:09:00.000Z",
+      "numParameters": 15471682,
+      "repoType": "model"
+    },
+    {
+      "author": "firdhokk",
+      "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+      "downloads": 1838,
+      "likes": 137,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-01T03:19:07.000Z",
+      "numParameters": 637298695,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/audiobox-aesthetics",
+      "downloads": 399147,
+      "likes": 59,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-03-04T21:32:30.000Z",
+      "numParameters": 103859112,
+      "repoType": "model"
+    },
+    {
+      "author": "wsntxxn",
+      "id": "wsntxxn/cnn8rnn-laionclap-audiocapsv2-grounding",
+      "downloads": 133,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-07-01T09:29:54.000Z",
+      "numParameters": 131997828,
+      "repoType": "model"
+    },
+    {
+      "author": "TransWithAI",
+      "id": "TransWithAI/Whisper-Vad-EncDec-ASMR-onnx",
+      "downloads": 0,
+      "likes": 18,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-11-17T05:40:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KintsugiHealth",
+      "id": "KintsugiHealth/dam",
+      "downloads": 0,
+      "likes": 42,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-03-13T12:07:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/music-popularity",
+      "downloads": 0,
+      "likes": 7,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-03T17:48:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dolphinteam",
+      "id": "dolphinteam/OpenWhistle-CNN-VGG16",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-29T08:01:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "hanxunh",
+      "id": "hanxunh/AudioMosaic-vit-b16-pretrained",
+      "downloads": 77,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-15T01:11:50.000Z",
+      "numParameters": 86112512,
+      "repoType": "model"
+    },
+    {
+      "author": "hanxunh",
+      "id": "hanxunh/AudioMosaic-vit-b16-finetune-envsdd-tta",
+      "downloads": 22,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-05-15T01:11:26.000Z",
+      "numParameters": 85652738,
+      "repoType": "model"
+    },
+    {
+      "author": "lab260",
+      "id": "lab260/redimnet2-plus",
+      "downloads": 201,
+      "likes": 4,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-11T08:59:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Recogment",
+      "id": "Recogment/titanet-large-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-02T14:39:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "zencastr",
+      "id": "zencastr/laughter-detection",
+      "downloads": 734,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-28T21:29:59.000Z",
+      "numParameters": 89974274,
+      "repoType": "model"
+    },
+    {
+      "author": "AntResearch",
+      "id": "AntResearch/AntSpeaker",
+      "downloads": 721,
+      "likes": 18,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-02T03:44:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "handy-computer",
+      "id": "handy-computer/silero-vad-v6.2-gguf",
+      "downloads": 34081,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-16T08:29:50.000Z",
+      "numParameters": 309633,
+      "repoType": "model"
+    },
+    {
+      "author": "Aakash22134",
+      "id": "Aakash22134/indian-amd-yamnet-gru",
+      "downloads": 67,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-13T10:03:02.000Z",
+      "numParameters": 3506705,
+      "repoType": "model"
+    },
+    {
+      "author": "AustinXiao",
+      "id": "AustinXiao/voxturn",
+      "downloads": 406,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-04T23:33:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "1Developer",
+      "id": "1Developer/calista-ast-wakeword_v1.0",
+      "downloads": 47,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-01T18:10:49.000Z",
+      "numParameters": 85370114,
+      "repoType": "model"
+    },
+    {
+      "author": "ArmanSandhu1729",
+      "id": "ArmanSandhu1729/voiceshield-hindi-english-deepfake",
+      "downloads": 26,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-02T15:54:33.000Z",
+      "numParameters": 315701634,
+      "repoType": "model"
+    },
+    {
+      "author": "pulkitbuilds007",
+      "id": "pulkitbuilds007/Voice_cloning_detection_model",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-03T09:23:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "syvai",
+      "id": "syvai/tie",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-04T08:19:22.000Z",
+      "numParameters": 20159490,
+      "repoType": "model"
+    },
+    {
+      "author": "ArmanSandhu1729",
+      "id": "ArmanSandhu1729/voiceshield-hindi-english-deepfake-v2",
+      "downloads": 35,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-04T16:43:25.000Z",
+      "numParameters": 315701634,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-06T00:35:20.187Z"
+}
