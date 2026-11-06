@@ -1,26 +1,26 @@
 {
   "category": "image-segmentation",
   "sort": "trending",
-  "totalItems": 3915,
+  "totalItems": 3920,
   "fetchedItems": 30,
   "models": [
     {
-      "author": "briaai",
-      "id": "briaai/RMBG-2.0",
-      "downloads": 401891,
-      "likes": 1614,
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 823363,
+      "likes": 674,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-10-21T15:02:32.000Z",
+      "lastModified": "2026-02-04T22:43:55.000Z",
       "numParameters": 220700242,
       "repoType": "model"
     },
     {
-      "author": "ZhengPeng7",
-      "id": "ZhengPeng7/BiRefNet",
-      "downloads": 822576,
-      "likes": 672,
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 402671,
+      "likes": 1616,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-02-04T22:43:55.000Z",
+      "lastModified": "2026-10-21T15:02:32.000Z",
       "numParameters": 220700242,
       "repoType": "model"
     },
@@ -37,11 +37,21 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 51423,
+      "downloads": 52324,
       "likes": 127,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-09-30T04:59:24.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mayocream",
+      "id": "mayocream/koharu-layout-highres",
+      "downloads": 52,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-11-06T13:44:45.000Z",
+      "numParameters": 46596271,
       "repoType": "model"
     },
     {
@@ -55,19 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "mayocream",
-      "id": "mayocream/koharu-layout-highres",
-      "downloads": 48,
-      "likes": 2,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-11-01T15:15:59.000Z",
-      "numParameters": 46596271,
-      "repoType": "model"
-    },
-    {
       "author": "shi-labs",
       "id": "shi-labs/oneformer_cityscapes_swin_large",
-      "downloads": 281798,
+      "downloads": 287661,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-01-20T08:28:09.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "openmmlab",
       "id": "openmmlab/upernet-convnext-tiny",
-      "downloads": 7077,
+      "downloads": 6623,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-04-24T07:14:02.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "keremberke",
       "id": "keremberke/yolov8n-pcb-defect-segmentation",
-      "downloads": 548,
+      "downloads": 525,
       "likes": 7,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-02-22T13:02:17.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/DeepLabV3-Plus-MobileNet",
-      "downloads": 308,
+      "downloads": 303,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-05T00:42:59.000Z",
@@ -115,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "ZhengPeng7",
-      "id": "ZhengPeng7/BiRefNet_lite",
-      "downloads": 122087,
-      "likes": 24,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-08-29T11:41:17.000Z",
-      "numParameters": 44362660,
-      "repoType": "model"
-    },
-    {
       "author": "NMFS-OSI",
       "id": "NMFS-OSI/yolo11-segment-fish-grayscale",
-      "downloads": 14,
+      "downloads": 17,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-05-20T01:35:58.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "ianpan",
       "id": "ianpan/chest-x-ray-basic",
-      "downloads": 864,
+      "downloads": 863,
       "likes": 11,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-01-03T12:38:07.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/BEN2-ONNX",
-      "downloads": 10078,
+      "downloads": 10137,
       "likes": 25,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-03-03T01:30:06.000Z",
@@ -157,7 +147,7 @@
     {
       "author": "wanglab",
       "id": "wanglab/MedSAM2",
-      "downloads": 94,
+      "downloads": 95,
       "likes": 50,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-10T23:00:50.000Z",
@@ -167,21 +157,11 @@
     {
       "author": "Ricky06662",
       "id": "Ricky06662/VisionReasoner-7B",
-      "downloads": 177,
+      "downloads": 181,
       "likes": 10,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-02T04:19:31.000Z",
       "numParameters": 8292166656,
-      "repoType": "model"
-    },
-    {
-      "author": "SharpAI",
-      "id": "SharpAI/sam2-hiera-tiny-onnx",
-      "downloads": 36,
-      "likes": 1,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-11-17T05:45:39.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -197,7 +177,7 @@
     {
       "author": "mobilint",
       "id": "mobilint/YOLOv5x-seg",
-      "downloads": 120,
+      "downloads": 105,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-02T18:22:02.000Z",
@@ -217,17 +197,27 @@
     {
       "author": "huyvux3005",
       "id": "huyvux3005/manga109-segmentation-bubble",
-      "downloads": 1848,
+      "downloads": 1866,
       "likes": 27,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2025-12-29T14:46:03.000Z",
+      "lastModified": "2026-11-06T09:05:38.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mfaytin",
+      "id": "mfaytin/mask2former-satellite",
+      "downloads": 782,
+      "likes": 10,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-01-02T13:38:20.000Z",
+      "numParameters": 107383370,
       "repoType": "model"
     },
     {
       "author": "gobeldan",
       "id": "gobeldan/RMBG-2.0-GGUF",
-      "downloads": 114,
+      "downloads": 120,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-09T19:00:47.000Z",
@@ -237,7 +227,7 @@
     {
       "author": "VictorButoi",
       "id": "VictorButoi/flexray",
-      "downloads": 7490,
+      "downloads": 7440,
       "likes": 9,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-09-23T05:32:40.000Z",
@@ -257,7 +247,7 @@
     {
       "author": "anonimkaq4",
       "id": "anonimkaq4/manga-page-element-segmentation",
-      "downloads": 878,
+      "downloads": 853,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-05T23:40:01.000Z",
@@ -267,7 +257,7 @@
     {
       "author": "mayocream",
       "id": "mayocream/koharu-text-sam-ts-l",
-      "downloads": 78,
+      "downloads": 76,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-24T10:57:25.000Z",
@@ -277,7 +267,7 @@
     {
       "author": "mertakin",
       "id": "mertakin/FaceOcc",
-      "downloads": 81,
+      "downloads": 85,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-09-04T18:13:32.000Z",
@@ -295,15 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "Dihao",
-      "id": "Dihao/crackevo-unet-r34",
+      "author": "ImperialCollegeLondon",
+      "id": "ImperialCollegeLondon/OpenHeart",
       "downloads": 0,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-09-26T10:47:21.000Z",
+      "lastModified": "2026-11-03T11:30:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Uve1048",
+      "id": "Uve1048/hrnet-w32-footprint",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-11-03T06:11:49.000Z",
       "numParameters": null,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:40.541Z"
+  "fetchedAt": "2026-11-06T23:51:35.549Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "image-to-video",
   "sort": "downloads",
-  "totalItems": 1924,
+  "totalItems": 1927,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Comfy-Org",
       "id": "Comfy-Org/Wan-2.2",
-      "downloads": 9689488,
-      "likes": 999,
+      "downloads": 9723586,
+      "likes": 1002,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-09-23T06:01:28.000Z",
       "numParameters": null,
@@ -17,8 +17,8 @@
     {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2.5",
-      "downloads": 2561845,
-      "likes": 10726,
+      "downloads": 2607491,
+      "likes": 10859,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-10-11T07:00:53.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "comfyicu",
       "id": "comfyicu/LTX-2.5",
-      "downloads": 1832062,
+      "downloads": 1815476,
       "likes": 13,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-13T07:22:00.000Z",
@@ -37,38 +37,38 @@
     {
       "author": "Lightricks",
       "id": "Lightricks/LTX-Video",
-      "downloads": 1155924,
-      "likes": 2408,
+      "downloads": 1152643,
+      "likes": 2411,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-07-16T14:32:35.000Z",
       "numParameters": 1923385472,
       "repoType": "model"
     },
     {
-      "author": "WarmBloodAban",
-      "id": "WarmBloodAban/Minimax-h3_Singularity",
-      "downloads": 1058924,
-      "likes": 961,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-10-23T15:20:56.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "QuantStack",
       "id": "QuantStack/Wan2.2-I2V-A14B-GGUF",
-      "downloads": 1020298,
-      "likes": 457,
+      "downloads": 1061334,
+      "likes": 459,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-07-29T13:04:00.000Z",
       "numParameters": 14288901184,
       "repoType": "model"
     },
     {
+      "author": "WarmBloodAban",
+      "id": "WarmBloodAban/Minimax-h3_Singularity",
+      "downloads": 1058948,
+      "likes": 966,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-10-23T15:20:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2.3",
-      "downloads": 876796,
-      "likes": 2014,
+      "downloads": 867505,
+      "likes": 2016,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-10-22T08:57:42.000Z",
       "numParameters": null,
@@ -77,8 +77,8 @@
     {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2.3-fp8",
-      "downloads": 730687,
-      "likes": 148,
+      "downloads": 719352,
+      "likes": 149,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-10-22T08:58:12.000Z",
       "numParameters": null,
@@ -87,8 +87,8 @@
     {
       "author": "Winnougan",
       "id": "Winnougan/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI",
-      "downloads": 548331,
-      "likes": 101,
+      "downloads": 560331,
+      "likes": 104,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-09-23T13:20:21.000Z",
       "numParameters": null,
@@ -97,8 +97,8 @@
     {
       "author": "unsloth",
       "id": "unsloth/LTX-2.3-GGUF",
-      "downloads": 431524,
-      "likes": 588,
+      "downloads": 446889,
+      "likes": 589,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-04-20T01:59:13.000Z",
       "numParameters": 21005004544,
@@ -107,7 +107,7 @@
     {
       "author": "Lightricks",
       "id": "Lightricks/LTX-2",
-      "downloads": 300559,
+      "downloads": 298479,
       "likes": 1814,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-10-22T08:57:03.000Z",
@@ -115,9 +115,19 @@
       "repoType": "model"
     },
     {
+      "author": "unsloth",
+      "id": "unsloth/LTX-2.5-GGUF",
+      "downloads": 261068,
+      "likes": 29,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-10-16T12:09:11.000Z",
+      "numParameters": 21004025600,
+      "repoType": "model"
+    },
+    {
       "author": "leejet",
       "id": "leejet/MiniMax-H3-GGUF",
-      "downloads": 250126,
+      "downloads": 247871,
       "likes": 29,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-30T07:58:34.000Z",
@@ -125,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "unsloth",
-      "id": "unsloth/LTX-2.5-GGUF",
-      "downloads": 246507,
-      "likes": 26,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-10-16T12:09:11.000Z",
-      "numParameters": 21004025600,
-      "repoType": "model"
-    },
-    {
       "author": "city96",
       "id": "city96/Wan2.1-I2V-14B-480P-gguf",
-      "downloads": 244613,
+      "downloads": 244266,
       "likes": 289,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-02-27T06:25:47.000Z",
@@ -147,8 +147,8 @@
     {
       "author": "Abiray",
       "id": "Abiray/MiniMax-H3-GGUF",
-      "downloads": 214621,
-      "likes": 155,
+      "downloads": 215692,
+      "likes": 156,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-08T07:18:36.000Z",
       "numParameters": 25753095920,
@@ -157,7 +157,7 @@
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.1-I2V-14B-480P",
-      "downloads": 209647,
+      "downloads": 208537,
       "likes": 243,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-02-26T14:34:56.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOVA-360p",
-      "downloads": 187601,
+      "downloads": 183483,
       "likes": 219,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-02-15T04:40:02.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.2-I2V-A14B-Diffusers",
-      "downloads": 174163,
+      "downloads": 171891,
       "likes": 322,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-08-09T03:33:59.000Z",
@@ -187,8 +187,8 @@
     {
       "author": "bullerwins",
       "id": "bullerwins/Wan2.2-I2V-A14B-GGUF",
-      "downloads": 153974,
-      "likes": 315,
+      "downloads": 153503,
+      "likes": 316,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-07-28T18:02:35.000Z",
       "numParameters": 14288901184,
@@ -197,7 +197,7 @@
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.1-VACE-14B",
-      "downloads": 135394,
+      "downloads": 146372,
       "likes": 523,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-05-19T03:16:32.000Z",
@@ -207,8 +207,8 @@
     {
       "author": "stabilityai",
       "id": "stabilityai/stable-video-diffusion-img2vid-xt",
-      "downloads": 129781,
-      "likes": 3480,
+      "downloads": 128812,
+      "likes": 3481,
       "pipeline_tag": "image-to-video",
       "lastModified": "2024-07-10T11:43:18.000Z",
       "numParameters": 1524623082,
@@ -217,7 +217,7 @@
     {
       "author": "audio-cpp",
       "id": "audio-cpp/LiveAvatar-GGUF",
-      "downloads": 113504,
+      "downloads": 115700,
       "likes": 3,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-09-18T20:50:53.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "WAS",
       "id": "WAS/Minimax-h3_Singularity_v2_pruned",
-      "downloads": 112847,
+      "downloads": 115120,
       "likes": 35,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-10-25T01:03:12.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.1-I2V-14B-720P-Diffusers",
-      "downloads": 110353,
+      "downloads": 108093,
       "likes": 63,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-04-04T02:27:12.000Z",
@@ -245,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "lightx2v",
+      "id": "lightx2v/Wan2.2-Distill-Loras",
+      "downloads": 105913,
+      "likes": 290,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-10-16T06:20:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "ZawShiShawn",
       "id": "ZawShiShawn/Gestura-MiniMax-H3-VAE-LiteRT",
-      "downloads": 106180,
+      "downloads": 104674,
       "likes": 1,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-09-28T12:46:35.000Z",
@@ -257,7 +267,7 @@
     {
       "author": "Wan-AI",
       "id": "Wan-AI/Wan2.1-I2V-14B-480P-Diffusers",
-      "downloads": 104876,
+      "downloads": 102584,
       "likes": 65,
       "pipeline_tag": "image-to-video",
       "lastModified": "2025-04-04T02:28:01.000Z",
@@ -265,19 +275,9 @@
       "repoType": "model"
     },
     {
-      "author": "lightx2v",
-      "id": "lightx2v/Wan2.2-Distill-Loras",
-      "downloads": 104489,
-      "likes": 290,
-      "pipeline_tag": "image-to-video",
-      "lastModified": "2026-10-16T06:20:38.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "molbal",
       "id": "molbal/MiniMax-H3-GGUF",
-      "downloads": 97020,
+      "downloads": 99127,
       "likes": 71,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-08-12T20:47:00.000Z",
@@ -287,7 +287,7 @@
     {
       "author": "jayn7",
       "id": "jayn7/WAN2.2-I2V_A14B-DISTILL-LIGHTX2V-4STEP-GGUF",
-      "downloads": 74874,
+      "downloads": 75666,
       "likes": 58,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-04-14T01:09:15.000Z",
@@ -295,15 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "realrebelai",
-      "id": "realrebelai/SCAIL-2_GGUF",
-      "downloads": 72825,
-      "likes": 74,
+      "author": "Pika-Labs",
+      "id": "Pika-Labs/Pika-H3-Flex-Turbo-LoRA",
+      "downloads": 74009,
+      "likes": 161,
       "pipeline_tag": "image-to-video",
-      "lastModified": "2026-06-14T20:52:28.000Z",
-      "numParameters": 16395544384,
+      "lastModified": "2026-10-30T11:48:46.000Z",
+      "numParameters": null,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:51.208Z"
+  "fetchedAt": "2026-11-06T23:51:46.174Z"
 }

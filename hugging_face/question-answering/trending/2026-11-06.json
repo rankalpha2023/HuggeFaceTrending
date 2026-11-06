@@ -1,7 +1,7 @@
 {
   "category": "question-answering",
   "sort": "trending",
-  "totalItems": 14283,
+  "totalItems": 14307,
   "fetchedItems": 30,
   "models": [
     {
@@ -12,6 +12,16 @@
       "pipeline_tag": "question-answering",
       "lastModified": "2026-10-28T08:40:25.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Shreyas-11",
+      "id": "Shreyas-11/llama-3.2-1b-sql-q4_k_m",
+      "downloads": 79,
+      "likes": 3,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2026-10-30T18:25:08.000Z",
+      "numParameters": 1235814432,
       "repoType": "model"
     },
     {
@@ -27,7 +37,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/Gecko-110m-en",
-      "downloads": 1613,
+      "downloads": 1650,
       "likes": 18,
       "pipeline_tag": "question-answering",
       "lastModified": "2025-03-12T00:47:31.000Z",
@@ -35,33 +45,13 @@
       "repoType": "model"
     },
     {
-      "author": "huseyincavus",
-      "id": "huseyincavus/Qwen3-14B-PubMedQA-lora-adapters",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2025-08-16T02:51:54.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "fibonacciai",
       "id": "fibonacciai/laya-gguf-persian-multilingual-decision",
-      "downloads": 521,
+      "downloads": 536,
       "likes": 4,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-09-23T11:38:49.000Z",
       "numParameters": 323182091,
-      "repoType": "model"
-    },
-    {
-      "author": "AI999X",
-      "id": "AI999X/materials-science-ai999x",
-      "downloads": 121,
-      "likes": 2,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2026-11-05T22:48:51.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -75,19 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "Shreyas-11",
-      "id": "Shreyas-11/llama-3.2-1b-sql-q4_k_m",
-      "downloads": 71,
-      "likes": 1,
-      "pipeline_tag": "question-answering",
-      "lastModified": "2026-10-30T18:25:08.000Z",
-      "numParameters": 1235814432,
-      "repoType": "model"
-    },
-    {
       "author": "Aykanugur157",
       "id": "Aykanugur157/bert-base-turkish-tr-wiki-qa",
-      "downloads": 0,
+      "downloads": 16,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2026-11-05T15:40:39.000Z",
@@ -97,7 +77,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-cased-whole-word-masking-finetuned-squad",
-      "downloads": 46057,
+      "downloads": 45796,
       "likes": 2,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:06:38.000Z",
@@ -107,7 +87,7 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
-      "downloads": 25771,
+      "downloads": 25609,
       "likes": 192,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-02-19T11:08:45.000Z",
@@ -117,7 +97,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-cased-distilled-squad",
-      "downloads": 139747,
+      "downloads": 139709,
       "likes": 278,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:31.000Z",
@@ -127,7 +107,7 @@
     {
       "author": "distilbert",
       "id": "distilbert/distilbert-base-uncased-distilled-squad",
-      "downloads": 29224,
+      "downloads": 28991,
       "likes": 123,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-06T13:46:39.000Z",
@@ -147,7 +127,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-cq",
-      "downloads": 10,
+      "downloads": 11,
       "likes": 5,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:31:36.000Z",
@@ -177,7 +157,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-duorc_s",
-      "downloads": 17,
+      "downloads": 16,
       "likes": 4,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:32:00.000Z",
@@ -187,7 +167,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-hotpotqa",
-      "downloads": 26,
+      "downloads": 25,
       "likes": 6,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:32:37.000Z",
@@ -217,7 +197,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-squad",
-      "downloads": 21,
+      "downloads": 23,
       "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:35:16.000Z",
@@ -227,7 +207,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-squad_v2",
-      "downloads": 32,
+      "downloads": 31,
       "likes": 6,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:35:24.000Z",
@@ -237,7 +217,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/bert-base-uncased-pf-wikihop",
-      "downloads": 12,
+      "downloads": 15,
       "likes": 5,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:36:28.000Z",
@@ -267,7 +247,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/roberta-base-pf-drop",
-      "downloads": 17,
+      "downloads": 16,
       "likes": 7,
       "pipeline_tag": "question-answering",
       "lastModified": "2024-05-10T14:16:26.000Z",
@@ -287,7 +267,7 @@
     {
       "author": "AdapterHub",
       "id": "AdapterHub/roberta-base-pf-duorc_s",
-      "downloads": 6,
+      "downloads": 8,
       "likes": 5,
       "pipeline_tag": "question-answering",
       "lastModified": "2021-11-15T10:38:32.000Z",
@@ -303,7 +283,27 @@
       "lastModified": "2021-11-15T10:39:56.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-newsqa",
+      "downloads": 57,
+      "likes": 6,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:40:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AdapterHub",
+      "id": "AdapterHub/roberta-base-pf-quoref",
+      "downloads": 1,
+      "likes": 4,
+      "pipeline_tag": "question-answering",
+      "lastModified": "2021-11-15T10:41:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:58.669Z"
+  "fetchedAt": "2026-11-06T23:51:53.590Z"
 }

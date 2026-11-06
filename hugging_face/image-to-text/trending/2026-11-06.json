@@ -1,13 +1,13 @@
 {
   "category": "image-to-text",
   "sort": "trending",
-  "totalItems": 2369,
+  "totalItems": 2376,
   "fetchedItems": 30,
   "models": [
     {
       "author": "datalab-to",
       "id": "datalab-to/indra-ocr",
-      "downloads": 7653,
+      "downloads": 7810,
       "likes": 513,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-10-19T14:36:52.000Z",
@@ -17,8 +17,8 @@
     {
       "author": "zai-org",
       "id": "zai-org/GLM-OCR",
-      "downloads": 1729533,
-      "likes": 2201,
+      "downloads": 1740322,
+      "likes": 2203,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-09-11T11:59:14.000Z",
       "numParameters": 1325258240,
@@ -27,7 +27,7 @@
     {
       "author": "ADSKAILab",
       "id": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
-      "downloads": 1181,
+      "downloads": 1179,
       "likes": 90,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-05-05T21:50:47.000Z",
@@ -35,29 +35,29 @@
       "repoType": "model"
     },
     {
+      "author": "Kellenok",
+      "id": "Kellenok/PP-OCRv6_manga",
+      "downloads": 304,
+      "likes": 11,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-11-06T22:09:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "numind",
       "id": "numind/NuExtract3",
-      "downloads": 39276,
-      "likes": 393,
+      "downloads": 39444,
+      "likes": 394,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-08-20T19:44:14.000Z",
       "numParameters": 4539265536,
       "repoType": "model"
     },
     {
-      "author": "Kellenok",
-      "id": "Kellenok/PP-OCRv6_manga",
-      "downloads": 263,
-      "likes": 10,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-11-05T19:06:08.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "muscgab",
       "id": "muscgab/manga-ocr-base-CPT-flex",
-      "downloads": 180,
+      "downloads": 187,
       "likes": 4,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-10-15T13:10:28.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/trocr-base-handwritten",
-      "downloads": 119704,
+      "downloads": 128734,
       "likes": 535,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-11T04:26:58.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "metrika-labs",
       "id": "metrika-labs/PP-OCRv6_medium_rec_cyrillic",
-      "downloads": 67,
+      "downloads": 81,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-11-05T12:41:11.000Z",
@@ -98,7 +98,7 @@
       "author": "guangyangmusic",
       "id": "guangyangmusic/legato-2",
       "downloads": 9,
-      "likes": 15,
+      "likes": 16,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-11-03T03:11:01.000Z",
       "numParameters": 949954075,
@@ -115,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "NidAll",
-      "id": "NidAll/Anima-Prompt-Architect-Models",
-      "downloads": 0,
-      "likes": 3,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-10-23T10:48:01.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "dh-unibe",
       "id": "dh-unibe/trocr-german-kurrent-xvi-xix-from-kurrent-v2",
-      "downloads": 203,
+      "downloads": 252,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-10-26T09:55:26.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "CarbonResearchLabs",
       "id": "CarbonResearchLabs/fullerene-3M",
-      "downloads": 52,
+      "downloads": 83,
       "likes": 2,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-11-05T11:32:43.000Z",
@@ -165,33 +155,13 @@
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/trocr-small-handwritten",
-      "downloads": 120970,
-      "likes": 75,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2024-05-27T20:11:19.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Salesforce",
       "id": "Salesforce/blip-image-captioning-large",
-      "downloads": 421295,
+      "downloads": 412496,
       "likes": 1507,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-02-03T06:42:42.000Z",
       "numParameters": 469733436,
-      "repoType": "model"
-    },
-    {
-      "author": "Xenova",
-      "id": "Xenova/trocr-small-handwritten",
-      "downloads": 7691,
-      "likes": 9,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-10-28T21:03:06.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -217,7 +187,7 @@
     {
       "author": "OleehyO",
       "id": "OleehyO/TexTeller",
-      "downloads": 12640,
+      "downloads": 10602,
       "likes": 46,
       "pipeline_tag": "image-to-text",
       "lastModified": "2024-06-22T07:15:02.000Z",
@@ -235,13 +205,13 @@
       "repoType": "model"
     },
     {
-      "author": "OpenFace-CQUPT",
-      "id": "OpenFace-CQUPT/FLIP",
+      "author": "cxfajar197",
+      "id": "cxfajar197/urdu-ocr",
       "downloads": 0,
-      "likes": 20,
+      "likes": 4,
       "pipeline_tag": "image-to-text",
-      "lastModified": "2026-07-26T13:16:58.000Z",
-      "numParameters": null,
+      "lastModified": "2024-11-26T22:27:49.000Z",
+      "numParameters": 293023995,
       "repoType": "model"
     },
     {
@@ -257,7 +227,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-OCRv5_mobile_det",
-      "downloads": 86577,
+      "downloads": 85853,
       "likes": 32,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T10:03:05.000Z",
@@ -267,7 +237,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayout-L",
-      "downloads": 1177,
+      "downloads": 1193,
       "likes": 9,
       "pipeline_tag": "image-to-text",
       "lastModified": "2025-07-22T09:59:53.000Z",
@@ -277,7 +247,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF",
-      "downloads": 6748,
+      "downloads": 6759,
       "likes": 82,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-10-14T09:23:02.000Z",
@@ -285,25 +255,55 @@
       "repoType": "model"
     },
     {
-      "author": "numind",
-      "id": "numind/NuMarkdown-8B-Thinking",
-      "downloads": 1324,
-      "likes": 499,
-      "pipeline_tag": "image-to-text",
-      "lastModified": "2026-06-05T12:59:54.000Z",
-      "numParameters": 8292166656,
-      "repoType": "model"
-    },
-    {
       "author": "mradermacher",
       "id": "mradermacher/Qwen2.5-VL-3B-Abliterated-Caption-it-GGUF",
-      "downloads": 1475,
+      "downloads": 1669,
       "likes": 4,
       "pipeline_tag": "image-to-text",
       "lastModified": "2026-11-04T07:20:54.000Z",
       "numParameters": 3085938688,
       "repoType": "model"
+    },
+    {
+      "author": "Rakesh007n",
+      "id": "Rakesh007n/Leaf-Classification-for-plant-species",
+      "downloads": 14,
+      "likes": 1,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-08-31T17:04:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lamco-development",
+      "id": "lamco-development/granite-docling-258M-onnx",
+      "downloads": 26,
+      "likes": 8,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-09-27T19:55:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "monkt",
+      "id": "monkt/paddleocr-onnx",
+      "downloads": 0,
+      "likes": 67,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2025-10-07T05:37:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "GetcharZp",
+      "id": "GetcharZp/go-ocr",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-11-05T06:21:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:47.473Z"
+  "fetchedAt": "2026-11-06T23:51:42.354Z"
 }

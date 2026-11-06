@@ -1,14 +1,14 @@
 {
   "category": "mask-generation",
   "sort": "trending",
-  "totalItems": 364,
+  "totalItems": 365,
   "fetchedItems": 30,
   "models": [
     {
       "author": "facebook",
       "id": "facebook/sam3",
-      "downloads": 1921413,
-      "likes": 5945,
+      "downloads": 1920315,
+      "likes": 6002,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-11-20T22:05:08.000Z",
       "numParameters": 859922360,
@@ -17,8 +17,8 @@
     {
       "author": "facebook",
       "id": "facebook/sam3.1",
-      "downloads": 189419,
-      "likes": 1393,
+      "downloads": 189698,
+      "likes": 1408,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-27T17:40:55.000Z",
       "numParameters": null,
@@ -27,11 +27,31 @@
     {
       "author": "unsloth",
       "id": "unsloth/sam3.1",
-      "downloads": 4176,
+      "downloads": 4493,
       "likes": 30,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-10-20T06:43:36.000Z",
       "numParameters": 840376374,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sam2.1-hiera-tiny",
+      "downloads": 141751,
+      "likes": 35,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2025-08-15T21:18:13.000Z",
+      "numParameters": 38963010,
+      "repoType": "model"
+    },
+    {
+      "author": "Comfy-Org",
+      "id": "Comfy-Org/BiRefNet",
+      "downloads": 226973,
+      "likes": 61,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2026-10-28T02:38:00.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -45,29 +65,9 @@
       "repoType": "model"
     },
     {
-      "author": "Comfy-Org",
-      "id": "Comfy-Org/BiRefNet",
-      "downloads": 226679,
-      "likes": 61,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2026-10-28T02:38:00.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
-      "id": "facebook/sam2.1-hiera-tiny",
-      "downloads": 141295,
-      "likes": 35,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2025-08-15T21:18:13.000Z",
-      "numParameters": 38963010,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/sam2-hiera-large",
-      "downloads": 14021,
+      "downloads": 14089,
       "likes": 149,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:22:23.000Z",
@@ -76,18 +76,8 @@
     },
     {
       "author": "facebook",
-      "id": "facebook/sam2-hiera-tiny",
-      "downloads": 8398,
-      "likes": 36,
-      "pipeline_tag": "mask-generation",
-      "lastModified": "2025-08-15T21:20:41.000Z",
-      "numParameters": 38946498,
-      "repoType": "model"
-    },
-    {
-      "author": "facebook",
       "id": "facebook/sam2.1-hiera-small",
-      "downloads": 149691,
+      "downloads": 155559,
       "likes": 25,
       "pipeline_tag": "mask-generation",
       "lastModified": "2025-08-15T21:18:57.000Z",
@@ -97,7 +87,7 @@
     {
       "author": "research21",
       "id": "research21/sam3.1",
-      "downloads": 73,
+      "downloads": 79,
       "likes": 7,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-04-08T14:16:34.000Z",
@@ -107,17 +97,27 @@
     {
       "author": "MIUProject",
       "id": "MIUProject/sam3",
-      "downloads": 317,
-      "likes": 1,
+      "downloads": 347,
+      "likes": 2,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-06-03T12:13:12.000Z",
       "numParameters": 859922360,
       "repoType": "model"
     },
     {
+      "author": "xuckless",
+      "id": "xuckless/pixl-sam3-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "mask-generation",
+      "lastModified": "2026-10-08T11:44:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/sam-vit-huge",
-      "downloads": 314503,
+      "downloads": 321211,
       "likes": 206,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:32.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-base",
-      "downloads": 492923,
+      "downloads": 492748,
       "likes": 179,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:17.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "facebook",
       "id": "facebook/sam-vit-large",
-      "downloads": 23084,
+      "downloads": 23172,
       "likes": 43,
       "pipeline_tag": "mask-generation",
       "lastModified": "2024-01-11T19:23:46.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "fxmarty",
       "id": "fxmarty/sam-vit-tiny-random",
-      "downloads": 859,
+      "downloads": 857,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-04-20T12:42:14.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "wanglab",
       "id": "wanglab/medsam-vit-base",
-      "downloads": 4687,
+      "downloads": 4716,
       "likes": 24,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-03T07:03:04.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "cmhong68",
       "id": "cmhong68/medSAM_skin",
-      "downloads": 16,
+      "downloads": 15,
       "likes": 0,
       "pipeline_tag": "mask-generation",
       "lastModified": "2023-05-03T06:32:27.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-base",
-      "downloads": 3014,
+      "downloads": 2937,
       "likes": 8,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:08:56.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-large",
-      "downloads": 167,
+      "downloads": 162,
       "likes": 1,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:09:28.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/sam-vit-huge",
-      "downloads": 89,
+      "downloads": 86,
       "likes": 2,
       "pipeline_tag": "mask-generation",
       "lastModified": "2026-03-18T23:09:43.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:54.140Z"
+  "fetchedAt": "2026-11-06T23:51:49.066Z"
 }

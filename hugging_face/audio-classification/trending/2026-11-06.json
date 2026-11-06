@@ -1,14 +1,14 @@
 {
   "category": "audio-classification",
   "sort": "trending",
-  "totalItems": 5408,
+  "totalItems": 5417,
   "fetchedItems": 30,
   "models": [
     {
       "author": "pipecat-ai",
       "id": "pipecat-ai/voice-reader",
-      "downloads": 21,
-      "likes": 21,
+      "downloads": 35,
+      "likes": 22,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-04T17:18:05.000Z",
       "numParameters": null,
@@ -18,7 +18,7 @@
       "author": "pipecat-ai",
       "id": "pipecat-ai/backchannel-detector",
       "downloads": 0,
-      "likes": 13,
+      "likes": 15,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-28T03:39:07.000Z",
       "numParameters": 960735,
@@ -27,7 +27,7 @@
     {
       "author": "abacusai",
       "id": "abacusai/Smaug-Audio-Decisions-0.7B",
-      "downloads": 105,
+      "downloads": 128,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-02T14:07:40.000Z",
@@ -37,27 +37,27 @@
     {
       "author": "CIIL",
       "id": "CIIL/Anuvani-LID",
-      "downloads": 184,
-      "likes": 5,
+      "downloads": 229,
+      "likes": 6,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-19T08:42:27.000Z",
       "numParameters": 115685512,
       "repoType": "model"
     },
     {
-      "author": "MIT",
-      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 1766602,
-      "likes": 388,
+      "author": "audeering",
+      "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
+      "downloads": 173523,
+      "likes": 177,
       "pipeline_tag": "audio-classification",
-      "lastModified": "2023-09-06T14:49:15.000Z",
-      "numParameters": 86594063,
+      "lastModified": "2024-09-19T08:07:19.000Z",
+      "numParameters": 165336707,
       "repoType": "model"
     },
     {
       "author": "ABLingss",
       "id": "ABLingss/MUQ-JEV",
-      "downloads": 16,
+      "downloads": 18,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-02T07:11:24.000Z",
@@ -65,19 +65,19 @@
       "repoType": "model"
     },
     {
-      "author": "audeering",
-      "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
-      "downloads": 175811,
-      "likes": 176,
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1799490,
+      "likes": 388,
       "pipeline_tag": "audio-classification",
-      "lastModified": "2024-09-19T08:07:19.000Z",
-      "numParameters": 165336707,
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
       "repoType": "model"
     },
     {
       "author": "3loi",
       "id": "3loi/SER-Odyssey-Baseline-WavLM-Arousal",
-      "downloads": 44,
+      "downloads": 45,
       "likes": 3,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-06-12T20:35:00.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "JaesungHuh",
       "id": "JaesungHuh/voice-gender-classifier",
-      "downloads": 45767,
+      "downloads": 45179,
       "likes": 44,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-04T11:09:00.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "firdhokk",
       "id": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
-      "downloads": 1838,
+      "downloads": 1749,
       "likes": 137,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-11-01T03:19:07.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "facebook",
       "id": "facebook/audiobox-aesthetics",
-      "downloads": 399147,
+      "downloads": 390741,
       "likes": 59,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-03-04T21:32:30.000Z",
@@ -132,6 +132,16 @@
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-11-17T05:40:46.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanislavKo28",
+      "id": "StanislavKo28/music_moods_classification",
+      "downloads": 406,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-04-27T14:48:13.000Z",
+      "numParameters": 94572174,
       "repoType": "model"
     },
     {
@@ -167,7 +177,7 @@
     {
       "author": "hanxunh",
       "id": "hanxunh/AudioMosaic-vit-b16-pretrained",
-      "downloads": 77,
+      "downloads": 80,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-05-15T01:11:50.000Z",
@@ -177,7 +187,7 @@
     {
       "author": "hanxunh",
       "id": "hanxunh/AudioMosaic-vit-b16-finetune-envsdd-tta",
-      "downloads": 22,
+      "downloads": 21,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-05-15T01:11:26.000Z",
@@ -187,7 +197,7 @@
     {
       "author": "lab260",
       "id": "lab260/redimnet2-plus",
-      "downloads": 201,
+      "downloads": 200,
       "likes": 4,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-09-11T08:59:05.000Z",
@@ -205,9 +215,19 @@
       "repoType": "model"
     },
     {
+      "author": "Toprak1yu",
+      "id": "Toprak1yu/conformer-voice-turn-taking",
+      "downloads": 27,
+      "likes": 2,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-03T23:34:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "zencastr",
       "id": "zencastr/laughter-detection",
-      "downloads": 734,
+      "downloads": 760,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-09-28T21:29:59.000Z",
@@ -217,7 +237,7 @@
     {
       "author": "AntResearch",
       "id": "AntResearch/AntSpeaker",
-      "downloads": 721,
+      "downloads": 739,
       "likes": 18,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-02T03:44:07.000Z",
@@ -225,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "zero-runtime",
+      "id": "zero-runtime/echo-omni-duplex",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-06T13:21:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "handy-computer",
       "id": "handy-computer/silero-vad-v6.2-gguf",
-      "downloads": 34081,
+      "downloads": 40010,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-16T08:29:50.000Z",
@@ -237,7 +267,7 @@
     {
       "author": "Aakash22134",
       "id": "Aakash22134/indian-amd-yamnet-gru",
-      "downloads": 67,
+      "downloads": 68,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-13T10:03:02.000Z",
@@ -247,7 +277,7 @@
     {
       "author": "AustinXiao",
       "id": "AustinXiao/voxturn",
-      "downloads": 406,
+      "downloads": 422,
       "likes": 8,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-04T23:33:50.000Z",
@@ -255,55 +285,25 @@
       "repoType": "model"
     },
     {
+      "author": "buddybird-ai",
+      "id": "buddybird-ai/parrot-mimicry-judgment",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-10-15T06:33:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "1Developer",
       "id": "1Developer/calista-ast-wakeword_v1.0",
-      "downloads": 47,
+      "downloads": 49,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-01T18:10:49.000Z",
       "numParameters": 85370114,
       "repoType": "model"
-    },
-    {
-      "author": "ArmanSandhu1729",
-      "id": "ArmanSandhu1729/voiceshield-hindi-english-deepfake",
-      "downloads": 26,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-02T15:54:33.000Z",
-      "numParameters": 315701634,
-      "repoType": "model"
-    },
-    {
-      "author": "pulkitbuilds007",
-      "id": "pulkitbuilds007/Voice_cloning_detection_model",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-03T09:23:49.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "syvai",
-      "id": "syvai/tie",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-04T08:19:22.000Z",
-      "numParameters": 20159490,
-      "repoType": "model"
-    },
-    {
-      "author": "ArmanSandhu1729",
-      "id": "ArmanSandhu1729/voiceshield-hindi-english-deepfake-v2",
-      "downloads": 35,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-04T16:43:25.000Z",
-      "numParameters": 315701634,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:20.187Z"
+  "fetchedAt": "2026-11-06T23:51:15.383Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "audio-to-audio",
   "sort": "likes",
-  "totalItems": 1826,
+  "totalItems": 1832,
   "fetchedItems": 30,
   "models": [
     {
       "author": "nvidia",
       "id": "nvidia/personaplex-7b-v1",
-      "downloads": 150890,
-      "likes": 2955,
+      "downloads": 152697,
+      "likes": 2960,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-02T18:03:29.000Z",
       "numParameters": 8371408896,
@@ -17,8 +17,8 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2.5-Audio-1.5B",
-      "downloads": 5081,
-      "likes": 474,
+      "downloads": 4172,
+      "likes": 475,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-30T14:43:52.000Z",
       "numParameters": 1470308496,
@@ -27,7 +27,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM2-Audio-1.5B",
-      "downloads": 377,
+      "downloads": 379,
       "likes": 366,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-27T16:11:29.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "fishaudio",
       "id": "fishaudio/fish-agent-v0.1-3b",
-      "downloads": 87,
+      "downloads": 85,
       "likes": 277,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-11-01T16:39:56.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "IAHispano",
       "id": "IAHispano/Applio",
-      "downloads": 338,
-      "likes": 226,
+      "downloads": 336,
+      "likes": 227,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-10-26T14:07:31.000Z",
       "numParameters": null,
@@ -87,8 +87,8 @@
     {
       "author": "nvidia",
       "id": "nvidia/NVIDIA-NemotronLabs-RE-USE",
-      "downloads": 33784,
-      "likes": 192,
+      "downloads": 34085,
+      "likes": 202,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-10-22T21:41:39.000Z",
       "numParameters": 9607747,
@@ -97,8 +97,8 @@
     {
       "author": "neuphonic",
       "id": "neuphonic/neucodec",
-      "downloads": 47362,
-      "likes": 181,
+      "downloads": 47979,
+      "likes": 182,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-09-02T15:30:57.000Z",
       "numParameters": 629937706,
@@ -107,8 +107,8 @@
     {
       "author": "nvidia",
       "id": "nvidia/RE-USE",
-      "downloads": 11045,
-      "likes": 153,
+      "downloads": 10489,
+      "likes": 154,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-10-23T02:48:35.000Z",
       "numParameters": 9607747,
@@ -117,7 +117,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/speecht5_vc",
-      "downloads": 635,
+      "downloads": 656,
       "likes": 117,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2023-03-22T20:10:32.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "tencent",
       "id": "tencent/Covo-Audio-Chat",
-      "downloads": 503,
+      "downloads": 463,
       "likes": 105,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-03-16T09:59:16.000Z",
@@ -135,9 +135,19 @@
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-Tokenizer-12Hz",
+      "downloads": 77688,
+      "likes": 104,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-29T08:01:28.000Z",
+      "numParameters": 170557441,
+      "repoType": "model"
+    },
+    {
       "author": "HKUSTAudio",
       "id": "HKUSTAudio/xcodec2",
-      "downloads": 3420,
+      "downloads": 3361,
       "likes": 103,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-25T09:21:17.000Z",
@@ -145,20 +155,10 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-TTS-Tokenizer-12Hz",
-      "downloads": 82609,
-      "likes": 103,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-01-29T08:01:28.000Z",
-      "numParameters": 170557441,
-      "repoType": "model"
-    },
-    {
       "author": "asif00",
       "id": "asif00/Kokoro-Conversational",
       "downloads": 0,
-      "likes": 99,
+      "likes": 100,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2025-04-28T10:26:10.000Z",
       "numParameters": null,
@@ -177,7 +177,7 @@
     {
       "author": "YatharthS",
       "id": "YatharthS/LavaSR",
-      "downloads": 1281,
+      "downloads": 1277,
       "likes": 90,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-02-27T16:08:44.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/bigvgan_v2_44khz_128band_512x",
-      "downloads": 1505457,
+      "downloads": 1525922,
       "likes": 85,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-09-05T03:35:39.000Z",
@@ -207,11 +207,21 @@
     {
       "author": "speechbrain",
       "id": "speechbrain/sepformer-wsj02mix",
-      "downloads": 4866,
+      "downloads": 4841,
       "likes": 83,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-02-19T13:28:30.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B-JP",
+      "downloads": 379,
+      "likes": 83,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-06-11T02:56:58.000Z",
+      "numParameters": 1470308496,
       "repoType": "model"
     },
     {
@@ -225,19 +235,9 @@
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM2.5-Audio-1.5B-JP",
-      "downloads": 375,
-      "likes": 82,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-06-11T02:56:58.000Z",
-      "numParameters": 1470308496,
-      "repoType": "model"
-    },
-    {
       "author": "inclusionAI",
       "id": "inclusionAI/Ming-3.0-audio-flash",
-      "downloads": 1535,
+      "downloads": 1618,
       "likes": 82,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-10-29T09:26:50.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "blaise-tk",
       "id": "blaise-tk/TITAN",
-      "downloads": 103,
+      "downloads": 104,
       "likes": 74,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-08-19T15:01:14.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "speechbrain",
       "id": "speechbrain/metricgan-plus-voicebank",
-      "downloads": 11700,
+      "downloads": 11463,
       "likes": 72,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2024-02-28T13:11:28.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "LocalAI-io",
       "id": "LocalAI-io/LocalVQE",
-      "downloads": 33798,
+      "downloads": 33940,
       "likes": 69,
       "pipeline_tag": "audio-to-audio",
       "lastModified": "2026-06-22T17:49:18.000Z",
@@ -285,6 +285,16 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/Real-time_RE-USE",
+      "downloads": 2533,
+      "likes": 63,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-10-09T08:15:35.000Z",
+      "numParameters": 13475815,
+      "repoType": "model"
+    },
+    {
       "author": "Wanlau",
       "id": "Wanlau/RVC_BanGDream",
       "downloads": 0,
@@ -293,17 +303,7 @@
       "lastModified": "2025-07-18T09:44:11.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "kandinskylab",
-      "id": "kandinskylab/KVAE-Audio",
-      "downloads": 262,
-      "likes": 62,
-      "pipeline_tag": "audio-to-audio",
-      "lastModified": "2026-10-26T10:19:09.000Z",
-      "numParameters": 166871218,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:25.530Z"
+  "fetchedAt": "2026-11-06T23:51:20.723Z"
 }

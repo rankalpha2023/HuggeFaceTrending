@@ -1,33 +1,53 @@
 {
   "category": "feature-extraction",
   "sort": "trending",
-  "totalItems": 22111,
+  "totalItems": 22127,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google",
       "id": "google/embeddinggemma-2",
-      "downloads": 472554,
-      "likes": 3149,
+      "downloads": 482581,
+      "likes": 3176,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-28T07:19:46.000Z",
       "numParameters": 744371512,
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "downloads": 9228768,
+      "likes": 1332,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-20T02:45:58.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
       "author": "perplexity-ai",
       "id": "perplexity-ai/pplx-embed-v2-context-0.6b",
-      "downloads": 737,
-      "likes": 14,
+      "downloads": 1048,
+      "likes": 15,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-30T10:00:18.000Z",
       "numParameters": 595370176,
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-8B",
+      "downloads": 2294772,
+      "likes": 850,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-07-07T09:02:21.000Z",
+      "numParameters": 7567295488,
+      "repoType": "model"
+    },
+    {
       "author": "perplexity-ai",
       "id": "perplexity-ai/pplx-embed-v2-context-9b",
-      "downloads": 478,
+      "downloads": 539,
       "likes": 14,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-30T09:59:28.000Z",
@@ -35,29 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-Embedding-0.6B",
-      "downloads": 9157071,
-      "likes": 1330,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-04-20T02:45:58.000Z",
-      "numParameters": 595776512,
-      "repoType": "model"
-    },
-    {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-Embedding-8B",
-      "downloads": 2276299,
-      "likes": 849,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2025-07-07T09:02:21.000Z",
-      "numParameters": 7567295488,
-      "repoType": "model"
-    },
-    {
       "author": "unsloth",
       "id": "unsloth/embeddinggemma-2-GGUF",
-      "downloads": 153323,
+      "downloads": 138497,
       "likes": 364,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-07T07:09:29.000Z",
@@ -65,10 +65,20 @@
       "repoType": "model"
     },
     {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v2-late-0.6b",
+      "downloads": 2942,
+      "likes": 70,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-10-22T15:35:46.000Z",
+      "numParameters": 594321600,
+      "repoType": "model"
+    },
+    {
       "author": "BAAI",
       "id": "BAAI/bge-small-en-v1.5",
-      "downloads": 48396039,
-      "likes": 666,
+      "downloads": 48008695,
+      "likes": 667,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-02-22T03:36:23.000Z",
       "numParameters": 33360512,
@@ -77,7 +87,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/harrier-oss-v1-0.6b",
-      "downloads": 224632,
+      "downloads": 226933,
       "likes": 333,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-03-30T08:00:59.000Z",
@@ -85,39 +95,19 @@
       "repoType": "model"
     },
     {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/pplx-embed-v2-late-0.6b",
-      "downloads": 2707,
-      "likes": 68,
+      "author": "lightonai",
+      "id": "lightonai/SlideOn",
+      "downloads": 647,
+      "likes": 17,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-10-22T15:35:46.000Z",
-      "numParameters": 594321600,
-      "repoType": "model"
-    },
-    {
-      "author": "elix3r",
-      "id": "elix3r/gemma4-12b-with-proj-ltx-2.5-GGUF",
-      "downloads": 13145,
-      "likes": 59,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-09-06T04:33:50.000Z",
-      "numParameters": 13147985090,
-      "repoType": "model"
-    },
-    {
-      "author": "ggml-org",
-      "id": "ggml-org/embeddinggemma-2-GGUF",
-      "downloads": 149624,
-      "likes": 58,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-11-01T03:50:22.000Z",
-      "numParameters": 271002648,
+      "lastModified": "2026-10-20T19:27:08.000Z",
+      "numParameters": 174246400,
       "repoType": "model"
     },
     {
       "author": "Omartificial-Intelligence-Space",
       "id": "Omartificial-Intelligence-Space/Arabic-Triplet-Matryoshka-V2",
-      "downloads": 3412,
+      "downloads": 3504,
       "likes": 30,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-29T07:38:50.000Z",
@@ -125,33 +115,73 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/C-RADIOv4-H",
-      "downloads": 10791,
-      "likes": 91,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-01-30T12:40:28.000Z",
-      "numParameters": 651645448,
-      "repoType": "model"
-    },
-    {
       "author": "paige-ai",
       "id": "paige-ai/Prism2",
-      "downloads": 370,
-      "likes": 41,
+      "downloads": 321,
+      "likes": 42,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-07-31T14:31:04.000Z",
       "numParameters": 4469975552,
       "repoType": "model"
     },
     {
+      "author": "elix3r",
+      "id": "elix3r/gemma4-12b-with-proj-ltx-2.5-GGUF",
+      "downloads": 13032,
+      "likes": 60,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-09-06T04:33:50.000Z",
+      "numParameters": 13147985090,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/WeMM-Embedding-9B",
+      "downloads": 3393,
+      "likes": 144,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-09-03T12:23:55.000Z",
+      "numParameters": 9407831280,
+      "repoType": "model"
+    },
+    {
+      "author": "InstaDeepAI",
+      "id": "InstaDeepAI/NTv3_pretrained",
+      "downloads": 75,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-11-02T11:08:59.000Z",
+      "numParameters": 703401865,
+      "repoType": "model"
+    },
+    {
       "author": "unsloth",
       "id": "unsloth/embeddinggemma-2",
-      "downloads": 7650,
+      "downloads": 6807,
       "likes": 14,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-06T16:22:55.000Z",
       "numParameters": 744371512,
+      "repoType": "model"
+    },
+    {
+      "author": "ggml-org",
+      "id": "ggml-org/embeddinggemma-2-GGUF",
+      "downloads": 150504,
+      "likes": 58,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-11-01T03:50:22.000Z",
+      "numParameters": 271002648,
+      "repoType": "model"
+    },
+    {
+      "author": "nlpai-lab",
+      "id": "nlpai-lab/KURE-Sparse-nano",
+      "downloads": 816,
+      "likes": 9,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-11-01T10:47:00.000Z",
+      "numParameters": 149373778,
       "repoType": "model"
     },
     {
@@ -167,7 +197,7 @@
     {
       "author": "slideflow-labs",
       "id": "slideflow-labs/mettle-1.5",
-      "downloads": 27,
+      "downloads": 31,
       "likes": 3,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-11-03T21:09:39.000Z",
@@ -175,19 +205,9 @@
       "repoType": "model"
     },
     {
-      "author": "microsoft",
-      "id": "microsoft/wavlm-large",
-      "downloads": 1062446,
-      "likes": 123,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2022-02-02T21:21:50.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Xenova",
       "id": "Xenova/all-MiniLM-L6-v2",
-      "downloads": 4611135,
+      "downloads": 4578338,
       "likes": 180,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2025-07-22T16:42:24.000Z",
@@ -197,7 +217,7 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-small-zh-v1.5",
-      "downloads": 3202397,
+      "downloads": 3170096,
       "likes": 167,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2023-10-12T03:35:59.000Z",
@@ -205,19 +225,39 @@
       "repoType": "model"
     },
     {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/pplx-embed-v1-0.6b",
-      "downloads": 293001,
-      "likes": 240,
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-4B",
+      "downloads": 2481095,
+      "likes": 346,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-06-02T12:27:55.000Z",
-      "numParameters": 596049920,
+      "lastModified": "2025-06-20T09:30:56.000Z",
+      "numParameters": 4021774336,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/C-RADIOv4-H",
+      "downloads": 10290,
+      "likes": 91,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-30T12:40:28.000Z",
+      "numParameters": 651645448,
+      "repoType": "model"
+    },
+    {
+      "author": "eustlb",
+      "id": "eustlb/higgs-audio-v2-tokenizer",
+      "downloads": 195330,
+      "likes": 6,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-02-19T12:21:54.000Z",
+      "numParameters": 201400553,
       "repoType": "model"
     },
     {
       "author": "jinaai",
       "id": "jinaai/jina-embeddings-v5-omni-small",
-      "downloads": 1000295,
+      "downloads": 1001909,
       "likes": 177,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-11T21:24:39.000Z",
@@ -225,29 +265,19 @@
       "repoType": "model"
     },
     {
-      "author": "ibm-granite",
-      "id": "ibm-granite/granite-embedding-311m-multilingual-r2",
-      "downloads": 92411,
-      "likes": 144,
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v2-late-9b",
+      "downloads": 1160,
+      "likes": 42,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-05-18T20:15:41.000Z",
-      "numParameters": 311664384,
-      "repoType": "model"
-    },
-    {
-      "author": "tencent",
-      "id": "tencent/WeMM-Embedding-9B",
-      "downloads": 3751,
-      "likes": 143,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-09-03T12:23:55.000Z",
-      "numParameters": 9407831280,
+      "lastModified": "2026-10-22T15:35:25.000Z",
+      "numParameters": 8392695024,
       "repoType": "model"
     },
     {
       "author": "m-a-p",
       "id": "m-a-p/MERT-v2-30s",
-      "downloads": 1270,
+      "downloads": 1274,
       "likes": 23,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-09-29T16:14:14.000Z",
@@ -255,55 +285,25 @@
       "repoType": "model"
     },
     {
-      "author": "InstaDeepAI",
-      "id": "InstaDeepAI/NTv3_pretrained",
-      "downloads": 68,
-      "likes": 2,
+      "author": "Linkup-Platform",
+      "id": "Linkup-Platform/linkup-sparseup-embed-v1",
+      "downloads": 6311,
+      "likes": 61,
       "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-11-02T11:08:59.000Z",
-      "numParameters": 703401865,
+      "lastModified": "2026-09-22T08:14:17.000Z",
+      "numParameters": 188391300,
       "repoType": "model"
     },
     {
       "author": "onnx-community",
       "id": "onnx-community/embeddinggemma-2-ONNX",
-      "downloads": 562271,
+      "downloads": 555938,
       "likes": 35,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2026-10-06T16:58:12.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "syntheticgestalt",
-      "id": "syntheticgestalt/zao",
-      "downloads": 0,
-      "likes": 5,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-10-26T09:30:29.000Z",
-      "numParameters": 222692501,
-      "repoType": "model"
-    },
-    {
-      "author": "dolphinteam",
-      "id": "dolphinteam/OpenWhistle-Wav2Vec2.0",
-      "downloads": 1243,
-      "likes": 3,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-10-31T21:27:55.000Z",
-      "numParameters": 95054848,
-      "repoType": "model"
-    },
-    {
-      "author": "MahmoodLab",
-      "id": "MahmoodLab/MEDIATOR",
-      "downloads": 9,
-      "likes": 3,
-      "pipeline_tag": "feature-extraction",
-      "lastModified": "2026-10-28T16:49:24.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:31.505Z"
+  "fetchedAt": "2026-11-06T23:51:26.675Z"
 }

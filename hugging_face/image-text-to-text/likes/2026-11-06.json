@@ -1,14 +1,14 @@
 {
   "category": "image-text-to-text",
   "sort": "likes",
-  "totalItems": 45702,
+  "totalItems": 45832,
   "fetchedItems": 30,
   "models": [
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.8-27B",
-      "downloads": 8037597,
-      "likes": 19211,
+      "downloads": 7845288,
+      "likes": 19271,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-05T15:15:29.000Z",
       "numParameters": 27781427952,
@@ -17,7 +17,7 @@
     {
       "author": "moonshotai",
       "id": "moonshotai/Kimi-K3",
-      "downloads": 777904,
+      "downloads": 771891,
       "likes": 11939,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-02T02:22:41.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.8-Flash-Next",
-      "downloads": 3743202,
-      "likes": 6804,
+      "downloads": 3702902,
+      "likes": 6822,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-05T15:13:40.000Z",
       "numParameters": 179999981459,
@@ -37,8 +37,8 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "downloads": 243508,
-      "likes": 5329,
+      "downloads": 259511,
+      "likes": 5360,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-17T05:46:55.000Z",
       "numParameters": 763205315794,
@@ -47,8 +47,8 @@
     {
       "author": "baidu",
       "id": "baidu/Unlimited-OCR",
-      "downloads": 4747919,
-      "likes": 4950,
+      "downloads": 4920811,
+      "likes": 4959,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-14T06:17:59.000Z",
       "numParameters": 3336106240,
@@ -57,8 +57,8 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "downloads": 1826303,
-      "likes": 4873,
+      "downloads": 1880749,
+      "likes": 4883,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-16T09:27:28.000Z",
       "numParameters": 763205315794,
@@ -67,8 +67,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-31B-it",
-      "downloads": 7684597,
-      "likes": 4298,
+      "downloads": 7526808,
+      "likes": 4303,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-20T16:42:18.000Z",
       "numParameters": 31273088876,
@@ -77,8 +77,8 @@
     {
       "author": "HauhauCS",
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "downloads": 1208810,
-      "likes": 4098,
+      "downloads": 1256641,
+      "likes": 4106,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-17T02:59:21.000Z",
       "numParameters": 34660610688,
@@ -87,7 +87,7 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-OCR",
-      "downloads": 1999637,
+      "downloads": 1982990,
       "likes": 3463,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-11-04T02:36:12.000Z",
@@ -97,8 +97,8 @@
     {
       "author": "nvidia",
       "id": "nvidia/LocateAnything-3B",
-      "downloads": 244364,
-      "likes": 3173,
+      "downloads": 221113,
+      "likes": 3175,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-06-12T10:51:04.000Z",
       "numParameters": 3830665968,
@@ -107,17 +107,27 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "downloads": 4409406,
-      "likes": 3087,
+      "downloads": 4388118,
+      "likes": 3090,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:53:42.000Z",
       "numParameters": 35951822704,
       "repoType": "model"
     },
     {
+      "author": "zai-org",
+      "id": "zai-org/GLM-5.3-Flash",
+      "downloads": 6344758,
+      "likes": 3073,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-15T06:32:52.000Z",
+      "numParameters": 321323031390,
+      "repoType": "model"
+    },
+    {
       "author": "autotrust",
       "id": "autotrust/JEV-27B-VL",
-      "downloads": 1576444,
+      "downloads": 1572837,
       "likes": 3071,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-14T06:16:37.000Z",
@@ -125,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "zai-org",
-      "id": "zai-org/GLM-5.3-Flash",
-      "downloads": 6277088,
-      "likes": 3059,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-10-15T06:32:52.000Z",
-      "numParameters": 321323031390,
-      "repoType": "model"
-    },
-    {
       "author": "TaichuAI",
       "id": "TaichuAI/ZDTaichu5.0-9B",
-      "downloads": 1846,
+      "downloads": 1784,
       "likes": 3044,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-20T08:25:39.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "Jackrong",
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "downloads": 1940,
+      "downloads": 1930,
       "likes": 2971,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-07T02:18:08.000Z",
@@ -157,8 +157,8 @@
     {
       "author": "empero-ai",
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "downloads": 204502,
-      "likes": 2940,
+      "downloads": 196929,
+      "likes": 2942,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-14T13:12:53.000Z",
       "numParameters": 8953803264,
@@ -167,7 +167,7 @@
     {
       "author": "moonshotai",
       "id": "moonshotai/Kimi-K2.5",
-      "downloads": 394498,
+      "downloads": 394157,
       "likes": 2898,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-30T03:56:40.000Z",
@@ -175,10 +175,20 @@
       "repoType": "model"
     },
     {
+      "author": "DavidAU",
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "downloads": 1518569,
+      "likes": 2594,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-17T22:34:07.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
       "author": "ISTA-DASLab",
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "downloads": 1363922,
-      "likes": 2557,
+      "downloads": 1368040,
+      "likes": 2570,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-02T09:11:34.000Z",
       "numParameters": 26895998464,
@@ -186,19 +196,9 @@
     },
     {
       "author": "DavidAU",
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "downloads": 1457791,
-      "likes": 2543,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-10-17T22:34:07.000Z",
-      "numParameters": 26895998464,
-      "repoType": "model"
-    },
-    {
-      "author": "DavidAU",
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "downloads": 404834,
-      "likes": 2494,
+      "downloads": 398521,
+      "likes": 2500,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-17T22:32:37.000Z",
       "numParameters": 26895998464,
@@ -207,8 +207,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-27B",
-      "downloads": 2305054,
-      "likes": 2346,
+      "downloads": 2324676,
+      "likes": 2349,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-04-24T02:39:16.000Z",
       "numParameters": 27781427952,
@@ -217,8 +217,8 @@
     {
       "author": "Cloudflare",
       "id": "Cloudflare/clef",
-      "downloads": 49632,
-      "likes": 2338,
+      "downloads": 52301,
+      "likes": 2340,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-30T14:28:38.000Z",
       "numParameters": 27356728560,
@@ -227,8 +227,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-9B",
-      "downloads": 6316952,
-      "likes": 2319,
+      "downloads": 6297572,
+      "likes": 2327,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T00:51:43.000Z",
       "numParameters": 9653104368,
@@ -237,8 +237,8 @@
     {
       "author": "HauhauCS",
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "downloads": 2349727,
-      "likes": 2298,
+      "downloads": 2304225,
+      "likes": 2309,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-17T22:02:10.000Z",
       "numParameters": 1863907840,
@@ -247,8 +247,8 @@
     {
       "author": "meta-models",
       "id": "meta-models/Muse-Glimmer-30B",
-      "downloads": 186321,
-      "likes": 2122,
+      "downloads": 184956,
+      "likes": 2125,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-22T02:06:52.000Z",
       "numParameters": 29776626688,
@@ -257,7 +257,7 @@
     {
       "author": "google",
       "id": "google/gemma-3-27b-it",
-      "downloads": 361610,
+      "downloads": 361135,
       "likes": 2066,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-03-21T20:29:02.000Z",
@@ -267,8 +267,8 @@
     {
       "author": "microsoft",
       "id": "microsoft/Florence-2-large",
-      "downloads": 393791,
-      "likes": 1886,
+      "downloads": 393266,
+      "likes": 1887,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-08-04T17:09:36.000Z",
       "numParameters": 776721497,
@@ -277,33 +277,33 @@
     {
       "author": "orcarouter",
       "id": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-      "downloads": 122547,
-      "likes": 1872,
+      "downloads": 68837,
+      "likes": 1873,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-27T06:56:37.000Z",
       "numParameters": 27781427952,
       "repoType": "model"
     },
     {
+      "author": "autotrust",
+      "id": "autotrust/Qwen3.8-Flash-Next-E384-FP4-V2",
+      "downloads": 34934,
+      "likes": 1873,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-10-26T23:20:24.000Z",
+      "numParameters": 80083170934,
+      "repoType": "model"
+    },
+    {
       "author": "thinkingmachines",
       "id": "thinkingmachines/Inkling",
-      "downloads": 1862861,
-      "likes": 1835,
+      "downloads": 1848629,
+      "likes": 1838,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-23T17:27:17.000Z",
       "numParameters": 952377623626,
       "repoType": "model"
-    },
-    {
-      "author": "dealignai",
-      "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-      "downloads": 15990,
-      "likes": 1785,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-09-08T13:49:24.000Z",
-      "numParameters": 20163950444,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-06T00:35:43.636Z"
+  "fetchedAt": "2026-11-06T23:51:38.630Z"
 }
