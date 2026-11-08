@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "downloads",
+  "totalItems": 31452,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "w11wo",
+      "id": "w11wo/indonesian-roberta-base-posp-tagger",
+      "downloads": 3555324,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-02-19T11:03:26.000Z",
+      "numParameters": 124075034,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "downloads": 1479282,
+      "likes": 94,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-09T17:55:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1057809,
+      "likes": 747,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank",
+      "downloads": 892744,
+      "likes": 65,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-08T02:12:02.000Z",
+      "numParameters": 177341186,
+      "repoType": "model"
+    },
+    {
+      "author": "dbmdz",
+      "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "downloads": 734168,
+      "likes": 98,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-09-06T22:17:56.000Z",
+      "numParameters": 333588489,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 648537,
+      "likes": 170,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "kredor",
+      "id": "kredor/punctuate-all",
+      "downloads": 572806,
+      "likes": 31,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-26T05:37:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "flair",
+      "id": "flair/ner-german-large",
+      "downloads": 517615,
+      "likes": 45,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2022-08-28T09:08:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "segment-any-text",
+      "id": "segment-any-text/sat-3l-sm",
+      "downloads": 455302,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-09-24T11:54:56.000Z",
+      "numParameters": 213662977,
+      "repoType": "model"
+    },
+    {
+      "author": "obi",
+      "id": "obi/deid_roberta_i2b2",
+      "downloads": 368402,
+      "likes": 40,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-23T03:36:26.000Z",
+      "numParameters": 354356783,
+      "repoType": "model"
+    },
+    {
+      "author": "oliverguhr",
+      "id": "oliverguhr/fullstop-punctuation-multilang-large",
+      "downloads": 350078,
+      "likes": 183,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-11-16T09:35:35.000Z",
+      "numParameters": 558847496,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+      "downloads": 281955,
+      "likes": 33,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:31:25.000Z",
+      "numParameters": 434015235,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_large-v2",
+      "downloads": 249396,
+      "likes": 58,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-07-12T13:47:26.000Z",
+      "numParameters": 459495168,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-ChemicalDetect-ModernMed-149M",
+      "downloads": 227168,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:44:37.000Z",
+      "numParameters": 149607171,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-BloodCancerDetect-TinyMed-65M",
+      "downloads": 225564,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:43:21.000Z",
+      "numParameters": 65193219,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PharmaDetect-BigMed-278M",
+      "downloads": 223122,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:41:53.000Z",
+      "numParameters": 277455363,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-DiseaseDetect-BioMed-335M",
+      "downloads": 215736,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:41:31.000Z",
+      "numParameters": 334095363,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OncologyDetect-MultiMed-568M",
+      "downloads": 213913,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:35:55.000Z",
+      "numParameters": 566738977,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-AnatomyDetect-ElectraMed-109M",
+      "downloads": 212747,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:45:39.000Z",
+      "numParameters": 108893955,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-PathologyDetect-TinyMed-135M",
+      "downloads": 199916,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:45:27.000Z",
+      "numParameters": 134736387,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-ChemicalDetect-ModernMed-395M",
+      "downloads": 198359,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:42:30.000Z",
+      "numParameters": 395834371,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-SpeciesDetect-ElectraMed-109M",
+      "downloads": 197891,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:42:49.000Z",
+      "numParameters": 108893955,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OrganismDetect-BioPatient-108M",
+      "downloads": 197797,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:38:13.000Z",
+      "numParameters": 107721987,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OncologyDetect-BigMed-278M",
+      "downloads": 197472,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:39:20.000Z",
+      "numParameters": 277478433,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-DNADetect-SuperMedical-125M",
+      "downloads": 195800,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:46:01.000Z",
+      "numParameters": 124063499,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-GenomicDetect-PubMed-109M",
+      "downloads": 195379,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:44:06.000Z",
+      "numParameters": 108893955,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-OrganismDetect-TinyMed-82M",
+      "downloads": 186427,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:36:52.000Z",
+      "numParameters": 81530115,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-DiseaseDetect-SuperClinical-434M",
+      "downloads": 186037,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:34:31.000Z",
+      "numParameters": 434015235,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-GenomeDetect-ModernMed-395M",
+      "downloads": 185256,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:39:49.000Z",
+      "numParameters": 395834371,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-NER-GenomeDetect-ModernMed-149M",
+      "downloads": 182787,
+      "likes": 0,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-08-05T09:38:49.000Z",
+      "numParameters": 149607171,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-08T23:15:56.875Z"
+}
