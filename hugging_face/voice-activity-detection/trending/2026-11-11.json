@@ -1,0 +1,309 @@
+{
+  "category": "voice-activity-detection",
+  "sort": "trending",
+  "totalItems": 385,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "pyannote",
+      "id": "pyannote/segmentation-3.0",
+      "downloads": 5017187,
+      "likes": 2623,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-05-10T19:35:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Diarization",
+      "downloads": 192740,
+      "likes": 832,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-11-10T10:42:18.000Z",
+      "numParameters": 99226504,
+      "repoType": "model"
+    },
+    {
+      "author": "p99lab",
+      "id": "p99lab/turn-1-mini",
+      "downloads": 2528,
+      "likes": 4,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-11-10T06:36:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/segmentation",
+      "downloads": 541555,
+      "likes": 716,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-05-10T19:38:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BUT-FIT",
+      "id": "BUT-FIT/diarizen-wavlm-large-s80-md",
+      "downloads": 1143,
+      "likes": 56,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-08-31T13:10:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BUT-FIT",
+      "id": "BUT-FIT/diarizen-wavlm-large-s80-md-v2",
+      "downloads": 1637,
+      "likes": 28,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-08-31T12:55:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "FireRedTeam",
+      "id": "FireRedTeam/FireRedVAD",
+      "downloads": 2443,
+      "likes": 79,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-03-13T03:40:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/Nemotron-3-Diarization",
+      "downloads": 1103,
+      "likes": 4,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-23T16:33:07.000Z",
+      "numParameters": 99263843,
+      "repoType": "model"
+    },
+    {
+      "author": "wq2012",
+      "id": "wq2012/personal-vad-v2-conformer-film-cos",
+      "downloads": 52,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-10-11T20:07:16.000Z",
+      "numParameters": 1058499,
+      "repoType": "model"
+    },
+    {
+      "author": "p99lab",
+      "id": "p99lab/turn-1",
+      "downloads": 677,
+      "likes": 2,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-11-06T04:26:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "twmht",
+      "id": "twmht/FireRedVAD-VAD-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-11-05T03:18:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "awacke1",
+      "id": "awacke1/wav2vec2-base-timit-demo-colab",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2025-01-03T13:27:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/YushiUeda_mini_librispeech_diar_train_diar_raw_valid.acc.best",
+      "downloads": 4,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-18T04:19:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/Yushi_Ueda_mini_librispeech_diar_train_diar_raw_max_epoch20_valid.acc.best",
+      "downloads": 20,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-18T04:19:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "julien-c",
+      "id": "julien-c/voice-activity-detection",
+      "downloads": 2,
+      "likes": 17,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2020-12-21T22:38:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/YushiUeda_librimix_diar_enh_2_3_spk",
+      "downloads": 18,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-18T04:19:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/YushiUeda_librimix_diar_enh_2_3_spk_lmf",
+      "downloads": 4,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-18T04:19:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "philschmid",
+      "id": "philschmid/pyannote-speaker-diarization-endpoint",
+      "downloads": 154,
+      "likes": 20,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-22T07:17:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pyannote",
+      "id": "pyannote/brouhaha",
+      "downloads": 40851,
+      "likes": 32,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-15T09:10:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "anilbs",
+      "id": "anilbs/segmentation",
+      "downloads": 18,
+      "likes": 2,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-01T18:54:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "philschmid",
+      "id": "philschmid/pyannote-segmentation",
+      "downloads": 415,
+      "likes": 10,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2022-11-08T17:15:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/Indian-voice-cloning",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-07-01T16:18:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "popcornell",
+      "id": "popcornell/pyannote-segmentation-chime6-mixer6",
+      "downloads": 38,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-04-04T10:15:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "johnislarry",
+      "id": "johnislarry/cloned-pyannote-speaker-diarization-endpoint",
+      "downloads": 34,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-04-20T06:34:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "funasr",
+      "id": "funasr/fsmn-vad-onnx",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-06-19T09:39:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Fuhuaujduu",
+      "id": "Fuhuaujduu/Fu_hua-Honkai_impact3d",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-06-09T06:48:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KIFF",
+      "id": "KIFF/pyannote-speaker-diarization-endpoint",
+      "downloads": 84,
+      "likes": 4,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2024-12-29T21:28:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "espnet",
+      "id": "espnet/dongwei_ami_vad_rnn",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2026-09-18T04:19:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Berndk",
+      "id": "Berndk/Anilerdemcevizci",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-07-19T23:29:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sheLpersss7",
+      "id": "sheLpersss7/Asahina-Mafuyu1014",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": "voice-activity-detection",
+      "lastModified": "2023-07-24T14:06:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-11T00:18:01.891Z"
+}
