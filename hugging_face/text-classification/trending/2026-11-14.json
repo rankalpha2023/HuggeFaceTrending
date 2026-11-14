@@ -1,14 +1,14 @@
 {
   "category": "text-classification",
   "sort": "trending",
-  "totalItems": 128132,
+  "totalItems": 128185,
   "fetchedItems": 30,
   "models": [
     {
       "author": "autotrust",
       "id": "autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1",
-      "downloads": 147541,
-      "likes": 1523,
+      "downloads": 151462,
+      "likes": 1561,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-17T23:20:48.000Z",
       "numParameters": 27356728560,
@@ -17,7 +17,7 @@
     {
       "author": "convaiinnovations",
       "id": "convaiinnovations/laya",
-      "downloads": 18079,
+      "downloads": 17605,
       "likes": 5960,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-09T06:54:19.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "rayline-ai",
       "id": "rayline-ai/ARC-1.0",
-      "downloads": 82,
-      "likes": 29,
+      "downloads": 239,
+      "likes": 32,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-13T22:03:36.000Z",
       "numParameters": 615054751,
@@ -37,17 +37,27 @@
     {
       "author": "perplexity-ai",
       "id": "perplexity-ai/pplx-decider-v1.3",
-      "downloads": 150,
-      "likes": 20,
+      "downloads": 332,
+      "likes": 28,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-10T09:32:51.000Z",
       "numParameters": 26085330160,
       "repoType": "model"
     },
     {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-flash-v1.3",
+      "downloads": 556,
+      "likes": 28,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T09:32:53.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
       "author": "baselabs",
       "id": "baselabs/mammoth-1",
-      "downloads": 6351,
+      "downloads": 7544,
       "likes": 97,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-22T18:40:29.000Z",
@@ -55,20 +65,10 @@
       "repoType": "model"
     },
     {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/pplx-decider-flash-v1.3",
-      "downloads": 233,
-      "likes": 19,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-11-10T09:32:53.000Z",
-      "numParameters": 4539265536,
-      "repoType": "model"
-    },
-    {
       "author": "meta-llama",
       "id": "meta-llama/Llama-Prompt-Guard-2-86M",
-      "downloads": 92018,
-      "likes": 380,
+      "downloads": 91127,
+      "likes": 383,
       "pipeline_tag": "text-classification",
       "lastModified": "2025-04-29T15:59:55.000Z",
       "numParameters": 278810882,
@@ -77,8 +77,8 @@
     {
       "author": "gevaertlab",
       "id": "gevaertlab/MANTA-27B",
-      "downloads": 109,
-      "likes": 11,
+      "downloads": 136,
+      "likes": 12,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-10T05:22:14.000Z",
       "numParameters": 27484784884,
@@ -87,8 +87,8 @@
     {
       "author": "perplexity-ai",
       "id": "perplexity-ai/pplx-decider-flash-v1.2",
-      "downloads": 7350,
-      "likes": 79,
+      "downloads": 7578,
+      "likes": 80,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-19T10:26:13.000Z",
       "numParameters": 4539265536,
@@ -97,7 +97,7 @@
     {
       "author": "feder-cr",
       "id": "feder-cr/jev",
-      "downloads": 1557,
+      "downloads": 1619,
       "likes": 23,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-09T16:47:00.000Z",
@@ -105,30 +105,10 @@
       "repoType": "model"
     },
     {
-      "author": "sarvamai",
-      "id": "sarvamai/prism",
-      "downloads": 347,
-      "likes": 46,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-11-03T13:16:18.000Z",
-      "numParameters": 104991889280,
-      "repoType": "model"
-    },
-    {
-      "author": "pavanmantha",
-      "id": "pavanmantha/mednli_laya",
-      "downloads": 20,
-      "likes": 8,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-11-10T15:22:16.000Z",
-      "numParameters": 321908998,
-      "repoType": "model"
-    },
-    {
       "author": "BAAI",
       "id": "BAAI/bge-reranker-v2-m3",
-      "downloads": 14648377,
-      "likes": 1302,
+      "downloads": 14668125,
+      "likes": 1303,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-06-24T14:08:45.000Z",
       "numParameters": 567755777,
@@ -138,26 +118,36 @@
       "author": "StrandsAgents",
       "id": "StrandsAgents/strands-decider-2B-qwen3.5-v1-2610",
       "downloads": 0,
-      "likes": 19,
+      "likes": 20,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-09T22:55:03.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "perplexity-ai",
-      "id": "perplexity-ai/pplx-decider-v1.2",
-      "downloads": 5972,
-      "likes": 75,
+      "author": "gevaertlab",
+      "id": "gevaertlab/MANTA-4B",
+      "downloads": 66,
+      "likes": 8,
       "pipeline_tag": "text-classification",
-      "lastModified": "2026-10-19T10:25:41.000Z",
-      "numParameters": 26085330160,
+      "lastModified": "2026-11-10T05:26:27.000Z",
+      "numParameters": 5287287300,
+      "repoType": "model"
+    },
+    {
+      "author": "pavanmantha",
+      "id": "pavanmantha/mednli_laya",
+      "downloads": 22,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T15:22:16.000Z",
+      "numParameters": 321908998,
       "repoType": "model"
     },
     {
       "author": "baselabs",
       "id": "baselabs/elephant-1",
-      "downloads": 7668,
+      "downloads": 8073,
       "likes": 115,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-22T18:40:27.000Z",
@@ -165,30 +155,30 @@
       "repoType": "model"
     },
     {
-      "author": "gevaertlab",
-      "id": "gevaertlab/MANTA-4B",
-      "downloads": 33,
-      "likes": 7,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-11-10T05:26:27.000Z",
-      "numParameters": 5287287300,
-      "repoType": "model"
-    },
-    {
       "author": "MachinePulseAI",
       "id": "MachinePulseAI/karpo-decision-31B",
-      "downloads": 217,
-      "likes": 6,
+      "downloads": 441,
+      "likes": 7,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-13T09:45:29.000Z",
       "numParameters": 31273088876,
       "repoType": "model"
     },
     {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-v1.2",
+      "downloads": 6169,
+      "likes": 76,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-19T10:25:41.000Z",
+      "numParameters": 26085330160,
+      "repoType": "model"
+    },
+    {
       "author": "convaiinnovations",
       "id": "convaiinnovations/laya-multilingual",
-      "downloads": 9439,
-      "likes": 422,
+      "downloads": 9255,
+      "likes": 423,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-03T18:00:08.000Z",
       "numParameters": 321908998,
@@ -197,8 +187,8 @@
     {
       "author": "jaredpalmer",
       "id": "jaredpalmer/kev-4b",
-      "downloads": 12204,
-      "likes": 175,
+      "downloads": 11850,
+      "likes": 176,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-01T17:18:26.000Z",
       "numParameters": null,
@@ -207,7 +197,7 @@
     {
       "author": "akhilaaa3",
       "id": "akhilaaa3/Jev-Omni",
-      "downloads": 3660,
+      "downloads": 3640,
       "likes": 450,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-13T13:31:13.000Z",
@@ -215,9 +205,19 @@
       "repoType": "model"
     },
     {
+      "author": "doofz",
+      "id": "doofz/THX-01",
+      "downloads": 741,
+      "likes": 96,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-16T16:22:07.000Z",
+      "numParameters": 321908998,
+      "repoType": "model"
+    },
+    {
       "author": "fastino",
       "id": "fastino/GLiNER2.5-Decide",
-      "downloads": 86709,
+      "downloads": 83553,
       "likes": 457,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-10-08T20:47:53.000Z",
@@ -235,19 +235,29 @@
       "repoType": "model"
     },
     {
-      "author": "distilbert",
-      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
-      "downloads": 3005809,
-      "likes": 1009,
+      "author": "baselabs",
+      "id": "baselabs/joey-1",
+      "downloads": 1675,
+      "likes": 49,
       "pipeline_tag": "text-classification",
-      "lastModified": "2023-12-19T16:29:37.000Z",
-      "numParameters": 66955010,
+      "lastModified": "2026-10-29T18:24:50.000Z",
+      "numParameters": 2721801024,
+      "repoType": "model"
+    },
+    {
+      "author": "sarvamai",
+      "id": "sarvamai/prism",
+      "downloads": 364,
+      "likes": 46,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-03T13:16:18.000Z",
+      "numParameters": 104991889280,
       "repoType": "model"
     },
     {
       "author": "SupersonicLabs",
       "id": "SupersonicLabs/Julia-1",
-      "downloads": 2198,
+      "downloads": 2179,
       "likes": 504,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-09T18:23:05.000Z",
@@ -255,19 +265,9 @@
       "repoType": "model"
     },
     {
-      "author": "nace-ai",
-      "id": "nace-ai/drex-v1.5",
-      "downloads": 790,
-      "likes": 59,
-      "pipeline_tag": "text-classification",
-      "lastModified": "2026-11-06T22:25:02.000Z",
-      "numParameters": 8953803264,
-      "repoType": "model"
-    },
-    {
       "author": "PelaAI",
       "id": "PelaAI/KnowLine-4B-Gen5.5",
-      "downloads": 1625,
+      "downloads": 1739,
       "likes": 10,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-12T18:21:19.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "KoljaB",
       "id": "KoljaB/backchannel-cue-32m",
-      "downloads": 122,
+      "downloads": 125,
       "likes": 27,
       "pipeline_tag": "text-classification",
       "lastModified": "2026-11-02T09:42:37.000Z",
@@ -295,15 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "ProsusAI",
-      "id": "ProsusAI/finbert",
-      "downloads": 3224244,
-      "likes": 1303,
+      "author": "distilbert",
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "downloads": 3010361,
+      "likes": 1011,
       "pipeline_tag": "text-classification",
-      "lastModified": "2026-10-12T09:04:17.000Z",
-      "numParameters": 109485059,
+      "lastModified": "2023-12-19T16:29:37.000Z",
+      "numParameters": 66955010,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-14T00:32:13.833Z"
+  "fetchedAt": "2026-11-14T23:28:29.531Z"
 }

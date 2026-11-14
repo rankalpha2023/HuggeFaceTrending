@@ -1,13 +1,13 @@
 {
   "category": "image-segmentation",
   "sort": "downloads",
-  "totalItems": 4028,
+  "totalItems": 4048,
   "fetchedItems": 30,
   "models": [
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet",
-      "downloads": 998005,
+      "downloads": 995936,
       "likes": 675,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:55.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "CIDAS",
       "id": "CIDAS/clipseg-rd64-refined",
-      "downloads": 419441,
+      "downloads": 415000,
       "likes": 142,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-12-11T09:46:10.000Z",
@@ -27,8 +27,8 @@
     {
       "author": "briaai",
       "id": "briaai/RMBG-2.0",
-      "downloads": 388859,
-      "likes": 1644,
+      "downloads": 392711,
+      "likes": 1643,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-10-21T15:02:32.000Z",
       "numParameters": 220700242,
@@ -37,7 +37,7 @@
     {
       "author": "mattmdjaga",
       "id": "mattmdjaga/segformer_b2_clothes",
-      "downloads": 388634,
+      "downloads": 386430,
       "likes": 514,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-09-19T07:21:11.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "facebook",
       "id": "facebook/mask2former-swin-large-ade-semantic",
-      "downloads": 354512,
+      "downloads": 353803,
       "likes": 33,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-11T20:35:29.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "shi-labs",
       "id": "shi-labs/oneformer_cityscapes_swin_large",
-      "downloads": 328336,
+      "downloads": 330552,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-01-20T08:28:09.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/segformer-b0-finetuned-ade-512-512",
-      "downloads": 281441,
+      "downloads": 278771,
       "likes": 211,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2024-01-14T10:46:46.000Z",
@@ -77,7 +77,7 @@
     {
       "author": "briaai",
       "id": "briaai/RMBG-1.4",
-      "downloads": 243817,
+      "downloads": 239701,
       "likes": 2064,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-06T08:27:49.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "Xenova",
       "id": "Xenova/segformer-b0-finetuned-ade-512-512",
-      "downloads": 198261,
+      "downloads": 197798,
       "likes": 3,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-01T15:39:50.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/segformer-b2-finetuned-ade-512-512",
-      "downloads": 171869,
+      "downloads": 178674,
       "likes": 16,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2022-08-06T10:07:54.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet-portrait",
-      "downloads": 165406,
+      "downloads": 157906,
       "likes": 18,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-29T11:40:22.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "jonathandinu",
       "id": "jonathandinu/face-parsing",
-      "downloads": 154915,
+      "downloads": 151883,
       "likes": 231,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-18T22:38:54.000Z",
@@ -125,19 +125,9 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/segformer-b3-finetuned-ade-512-512",
-      "downloads": 136440,
-      "likes": 18,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2022-08-06T10:29:16.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/mask2former-swin-tiny-coco-instance",
-      "downloads": 134841,
+      "downloads": 139153,
       "likes": 23,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-11T20:46:03.000Z",
@@ -145,9 +135,19 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b3-finetuned-ade-512-512",
+      "downloads": 136356,
+      "likes": 18,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-06T10:29:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "Xenova",
       "id": "Xenova/modnet",
-      "downloads": 122332,
+      "downloads": 122447,
       "likes": 88,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-10-26T21:25:48.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "PramaLLC",
       "id": "PramaLLC/BEN2",
-      "downloads": 121453,
+      "downloads": 120971,
       "likes": 253,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-12-31T17:17:52.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "facebook",
       "id": "facebook/mask2former-swin-large-cityscapes-semantic",
-      "downloads": 98607,
+      "downloads": 92949,
       "likes": 42,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-07T15:38:57.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "fashn-ai",
       "id": "fashn-ai/fashn-human-parser",
-      "downloads": 74795,
+      "downloads": 74319,
       "likes": 33,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-01-10T20:50:06.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "shi-labs",
       "id": "shi-labs/oneformer_ade20k_swin_large",
-      "downloads": 61465,
+      "downloads": 69205,
       "likes": 40,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-01-19T14:36:03.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/segformer-b5-finetuned-ade-640-640",
-      "downloads": 58824,
+      "downloads": 59779,
       "likes": 54,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2022-08-06T10:25:55.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet_HR",
-      "downloads": 55097,
+      "downloads": 53470,
       "likes": 84,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:53.000Z",
@@ -215,29 +215,9 @@
       "repoType": "model"
     },
     {
-      "author": "nvidia",
-      "id": "nvidia/segformer-b5-finetuned-cityscapes-1024-1024",
-      "downloads": 51293,
-      "likes": 49,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2022-08-09T11:29:37.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "PaddlePaddle",
-      "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 49307,
-      "likes": 127,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-09-30T04:59:24.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "shi-labs",
       "id": "shi-labs/oneformer_coco_swin_large",
-      "downloads": 48330,
+      "downloads": 50816,
       "likes": 8,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-01-19T11:07:35.000Z",
@@ -245,9 +225,19 @@
       "repoType": "model"
     },
     {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayoutV3",
+      "downloads": 48609,
+      "likes": 127,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-09-30T04:59:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/mask2former-swin-large-mapillary-vistas-semantic",
-      "downloads": 47143,
+      "downloads": 48006,
       "likes": 14,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-09-11T20:45:32.000Z",
@@ -255,9 +245,19 @@
       "repoType": "model"
     },
     {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b5-finetuned-cityscapes-1024-1024",
+      "downloads": 46618,
+      "likes": 49,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2022-08-09T11:29:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "openmmlab",
       "id": "openmmlab/upernet-swin-small",
-      "downloads": 45846,
+      "downloads": 46017,
       "likes": 5,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2023-06-23T13:00:02.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/ormbg-ONNX",
-      "downloads": 45113,
+      "downloads": 45183,
       "likes": 13,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-14T13:06:54.000Z",
@@ -277,7 +277,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/segformer-b4-finetuned-ade-512-512",
-      "downloads": 42464,
+      "downloads": 43033,
       "likes": 11,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2022-08-06T10:25:42.000Z",
@@ -286,24 +286,24 @@
     },
     {
       "author": "ZhengPeng7",
-      "id": "ZhengPeng7/BiRefNet-matting",
-      "downloads": 41401,
-      "likes": 32,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-08-29T11:40:50.000Z",
-      "numParameters": 220700242,
-      "repoType": "model"
-    },
-    {
-      "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet_HR-matting",
-      "downloads": 40763,
+      "downloads": 41546,
       "likes": 21,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:50.000Z",
       "numParameters": 220700242,
       "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet-matting",
+      "downloads": 40807,
+      "likes": 32,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-08-29T11:40:50.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-14T00:31:47.518Z"
+  "fetchedAt": "2026-11-14T23:28:02.094Z"
 }

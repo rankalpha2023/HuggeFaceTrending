@@ -1,13 +1,13 @@
 {
   "category": "table-question-answering",
   "sort": "downloads",
-  "totalItems": 199,
+  "totalItems": 198,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google",
       "id": "google/tapas-base-finetuned-wtq",
-      "downloads": 12079,
+      "downloads": 11944,
       "likes": 248,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2022-07-14T10:12:59.000Z",
@@ -15,9 +15,19 @@
       "repoType": "model"
     },
     {
+      "author": "lysandre",
+      "id": "lysandre/tiny-tapas-random-wtq",
+      "downloads": 3143,
+      "likes": 0,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2020-12-15T04:19:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "google",
       "id": "google/tapas-tiny-finetuned-sqa",
-      "downloads": 3006,
+      "downloads": 3004,
       "likes": 9,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:08:47.000Z",
@@ -26,18 +36,8 @@
     },
     {
       "author": "lysandre",
-      "id": "lysandre/tiny-tapas-random-wtq",
-      "downloads": 2803,
-      "likes": 0,
-      "pipeline_tag": "table-question-answering",
-      "lastModified": "2020-12-15T04:19:58.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "lysandre",
       "id": "lysandre/tiny-tapas-random-sqa",
-      "downloads": 2365,
+      "downloads": 2655,
       "likes": 0,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2020-12-14T23:23:58.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "google",
       "id": "google/tapas-base-finetuned-sqa",
-      "downloads": 2344,
+      "downloads": 2266,
       "likes": 14,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T11:41:09.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-base-finetuned-wikisql",
-      "downloads": 1383,
+      "downloads": 1375,
       "likes": 40,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-01-24T16:57:17.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-large",
-      "downloads": 1361,
+      "downloads": 1098,
       "likes": 17,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-05-03T03:48:31.000Z",
@@ -75,9 +75,19 @@
       "repoType": "model"
     },
     {
+      "author": "microsoft",
+      "id": "microsoft/tapex-large-finetuned-wtq",
+      "downloads": 989,
+      "likes": 84,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2024-01-12T11:26:01.000Z",
+      "numParameters": 406341721,
+      "repoType": "model"
+    },
+    {
       "author": "QuantFactory",
       "id": "QuantFactory/TableLLM-13b-GGUF",
-      "downloads": 1014,
+      "downloads": 927,
       "likes": 7,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2025-03-06T14:34:58.000Z",
@@ -86,28 +96,8 @@
     },
     {
       "author": "microsoft",
-      "id": "microsoft/tapex-large-finetuned-wtq",
-      "downloads": 972,
-      "likes": 84,
-      "pipeline_tag": "table-question-answering",
-      "lastModified": "2024-01-12T11:26:01.000Z",
-      "numParameters": 406341721,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/tapas-large-finetuned-wtq",
-      "downloads": 635,
-      "likes": 155,
-      "pipeline_tag": "table-question-answering",
-      "lastModified": "2023-09-05T14:48:42.000Z",
-      "numParameters": 336734212,
-      "repoType": "model"
-    },
-    {
-      "author": "microsoft",
       "id": "microsoft/tapex-base-finetuned-wtq",
-      "downloads": 631,
+      "downloads": 642,
       "likes": 19,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-06-26T19:49:37.000Z",
@@ -116,8 +106,18 @@
     },
     {
       "author": "google",
+      "id": "google/tapas-large-finetuned-wtq",
+      "downloads": 639,
+      "likes": 155,
+      "pipeline_tag": "table-question-answering",
+      "lastModified": "2023-09-05T14:48:42.000Z",
+      "numParameters": 336734212,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
       "id": "google/tapas-large-finetuned-sqa",
-      "downloads": 614,
+      "downloads": 602,
       "likes": 11,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:03:46.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "google",
       "id": "google/tapas-base-finetuned-wikisql-supervised",
-      "downloads": 590,
+      "downloads": 595,
       "likes": 14,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:05:40.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "google",
       "id": "google/tapas-small-finetuned-sqa",
-      "downloads": 538,
+      "downloads": 537,
       "likes": 7,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:09:34.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "google",
       "id": "google/tapas-tiny-finetuned-wtq",
-      "downloads": 515,
+      "downloads": 525,
       "likes": 5,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T10:45:11.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-base",
-      "downloads": 379,
+      "downloads": 390,
       "likes": 57,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-05-03T03:48:52.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "mradermacher",
       "id": "mradermacher/tablemind-qwen2.5-1.5b-GGUF",
-      "downloads": 232,
+      "downloads": 251,
       "likes": 0,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2026-07-16T10:56:04.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-large-finetuned-tabfact",
-      "downloads": 225,
+      "downloads": 234,
       "likes": 16,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2022-07-14T10:10:10.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "google",
       "id": "google/tapas-medium-finetuned-wikisql-supervised",
-      "downloads": 220,
+      "downloads": 227,
       "likes": 0,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:06:28.000Z",
@@ -207,7 +207,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-large-sql-execution",
-      "downloads": 212,
+      "downloads": 214,
       "likes": 26,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-09-15T19:52:28.000Z",
@@ -217,7 +217,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/tapex-large-finetuned-wikisql",
-      "downloads": 182,
+      "downloads": 187,
       "likes": 21,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2023-06-26T19:50:22.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "lysandre",
       "id": "lysandre/tapas-temporary-repo",
-      "downloads": 168,
+      "downloads": 169,
       "likes": 0,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2020-12-17T15:56:06.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "google",
       "id": "google/tapas-mini-finetuned-wtq",
-      "downloads": 135,
+      "downloads": 134,
       "likes": 3,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2022-07-14T10:14:00.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "google",
       "id": "google/tapas-medium-finetuned-sqa",
-      "downloads": 131,
+      "downloads": 132,
       "likes": 1,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:09:52.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "google",
       "id": "google/tapas-medium-finetuned-wtq",
-      "downloads": 123,
+      "downloads": 130,
       "likes": 2,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2022-07-14T10:14:59.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "google",
       "id": "google/tapas-large-finetuned-wikisql-supervised",
-      "downloads": 117,
+      "downloads": 118,
       "likes": 6,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2021-11-29T13:05:23.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "neulab",
       "id": "neulab/omnitab-large-finetuned-wtq",
-      "downloads": 62,
+      "downloads": 64,
       "likes": 7,
       "pipeline_tag": "table-question-answering",
       "lastModified": "2022-11-29T02:11:26.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-14T00:32:13.119Z"
+  "fetchedAt": "2026-11-14T23:28:28.788Z"
 }

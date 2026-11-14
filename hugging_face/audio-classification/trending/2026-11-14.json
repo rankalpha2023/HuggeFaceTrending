@@ -1,13 +1,13 @@
 {
   "category": "audio-classification",
   "sort": "trending",
-  "totalItems": 5477,
+  "totalItems": 5479,
   "fetchedItems": 30,
   "models": [
     {
       "author": "gertelrina",
       "id": "gertelrina/aadd",
-      "downloads": 89,
+      "downloads": 100,
       "likes": 11,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-09T14:45:03.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "FireRedTeam",
       "id": "FireRedTeam/FireRedLID",
-      "downloads": 624,
+      "downloads": 640,
       "likes": 29,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-03-13T03:44:22.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "charcot-ai",
       "id": "charcot-ai/marimba",
-      "downloads": 133,
+      "downloads": 180,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-13T18:27:39.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "abacusai",
       "id": "abacusai/Smaug-Audio-Decisions-0.7B",
-      "downloads": 220,
+      "downloads": 229,
       "likes": 8,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-02T14:07:40.000Z",
@@ -45,9 +45,19 @@
       "repoType": "model"
     },
     {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1905898,
+      "likes": 391,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
       "author": "CIIL",
       "id": "CIIL/Anuvani-LID",
-      "downloads": 276,
+      "downloads": 280,
       "likes": 8,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-19T08:42:27.000Z",
@@ -56,18 +66,8 @@
     },
     {
       "author": "pipecat-ai",
-      "id": "pipecat-ai/backchannel-detector",
-      "downloads": 0,
-      "likes": 17,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-10-28T03:39:07.000Z",
-      "numParameters": 960735,
-      "repoType": "model"
-    },
-    {
-      "author": "pipecat-ai",
       "id": "pipecat-ai/voice-reader",
-      "downloads": 351,
+      "downloads": 390,
       "likes": 24,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-12T02:10:04.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "Bagus",
       "id": "Bagus/wav2vec2-xlsr-greek-speech-emotion-recognition",
-      "downloads": 33,
+      "downloads": 36,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2021-10-20T05:38:41.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "audeering",
       "id": "audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim",
-      "downloads": 179164,
+      "downloads": 182422,
       "likes": 177,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-09-19T08:07:19.000Z",
@@ -105,19 +105,9 @@
       "repoType": "model"
     },
     {
-      "author": "MIT",
-      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 1923883,
-      "likes": 390,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2023-09-06T14:49:15.000Z",
-      "numParameters": 86594063,
-      "repoType": "model"
-    },
-    {
       "author": "ardneebwar",
       "id": "ardneebwar/wav2vec2-animal-sounds-finetuned-hubert-finetuned-animals",
-      "downloads": 95,
+      "downloads": 97,
       "likes": 11,
       "pipeline_tag": "audio-classification",
       "lastModified": "2024-12-03T04:17:21.000Z",
@@ -125,9 +115,19 @@
       "repoType": "model"
     },
     {
+      "author": "funasr",
+      "id": "funasr/campplus",
+      "downloads": 4131,
+      "likes": 27,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-06-19T09:39:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "JaesungHuh",
       "id": "JaesungHuh/voice-gender-classifier",
-      "downloads": 45689,
+      "downloads": 45514,
       "likes": 45,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-04T11:09:00.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "OpenMuQ",
       "id": "OpenMuQ/MuQ-large-msd-iter",
-      "downloads": 200626,
+      "downloads": 201058,
       "likes": 27,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-08-15T10:45:28.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "OpenMuQ",
       "id": "OpenMuQ/MuQ-MuLan-large",
-      "downloads": 53700,
+      "downloads": 56789,
       "likes": 30,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-08-21T19:00:44.000Z",
@@ -155,39 +155,9 @@
       "repoType": "model"
     },
     {
-      "author": "aicinema69",
-      "id": "aicinema69/audio-emotion-detecto-2",
-      "downloads": 9,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-04-19T00:59:41.000Z",
-      "numParameters": 315703433,
-      "repoType": "model"
-    },
-    {
-      "author": "aicinema69",
-      "id": "aicinema69/audio-emotion-detector-try1",
-      "downloads": 10,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-04-20T06:42:49.000Z",
-      "numParameters": 315703433,
-      "repoType": "model"
-    },
-    {
-      "author": "aicinema69",
-      "id": "aicinema69/audio-emotion-detector-try2",
-      "downloads": 15,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-04-20T16:53:23.000Z",
-      "numParameters": 85769481,
-      "repoType": "model"
-    },
-    {
       "author": "tiantiaf",
       "id": "tiantiaf/wavlm-large-categorical-emotion",
-      "downloads": 242,
+      "downloads": 240,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-08-10T21:38:28.000Z",
@@ -195,9 +165,19 @@
       "repoType": "model"
     },
     {
+      "author": "tiantiaf",
+      "id": "tiantiaf/whisper-large-v3-voice-quality",
+      "downloads": 90,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2025-08-10T21:37:56.000Z",
+      "numParameters": 1546134330,
+      "repoType": "model"
+    },
+    {
       "author": "prithivMLmods",
       "id": "prithivMLmods/Common-Voice-Gender-Detection",
-      "downloads": 174910,
+      "downloads": 172287,
       "likes": 36,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-11-12T02:21:55.000Z",
@@ -235,9 +215,29 @@
       "repoType": "model"
     },
     {
+      "author": "laion",
+      "id": "laion/music-aesthetics",
+      "downloads": 0,
+      "likes": 10,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-03T17:48:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "laion",
+      "id": "laion/music-popularity",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-03T17:48:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "mlx-community",
       "id": "mlx-community/silero-vad",
-      "downloads": 1713,
+      "downloads": 1717,
       "likes": 3,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-04-30T22:27:02.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "Rashidbm",
       "id": "Rashidbm/samid-drone-detector",
-      "downloads": 363,
+      "downloads": 324,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-05-02T18:05:46.000Z",
@@ -255,9 +255,29 @@
       "repoType": "model"
     },
     {
+      "author": "space-cadet",
+      "id": "space-cadet/wavlm-ser",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-14T17:49:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lab260",
+      "id": "lab260/redimnet2-plus",
+      "downloads": 190,
+      "likes": 5,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-09-11T08:59:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "AntResearch",
       "id": "AntResearch/AntSpeaker",
-      "downloads": 1084,
+      "downloads": 1095,
       "likes": 19,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-08T14:28:50.000Z",
@@ -267,7 +287,7 @@
     {
       "author": "theboringai-work",
       "id": "theboringai-work/surround-sound",
-      "downloads": 132,
+      "downloads": 130,
       "likes": 10,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-14T08:35:58.000Z",
@@ -275,35 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "AustinXiao",
-      "id": "AustinXiao/voxturn-personal-turn-detector",
-      "downloads": 111,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-04T23:33:48.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "thalovant",
-      "id": "thalovant/thalovant-wakeword",
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/backchannel-detector",
       "downloads": 0,
-      "likes": 2,
+      "likes": 17,
       "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-11T12:08:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "tachiwin",
-      "id": "tachiwin/Tachiwin-Audio-ID",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-07T06:11:48.000Z",
-      "numParameters": 21129600,
+      "lastModified": "2026-10-28T03:39:07.000Z",
+      "numParameters": 960735,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-14T00:31:26.706Z"
+  "fetchedAt": "2026-11-14T23:27:40.306Z"
 }

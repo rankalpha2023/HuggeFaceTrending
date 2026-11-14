@@ -1,13 +1,13 @@
 {
   "category": "image-text-to-text",
   "sort": "downloads",
-  "totalItems": 46828,
+  "totalItems": 46938,
   "fetchedItems": 30,
   "models": [
     {
       "author": "microsoft",
       "id": "microsoft/Florence-2-base",
-      "downloads": 14962311,
+      "downloads": 15776936,
       "likes": 439,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-08-04T17:36:57.000Z",
@@ -17,38 +17,38 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-8B-Instruct",
-      "downloads": 7130209,
-      "likes": 1253,
+      "downloads": 7086033,
+      "likes": 1254,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-10-15T16:16:59.000Z",
       "numParameters": 8767123696,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3.8-27B",
-      "downloads": 6960395,
-      "likes": 19875,
-      "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-11-07T04:42:17.000Z",
-      "numParameters": 27781427952,
-      "repoType": "model"
-    },
-    {
       "author": "ISTA-DASLab",
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "downloads": 6949614,
-      "likes": 1240,
+      "downloads": 7019012,
+      "likes": 1250,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-09-29T10:28:23.000Z",
       "numParameters": 176943899520,
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.8-27B",
+      "downloads": 6757964,
+      "likes": 20005,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-11-07T04:42:17.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
       "author": "google",
       "id": "google/gemma-4-31B-it",
-      "downloads": 6614519,
-      "likes": 4359,
+      "downloads": 6520176,
+      "likes": 4366,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-20T16:42:18.000Z",
       "numParameters": 31273088876,
@@ -57,8 +57,8 @@
     {
       "author": "zai-org",
       "id": "zai-org/GLM-5.3-Flash",
-      "downloads": 6391126,
-      "likes": 3159,
+      "downloads": 6382979,
+      "likes": 3179,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-15T06:32:52.000Z",
       "numParameters": 321323031390,
@@ -67,8 +67,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-9B",
-      "downloads": 6201482,
-      "likes": 2363,
+      "downloads": 6083231,
+      "likes": 2368,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T00:51:43.000Z",
       "numParameters": 9653104368,
@@ -77,8 +77,8 @@
     {
       "author": "baidu",
       "id": "baidu/Unlimited-OCR",
-      "downloads": 5952048,
-      "likes": 5006,
+      "downloads": 5939061,
+      "likes": 5007,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-14T06:17:59.000Z",
       "numParameters": 3336106240,
@@ -87,7 +87,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-VL-7B-Instruct",
-      "downloads": 5824540,
+      "downloads": 5711718,
       "likes": 1771,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-04-06T16:23:01.000Z",
@@ -97,8 +97,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.8-27B-FP8",
-      "downloads": 5460964,
-      "likes": 986,
+      "downloads": 5621425,
+      "likes": 989,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-07T04:42:31.000Z",
       "numParameters": 27781427952,
@@ -107,8 +107,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-26B-A4B-it",
-      "downloads": 5251952,
-      "likes": 1765,
+      "downloads": 5182069,
+      "likes": 1773,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-20T16:42:12.000Z",
       "numParameters": 25805936206,
@@ -117,8 +117,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-4B",
-      "downloads": 5087759,
-      "likes": 1230,
+      "downloads": 5051721,
+      "likes": 1232,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T00:52:52.000Z",
       "numParameters": 4659865088,
@@ -127,8 +127,8 @@
     {
       "author": "huihui-ai",
       "id": "huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF",
-      "downloads": 5009845,
-      "likes": 103,
+      "downloads": 5004781,
+      "likes": 107,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-10T02:07:36.000Z",
       "numParameters": 35505251456,
@@ -137,8 +137,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-2B",
-      "downloads": 4626253,
-      "likes": 483,
+      "downloads": 4697454,
+      "likes": 484,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T11:26:29.000Z",
       "numParameters": 2274069824,
@@ -147,8 +147,8 @@
     {
       "author": "SC117",
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "downloads": 4081896,
-      "likes": 971,
+      "downloads": 4119079,
+      "likes": 1006,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-24T10:10:42.000Z",
       "numParameters": 176943899520,
@@ -157,8 +157,8 @@
     {
       "author": "huihui-ai",
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "downloads": 4051917,
-      "likes": 2080,
+      "downloads": 4094475,
+      "likes": 2140,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-12T05:52:19.000Z",
       "numParameters": 27320697856,
@@ -167,8 +167,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-35B-A3B",
-      "downloads": 4036202,
-      "likes": 3127,
+      "downloads": 3985930,
+      "likes": 3130,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-07T04:41:52.000Z",
       "numParameters": 35951822704,
@@ -177,7 +177,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.6-35B-A3B-FP8",
-      "downloads": 3863214,
+      "downloads": 3917682,
       "likes": 450,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-07T04:42:00.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-VL-4B-Instruct",
-      "downloads": 3492203,
+      "downloads": 3426794,
       "likes": 535,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-10-15T16:15:55.000Z",
@@ -197,8 +197,8 @@
     {
       "author": "cdiamond",
       "id": "cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF",
-      "downloads": 3287932,
-      "likes": 51,
+      "downloads": 3309931,
+      "likes": 52,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-17T22:40:35.000Z",
       "numParameters": 460730096,
@@ -207,8 +207,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.5-0.8B",
-      "downloads": 3199609,
-      "likes": 838,
+      "downloads": 3088096,
+      "likes": 841,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-03-02T11:26:58.000Z",
       "numParameters": 873438784,
@@ -217,8 +217,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3.8-Flash-Next",
-      "downloads": 3098083,
-      "likes": 7068,
+      "downloads": 3031222,
+      "likes": 7126,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-11-07T04:42:40.000Z",
       "numParameters": 179999981459,
@@ -227,8 +227,8 @@
     {
       "author": "peculiar-ragdoll",
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP",
-      "downloads": 2989135,
-      "likes": 357,
+      "downloads": 2945610,
+      "likes": 358,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-10-25T15:44:54.000Z",
       "numParameters": 446571248,
@@ -237,8 +237,8 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-4bit",
-      "downloads": 2838898,
-      "likes": 124,
+      "downloads": 2795596,
+      "likes": 125,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:08:37.000Z",
       "numParameters": 27356728560,
@@ -247,8 +247,8 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-8bit",
-      "downloads": 2683350,
-      "likes": 56,
+      "downloads": 2639969,
+      "likes": 57,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:20:07.000Z",
       "numParameters": 27356728560,
@@ -257,7 +257,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-6bit",
-      "downloads": 2660883,
+      "downloads": 2617200,
       "likes": 44,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:16:45.000Z",
@@ -267,7 +267,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/Qwen3.8-27B-MLX-5bit",
-      "downloads": 2657663,
+      "downloads": 2614021,
       "likes": 19,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-08-14T15:11:40.000Z",
@@ -277,33 +277,33 @@
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-12b-it-GGUF",
-      "downloads": 2521004,
-      "likes": 966,
+      "downloads": 2547979,
+      "likes": 969,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-07-17T12:52:56.000Z",
       "numParameters": 11907350576,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3.6-27B",
-      "downloads": 2416465,
-      "likes": 2352,
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "downloads": 2462565,
+      "likes": 1733,
       "pipeline_tag": "image-text-to-text",
-      "lastModified": "2026-11-07T04:41:21.000Z",
-      "numParameters": 27781427952,
+      "lastModified": "2026-11-13T10:49:42.000Z",
+      "numParameters": 176943899520,
       "repoType": "model"
     },
     {
       "author": "unsloth",
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "downloads": 2367476,
-      "likes": 1054,
+      "downloads": 2416774,
+      "likes": 1058,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2026-05-20T08:48:17.000Z",
       "numParameters": 35505251456,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-14T00:31:49.637Z"
+  "fetchedAt": "2026-11-14T23:28:04.345Z"
 }
