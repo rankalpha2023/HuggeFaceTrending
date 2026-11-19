@@ -1,0 +1,309 @@
+{
+  "category": "text-classification",
+  "sort": "trending",
+  "totalItems": 128498,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-v1.3",
+      "downloads": 1057,
+      "likes": 71,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T09:32:51.000Z",
+      "numParameters": 26085330160,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-flash-v1.3",
+      "downloads": 1617,
+      "likes": 66,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T09:32:53.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "rayline-ai",
+      "id": "rayline-ai/ARC-1.0",
+      "downloads": 1786,
+      "likes": 43,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-17T21:57:59.000Z",
+      "numParameters": 615054751,
+      "repoType": "model"
+    },
+    {
+      "author": "convaiinnovations",
+      "id": "convaiinnovations/laya",
+      "downloads": 16327,
+      "likes": 5980,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-15T16:45:41.000Z",
+      "numParameters": 421293830,
+      "repoType": "model"
+    },
+    {
+      "author": "VoightKampffLabs",
+      "id": "VoightKampffLabs/voi-slop-detect-380M",
+      "downloads": 129,
+      "likes": 22,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-17T13:50:33.000Z",
+      "numParameters": 377538561,
+      "repoType": "model"
+    },
+    {
+      "author": "AxiomicLabs",
+      "id": "AxiomicLabs/X3Guard-150M",
+      "downloads": 251,
+      "likes": 17,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-14T18:10:09.000Z",
+      "numParameters": 149402084,
+      "repoType": "model"
+    },
+    {
+      "author": "gevaertlab",
+      "id": "gevaertlab/MANTA-27B",
+      "downloads": 218,
+      "likes": 18,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T05:22:14.000Z",
+      "numParameters": 27484784884,
+      "repoType": "model"
+    },
+    {
+      "author": "MachinePulseAI",
+      "id": "MachinePulseAI/karpo-decision-31B",
+      "downloads": 2060,
+      "likes": 45,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-16T09:24:40.000Z",
+      "numParameters": 31273088876,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-v1.2",
+      "downloads": 6213,
+      "likes": 81,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-19T10:25:41.000Z",
+      "numParameters": 26085330160,
+      "repoType": "model"
+    },
+    {
+      "author": "baselabs",
+      "id": "baselabs/mammoth-1",
+      "downloads": 11528,
+      "likes": 104,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-22T18:40:29.000Z",
+      "numParameters": 27356728560,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-86M",
+      "downloads": 89652,
+      "likes": 395,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:59:55.000Z",
+      "numParameters": 278810882,
+      "repoType": "model"
+    },
+    {
+      "author": "jaredpalmer",
+      "id": "jaredpalmer/kev-4b",
+      "downloads": 10918,
+      "likes": 181,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-01T17:18:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "akhilaaa3",
+      "id": "akhilaaa3/Jev-Omni",
+      "downloads": 3639,
+      "likes": 455,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-13T13:31:13.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "convaiinnovations",
+      "id": "convaiinnovations/laya-multilingual",
+      "downloads": 8541,
+      "likes": 427,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-15T16:45:44.000Z",
+      "numParameters": 321908998,
+      "repoType": "model"
+    },
+    {
+      "author": "feder-cr",
+      "id": "feder-cr/jev",
+      "downloads": 1966,
+      "likes": 28,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-09T16:47:00.000Z",
+      "numParameters": 882430464,
+      "repoType": "model"
+    },
+    {
+      "author": "gevaertlab",
+      "id": "gevaertlab/MANTA-4B",
+      "downloads": 134,
+      "likes": 8,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-10T05:26:27.000Z",
+      "numParameters": 5287287300,
+      "repoType": "model"
+    },
+    {
+      "author": "ggml-org",
+      "id": "ggml-org/Laya-GGUF",
+      "downloads": 16560,
+      "likes": 45,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-12T09:58:32.000Z",
+      "numParameters": 421029889,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/LemonDecider",
+      "downloads": 1097,
+      "likes": 57,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-17T04:33:08.000Z",
+      "numParameters": 4539918336,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-flash-v1.2",
+      "downloads": 7599,
+      "likes": 81,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-19T10:26:13.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "baselabs",
+      "id": "baselabs/elephant-1",
+      "downloads": 8862,
+      "likes": 120,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-22T18:40:27.000Z",
+      "numParameters": 9409813744,
+      "repoType": "model"
+    },
+    {
+      "author": "baselabs",
+      "id": "baselabs/joey-1",
+      "downloads": 2095,
+      "likes": 52,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-29T18:24:50.000Z",
+      "numParameters": 2721801024,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-Prompt-Guard-2-22M",
+      "downloads": 6719,
+      "likes": 92,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2025-04-29T15:47:24.000Z",
+      "numParameters": 70830722,
+      "repoType": "model"
+    },
+    {
+      "author": "PromptforceAI",
+      "id": "PromptforceAI/niti-gate-vegaml-4b",
+      "downloads": 68,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-11T16:51:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bespokelabs",
+      "id": "bespokelabs/Bespoke-Nimble-9B",
+      "downloads": 819,
+      "likes": 256,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-09-24T06:05:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "doofz",
+      "id": "doofz/THX-01",
+      "downloads": 537,
+      "likes": 96,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-16T16:22:07.000Z",
+      "numParameters": 321908998,
+      "repoType": "model"
+    },
+    {
+      "author": "SupersonicLabs",
+      "id": "SupersonicLabs/Julia-1",
+      "downloads": 2077,
+      "likes": 506,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-09T18:23:05.000Z",
+      "numParameters": 144292870,
+      "repoType": "model"
+    },
+    {
+      "author": "pipecat-ai",
+      "id": "pipecat-ai/audience",
+      "downloads": 151,
+      "likes": 6,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-14T23:19:53.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-decider-flash-gguf-v1.2",
+      "downloads": 12368,
+      "likes": 13,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-19T03:50:13.000Z",
+      "numParameters": 4841450496,
+      "repoType": "model"
+    },
+    {
+      "author": "tiagozip",
+      "id": "tiagozip/pancode",
+      "downloads": 64,
+      "likes": 5,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-10-19T09:21:22.000Z",
+      "numParameters": 395857946,
+      "repoType": "model"
+    },
+    {
+      "author": "sarvamai",
+      "id": "sarvamai/prism",
+      "downloads": 418,
+      "likes": 47,
+      "pipeline_tag": "text-classification",
+      "lastModified": "2026-11-03T13:16:18.000Z",
+      "numParameters": 104991889280,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-19T01:33:50.788Z"
+}
