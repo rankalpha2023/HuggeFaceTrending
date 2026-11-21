@@ -1,14 +1,14 @@
 {
   "category": "any-to-any",
   "sort": "downloads",
-  "totalItems": 12056,
+  "totalItems": 12065,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 4326816,
-      "likes": 1888,
+      "downloads": 4266610,
+      "likes": 1901,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T16:13:15.000Z",
       "numParameters": 7996156490,
@@ -17,8 +17,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it",
-      "downloads": 2746268,
-      "likes": 1159,
+      "downloads": 2725227,
+      "likes": 1162,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T16:10:29.000Z",
       "numParameters": 5123178051,
@@ -27,8 +27,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it",
-      "downloads": 1579383,
-      "likes": 1753,
+      "downloads": 1555234,
+      "likes": 1755,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-10-30T15:47:58.000Z",
       "numParameters": 11959730224,
@@ -37,7 +37,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-4bit",
-      "downloads": 1291970,
+      "downloads": 1292165,
       "likes": 40,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:01.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-8bit",
-      "downloads": 1253219,
+      "downloads": 1253440,
       "likes": 23,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:07.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-6bit",
-      "downloads": 1248268,
+      "downloads": 1248234,
       "likes": 18,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:05.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E4B-it-MLX-5bit",
-      "downloads": 1248234,
+      "downloads": 1248202,
       "likes": 7,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:02.000Z",
@@ -77,8 +77,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "downloads": 1174150,
-      "likes": 407,
+      "downloads": 1189007,
+      "likes": 409,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:24:41.000Z",
       "numParameters": 11907350576,
@@ -87,7 +87,7 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
-      "downloads": 1167697,
+      "downloads": 1157533,
       "likes": 203,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:23:49.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "google",
       "id": "google/gemma-4-12B-it-qat-w4a16-ct",
-      "downloads": 657991,
+      "downloads": 637646,
       "likes": 78,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:43:34.000Z",
@@ -107,8 +107,8 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM3-Omni-2B-GGUF",
-      "downloads": 532533,
-      "likes": 195,
+      "downloads": 542041,
+      "likes": 194,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T07:41:21.000Z",
       "numParameters": 1728801600,
@@ -117,8 +117,8 @@
     {
       "author": "google",
       "id": "google/gemma-4-E4B",
-      "downloads": 423498,
-      "likes": 521,
+      "downloads": 408285,
+      "likes": 523,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T16:10:47.000Z",
       "numParameters": 7996156490,
@@ -127,7 +127,7 @@
     {
       "author": "ggml-org",
       "id": "ggml-org/gemma-4-E4B-it-GGUF",
-      "downloads": 375744,
+      "downloads": 380912,
       "likes": 111,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-12T09:57:12.000Z",
@@ -135,19 +135,9 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 342456,
-      "likes": 1060,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2025-09-22T14:17:52.000Z",
-      "numParameters": 35259818545,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/gemma-4-E2B-it-qat-w4a16-ct",
-      "downloads": 341082,
+      "downloads": 341031,
       "likes": 20,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-20T16:43:14.000Z",
@@ -155,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
+      "downloads": 340533,
+      "likes": 1062,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-09-22T14:17:52.000Z",
+      "numParameters": 35259818545,
+      "repoType": "model"
+    },
+    {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-4bit",
-      "downloads": 338441,
+      "downloads": 338502,
       "likes": 8,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:08.000Z",
@@ -167,7 +167,7 @@
     {
       "author": "google",
       "id": "google/gemma-4-26B-A4B-it-assistant",
-      "downloads": 335327,
+      "downloads": 328457,
       "likes": 205,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-15T16:41:53.000Z",
@@ -177,7 +177,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-8bit",
-      "downloads": 323171,
+      "downloads": 323061,
       "likes": 6,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:14.000Z",
@@ -187,7 +187,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-6bit",
-      "downloads": 321574,
+      "downloads": 321464,
       "likes": 2,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:12.000Z",
@@ -197,7 +197,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-12B-it-MLX-5bit",
-      "downloads": 320638,
+      "downloads": 320565,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:31:10.000Z",
@@ -207,8 +207,8 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/LFM3-Audio-2B-GGUF",
-      "downloads": 284005,
-      "likes": 46,
+      "downloads": 297188,
+      "likes": 47,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T07:41:01.000Z",
       "numParameters": 1728801600,
@@ -217,7 +217,7 @@
     {
       "author": "ggml-org",
       "id": "ggml-org/gemma-4-E2B-it-GGUF",
-      "downloads": 257427,
+      "downloads": 263507,
       "likes": 98,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-12T09:56:59.000Z",
@@ -227,7 +227,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2.5-Omni-7B",
-      "downloads": 253435,
+      "downloads": 246825,
       "likes": 1980,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-04-30T13:48:45.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "unsloth",
       "id": "unsloth/gemma-4-E2B-it-qat-mobile-GGUF",
-      "downloads": 248048,
+      "downloads": 243377,
       "likes": 49,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T12:36:06.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-4bit",
-      "downloads": 226890,
+      "downloads": 226657,
       "likes": 5,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:27:08.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-8bit",
-      "downloads": 219929,
+      "downloads": 219825,
       "likes": 3,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:30:59.000Z",
@@ -265,9 +265,19 @@
       "repoType": "model"
     },
     {
+      "author": "google",
+      "id": "google/gemma-4-E4B-it-qat-w4a16-ct",
+      "downloads": 217752,
+      "likes": 31,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-07-20T16:43:23.000Z",
+      "numParameters": 8612189514,
+      "repoType": "model"
+    },
+    {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-5bit",
-      "downloads": 217198,
+      "downloads": 217005,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:30:56.000Z",
@@ -277,7 +287,7 @@
     {
       "author": "lmstudio-community",
       "id": "lmstudio-community/gemma-4-E2B-it-MLX-6bit",
-      "downloads": 216943,
+      "downloads": 216726,
       "likes": 0,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-23T18:30:57.000Z",
@@ -287,23 +297,13 @@
     {
       "author": "ggml-org",
       "id": "ggml-org/Qwen2.5-Omni-7B-GGUF",
-      "downloads": 214483,
+      "downloads": 215490,
       "likes": 26,
       "pipeline_tag": "any-to-any",
       "lastModified": "2025-05-26T09:30:23.000Z",
       "numParameters": 7615616512,
       "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/gemma-4-E4B-it-qat-w4a16-ct",
-      "downloads": 207243,
-      "likes": 31,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-20T16:43:23.000Z",
-      "numParameters": 8612189514,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:58:49.894Z"
+  "fetchedAt": "2026-11-21T23:58:36.569Z"
 }

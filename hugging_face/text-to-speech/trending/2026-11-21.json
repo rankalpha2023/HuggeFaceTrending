@@ -1,14 +1,14 @@
 {
   "category": "text-to-speech",
   "sort": "trending",
-  "totalItems": 11673,
+  "totalItems": 11726,
   "fetchedItems": 30,
   "models": [
     {
       "author": "n4ze3m",
       "id": "n4ze3m/tiny-voca",
-      "downloads": 7949,
-      "likes": 385,
+      "downloads": 9323,
+      "likes": 374,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-20T16:00:45.000Z",
       "numParameters": null,
@@ -17,48 +17,38 @@
     {
       "author": "Zyphra",
       "id": "Zyphra/ZONOS3-Mini",
-      "downloads": 142778,
-      "likes": 617,
+      "downloads": 154251,
+      "likes": 564,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-17T19:41:37.000Z",
       "numParameters": 886342504,
       "repoType": "model"
     },
     {
+      "author": "hexgrad",
+      "id": "hexgrad/Kokoro-82M",
+      "downloads": 13254461,
+      "likes": 7488,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2025-04-10T18:12:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "software-mansion",
       "id": "software-mansion/Reverb-TTS",
-      "downloads": 786,
-      "likes": 91,
+      "downloads": 1296,
+      "likes": 115,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-19T15:36:37.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "owensong",
-      "id": "owensong/Inflect-Mini-v3",
-      "downloads": 893,
-      "likes": 48,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-19T00:07:16.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "KittenML",
-      "id": "KittenML/kitten-tts-2-mini",
-      "downloads": 6442,
-      "likes": 73,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-18T20:12:00.000Z",
+      "lastModified": "2026-11-21T23:09:56.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "k2-fsa",
       "id": "k2-fsa/OmniVoice",
-      "downloads": 4287355,
-      "likes": 1724,
+      "downloads": 4319725,
+      "likes": 1727,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-20T08:11:48.000Z",
       "numParameters": 612577288,
@@ -68,90 +58,90 @@
       "author": "TontaubeAI",
       "id": "TontaubeAI/TontaubeV1.1-int4",
       "downloads": 0,
-      "likes": 23,
+      "likes": 24,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-12T13:57:29.000Z",
+      "lastModified": "2026-11-21T15:27:07.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "hexgrad",
-      "id": "hexgrad/Kokoro-82M",
-      "downloads": 13250520,
-      "likes": 7485,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2025-04-10T18:12:48.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "mehdi-hf",
-      "id": "mehdi-hf/cilla-mini",
-      "downloads": 0,
-      "likes": 62,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-19T16:05:30.000Z",
-      "numParameters": 27925618,
       "repoType": "model"
     },
     {
       "author": "openbmb",
       "id": "openbmb/VoxCPM2",
-      "downloads": 971696,
-      "likes": 1809,
+      "downloads": 973164,
+      "likes": 1812,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-09T08:14:29.000Z",
       "numParameters": 2290004544,
       "repoType": "model"
     },
     {
+      "author": "mehdi-hf",
+      "id": "mehdi-hf/cilla-mini",
+      "downloads": 0,
+      "likes": 66,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-11-19T16:05:30.000Z",
+      "numParameters": 27925618,
+      "repoType": "model"
+    },
+    {
+      "author": "KittenML",
+      "id": "KittenML/kitten-tts-2-mini",
+      "downloads": 8358,
+      "likes": 71,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-11-18T20:12:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "ai4bharat",
       "id": "ai4bharat/IndicF5",
-      "downloads": 41597,
-      "likes": 487,
+      "downloads": 41631,
+      "likes": 494,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-10-06T08:50:47.000Z",
       "numParameters": 350681834,
       "repoType": "model"
     },
     {
-      "author": "ai4bharat",
-      "id": "ai4bharat/indic-parler-tts",
-      "downloads": 181504,
-      "likes": 606,
+      "author": "owensong",
+      "id": "owensong/Inflect-Mini-v3",
+      "downloads": 965,
+      "likes": 48,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-10-06T08:46:50.000Z",
-      "numParameters": 937803241,
-      "repoType": "model"
-    },
-    {
-      "author": "Edge0",
-      "id": "Edge0/Audio8-TTS-Realistic-Air",
-      "downloads": 24828,
-      "likes": 536,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-16T10:52:03.000Z",
-      "numParameters": 601159424,
-      "repoType": "model"
-    },
-    {
-      "author": "mehdi-hf",
-      "id": "mehdi-hf/chatterbox-farsi",
-      "downloads": 0,
-      "likes": 56,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-19T23:03:44.000Z",
+      "lastModified": "2026-11-19T00:07:16.000Z",
       "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fishaudio",
+      "id": "fishaudio/drama-3",
+      "downloads": 44404,
+      "likes": 1320,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-29T06:46:37.000Z",
+      "numParameters": 35899643008,
       "repoType": "model"
     },
     {
       "author": "mehdi-hf",
       "id": "mehdi-hf/cilla-lite",
       "downloads": 0,
-      "likes": 58,
+      "likes": 68,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-19T16:05:29.000Z",
       "numParameters": 109507266,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4bharat",
+      "id": "ai4bharat/indic-parler-tts",
+      "downloads": 182989,
+      "likes": 610,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-10-06T08:46:50.000Z",
+      "numParameters": 937803241,
       "repoType": "model"
     },
     {
@@ -167,27 +157,37 @@
     {
       "author": "BreezeBlue",
       "id": "BreezeBlue/Breeze-TTS-2",
-      "downloads": 26891,
-      "likes": 1000,
+      "downloads": 27062,
+      "likes": 1003,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-09-09T18:59:45.000Z",
       "numParameters": 3466363713,
       "repoType": "model"
     },
     {
-      "author": "fishaudio",
-      "id": "fishaudio/drama-3",
-      "downloads": 44852,
-      "likes": 1314,
+      "author": "mehdi-hf",
+      "id": "mehdi-hf/chatterbox-farsi",
+      "downloads": 0,
+      "likes": 57,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-10-29T06:46:37.000Z",
-      "numParameters": 35899643008,
+      "lastModified": "2026-11-19T23:03:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "downloads": 1080736,
+      "likes": 2250,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-01-29T08:00:54.000Z",
+      "numParameters": 1916676352,
       "repoType": "model"
     },
     {
       "author": "drmhse",
       "id": "drmhse/nano-edge-tts",
-      "downloads": 314,
+      "downloads": 364,
       "likes": 16,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-20T21:28:47.000Z",
@@ -195,43 +195,23 @@
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-      "downloads": 1102710,
-      "likes": 2248,
+      "author": "KaleComputer",
+      "id": "KaleComputer/kale-tts-1-nano",
+      "downloads": 256,
+      "likes": 14,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-01-29T08:00:54.000Z",
-      "numParameters": 1916676352,
+      "lastModified": "2026-11-19T20:35:47.000Z",
+      "numParameters": null,
       "repoType": "model"
     },
     {
       "author": "fishaudio",
       "id": "fishaudio/s2-pro",
-      "downloads": 43001,
-      "likes": 1529,
+      "downloads": 42979,
+      "likes": 1530,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-03-11T15:32:58.000Z",
       "numParameters": 4561852416,
-      "repoType": "model"
-    },
-    {
-      "author": "KittenML",
-      "id": "KittenML/kitten-tts-2-pico",
-      "downloads": 2538,
-      "likes": 15,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-18T20:11:58.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "KaleComputer",
-      "id": "KaleComputer/kale-tts-1-nano",
-      "downloads": 192,
-      "likes": 12,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-19T20:35:47.000Z",
-      "numParameters": null,
       "repoType": "model"
     },
     {
@@ -245,9 +225,29 @@
       "repoType": "model"
     },
     {
+      "author": "coqui",
+      "id": "coqui/XTTS-v2",
+      "downloads": 4927825,
+      "likes": 3980,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2023-12-11T17:50:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Supertone",
+      "id": "Supertone/supertonic-3",
+      "downloads": 81639,
+      "likes": 1054,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-05-18T08:59:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "bosonai",
       "id": "bosonai/higgs-tts-3-4b",
-      "downloads": 86657,
+      "downloads": 84345,
       "likes": 858,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-09-04T00:12:39.000Z",
@@ -255,20 +255,10 @@
       "repoType": "model"
     },
     {
-      "author": "KittenML",
-      "id": "KittenML/kitten-tts-2-nano",
-      "downloads": 4545,
-      "likes": 10,
-      "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-18T20:11:56.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "gradium",
       "id": "gradium/phonon-40m-multilingual",
-      "downloads": 25798,
-      "likes": 124,
+      "downloads": 25783,
+      "likes": 126,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-10-22T08:05:12.000Z",
       "numParameters": 50539363,
@@ -277,33 +267,43 @@
     {
       "author": "gradium",
       "id": "gradium/phonon-31m-en",
-      "downloads": 348814,
-      "likes": 173,
+      "downloads": 356822,
+      "likes": 174,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2026-11-17T16:40:58.000Z",
       "numParameters": 41096035,
       "repoType": "model"
     },
     {
-      "author": "TontaubeAI",
-      "id": "TontaubeAI/TontaubeV1.1",
-      "downloads": 0,
-      "likes": 9,
+      "author": "microsoft",
+      "id": "microsoft/VibeVoice-Realtime-0.5B",
+      "downloads": 122698,
+      "likes": 1323,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-12T13:57:31.000Z",
-      "numParameters": null,
+      "lastModified": "2025-12-12T15:35:46.000Z",
+      "numParameters": 1017626722,
       "repoType": "model"
     },
     {
-      "author": "AtomicChat",
-      "id": "AtomicChat/ZONOS3-Mini-GGUF",
-      "downloads": 3472,
-      "likes": 20,
+      "author": "bodhan-ai",
+      "id": "bodhan-ai/indic-speak",
+      "downloads": 6530,
+      "likes": 72,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-10T16:59:40.000Z",
-      "numParameters": 802038600,
+      "lastModified": "2026-09-07T09:05:27.000Z",
+      "numParameters": 3300928512,
+      "repoType": "model"
+    },
+    {
+      "author": "Edge0",
+      "id": "Edge0/Audio8-TTS-Realistic-Air",
+      "downloads": 25644,
+      "likes": 480,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-11-16T10:52:03.000Z",
+      "numParameters": 601159424,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:59:48.007Z"
+  "fetchedAt": "2026-11-21T23:59:36.840Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "models",
   "sort": "downloads",
-  "totalItems": 3255909,
+  "totalItems": 3257847,
   "fetchedItems": 30,
   "models": [
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 167481431,
-      "likes": 6150,
+      "downloads": 166834847,
+      "likes": 6157,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-06-01T06:29:13.000Z",
       "numParameters": 22713728,
@@ -17,8 +17,8 @@
     {
       "author": "argmaxinc",
       "id": "argmaxinc/whisperkit-coreml",
-      "downloads": 87764518,
-      "likes": 276,
+      "downloads": 91311162,
+      "likes": 277,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2026-08-19T16:57:48.000Z",
       "numParameters": null,
@@ -27,8 +27,8 @@
     {
       "author": "cross-encoder",
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 56166533,
-      "likes": 452,
+      "downloads": 55791810,
+      "likes": 453,
       "pipeline_tag": "text-ranking",
       "lastModified": "2026-08-09T15:22:24.000Z",
       "numParameters": 22714113,
@@ -37,8 +37,8 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-small-en-v1.5",
-      "downloads": 43622542,
-      "likes": 681,
+      "downloads": 43425321,
+      "likes": 680,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-02-22T03:36:23.000Z",
       "numParameters": 33360512,
@@ -47,7 +47,7 @@
     {
       "author": "autogluon",
       "id": "autogluon/chronos-2",
-      "downloads": 34637098,
+      "downloads": 38012231,
       "likes": 97,
       "pipeline_tag": "time-series-forecasting",
       "lastModified": "2026-06-05T11:59:59.000Z",
@@ -57,8 +57,8 @@
     {
       "author": "openai-community",
       "id": "openai-community/gpt2",
-      "downloads": 34394889,
-      "likes": 3957,
+      "downloads": 34152708,
+      "likes": 4038,
       "pipeline_tag": "text-generation",
       "lastModified": "2024-02-19T10:57:45.000Z",
       "numParameters": 137022720,
@@ -67,37 +67,37 @@
     {
       "author": "google-bert",
       "id": "google-bert/bert-base-uncased",
-      "downloads": 33456723,
-      "likes": 3084,
+      "downloads": 34045769,
+      "likes": 3085,
       "pipeline_tag": "fill-mask",
       "lastModified": "2024-02-19T11:06:12.000Z",
       "numParameters": 110106428,
       "repoType": "model"
     },
     {
-      "author": "Comfy-Org",
-      "id": "Comfy-Org/MiniMax-H3",
-      "downloads": 33249021,
-      "likes": 2840,
-      "pipeline_tag": "",
-      "lastModified": "2026-11-15T09:54:16.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "BAAI",
       "id": "BAAI/bge-m3",
-      "downloads": 33121367,
-      "likes": 4028,
+      "downloads": 33676432,
+      "likes": 4029,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-07-03T14:50:10.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "Comfy-Org",
+      "id": "Comfy-Org/MiniMax-H3",
+      "downloads": 33133100,
+      "likes": 2800,
+      "pipeline_tag": "",
+      "lastModified": "2026-11-15T09:54:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 25107083,
+      "downloads": 25056104,
       "likes": 1514,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-01-28T10:02:26.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "microsoft",
       "id": "microsoft/Florence-2-base",
-      "downloads": 20532973,
+      "downloads": 21318167,
       "likes": 443,
       "pipeline_tag": "image-text-to-text",
       "lastModified": "2025-08-04T17:36:57.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 19673400,
+      "downloads": 19475733,
       "likes": 1410,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:14:25.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "google-t5",
       "id": "google-t5/t5-small",
-      "downloads": 17958459,
+      "downloads": 17660591,
       "likes": 702,
       "pipeline_tag": "translation",
       "lastModified": "2023-06-30T02:31:26.000Z",
@@ -137,8 +137,8 @@
     {
       "author": "openai",
       "id": "openai/clip-vit-base-patch32",
-      "downloads": 17338113,
-      "likes": 1289,
+      "downloads": 17274492,
+      "likes": 1290,
       "pipeline_tag": "zero-shot-image-classification",
       "lastModified": "2024-02-29T09:45:55.000Z",
       "numParameters": null,
@@ -147,27 +147,17 @@
     {
       "author": "jonatasgrosman",
       "id": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
-      "downloads": 15507467,
-      "likes": 122,
+      "downloads": 15496953,
+      "likes": 121,
       "pipeline_tag": "automatic-speech-recognition",
       "lastModified": "2022-12-14T01:58:09.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-0.6B",
-      "downloads": 15392833,
-      "likes": 1921,
-      "pipeline_tag": "text-generation",
-      "lastModified": "2025-07-26T03:46:27.000Z",
-      "numParameters": 751632384,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/vit-base-patch16-224",
-      "downloads": 15301431,
+      "downloads": 15354988,
       "likes": 1058,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-05T15:27:12.000Z",
@@ -175,9 +165,19 @@
       "repoType": "model"
     },
     {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-0.6B",
+      "downloads": 15314218,
+      "likes": 1926,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-07-26T03:46:27.000Z",
+      "numParameters": 751632384,
+      "repoType": "model"
+    },
+    {
       "author": "BAAI",
       "id": "BAAI/bge-reranker-v2-m3",
-      "downloads": 14795459,
+      "downloads": 14741241,
       "likes": 1314,
       "pipeline_tag": "text-classification",
       "lastModified": "2024-06-24T14:08:45.000Z",
@@ -187,8 +187,8 @@
     {
       "author": "hexgrad",
       "id": "hexgrad/Kokoro-82M",
-      "downloads": 13250520,
-      "likes": 7485,
+      "downloads": 13254461,
+      "likes": 7488,
       "pipeline_tag": "text-to-speech",
       "lastModified": "2025-04-10T18:12:48.000Z",
       "numParameters": null,
@@ -197,8 +197,8 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen3-14B",
-      "downloads": 13163564,
-      "likes": 550,
+      "downloads": 13131010,
+      "likes": 551,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-07-26T03:49:23.000Z",
       "numParameters": 14768307200,
@@ -207,8 +207,8 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v1.5",
-      "downloads": 11463751,
-      "likes": 997,
+      "downloads": 11439810,
+      "likes": 996,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-07T14:17:02.000Z",
       "numParameters": 136731648,
@@ -217,8 +217,8 @@
     {
       "author": "deepseek-ai",
       "id": "deepseek-ai/DeepSeek-V3.2",
-      "downloads": 10436104,
-      "likes": 1608,
+      "downloads": 10707628,
+      "likes": 1610,
       "pipeline_tag": "text-generation",
       "lastModified": "2025-12-01T11:04:59.000Z",
       "numParameters": 685355329792,
@@ -227,8 +227,8 @@
     {
       "author": "Comfy-Org",
       "id": "Comfy-Org/Wan-2.2",
-      "downloads": 10106346,
-      "likes": 1049,
+      "downloads": 10472667,
+      "likes": 1058,
       "pipeline_tag": "image-to-video",
       "lastModified": "2026-11-18T22:00:05.000Z",
       "numParameters": null,
@@ -237,8 +237,8 @@
     {
       "author": "Comfy-Org",
       "id": "Comfy-Org/Z-Image-Turbo",
-      "downloads": 9973409,
-      "likes": 1047,
+      "downloads": 10304640,
+      "likes": 1048,
       "pipeline_tag": "",
       "lastModified": "2026-09-23T08:02:57.000Z",
       "numParameters": null,
@@ -247,57 +247,57 @@
     {
       "author": "audio-cpp",
       "id": "audio-cpp/audio.cpp-gguf",
-      "downloads": 9769357,
-      "likes": 334,
+      "downloads": 9842687,
+      "likes": 337,
       "pipeline_tag": "text-to-speech",
-      "lastModified": "2026-11-20T18:10:02.000Z",
+      "lastModified": "2026-11-21T05:30:30.000Z",
       "numParameters": 16578590,
-      "repoType": "model"
-    },
-    {
-      "author": "intfloat",
-      "id": "intfloat/multilingual-e5-small",
-      "downloads": 9434201,
-      "likes": 504,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2026-04-02T02:16:05.000Z",
-      "numParameters": 117654272,
       "repoType": "model"
     },
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
-      "downloads": 9426228,
-      "likes": 557,
+      "downloads": 9413810,
+      "likes": 558,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:29:38.000Z",
       "numParameters": 278044162,
       "repoType": "model"
     },
     {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-small",
+      "downloads": 9400129,
+      "likes": 505,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:16:05.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
       "author": "Comfy-Org",
       "id": "Comfy-Org/Qwen-Image-2.1",
-      "downloads": 9417325,
-      "likes": 1350,
+      "downloads": 9357177,
+      "likes": 1356,
       "pipeline_tag": "text-to-image",
       "lastModified": "2026-10-29T23:54:55.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "laion",
-      "id": "laion/clap-htsat-fused",
-      "downloads": 8999443,
-      "likes": 180,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-01-12T00:41:49.000Z",
-      "numParameters": 153558316,
+      "author": "amazon",
+      "id": "amazon/chronos-2",
+      "downloads": 9324175,
+      "likes": 578,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-06-05T11:55:42.000Z",
+      "numParameters": 119477664,
       "repoType": "model"
     },
     {
       "author": "BAAI",
       "id": "BAAI/bge-base-en-v1.5",
-      "downloads": 8646176,
+      "downloads": 8613336,
       "likes": 544,
       "pipeline_tag": "feature-extraction",
       "lastModified": "2024-02-21T03:00:19.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:58:47.795Z"
+  "fetchedAt": "2026-11-21T23:58:34.379Z"
 }

@@ -1,73 +1,23 @@
 {
   "category": "image-classification",
   "sort": "trending",
-  "totalItems": 30645,
+  "totalItems": 30652,
   "fetchedItems": 30,
   "models": [
     {
       "author": "pixai-labs",
       "id": "pixai-labs/pixai-tagger-v1.0",
-      "downloads": 34965,
-      "likes": 177,
+      "downloads": 23442,
+      "likes": 178,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-22T05:35:47.000Z",
       "numParameters": 486346909,
       "repoType": "model"
     },
     {
-      "author": "qualcomm",
-      "id": "qualcomm/MobileNet-v3-Small",
-      "downloads": 270,
-      "likes": 13,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-11-18T22:15:00.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "pixai-labs",
-      "id": "pixai-labs/pixai-tagger-v0.9",
-      "downloads": 0,
-      "likes": 220,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-07-07T05:47:46.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "IFM",
-      "id": "IFM/PAN2-guardrail-Q16",
-      "downloads": 334,
-      "likes": 2,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-11-09T23:02:55.000Z",
-      "numParameters": 303967744,
-      "repoType": "model"
-    },
-    {
-      "author": "KaraKaraWitch",
-      "id": "KaraKaraWitch/haruka-tagger",
-      "downloads": 0,
-      "likes": 14,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-11-07T13:59:42.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "yinghemedical",
-      "id": "yinghemedical/VLM3D2025-Task2-AbnormalityClassifications",
-      "downloads": 22,
-      "likes": 2,
-      "pipeline_tag": "image-classification",
-      "lastModified": "2026-11-16T03:49:40.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "google",
       "id": "google/vit-base-patch16-224",
-      "downloads": 15301431,
+      "downloads": 15354988,
       "likes": 1058,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-09-05T15:27:12.000Z",
@@ -75,9 +25,29 @@
       "repoType": "model"
     },
     {
+      "author": "qualcomm",
+      "id": "qualcomm/MobileNet-v3-Small",
+      "downloads": 268,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-18T22:15:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IFM",
+      "id": "IFM/PAN2-guardrail-Q16",
+      "downloads": 355,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-09T23:02:55.000Z",
+      "numParameters": 303967744,
+      "repoType": "model"
+    },
+    {
       "author": "facebook",
       "id": "facebook/deit-small-patch16-224",
-      "downloads": 12564,
+      "downloads": 12498,
       "likes": 16,
       "pipeline_tag": "image-classification",
       "lastModified": "2022-07-13T11:41:40.000Z",
@@ -87,7 +57,7 @@
     {
       "author": "keras-io",
       "id": "keras-io/supervised-contrastive-learning-cifar10",
-      "downloads": 19,
+      "downloads": 21,
       "likes": 4,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-07-05T12:47:36.000Z",
@@ -97,7 +67,7 @@
     {
       "author": "umm-maybe",
       "id": "umm-maybe/AI-image-detector",
-      "downloads": 64296,
+      "downloads": 64237,
       "likes": 101,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-01-03T02:51:55.000Z",
@@ -107,7 +77,7 @@
     {
       "author": "google",
       "id": "google/mobilenet_v2_1.0_224",
-      "downloads": 132978,
+      "downloads": 133269,
       "likes": 59,
       "pipeline_tag": "image-classification",
       "lastModified": "2023-10-31T13:40:16.000Z",
@@ -117,7 +87,7 @@
     {
       "author": "dima806",
       "id": "dima806/vessel_ship_types_image_detection",
-      "downloads": 81,
+      "downloads": 93,
       "likes": 4,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-10-19T10:50:44.000Z",
@@ -127,7 +97,7 @@
     {
       "author": "not-lain",
       "id": "not-lain/model_with_custom_pipeline_repo",
-      "downloads": 17,
+      "downloads": 19,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2024-02-22T16:12:36.000Z",
@@ -137,7 +107,7 @@
     {
       "author": "qualcomm",
       "id": "qualcomm/MobileNet-v3-Large",
-      "downloads": 229,
+      "downloads": 227,
       "likes": 5,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-11-18T22:20:44.000Z",
@@ -147,11 +117,21 @@
     {
       "author": "timm",
       "id": "timm/mobilenetv4_conv_medium.e250_r384_in12k",
-      "downloads": 1852,
+      "downloads": 1791,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2025-01-21T22:00:31.000Z",
       "numParameters": 23645117,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/swinv2_base_window8_256.dbv4-full",
+      "downloads": 60,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-06-02T17:09:13.000Z",
+      "numParameters": 99681716,
       "repoType": "model"
     },
     {
@@ -165,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "cabrel09",
+      "id": "cabrel09/crop_leaf_disease_detector",
+      "downloads": 10,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-18T11:21:38.000Z",
+      "numParameters": 5526925,
+      "repoType": "model"
+    },
+    {
       "author": "qualcomm",
       "id": "qualcomm/SwinV2-Base",
-      "downloads": 7,
+      "downloads": 5,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-11-18T22:14:50.000Z",
@@ -175,22 +165,22 @@
       "repoType": "model"
     },
     {
-      "author": "DannyLuna",
-      "id": "DannyLuna/recaptcha-classification-57k",
-      "downloads": 0,
-      "likes": 11,
+      "author": "Agro-Tech-Ai",
+      "id": "Agro-Tech-Ai/dr-disease-mobilenet-v2",
+      "downloads": 45,
+      "likes": 1,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-01-25T16:08:24.000Z",
+      "lastModified": "2026-02-05T04:31:08.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "Agro-Tech-Ai",
-      "id": "Agro-Tech-Ai/dr-disease-mobilenet-v2",
-      "downloads": 44,
-      "likes": 1,
+      "author": "fyxme",
+      "id": "fyxme/opensynthid-detect-0.1",
+      "downloads": 0,
+      "likes": 2,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-02-05T04:31:08.000Z",
+      "lastModified": "2026-02-13T20:15:38.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -205,22 +195,22 @@
       "repoType": "model"
     },
     {
-      "author": "litert-community",
-      "id": "litert-community/swin_small_patch4_window7_224",
-      "downloads": 148,
-      "likes": 1,
+      "author": "onnx-community",
+      "id": "onnx-community/CommunityForensics-DeepfakeDet-ViT-ONNX",
+      "downloads": 321,
+      "likes": 6,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-11-14T17:57:53.000Z",
+      "lastModified": "2026-05-12T16:25:16.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "onnx-community",
-      "id": "onnx-community/CommunityForensics-DeepfakeDet-ViT-ONNX",
-      "downloads": 313,
-      "likes": 6,
+      "author": "py-feat",
+      "id": "py-feat/face_multitask_v2",
+      "downloads": 0,
+      "likes": 2,
       "pipeline_tag": "image-classification",
-      "lastModified": "2026-05-12T16:25:16.000Z",
+      "lastModified": "2026-10-08T13:57:31.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -231,6 +221,16 @@
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-11-18T05:17:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "litert-community",
+      "id": "litert-community/RAM-Plus-LiteRT",
+      "downloads": 173,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-08T08:54:07.000Z",
       "numParameters": null,
       "repoType": "model"
     },
@@ -257,7 +257,7 @@
     {
       "author": "Shaq2",
       "id": "Shaq2/chashibhai-rice-disease-cls",
-      "downloads": 130,
+      "downloads": 129,
       "likes": 1,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-30T16:54:00.000Z",
@@ -297,7 +297,7 @@
     {
       "author": "onnx-community",
       "id": "onnx-community/AI-Anime-Image-Detector-ViT-ONNX",
-      "downloads": 117,
+      "downloads": 109,
       "likes": 2,
       "pipeline_tag": "image-classification",
       "lastModified": "2026-09-24T04:44:09.000Z",
@@ -305,5 +305,5 @@
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:59:05.481Z"
+  "fetchedAt": "2026-11-21T23:58:52.832Z"
 }

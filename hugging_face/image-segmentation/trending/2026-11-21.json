@@ -1,14 +1,14 @@
 {
   "category": "image-segmentation",
   "sort": "trending",
-  "totalItems": 4151,
+  "totalItems": 4158,
   "fetchedItems": 30,
   "models": [
     {
       "author": "briaai",
       "id": "briaai/RMBG-3.0",
-      "downloads": 152,
-      "likes": 252,
+      "downloads": 199,
+      "likes": 240,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-17T16:17:07.000Z",
       "numParameters": 8127342213,
@@ -16,29 +16,29 @@
     },
     {
       "author": "briaai",
-      "id": "briaai/RMBG-2.0",
-      "downloads": 391793,
-      "likes": 1660,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-11-16T17:02:39.000Z",
-      "numParameters": 220700242,
-      "repoType": "model"
-    },
-    {
-      "author": "briaai",
       "id": "briaai/RMBG-3.0-Comfy",
-      "downloads": 322,
-      "likes": 7,
+      "downloads": 774,
+      "likes": 16,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-18T19:32:50.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 392318,
+      "likes": 1662,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-11-16T17:02:39.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet",
-      "downloads": 1006841,
-      "likes": 682,
+      "downloads": 1002810,
+      "likes": 683,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-02-04T22:43:55.000Z",
       "numParameters": 220700242,
@@ -47,7 +47,7 @@
     {
       "author": "1038lab",
       "id": "1038lab/RMBG-3.0",
-      "downloads": 456,
+      "downloads": 596,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-11-17T03:03:04.000Z",
@@ -57,7 +57,7 @@
     {
       "author": "PramaLLC",
       "id": "PramaLLC/BEN2",
-      "downloads": 119457,
+      "downloads": 119699,
       "likes": 255,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-12-31T17:17:52.000Z",
@@ -67,7 +67,7 @@
     {
       "author": "nvidia",
       "id": "nvidia/NV-Segment-CT",
-      "downloads": 1009,
+      "downloads": 967,
       "likes": 38,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-01T20:56:09.000Z",
@@ -85,9 +85,29 @@
       "repoType": "model"
     },
     {
+      "author": "huyvux3005",
+      "id": "huyvux3005/manga109-segmentation-bubble",
+      "downloads": 1775,
+      "likes": 29,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-11-06T09:05:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/VRMBG-3.0",
+      "downloads": 175,
+      "likes": 45,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-09-05T12:06:20.000Z",
+      "numParameters": 220709458,
+      "repoType": "model"
+    },
+    {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet-portrait",
-      "downloads": 113002,
+      "downloads": 104427,
       "likes": 19,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-29T11:40:22.000Z",
@@ -97,7 +117,7 @@
     {
       "author": "ZhengPeng7",
       "id": "ZhengPeng7/BiRefNet_lite",
-      "downloads": 31722,
+      "downloads": 31699,
       "likes": 25,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-29T11:41:17.000Z",
@@ -107,7 +127,7 @@
     {
       "author": "wefttechnologies",
       "id": "wefttechnologies/BiRefNet2",
-      "downloads": 53,
+      "downloads": 81,
       "likes": 6,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-05-27T10:11:09.000Z",
@@ -117,7 +137,7 @@
     {
       "author": "wanglab",
       "id": "wanglab/MedSAM2",
-      "downloads": 101,
+      "downloads": 100,
       "likes": 51,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2025-07-10T23:00:50.000Z",
@@ -125,9 +145,19 @@
       "repoType": "model"
     },
     {
+      "author": "mateenahmed",
+      "id": "mateenahmed/isnet-background-remover",
+      "downloads": 26,
+      "likes": 6,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-31T09:30:40.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
       "author": "csgaobb",
       "id": "csgaobb/AdaptCLIP",
-      "downloads": 19,
+      "downloads": 17,
       "likes": 4,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-07-25T05:15:41.000Z",
@@ -137,7 +167,7 @@
     {
       "author": "PaddlePaddle",
       "id": "PaddlePaddle/PP-DocLayoutV3",
-      "downloads": 49189,
+      "downloads": 49323,
       "likes": 128,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-09-30T04:59:24.000Z",
@@ -147,7 +177,7 @@
     {
       "author": "MaticFuc",
       "id": "MaticFuc/anomalyvfm_radio",
-      "downloads": 1535,
+      "downloads": 1588,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-20T11:45:46.000Z",
@@ -157,7 +187,7 @@
     {
       "author": "MaticFuc",
       "id": "MaticFuc/anomalyvfm_dinov2",
-      "downloads": 146,
+      "downloads": 153,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-20T11:47:10.000Z",
@@ -167,7 +197,7 @@
     {
       "author": "MaticFuc",
       "id": "MaticFuc/anomalyvfm_clip",
-      "downloads": 74,
+      "downloads": 75,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-20T11:46:47.000Z",
@@ -177,7 +207,7 @@
     {
       "author": "MaticFuc",
       "id": "MaticFuc/anomalyvfm_siglip2",
-      "downloads": 156,
+      "downloads": 157,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-20T11:46:23.000Z",
@@ -187,7 +217,7 @@
     {
       "author": "PAIR",
       "id": "PAIR/FlowDIS",
-      "downloads": 61,
+      "downloads": 54,
       "likes": 11,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-04-21T16:13:30.000Z",
@@ -195,19 +225,9 @@
       "repoType": "model"
     },
     {
-      "author": "briaai",
-      "id": "briaai/VRMBG-3.0",
-      "downloads": 178,
-      "likes": 43,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-09-05T12:06:20.000Z",
-      "numParameters": 220709458,
-      "repoType": "model"
-    },
-    {
       "author": "Roboflow",
       "id": "Roboflow/rf-detr-segmentation",
-      "downloads": 140,
+      "downloads": 147,
       "likes": 30,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-05-20T16:47:13.000Z",
@@ -217,7 +237,7 @@
     {
       "author": "PLAN-Lab",
       "id": "PLAN-Lab/CALICO",
-      "downloads": 22,
+      "downloads": 23,
       "likes": 2,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-06-07T15:50:29.000Z",
@@ -227,7 +247,7 @@
     {
       "author": "litert-community",
       "id": "litert-community/Ultra-Fast-Lane-Detection-LiteRT",
-      "downloads": 170,
+      "downloads": 206,
       "likes": 1,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-09-08T08:55:22.000Z",
@@ -237,7 +257,7 @@
     {
       "author": "egeorcun",
       "id": "egeorcun/lucida",
-      "downloads": 14441,
+      "downloads": 14075,
       "likes": 57,
       "pipeline_tag": "image-segmentation",
       "lastModified": "2026-08-05T03:29:59.000Z",
@@ -265,6 +285,16 @@
       "repoType": "model"
     },
     {
+      "author": "Riksarkivet",
+      "id": "Riksarkivet/yolo26s-handwritten-lines-within-regions-2",
+      "downloads": 31,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-09-29T12:19:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
       "author": "sampa-project",
       "id": "sampa-project/unet-shadow-prediction",
       "downloads": 0,
@@ -273,37 +303,7 @@
       "lastModified": "2026-09-29T09:36:03.000Z",
       "numParameters": null,
       "repoType": "model"
-    },
-    {
-      "author": "sampa-project",
-      "id": "sampa-project/semantic-segmentation-snowcovered-areas-Slovenia-sentinel-2",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-10-02T16:10:17.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "sampa-project",
-      "id": "sampa-project/PhD-kavran",
-      "downloads": 9,
-      "likes": 1,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-10-02T20:45:35.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "nikopueringer",
-      "id": "nikopueringer/CorridorKey2.0",
-      "downloads": 0,
-      "likes": 48,
-      "pipeline_tag": "image-segmentation",
-      "lastModified": "2026-10-13T05:57:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:59:10.055Z"
+  "fetchedAt": "2026-11-21T23:58:57.216Z"
 }

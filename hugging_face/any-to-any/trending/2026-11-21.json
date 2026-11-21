@@ -1,14 +1,14 @@
 {
   "category": "any-to-any",
   "sort": "trending",
-  "totalItems": 12056,
+  "totalItems": 12065,
   "fetchedItems": 30,
   "models": [
     {
       "author": "google",
       "id": "google/gemma-4-E4B-it",
-      "downloads": 4326816,
-      "likes": 1888,
+      "downloads": 4266610,
+      "likes": 1901,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T16:13:15.000Z",
       "numParameters": 7996156490,
@@ -17,77 +17,67 @@
     {
       "author": "google",
       "id": "google/gemma-4-E2B-it",
-      "downloads": 2746268,
-      "likes": 1159,
+      "downloads": 2725227,
+      "likes": 1162,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-03T16:10:29.000Z",
       "numParameters": 5123178051,
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM3-Omni-2B",
-      "downloads": 27258,
-      "likes": 731,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-21T00:05:32.000Z",
-      "numParameters": 2166928384,
-      "repoType": "model"
-    },
-    {
       "author": "adventists-ai",
       "id": "adventists-ai/Sophon-Realtime-4B-Flash",
-      "downloads": 490,
-      "likes": 19,
+      "downloads": 604,
+      "likes": 20,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-18T04:20:46.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM3-Omni-2B-GGUF",
-      "downloads": 532533,
-      "likes": 195,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-03T07:41:21.000Z",
-      "numParameters": 1728801600,
-      "repoType": "model"
-    },
-    {
-      "author": "LiquidAI",
-      "id": "LiquidAI/LFM3-Audio-2B",
-      "downloads": 17469,
-      "likes": 281,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-03T07:40:58.000Z",
-      "numParameters": 2002332928,
-      "repoType": "model"
-    },
-    {
       "author": "coder3101",
       "id": "coder3101/gemma-4-E4B-it-heretic",
-      "downloads": 915,
-      "likes": 64,
+      "downloads": 980,
+      "likes": 68,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-04-14T16:45:40.000Z",
       "numParameters": 7996156490,
       "repoType": "model"
     },
     {
-      "author": "adventists-ai",
-      "id": "adventists-ai/Sophon-Realtime-v1",
-      "downloads": 0,
-      "likes": 350,
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM3-Omni-2B",
+      "downloads": 28311,
+      "likes": 631,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-13T22:13:40.000Z",
-      "numParameters": null,
+      "lastModified": "2026-11-21T00:05:32.000Z",
+      "numParameters": 2166928384,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM3-Omni-2B-GGUF",
+      "downloads": 542041,
+      "likes": 194,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-03T07:41:21.000Z",
+      "numParameters": 1728801600,
+      "repoType": "model"
+    },
+    {
+      "author": "GeWu-Lab",
+      "id": "GeWu-Lab/Gestalt",
+      "downloads": 208,
+      "likes": 18,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-10-10T15:51:44.000Z",
+      "numParameters": 8753780736,
       "repoType": "model"
     },
     {
       "author": "google",
       "id": "google/gemma-4-12B",
-      "downloads": 49389,
+      "downloads": 48830,
       "likes": 884,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-10-30T15:47:33.000Z",
@@ -95,23 +85,93 @@
       "repoType": "model"
     },
     {
-      "author": "GeWu-Lab",
-      "id": "GeWu-Lab/Gestalt",
-      "downloads": 101,
-      "likes": 15,
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM3-Audio-2B",
+      "downloads": 18173,
+      "likes": 273,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-10-10T15:51:44.000Z",
-      "numParameters": 8753780736,
+      "lastModified": "2026-11-03T07:40:58.000Z",
+      "numParameters": 2002332928,
+      "repoType": "model"
+    },
+    {
+      "author": "adventists-ai",
+      "id": "adventists-ai/Sophon-Realtime-v1",
+      "downloads": 0,
+      "likes": 255,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-13T22:13:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E4B",
+      "downloads": 408285,
+      "likes": 523,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-03T16:10:47.000Z",
+      "numParameters": 7996156490,
+      "repoType": "model"
+    },
+    {
+      "author": "Chechen123",
+      "id": "Chechen123/Duopra",
+      "downloads": 11,
+      "likes": 9,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-20T15:12:26.000Z",
+      "numParameters": 9371820434,
       "repoType": "model"
     },
     {
       "author": "openbmb",
       "id": "openbmb/MiniCPM-o-4_5",
-      "downloads": 156059,
+      "downloads": 158633,
       "likes": 1587,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-09T08:13:19.000Z",
       "numParameters": 9371787666,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E2B",
+      "downloads": 90832,
+      "likes": 569,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-03T16:10:07.000Z",
+      "numParameters": 5123178051,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-12B-it",
+      "downloads": 1555234,
+      "likes": 1755,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-10-30T15:47:58.000Z",
+      "numParameters": 11959730224,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
+      "downloads": 340533,
+      "likes": 1062,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-09-22T14:17:52.000Z",
+      "numParameters": 35259818545,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "downloads": 1189007,
+      "likes": 409,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-07-17T21:24:41.000Z",
+      "numParameters": 11907350576,
       "repoType": "model"
     },
     {
@@ -126,58 +186,8 @@
     },
     {
       "author": "google",
-      "id": "google/gemma-4-E4B",
-      "downloads": 423498,
-      "likes": 521,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-03T16:10:47.000Z",
-      "numParameters": 7996156490,
-      "repoType": "model"
-    },
-    {
-      "author": "sensenova",
-      "id": "sensenova/SenseNova-U1.5-8B-MoT",
-      "downloads": 3789,
-      "likes": 284,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-07T12:49:14.000Z",
-      "numParameters": 17532854464,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/gemma-4-E2B",
-      "downloads": 93266,
-      "likes": 569,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-03T16:10:07.000Z",
-      "numParameters": 5123178051,
-      "repoType": "model"
-    },
-    {
-      "author": "Chechen123",
-      "id": "Chechen123/Duopra",
-      "downloads": 2,
-      "likes": 8,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-20T15:12:26.000Z",
-      "numParameters": 9371820434,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/gemma-4-E2B-it-qat-q4_0-gguf",
-      "downloads": 185711,
-      "likes": 176,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-17T21:23:24.000Z",
-      "numParameters": 4628569635,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
       "id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
-      "downloads": 1167697,
+      "downloads": 1157533,
       "likes": 203,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-07-17T21:23:49.000Z",
@@ -185,53 +195,33 @@
       "repoType": "model"
     },
     {
-      "author": "google",
-      "id": "google/gemma-4-12B-it",
-      "downloads": 1579383,
-      "likes": 1753,
+      "author": "adventists-ai",
+      "id": "adventists-ai/Sophon-Realtime-32B-Flash",
+      "downloads": 986,
+      "likes": 13,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-10-30T15:47:58.000Z",
-      "numParameters": 11959730224,
-      "repoType": "model"
-    },
-    {
-      "author": "google",
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "downloads": 1174150,
-      "likes": 407,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-07-17T21:24:41.000Z",
-      "numParameters": 11907350576,
-      "repoType": "model"
-    },
-    {
-      "author": "inclusionAI",
-      "id": "inclusionAI/Duo-1.0-distill-quant",
-      "downloads": 0,
-      "likes": 7,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-18T12:57:50.000Z",
+      "lastModified": "2026-11-18T05:10:36.000Z",
       "numParameters": null,
       "repoType": "model"
     },
     {
-      "author": "llmfan46",
-      "id": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
-      "downloads": 148061,
-      "likes": 331,
+      "author": "google",
+      "id": "google/gemma-4-E2B-it-qat-q4_0-gguf",
+      "downloads": 194914,
+      "likes": 177,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-19T16:56:00.000Z",
-      "numParameters": 7518069290,
+      "lastModified": "2026-07-17T21:23:24.000Z",
+      "numParameters": 4628569635,
       "repoType": "model"
     },
     {
-      "author": "Qwen",
-      "id": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
-      "downloads": 342456,
-      "likes": 1060,
+      "author": "unsloth",
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "downloads": 173633,
+      "likes": 628,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2025-09-22T14:17:52.000Z",
-      "numParameters": 35259818545,
+      "lastModified": "2026-07-17T12:37:30.000Z",
+      "numParameters": 11907350576,
       "repoType": "model"
     },
     {
@@ -247,11 +237,41 @@
     {
       "author": "bartowski",
       "id": "bartowski/TheDrummer_Orion-26B-A4B-v1.1-GGUF",
-      "downloads": 66167,
+      "downloads": 66801,
       "likes": 58,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-09-13T20:36:03.000Z",
       "numParameters": 25233142046,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/Realtime-Venus",
+      "downloads": 2428,
+      "likes": 140,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-10-26T09:01:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "adventists-ai",
+      "id": "adventists-ai/Sophon-Realtime-32B-Tag",
+      "downloads": 1173,
+      "likes": 14,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-11-16T16:55:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Abiray",
+      "id": "Abiray/gemma-4-E4B-it-heretic-GGUF",
+      "downloads": 14098,
+      "likes": 45,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-04T13:37:40.000Z",
+      "numParameters": 7518069290,
       "repoType": "model"
     },
     {
@@ -265,19 +285,9 @@
       "repoType": "model"
     },
     {
-      "author": "adventists-ai",
-      "id": "adventists-ai/Sophon-Realtime-32B-Tag",
-      "downloads": 1129,
-      "likes": 14,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-16T16:55:47.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "Lyricccco",
       "id": "Lyricccco/Qwen-Image-2.1-TailSteer",
-      "downloads": 295,
+      "downloads": 303,
       "likes": 49,
       "pipeline_tag": "any-to-any",
       "lastModified": "2026-11-12T18:17:15.000Z",
@@ -285,25 +295,15 @@
       "repoType": "model"
     },
     {
-      "author": "adventists-ai",
-      "id": "adventists-ai/Sophon-Realtime-32B-Flash",
-      "downloads": 959,
-      "likes": 12,
+      "author": "inclusionAI",
+      "id": "inclusionAI/Duo-1.0-causal-base",
+      "downloads": 0,
+      "likes": 5,
       "pipeline_tag": "any-to-any",
-      "lastModified": "2026-11-18T05:10:36.000Z",
+      "lastModified": "2026-11-18T12:01:16.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "Abiray",
-      "id": "Abiray/gemma-4-E4B-it-heretic-GGUF",
-      "downloads": 13592,
-      "likes": 45,
-      "pipeline_tag": "any-to-any",
-      "lastModified": "2026-04-04T13:37:40.000Z",
-      "numParameters": 7518069290,
       "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:58:48.465Z"
+  "fetchedAt": "2026-11-21T23:58:35.112Z"
 }

@@ -1,14 +1,14 @@
 {
   "category": "audio-text-to-text",
   "sort": "trending",
-  "totalItems": 466,
+  "totalItems": 470,
   "fetchedItems": 30,
   "models": [
     {
       "author": "LiquidAI",
       "id": "LiquidAI/d1-Omni-2B",
-      "downloads": 6546,
-      "likes": 127,
+      "downloads": 6791,
+      "likes": 130,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-14T08:49:46.000Z",
       "numParameters": 2166928384,
@@ -17,8 +17,8 @@
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "downloads": 148877,
-      "likes": 528,
+      "downloads": 147955,
+      "likes": 529,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-10-31T07:25:28.000Z",
       "numParameters": 908513280,
@@ -27,7 +27,7 @@
     {
       "author": "LiquidAI",
       "id": "LiquidAI/d1-Omni-2B-GGUF",
-      "downloads": 127470,
+      "downloads": 134289,
       "likes": 34,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-03T07:42:28.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "prithivMLmods",
       "id": "prithivMLmods/VibeVoice-ASR-HF-GGUF",
-      "downloads": 777,
+      "downloads": 884,
       "likes": 5,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-16T07:50:48.000Z",
@@ -47,7 +47,7 @@
     {
       "author": "AlmawaveLabs",
       "id": "AlmawaveLabs/Velvet2-3B-Speech",
-      "downloads": 165,
+      "downloads": 170,
       "likes": 22,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-04T10:19:18.000Z",
@@ -55,19 +55,29 @@
       "repoType": "model"
     },
     {
-      "author": "issai",
-      "id": "issai/Qolda-AVL-5B-OptimizedTokenizer",
-      "downloads": 56,
+      "author": "twangodev",
+      "id": "twangodev/Ming-3.0-audio-flash-NVFP4",
+      "downloads": 153,
       "likes": 3,
       "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-11-17T17:35:13.000Z",
+      "lastModified": "2026-11-02T22:44:26.000Z",
+      "numParameters": 128181010400,
+      "repoType": "model"
+    },
+    {
+      "author": "issai",
+      "id": "issai/Qolda-AVL-5B-OptimizedTokenizer",
+      "downloads": 60,
+      "likes": 3,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-11-21T18:15:45.000Z",
       "numParameters": 4579897856,
       "repoType": "model"
     },
     {
       "author": "ServiceNow-AI",
       "id": "ServiceNow-AI/Apriel-Voice-27B-preview",
-      "downloads": 1473,
+      "downloads": 1515,
       "likes": 97,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-02T05:27:22.000Z",
@@ -75,20 +85,20 @@
       "repoType": "model"
     },
     {
-      "author": "twangodev",
-      "id": "twangodev/Ming-3.0-audio-flash-NVFP4",
-      "downloads": 151,
-      "likes": 2,
+      "author": "JinchuanTian",
+      "id": "JinchuanTian/LongCap-35B-A3B-FP8",
+      "downloads": 135,
+      "likes": 4,
       "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-11-02T22:44:26.000Z",
-      "numParameters": 128181010400,
+      "lastModified": "2026-11-19T20:40:59.000Z",
+      "numParameters": 35313784832,
       "repoType": "model"
     },
     {
       "author": "JinchuanTian",
-      "id": "JinchuanTian/LongCap-35B-A3B-FP8",
-      "downloads": 119,
-      "likes": 4,
+      "id": "JinchuanTian/LongCap-35B-A3B",
+      "downloads": 129,
+      "likes": 2,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-19T20:40:59.000Z",
       "numParameters": 35313784832,
@@ -97,7 +107,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2-Audio-7B-Instruct",
-      "downloads": 115015,
+      "downloads": 115087,
       "likes": 577,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-01-12T02:05:48.000Z",
@@ -105,29 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "Menlo",
-      "id": "Menlo/Ichigo-whisper-v0.1",
-      "downloads": 0,
-      "likes": 28,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2025-01-03T09:56:22.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "mispeech",
-      "id": "mispeech/GLAP",
-      "downloads": 537,
-      "likes": 12,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-03-25T23:40:13.000Z",
-      "numParameters": 855492416,
-      "repoType": "model"
-    },
-    {
       "author": "nvidia",
       "id": "nvidia/music-flamingo-2601-hf",
-      "downloads": 5379,
+      "downloads": 5285,
       "likes": 134,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-09T15:20:00.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "mispeech",
       "id": "mispeech/midashenglm-0.6b-fp32",
-      "downloads": 2383,
+      "downloads": 2396,
       "likes": 5,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-04-03T12:49:58.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Audio-4B-Thinking",
-      "downloads": 657,
+      "downloads": 674,
       "likes": 42,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-09-25T07:50:55.000Z",
@@ -156,8 +146,18 @@
     },
     {
       "author": "OpenMOSS-Team",
+      "id": "OpenMOSS-Team/MOSS-Audio-8B-Instruct",
+      "downloads": 1712,
+      "likes": 57,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2026-09-25T07:46:36.000Z",
+      "numParameters": 9052463488,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Audio-8B-Thinking",
-      "downloads": 1289,
+      "downloads": 1282,
       "likes": 94,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-09-25T07:49:36.000Z",
@@ -165,19 +165,9 @@
       "repoType": "model"
     },
     {
-      "author": "InfoBayAI",
-      "id": "InfoBayAI/Audio-to-Sentiment_Intelligence_Model",
-      "downloads": 7,
-      "likes": 7,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-05-18T09:49:34.000Z",
-      "numParameters": 66955779,
-      "repoType": "model"
-    },
-    {
       "author": "OpenMOSS-Team",
       "id": "OpenMOSS-Team/MOSS-Music-8B-Thinking",
-      "downloads": 460,
+      "downloads": 459,
       "likes": 45,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-05-01T15:12:38.000Z",
@@ -196,32 +186,12 @@
     },
     {
       "author": "LiquidAI",
-      "id": "LiquidAI/d1-Omni-2B-MLX-fp16",
-      "downloads": 2198,
-      "likes": 13,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-11-05T19:38:27.000Z",
-      "numParameters": 2166928384,
-      "repoType": "model"
-    },
-    {
-      "author": "LiquidAI",
       "id": "LiquidAI/d1-Omni-2B-ONNX",
-      "downloads": 674,
+      "downloads": 683,
       "likes": 10,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2026-11-05T19:38:29.000Z",
       "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "JinchuanTian",
-      "id": "JinchuanTian/LongCap-35B-A3B",
-      "downloads": 119,
-      "likes": 1,
-      "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-11-19T20:40:59.000Z",
-      "numParameters": 35313784832,
       "repoType": "model"
     },
     {
@@ -237,17 +207,17 @@
     {
       "author": "snkii",
       "id": "snkii/Sori-10B-Speech",
-      "downloads": 0,
+      "downloads": 58,
       "likes": 1,
       "pipeline_tag": "audio-text-to-text",
-      "lastModified": "2026-11-20T20:37:13.000Z",
+      "lastModified": "2026-11-21T14:36:29.000Z",
       "numParameters": 9626908544,
       "repoType": "model"
     },
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_2",
-      "downloads": 1905,
+      "downloads": 1853,
       "likes": 52,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T20:37:10.000Z",
@@ -257,7 +227,7 @@
     {
       "author": "Qwen",
       "id": "Qwen/Qwen2-Audio-7B",
-      "downloads": 6984,
+      "downloads": 6737,
       "likes": 185,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2024-11-20T09:21:08.000Z",
@@ -267,7 +237,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_3",
-      "downloads": 2540,
+      "downloads": 2535,
       "likes": 17,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T23:21:33.000Z",
@@ -277,7 +247,7 @@
     {
       "author": "sarvamai",
       "id": "sarvamai/shuka-1",
-      "downloads": 233,
+      "downloads": 238,
       "likes": 99,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-03-14T15:56:31.000Z",
@@ -287,7 +257,7 @@
     {
       "author": "fixie-ai",
       "id": "fixie-ai/ultravox-v0_4",
-      "downloads": 1911,
+      "downloads": 1863,
       "likes": 51,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2025-05-06T23:21:38.000Z",
@@ -297,13 +267,43 @@
     {
       "author": "Menlo",
       "id": "Menlo/Ichigo-llama3.1-s-base-v0.3",
-      "downloads": 39,
+      "downloads": 37,
       "likes": 4,
       "pipeline_tag": "audio-text-to-text",
       "lastModified": "2024-11-19T12:21:38.000Z",
       "numParameters": 8034480128,
       "repoType": "model"
+    },
+    {
+      "author": "fixie-ai",
+      "id": "fixie-ai/ultravox-v0_4-llama-3_1-70b",
+      "downloads": 82,
+      "likes": 4,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2025-05-06T23:21:51.000Z",
+      "numParameters": 50348032,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-2",
+      "downloads": 48,
+      "likes": 5,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:21:26.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
+    },
+    {
+      "author": "Menlo",
+      "id": "Menlo/Ichigo-llama3.1-s-instruct-v0.3-phase-3",
+      "downloads": 46,
+      "likes": 35,
+      "pipeline_tag": "audio-text-to-text",
+      "lastModified": "2024-11-19T12:19:51.000Z",
+      "numParameters": 8034480128,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:58:52.697Z"
+  "fetchedAt": "2026-11-21T23:58:39.536Z"
 }

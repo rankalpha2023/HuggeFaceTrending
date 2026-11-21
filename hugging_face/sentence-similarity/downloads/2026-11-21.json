@@ -1,14 +1,14 @@
 {
   "category": "sentence-similarity",
   "sort": "downloads",
-  "totalItems": 20967,
+  "totalItems": 20984,
   "fetchedItems": 30,
   "models": [
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 167481431,
-      "likes": 6150,
+      "downloads": 166834847,
+      "likes": 6157,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-06-01T06:29:13.000Z",
       "numParameters": 22713728,
@@ -17,8 +17,8 @@
     {
       "author": "BAAI",
       "id": "BAAI/bge-m3",
-      "downloads": 33121367,
-      "likes": 4028,
+      "downloads": 33676432,
+      "likes": 4029,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-07-03T14:50:10.000Z",
       "numParameters": null,
@@ -27,7 +27,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 25107083,
+      "downloads": 25056104,
       "likes": 1514,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-01-28T10:02:26.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 19673400,
+      "downloads": 19475733,
       "likes": 1410,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:14:25.000Z",
@@ -47,28 +47,18 @@
     {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v1.5",
-      "downloads": 11463751,
-      "likes": 997,
+      "downloads": 11439810,
+      "likes": 996,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-07T14:17:02.000Z",
       "numParameters": 136731648,
       "repoType": "model"
     },
     {
-      "author": "intfloat",
-      "id": "intfloat/multilingual-e5-small",
-      "downloads": 9434201,
-      "likes": 504,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2026-04-02T02:16:05.000Z",
-      "numParameters": 117654272,
-      "repoType": "model"
-    },
-    {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
-      "downloads": 9426228,
-      "likes": 557,
+      "downloads": 9413810,
+      "likes": 558,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:29:38.000Z",
       "numParameters": 278044162,
@@ -76,8 +66,18 @@
     },
     {
       "author": "intfloat",
+      "id": "intfloat/multilingual-e5-small",
+      "downloads": 9400129,
+      "likes": 505,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:16:05.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
       "id": "intfloat/multilingual-e5-base",
-      "downloads": 4651836,
+      "downloads": 4676483,
       "likes": 422,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-02T02:13:31.000Z",
@@ -87,7 +87,7 @@
     {
       "author": "Snowflake",
       "id": "Snowflake/snowflake-arctic-embed-l-v2.0",
-      "downloads": 4650628,
+      "downloads": 4660478,
       "likes": 268,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-07-28T14:00:58.000Z",
@@ -97,7 +97,7 @@
     {
       "author": "thenlper",
       "id": "thenlper/gte-small",
-      "downloads": 4370314,
+      "downloads": 4501854,
       "likes": 203,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2024-11-16T08:17:33.000Z",
@@ -107,7 +107,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/all-MiniLM-L12-v2",
-      "downloads": 2599484,
+      "downloads": 2594089,
       "likes": 353,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-03-31T16:05:12.000Z",
@@ -117,7 +117,7 @@
     {
       "author": "Qdrant",
       "id": "Qdrant/bge-small-en-v1.5-onnx-Q",
-      "downloads": 2429735,
+      "downloads": 2464206,
       "likes": 15,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-09-24T09:15:59.000Z",
@@ -127,7 +127,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-mpnet-base-v2",
-      "downloads": 2152159,
+      "downloads": 2184837,
       "likes": 60,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-08-19T10:24:29.000Z",
@@ -137,7 +137,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-MiniLM-L6-v2",
-      "downloads": 1856921,
+      "downloads": 1862105,
       "likes": 164,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:26:35.000Z",
@@ -147,7 +147,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/distiluse-base-multilingual-cased-v1",
-      "downloads": 1683698,
+      "downloads": 1674282,
       "likes": 147,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:32:06.000Z",
@@ -157,7 +157,7 @@
     {
       "author": "jhgan",
       "id": "jhgan/ko-sroberta-multitask",
-      "downloads": 1547061,
+      "downloads": 1582684,
       "likes": 156,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-06-16T00:32:36.000Z",
@@ -165,29 +165,9 @@
       "repoType": "model"
     },
     {
-      "author": "sentence-transformers",
-      "id": "sentence-transformers/all-distilroberta-v1",
-      "downloads": 1520560,
-      "likes": 57,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2025-03-06T13:35:55.000Z",
-      "numParameters": 82118914,
-      "repoType": "model"
-    },
-    {
-      "author": "Qdrant",
-      "id": "Qdrant/all-MiniLM-L6-v2-onnx",
-      "downloads": 1517186,
-      "likes": 29,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2026-09-30T10:54:52.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "intfloat",
       "id": "intfloat/e5-small-v2",
-      "downloads": 1480649,
+      "downloads": 1559873,
       "likes": 137,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-02-17T03:24:44.000Z",
@@ -195,29 +175,39 @@
       "repoType": "model"
     },
     {
+      "author": "Qdrant",
+      "id": "Qdrant/all-MiniLM-L6-v2-onnx",
+      "downloads": 1511036,
+      "likes": 29,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-09-30T10:54:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-distilroberta-v1",
+      "downloads": 1431153,
+      "likes": 57,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:35:55.000Z",
+      "numParameters": 82118914,
+      "repoType": "model"
+    },
+    {
       "author": "Alibaba-NLP",
       "id": "Alibaba-NLP/gte-large-en-v1.5",
-      "downloads": 1434233,
+      "downloads": 1401203,
       "likes": 254,
       "pipeline_tag": "sentence-similarity",
-      "lastModified": "2024-08-09T03:32:05.000Z",
+      "lastModified": "2026-11-21T09:29:26.000Z",
       "numParameters": 434139136,
       "repoType": "model"
     },
     {
       "author": "sentence-transformers",
-      "id": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
-      "downloads": 1366534,
-      "likes": 207,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2025-08-19T10:21:26.000Z",
-      "numParameters": 109486978,
-      "repoType": "model"
-    },
-    {
-      "author": "sentence-transformers",
       "id": "sentence-transformers/paraphrase-MiniLM-L3-v2",
-      "downloads": 1364410,
+      "downloads": 1394418,
       "likes": 31,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:26:46.000Z",
@@ -225,9 +215,19 @@
       "repoType": "model"
     },
     {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
+      "downloads": 1368512,
+      "likes": 207,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-08-19T10:21:26.000Z",
+      "numParameters": 109486978,
+      "repoType": "model"
+    },
+    {
       "author": "datasocietyco",
       "id": "datasocietyco/bge-base-en-v1.5-course-recommender-v5",
-      "downloads": 1360194,
+      "downloads": 1157515,
       "likes": 24,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-01-09T11:03:32.000Z",
@@ -237,7 +237,7 @@
     {
       "author": "Qdrant",
       "id": "Qdrant/multilingual-e5-large-onnx",
-      "downloads": 1183208,
+      "downloads": 1140688,
       "likes": 7,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-09-24T09:17:37.000Z",
@@ -247,7 +247,7 @@
     {
       "author": "deepvk",
       "id": "deepvk/USER2-base",
-      "downloads": 1108436,
+      "downloads": 1112436,
       "likes": 33,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-03-26T08:40:22.000Z",
@@ -257,7 +257,7 @@
     {
       "author": "sentence-transformers",
       "id": "sentence-transformers/LaBSE",
-      "downloads": 1058177,
+      "downloads": 1058243,
       "likes": 353,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-03-06T13:40:25.000Z",
@@ -265,19 +265,9 @@
       "repoType": "model"
     },
     {
-      "author": "intfloat",
-      "id": "intfloat/e5-base-v2",
-      "downloads": 1036000,
-      "likes": 174,
-      "pipeline_tag": "sentence-similarity",
-      "lastModified": "2025-02-17T03:25:40.000Z",
-      "numParameters": 109482752,
-      "repoType": "model"
-    },
-    {
       "author": "nomic-ai",
       "id": "nomic-ai/nomic-embed-text-v1",
-      "downloads": 1018687,
+      "downloads": 1028174,
       "likes": 599,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2026-04-07T14:16:41.000Z",
@@ -285,25 +275,35 @@
       "repoType": "model"
     },
     {
-      "author": "bkai-foundation-models",
-      "id": "bkai-foundation-models/vietnamese-bi-encoder",
-      "downloads": 984268,
-      "likes": 86,
+      "author": "intfloat",
+      "id": "intfloat/e5-base-v2",
+      "downloads": 1022713,
+      "likes": 174,
       "pipeline_tag": "sentence-similarity",
-      "lastModified": "2024-03-11T06:56:35.000Z",
-      "numParameters": 134998272,
+      "lastModified": "2025-02-17T03:25:40.000Z",
+      "numParameters": 109482752,
       "repoType": "model"
     },
     {
       "author": "google",
       "id": "google/embeddinggemma-300m",
-      "downloads": 972203,
-      "likes": 2141,
+      "downloads": 957312,
+      "likes": 2143,
       "pipeline_tag": "sentence-similarity",
       "lastModified": "2025-09-25T15:11:17.000Z",
       "numParameters": 302863104,
       "repoType": "model"
+    },
+    {
+      "author": "bkai-foundation-models",
+      "id": "bkai-foundation-models/vietnamese-bi-encoder",
+      "downloads": 952056,
+      "likes": 86,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-03-11T06:56:35.000Z",
+      "numParameters": 134998272,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:59:32.641Z"
+  "fetchedAt": "2026-11-21T23:59:20.647Z"
 }

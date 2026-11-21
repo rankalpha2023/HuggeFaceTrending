@@ -1,13 +1,13 @@
 {
   "category": "audio-classification",
   "sort": "trending",
-  "totalItems": 5510,
+  "totalItems": 5520,
   "fetchedItems": 30,
   "models": [
     {
       "author": "gertelrina",
       "id": "gertelrina/aadd",
-      "downloads": 188,
+      "downloads": 195,
       "likes": 25,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-09T14:45:03.000Z",
@@ -17,7 +17,7 @@
     {
       "author": "desert-ant-labs",
       "id": "desert-ant-labs/ear",
-      "downloads": 710,
+      "downloads": 726,
       "likes": 16,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-20T22:35:29.000Z",
@@ -27,7 +27,7 @@
     {
       "author": "charcot-ai",
       "id": "charcot-ai/marimba",
-      "downloads": 345,
+      "downloads": 364,
       "likes": 11,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-16T19:32:28.000Z",
@@ -37,7 +37,7 @@
     {
       "author": "pipecat-ai",
       "id": "pipecat-ai/voice-reader",
-      "downloads": 1298,
+      "downloads": 1462,
       "likes": 27,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-12T02:10:04.000Z",
@@ -55,19 +55,9 @@
       "repoType": "model"
     },
     {
-      "author": "MIT",
-      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
-      "downloads": 1940674,
-      "likes": 392,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2023-09-06T14:49:15.000Z",
-      "numParameters": 86594063,
-      "repoType": "model"
-    },
-    {
       "author": "abacusai",
       "id": "abacusai/Smaug-Audio-Decisions-0.7B",
-      "downloads": 328,
+      "downloads": 339,
       "likes": 10,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-11-02T14:07:40.000Z",
@@ -75,9 +65,29 @@
       "repoType": "model"
     },
     {
+      "author": "Beagledata",
+      "id": "Beagledata/Turn-Detection-S1",
+      "downloads": 49,
+      "likes": 3,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-18T09:56:47.000Z",
+      "numParameters": 31719205488,
+      "repoType": "model"
+    },
+    {
+      "author": "MIT",
+      "id": "MIT/ast-finetuned-audioset-10-10-0.4593",
+      "downloads": 1933334,
+      "likes": 392,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2023-09-06T14:49:15.000Z",
+      "numParameters": 86594063,
+      "repoType": "model"
+    },
+    {
       "author": "m-a-p",
       "id": "m-a-p/MERT-v1-95M",
-      "downloads": 77840,
+      "downloads": 78275,
       "likes": 64,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-05-25T05:03:07.000Z",
@@ -87,7 +97,7 @@
     {
       "author": "audeering",
       "id": "audeering/wav2vec2-large-robust-24-ft-age-gender",
-      "downloads": 2360093,
+      "downloads": 2348522,
       "likes": 88,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-03-24T10:02:24.000Z",
@@ -95,19 +105,9 @@
       "repoType": "model"
     },
     {
-      "author": "funasr",
-      "id": "funasr/campplus",
-      "downloads": 4407,
-      "likes": 27,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-06-19T09:39:29.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "facebook",
       "id": "facebook/audiobox-aesthetics",
-      "downloads": 381981,
+      "downloads": 385477,
       "likes": 60,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-03-04T21:32:30.000Z",
@@ -115,19 +115,9 @@
       "repoType": "model"
     },
     {
-      "author": "tiantiaf",
-      "id": "tiantiaf/whisper-large-v3-voice-quality",
-      "downloads": 177,
-      "likes": 5,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2025-08-10T21:37:56.000Z",
-      "numParameters": 1546134330,
-      "repoType": "model"
-    },
-    {
       "author": "DBD-research-group",
       "id": "DBD-research-group/Bird-MAE-Base",
-      "downloads": 704,
+      "downloads": 693,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-01-03T17:50:39.000Z",
@@ -137,7 +127,7 @@
     {
       "author": "DBD-research-group",
       "id": "DBD-research-group/Bird-MAE-Huge",
-      "downloads": 2913,
+      "downloads": 2867,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2025-09-25T18:07:12.000Z",
@@ -147,7 +137,7 @@
     {
       "author": "espnet",
       "id": "espnet/geolid_combined_shared_trainable",
-      "downloads": 205,
+      "downloads": 175,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-28T21:25:43.000Z",
@@ -157,7 +147,7 @@
     {
       "author": "MERaLiON",
       "id": "MERaLiON/MERaLiON-GI-v1",
-      "downloads": 197,
+      "downloads": 181,
       "likes": 1,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-08-10T05:23:48.000Z",
@@ -165,19 +155,19 @@
       "repoType": "model"
     },
     {
-      "author": "laion",
-      "id": "laion/music-aesthetics",
-      "downloads": 0,
-      "likes": 10,
+      "author": "StanislavKo28",
+      "id": "StanislavKo28/music_moods_classification",
+      "downloads": 655,
+      "likes": 6,
       "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-03T17:48:53.000Z",
-      "numParameters": null,
+      "lastModified": "2026-04-27T14:48:13.000Z",
+      "numParameters": 94572174,
       "repoType": "model"
     },
     {
       "author": "FireRedTeam",
       "id": "FireRedTeam/FireRedLID",
-      "downloads": 668,
+      "downloads": 647,
       "likes": 30,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-03-13T03:44:22.000Z",
@@ -185,19 +175,9 @@
       "repoType": "model"
     },
     {
-      "author": "laion",
-      "id": "laion/music-popularity",
-      "downloads": 0,
-      "likes": 8,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-03T17:48:54.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "ernensbjorn",
       "id": "ernensbjorn/perch-v2-int8-tflite",
-      "downloads": 149,
+      "downloads": 186,
       "likes": 5,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-04-04T11:02:59.000Z",
@@ -207,7 +187,7 @@
     {
       "author": "lab260",
       "id": "lab260/Spectra-AASIST",
-      "downloads": 168,
+      "downloads": 174,
       "likes": 6,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-06-25T09:30:14.000Z",
@@ -215,29 +195,9 @@
       "repoType": "model"
     },
     {
-      "author": "space-cadet",
-      "id": "space-cadet/wavlm-ser",
-      "downloads": 0,
-      "likes": 1,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-11-14T17:49:47.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
-      "author": "lab260",
-      "id": "lab260/redimnet2-plus",
-      "downloads": 228,
-      "likes": 5,
-      "pipeline_tag": "audio-classification",
-      "lastModified": "2026-09-11T08:59:05.000Z",
-      "numParameters": null,
-      "repoType": "model"
-    },
-    {
       "author": "anyreach-ai",
       "id": "anyreach-ai/dualturn-endpointing",
-      "downloads": 117,
+      "downloads": 116,
       "likes": 2,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-07-10T13:34:33.000Z",
@@ -277,7 +237,7 @@
     {
       "author": "neuphonic",
       "id": "neuphonic/neudecide",
-      "downloads": 265,
+      "downloads": 253,
       "likes": 83,
       "pipeline_tag": "audio-classification",
       "lastModified": "2026-10-09T13:41:08.000Z",
@@ -303,7 +263,47 @@
       "lastModified": "2026-11-09T22:14:03.000Z",
       "numParameters": null,
       "repoType": "model"
+    },
+    {
+      "author": "muyleanging",
+      "id": "muyleanging/Jivha-Pronunciation-Khmer",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-12T00:45:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "muyleanging",
+      "id": "muyleanging/Sati-KWS-Khmer",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-12T00:45:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "muyleanging",
+      "id": "muyleanging/Nama-Diarization-Khmer",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-12T00:45:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Hashim-Bhagad",
+      "id": "Hashim-Bhagad/voiceguard-xlsr-aasist-indic",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-classification",
+      "lastModified": "2026-11-17T08:14:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
     }
   ],
-  "fetchedAt": "2026-11-21T00:58:50.587Z"
+  "fetchedAt": "2026-11-21T23:58:37.351Z"
 }
