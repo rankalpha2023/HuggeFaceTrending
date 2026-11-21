@@ -1,0 +1,309 @@
+{
+  "category": "sentence-similarity",
+  "sort": "trending",
+  "totalItems": 20967,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "downloads": 167481431,
+      "likes": 6150,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-06-01T06:29:13.000Z",
+      "numParameters": 22713728,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-m3",
+      "downloads": 33121367,
+      "likes": 4028,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-07-03T14:50:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/embeddinggemma-300m",
+      "downloads": 972203,
+      "likes": 2141,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-09-25T15:11:17.000Z",
+      "numParameters": 302863104,
+      "repoType": "model"
+    },
+    {
+      "author": "tomaarsen",
+      "id": "tomaarsen/TinyCLIP-39M-PixelArt",
+      "downloads": 856,
+      "likes": 13,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-09T15:38:38.000Z",
+      "numParameters": 83101184,
+      "repoType": "model"
+    },
+    {
+      "author": "opensearch-project",
+      "id": "opensearch-project/opensearch-neural-embed-v1",
+      "downloads": 437,
+      "likes": 10,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-13T01:08:17.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "f4roukb",
+      "id": "f4roukb/denserepr-code-48M-pretrain-EN-v1",
+      "downloads": 123,
+      "likes": 5,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-14T14:50:46.000Z",
+      "numParameters": 47662464,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Embedding-8B",
+      "downloads": 368041,
+      "likes": 519,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-16T08:55:18.000Z",
+      "numParameters": 8144793840,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/EmbeddingGemma2-BiomedicalEvidence-270M-v2",
+      "downloads": 31,
+      "likes": 3,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-18T13:58:06.000Z",
+      "numParameters": 271002648,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-small",
+      "downloads": 9434201,
+      "likes": 504,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-02T02:16:05.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "ggml-org",
+      "id": "ggml-org/bge-m3-Q8_0-GGUF",
+      "downloads": 27288,
+      "likes": 23,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-10-12T12:27:15.000Z",
+      "numParameters": 566703104,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Embedding-2B",
+      "downloads": 424967,
+      "likes": 501,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-04-16T08:54:25.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Embed-1B-BF16",
+      "downloads": 310781,
+      "likes": 174,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-08-27T23:53:03.000Z",
+      "numParameters": 1140918272,
+      "repoType": "model"
+    },
+    {
+      "author": "papr-ai",
+      "id": "papr-ai/papr-embed-code-1-0.6b",
+      "downloads": 261,
+      "likes": 5,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-12T18:29:43.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/GTE-ModernBERT-Biomedical-Embedding-Base-v1",
+      "downloads": 24,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-18T13:58:08.000Z",
+      "numParameters": 149014272,
+      "repoType": "model"
+    },
+    {
+      "author": "infly",
+      "id": "infly/inf-retriever-v1-1.5b-tool",
+      "downloads": 48,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-18T03:45:44.000Z",
+      "numParameters": 1543268864,
+      "repoType": "model"
+    },
+    {
+      "author": "NeuML",
+      "id": "NeuML/atto-1m-2048d-embeddings",
+      "downloads": 42,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-19T16:18:57.000Z",
+      "numParameters": 1326720,
+      "repoType": "model"
+    },
+    {
+      "author": "NeuML",
+      "id": "NeuML/atto-14m-384d-embeddings",
+      "downloads": 23,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-19T16:22:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NeuML",
+      "id": "NeuML/atto-25m-384d-embeddings",
+      "downloads": 24,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-19T16:34:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NeuML",
+      "id": "NeuML/atto-17m-8192d-sparse-embeddings",
+      "downloads": 22,
+      "likes": 2,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-11-19T17:00:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 25107083,
+      "likes": 1514,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2026-01-28T10:02:26.000Z",
+      "numParameters": 117654272,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/LaBSE",
+      "downloads": 1058177,
+      "likes": 353,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:40:25.000Z",
+      "numParameters": 470927360,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/all-mpnet-base-v2",
+      "downloads": 19673400,
+      "likes": 1410,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-08-19T10:14:25.000Z",
+      "numParameters": 109486978,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/clip-ViT-B-32-multilingual-v1",
+      "downloads": 103651,
+      "likes": 197,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-11-05T16:39:09.000Z",
+      "numParameters": 134734080,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/msmarco-distilbert-base-dot-prod-v3",
+      "downloads": 1037,
+      "likes": 4,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-03-06T13:20:58.000Z",
+      "numParameters": 66362880,
+      "repoType": "model"
+    },
+    {
+      "author": "sentence-transformers",
+      "id": "sentence-transformers/clip-ViT-L-14",
+      "downloads": 0,
+      "likes": 89,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-07-17T12:17:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "alfaneo",
+      "id": "alfaneo/jurisbert-base-portuguese-sts",
+      "downloads": 165,
+      "likes": 3,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-11-02T14:15:53.000Z",
+      "numParameters": 108923648,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/e5-large",
+      "downloads": 222805,
+      "likes": 84,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2023-08-07T04:59:49.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "basel",
+      "id": "basel/ATTACK-BERT",
+      "downloads": 1251,
+      "likes": 20,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2025-01-14T17:14:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "duongttr",
+      "id": "duongttr/job-candidiate-matching-sentbert",
+      "downloads": 136,
+      "likes": 7,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2023-05-05T14:47:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bkai-foundation-models",
+      "id": "bkai-foundation-models/vietnamese-bi-encoder",
+      "downloads": 984268,
+      "likes": 86,
+      "pipeline_tag": "sentence-similarity",
+      "lastModified": "2024-03-11T06:56:35.000Z",
+      "numParameters": 134998272,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-21T00:59:31.243Z"
+}
