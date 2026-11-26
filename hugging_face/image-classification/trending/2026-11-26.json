@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 30711,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 14875231,
+      "likes": 1061,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "desert-ant-labs",
+      "id": "desert-ant-labs/eye",
+      "downloads": 1499,
+      "likes": 22,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-25T09:46:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v1.0",
+      "downloads": 22971,
+      "likes": 181,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-09-22T05:35:47.000Z",
+      "numParameters": 486346909,
+      "repoType": "model"
+    },
+    {
+      "author": "TrungTran",
+      "id": "TrungTran/faceage_ClientScan",
+      "downloads": 75,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-04-27T07:08:20.000Z",
+      "numParameters": 303708774,
+      "repoType": "model"
+    },
+    {
+      "author": "abacusai",
+      "id": "abacusai/Smaug-AI-Image-Detector",
+      "downloads": 5709,
+      "likes": 14,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-21T06:54:14.000Z",
+      "numParameters": 438760472,
+      "repoType": "model"
+    },
+    {
+      "author": "PlantNet",
+      "id": "PlantNet/plantnet-300k-v2-cnxt",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-10-29T22:31:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Yunncheng",
+      "id": "Yunncheng/ReMoT",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-25T17:18:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-tiny-224",
+      "downloads": 33275,
+      "likes": 34,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-13T19:40:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/mit-b5",
+      "downloads": 12246,
+      "likes": 20,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-08-06T10:25:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-50",
+      "downloads": 96272,
+      "likes": 531,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-02-13T21:24:05.000Z",
+      "numParameters": 25610152,
+      "repoType": "model"
+    },
+    {
+      "author": "umm-maybe",
+      "id": "umm-maybe/AI-image-detector",
+      "downloads": 65154,
+      "likes": 101,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-01-03T02:51:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DifeiT",
+      "id": "DifeiT/rsna_intracranial_hemorrhage_detection",
+      "downloads": 83,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-17T02:42:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "zoumana",
+      "id": "zoumana/beans_health_type_classifier",
+      "downloads": 104,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-18T00:30:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv4_conv_aa_large.e230_r448_in12k_ft_in1k",
+      "downloads": 3066,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:57:44.000Z",
+      "numParameters": 32740416,
+      "repoType": "model"
+    },
+    {
+      "author": "marescanog",
+      "id": "marescanog/breadHealthVer1",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-11-09T03:53:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv4_conv_medium.e250_r384_in12k",
+      "downloads": 1794,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T22:00:31.000Z",
+      "numParameters": 23645117,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/cxr-foundation",
+      "downloads": 41,
+      "likes": 108,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-20T19:26:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/derm-foundation",
+      "downloads": 181,
+      "likes": 110,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-01T00:52:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/pokemons_1000_types_image_detection",
+      "downloads": 106,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-24T17:03:38.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "skshmjn",
+      "id": "skshmjn/Pokemon-classifier-gen9-1025",
+      "downloads": 156,
+      "likes": 10,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-30T14:01:29.000Z",
+      "numParameters": 86586881,
+      "repoType": "model"
+    },
+    {
+      "author": "ianpan",
+      "id": "ianpan/mammoscreen",
+      "downloads": 256,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-09T12:38:57.000Z",
+      "numParameters": 61011999,
+      "repoType": "model"
+    },
+    {
+      "author": "ufal",
+      "id": "ufal/vit-historical-page",
+      "downloads": 3918,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-16T14:35:05.000Z",
+      "numParameters": 80721231,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/swinv2_base_window8_256.dbv4-full",
+      "downloads": 61,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-06-02T17:09:13.000Z",
+      "numParameters": 99681716,
+      "repoType": "model"
+    },
+    {
+      "author": "Dhahlan2000",
+      "id": "Dhahlan2000/freshness_detector_updated",
+      "downloads": 34,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-06-06T10:17:18.000Z",
+      "numParameters": 85821726,
+      "repoType": "model"
+    },
+    {
+      "author": "kikogazda",
+      "id": "kikogazda/TwinCar-196",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-06-20T20:33:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "patcdaniel",
+      "id": "patcdaniel/UCSCPhytoViT83",
+      "downloads": 709,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-08-06T01:32:58.000Z",
+      "numParameters": 85862483,
+      "repoType": "model"
+    },
+    {
+      "author": "cabrel09",
+      "id": "cabrel09/crop_leaf_disease_detector",
+      "downloads": 34,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-18T11:21:38.000Z",
+      "numParameters": 5526925,
+      "repoType": "model"
+    },
+    {
+      "author": "mlinslab",
+      "id": "mlinslab/neurovfm-dx-mri",
+      "downloads": 286,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-07-10T14:36:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CardiovascularImagingVHIR",
+      "id": "CardiovascularImagingVHIR/EchoAVC",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-19T15:28:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CardiovascularImagingVHIR",
+      "id": "CardiovascularImagingVHIR/EchoQuality",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-11-20T10:47:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-11-26T02:31:05.370Z"
+}
